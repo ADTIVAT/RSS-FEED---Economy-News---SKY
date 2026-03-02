@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <atom:link href="https://news-api.cf.sky.com/feeds/rss/business.xml" rel="self" type="application/rss+xml"/>
+    <title>Business News - Markets reports and financial news from Sky</title>
+    <link>https://news.sky.com/business</link>
+    <image>
+      <title>Business News - Markets reports and financial news from Sky</title>
+      <url>https://e3.365dm.com/skynews/logo.png</url>
+      <link>https://news.sky.com/business</link>
+    </image>
+    <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
+    <language>en-GB</language>
+    <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 01 Mar 2026 18:57:00 +0000</lastBuildDate>
+    <category>Sky News</category>
+    <ttl>1</ttl>
+    <item>
+      <title>Oil prices spike as key shipping route disrupted by Iran attacks</title>
+      <link>https://news.sky.com/story/oil-prices-spike-as-key-shipping-route-disrupted-by-iran-attacks-13514000</link>
+      <description>Global oil prices have risen sharply after Iran's response to US and Israeli airstrikes disrupted shipping, raising the prospect of a new energy-led surge in inflation.</description>
+      <pubDate>Sun, 01 Mar 2026 18:57:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/oil-prices-spike-as-key-shipping-route-disrupted-by-iran-attacks-13514000</guid>
+      <enclosure url="https://e3.365dm.com/24/09/1920x1080/skynews-oil-oil-price-barrel-of-oil_6695191.jpg?20240924075511" length="0" type="image/jpeg"/>
+      <media:description type="html">Oil pumps in the desert oil fields of Sakhir, Bahrain. Pic: AP </media:description>
+      <media:thumbnail url="https://e3.365dm.com/24/09/1920x1080/skynews-oil-oil-price-barrel-of-oil_6695191.jpg?20240924075511" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/24/09/1920x1080/skynews-oil-oil-price-barrel-of-oil_6695191.jpg?20240924075511"/>
+    </item>
+    <item>
+      <title>Fifth of global oil flows through this vital waterway - here's what has happened since Iran strikes</title>
+      <link>https://news.sky.com/story/ship-tracking-reveals-tankers-and-millions-of-barrels-of-oil-stuck-in-the-gulf-13513961</link>
+      <description>Sky's Data and Forensics team has been monitoring shipping through the Strait of Hormuz - a strategically vital waterway for Iran and other oil producers in the Middle East.&amp;#160;</description>
+      <pubDate>Sun, 01 Mar 2026 16:22:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/ship-tracking-reveals-tankers-and-millions-of-barrels-of-oil-stuck-in-the-gulf-13513961</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-strait-of-hormuz-data-and-forensics_7179117.png?20260301185112" length="0" type="image/png"/>
+      <media:description type="html">There are fears the Strait of Hormuz could be blocked</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-strait-of-hormuz-data-and-forensics_7179117.png?20260301185112" width="1920" height="1080"/>
+      <media:content type="image/png" url="https://e3.365dm.com/26/03/1920x1080/skynews-strait-of-hormuz-data-and-forensics_7179117.png?20260301185112"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;WH Smith buyer Modella draws up plan for store closures and rent cuts at TG Jones | Mark Kleinman blog&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-wh-smith-gatwick-airport_7132512.jpg?20260111115911" length="0" type="image/jpeg"/>
+      <media:description type="html">Gatwick Airport. Pic: Shutterstock
+</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-wh-smith-gatwick-airport_7132512.jpg?20260111115911" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-wh-smith-gatwick-airport_7132512.jpg?20260111115911"/>
+    </item>
+    <item>
+      <title>Flight delayed or cancelled? These are your rights </title>
+      <link>https://news.sky.com/story/what-are-your-rights-if-your-flight-is-delayed-or-cancelled-13258382</link>
+      <description>Joint US-Israel strikes on Iran - and a subsequent retaliation from Tehran - has caused widespread disruption on air travel.</description>
+      <pubDate>Fri, 21 Mar 2025 03:00:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/what-are-your-rights-if-your-flight-is-delayed-or-cancelled-13258382</guid>
+      <enclosure url="https://e3.365dm.com/25/03/1920x1080/skynews-heathrow-terminal-fire_6862947.jpg?20250321084018" length="0" type="image/jpeg"/>
+      <media:description type="html">Stranded passengers at Heathrow Terminal 5.
+Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/03/1920x1080/skynews-heathrow-terminal-fire_6862947.jpg?20250321084018" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/03/1920x1080/skynews-heathrow-terminal-fire_6862947.jpg?20250321084018"/>
+    </item>
+    <item>
+      <title>Paramount strikes deal to buy Warner Bros Discovery for $110bn</title>
+      <link>https://news.sky.com/story/paramount-agrees-to-buy-warner-bros-discovery-in-110bn-deal-13513157</link>
+      <description>Paramount has struck a $110bn deal to buy Warner Bros Discovery.</description>
+      <pubDate>Fri, 27 Feb 2026 21:39:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/paramount-agrees-to-buy-warner-bros-discovery-in-110bn-deal-13513157</guid>
+      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-warner-bros-logo_7140599.jpg?20260120135548" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-warner-bros-logo_7140599.jpg?20260120135548" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-warner-bros-logo_7140599.jpg?20260120135548"/>
+    </item>
+    <item>
+      <title>Thinking of paying off student loan early? You should know about expert's &amp;#163;60,000 rule | Money newsletter</title>
+      <link>https://news.sky.com/story/sky-news-money-blog-newsletter-13367142</link>
+      <description>More than 165,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every Friday.</description>
+      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/sky-news-money-blog-newsletter-13367142</guid>
+      <enclosure url="https://e3.365dm.com/25/03/1920x1080/skynews-student-loan-university_6865112.jpg?20250323170110" length="0" type="image/jpeg"/>
+      <media:description type="html">The student loan system is being investigated. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/03/1920x1080/skynews-student-loan-university_6865112.jpg?20250323170110" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/03/1920x1080/skynews-student-loan-university_6865112.jpg?20250323170110"/>
+    </item>
+    <item>
+      <title>Trump's furious response to Anthropic is as much about power as it is about AI safety</title>
+      <link>https://news.sky.com/story/trumps-furious-response-to-anthropic-is-as-much-about-power-as-it-is-about-ai-safety-13513194</link>
+      <description>In the most clear and consequential policy move on AI safety yet, the Trump administration has announced it will blacklist a leading AI lab over its refusal to allow unfettered access to its technology for military purposes.</description>
+      <pubDate>Sat, 28 Feb 2026 00:01:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/trumps-furious-response-to-anthropic-is-as-much-about-power-as-it-is-about-ai-safety-13513194</guid>
+      <enclosure url="https://e3.365dm.com/26/02/1920x1080/skynews-anthropic-ai-artificial-intelligence_7156695.jpg?20260205173942" length="0" type="image/jpeg"/>
+      <media:description type="html">Anthropic </media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-anthropic-ai-artificial-intelligence_7156695.jpg?20260205173942" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-anthropic-ai-artificial-intelligence_7156695.jpg?20260205173942"/>
+    </item>
+    <item>
+      <title>Netflix pulls out of Warner Bros race</title>
+      <link>https://news.sky.com/story/netflix-withdraws-warner-bros-bid-as-paramount-offer-declared-superior-13512801</link>
+      <description>Paramount Skydance is on course to win the Warner Bros Discovery (WBD) takeover battle after rival Netflix stepped away.</description>
+      <pubDate>Fri, 27 Feb 2026 05:30:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/netflix-withdraws-warner-bros-bid-as-paramount-offer-declared-superior-13512801</guid>
+      <enclosure url="https://e3.365dm.com/25/12/1920x1080/skynews-paramount-netflix-warner_7106396.jpg?20251210102854" length="0" type="image/jpeg"/>
+      <media:description type="html">Paramount, Netflix and Warner Bros logos are seen in this illustration taken December 8, 2025. REUTERS/Dado Ruvic/Illustration</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/12/1920x1080/skynews-paramount-netflix-warner_7106396.jpg?20251210102854" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/12/1920x1080/skynews-paramount-netflix-warner_7106396.jpg?20251210102854"/>
+    </item>
+    <item>
+      <title>AI willing to 'go nuclear' in wargames</title>
+      <link>https://news.sky.com/story/ai-willing-to-go-nuclear-in-wargames-study-finds-amid-stand-off-between-pentagon-and-leading-ai-lab-13512751</link>
+      <description>As the deadline looms for a leading AI lab to hand over its tech to the US military, a study has appeared suggesting AI models are more than willing to go nuclear in wargames.</description>
+      <pubDate>Fri, 27 Feb 2026 00:01:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/ai-willing-to-go-nuclear-in-wargames-study-finds-amid-stand-off-between-pentagon-and-leading-ai-lab-13512751</guid>
+      <enclosure url="https://e3.365dm.com/26/02/1920x1080/skynews-anthropic-logo-ai-developer_7177298.jpg?20260228021956" length="0" type="image/jpeg"/>
+      <media:description type="html">FILE PHOTO: Anthropic logo is seen in this illustration taken May 20, 2024. REUTERS/Dado Ruvic/Illustration/File Photo</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-anthropic-logo-ai-developer_7177298.jpg?20260228021956" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-anthropic-logo-ai-developer_7177298.jpg?20260228021956"/>
+    </item>
+    <item>
+      <title>Ocado to cut 1,000 jobs under restructuring plan</title>
+      <link>https://news.sky.com/story/ocado-to-cut-1000-jobs-under-restructuring-plan-13512335</link>
+      <description>Ocado is to cut around 1,000 jobs as part of a plan to slash costs and restructure its operations.</description>
+      <pubDate>Thu, 26 Feb 2026 07:56:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/ocado-to-cut-1000-jobs-under-restructuring-plan-13512335</guid>
+      <enclosure url="https://e3.365dm.com/23/06/1920x1080/skynews-ocado-robots_6191259.jpg?20230618145404" length="0" type="image/jpeg"/>
+      <media:description type="html">Ocado</media:description>
+      <media:thumbnail url="https://e3.365dm.com/23/06/1920x1080/skynews-ocado-robots_6191259.jpg?20230618145404" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/23/06/1920x1080/skynews-ocado-robots_6191259.jpg?20230618145404"/>
+    </item>
+  </channel>
+</rss>
