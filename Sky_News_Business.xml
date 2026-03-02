@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 02 Mar 2026 13:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 15:44:00 +0000</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Oil and gas costs surge but some stocks defy war-focused sell-off</title>
+      <link>https://news.sky.com/story/oil-and-gas-costs-surge-but-some-stocks-defy-war-focused-sell-off-13514319</link>
+      <description>Oil and gas prices have seen dramatic lifts as financial markets give their first reaction to the war in the Middle East.</description>
+      <pubDate>Mon, 02 Mar 2026 15:44:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/oil-and-gas-costs-surge-but-some-stocks-defy-war-focused-sell-off-13514319</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-qatar-gas_7179964.jpg?20260302144045" length="0" type="image/jpeg"/>
+      <media:description type="html">Production facilities of the newly opened Qatar Gas</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-qatar-gas_7179964.jpg?20260302144045" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-qatar-gas_7179964.jpg?20260302144045"/>
+    </item>
     <item>
       <title>Will the cost of petrol in my car go up due to Middle East conflict?</title>
       <link>https://news.sky.com/story/will-the-cost-of-petrol-in-my-car-go-up-because-of-middle-east-conflict-13514223</link>
@@ -60,6 +71,17 @@
       <media:content type="image/png" url="https://e3.365dm.com/26/03/1920x1080/skynews-strait-of-hormuz-data-and-forensics_7179117.png?20260301185112"/>
     </item>
     <item>
+      <title>Thinking of paying off student loan early? You should know about expert's &amp;#163;60,000 rule | Money newsletter</title>
+      <link>https://news.sky.com/story/sky-news-money-blog-newsletter-13367142</link>
+      <description>More than 165,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every Friday.</description>
+      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/sky-news-money-blog-newsletter-13367142</guid>
+      <enclosure url="https://e3.365dm.com/25/03/1920x1080/skynews-student-loan-university_6865112.jpg?20250323170110" length="0" type="image/jpeg"/>
+      <media:description type="html">The student loan system is being investigated. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/03/1920x1080/skynews-student-loan-university_6865112.jpg?20250323170110" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/03/1920x1080/skynews-student-loan-university_6865112.jpg?20250323170110"/>
+    </item>
+    <item>
       <title>Marine biologist on salaries, tears and the one thing everyone could do to save the planet</title>
       <link>https://news.sky.com/story/marine-biologist-on-salaries-tears-and-the-one-thing-everyone-could-do-to-save-the-planet-13514108</link>
       <description>If you've ever spent your morning commute daydreaming about starting afresh with your career, this feature is for you.</description>
@@ -94,17 +116,6 @@ Pic: PA</media:description>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-warner-bros-logo_7140599.jpg?20260120135548"/>
     </item>
     <item>
-      <title>Thinking of paying off student loan early? You should know about expert's &amp;#163;60,000 rule | Money newsletter</title>
-      <link>https://news.sky.com/story/sky-news-money-blog-newsletter-13367142</link>
-      <description>More than 165,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every Friday.</description>
-      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/sky-news-money-blog-newsletter-13367142</guid>
-      <enclosure url="https://e3.365dm.com/25/03/1920x1080/skynews-student-loan-university_6865112.jpg?20250323170110" length="0" type="image/jpeg"/>
-      <media:description type="html">The student loan system is being investigated. Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/03/1920x1080/skynews-student-loan-university_6865112.jpg?20250323170110" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/03/1920x1080/skynews-student-loan-university_6865112.jpg?20250323170110"/>
-    </item>
-    <item>
       <title>Trump's furious response to Anthropic is as much about power as it is about AI safety</title>
       <link>https://news.sky.com/story/trumps-furious-response-to-anthropic-is-as-much-about-power-as-it-is-about-ai-safety-13513194</link>
       <description>In the most clear and consequential policy move on AI safety yet, the Trump administration has announced it will blacklist a leading AI lab over its refusal to allow unfettered access to its technology for military purposes.</description>
@@ -114,17 +125,6 @@ Pic: PA</media:description>
       <media:description type="html">Anthropic </media:description>
       <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-anthropic-ai-artificial-intelligence_7156695.jpg?20260205173942" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-anthropic-ai-artificial-intelligence_7156695.jpg?20260205173942"/>
-    </item>
-    <item>
-      <title>Netflix pulls out of Warner Bros race</title>
-      <link>https://news.sky.com/story/netflix-withdraws-warner-bros-bid-as-paramount-offer-declared-superior-13512801</link>
-      <description>Paramount Skydance is on course to win the Warner Bros Discovery (WBD) takeover battle after rival Netflix stepped away.</description>
-      <pubDate>Fri, 27 Feb 2026 05:30:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/netflix-withdraws-warner-bros-bid-as-paramount-offer-declared-superior-13512801</guid>
-      <enclosure url="https://e3.365dm.com/25/12/1920x1080/skynews-paramount-netflix-warner_7106396.jpg?20251210102854" length="0" type="image/jpeg"/>
-      <media:description type="html">Paramount, Netflix and Warner Bros logos are seen in this illustration taken December 8, 2025. REUTERS/Dado Ruvic/Illustration</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/12/1920x1080/skynews-paramount-netflix-warner_7106396.jpg?20251210102854" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/12/1920x1080/skynews-paramount-netflix-warner_7106396.jpg?20251210102854"/>
     </item>
   </channel>
 </rss>
