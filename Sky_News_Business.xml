@@ -12,9 +12,31 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 01 Mar 2026 18:57:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 13:10:00 +0000</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Will the cost of petrol in my car go up due to Middle East conflict?</title>
+      <link>https://news.sky.com/story/will-the-cost-of-petrol-in-my-car-go-up-because-of-middle-east-conflict-13514223</link>
+      <description>Fresh conflict in the Middle East threatens to make the cost of petrol more expensive for motorists in the UK, experts have warned.</description>
+      <pubDate>Mon, 02 Mar 2026 13:10:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/will-the-cost-of-petrol-in-my-car-go-up-because-of-middle-east-conflict-13514223</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-petrol-pump-petrol_7179801.jpg?20260302123514" length="0" type="image/jpeg"/>
+      <media:description type="html">Petrol pump. File pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-petrol-pump-petrol_7179801.jpg?20260302123514" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-petrol-pump-petrol_7179801.jpg?20260302123514"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;British luxury yacht-builder Sunseeker sets sail with new owner | Mark Kleinman blog&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/17/01/1920x1080/a681291e38e59079fa1deb87e7429f0be836c76e6c378998e24564aa4324eeb7_3866908.jpg?20170109101026" length="0" type="image/jpeg"/>
+      <media:description type="html">File photo dated 08/01/16 of people walking past a Sunseeker 131 luxury yacht on display at the London Boat Show at Excel London, as Britain&amp;#39;s superyacht industry has posted its highest sales figures since the financial crisis, and industry experts say momentum has not been torpedoed by Brexit jitters. PRESS ASSOCIATION Photo. Issue date: Monday January 9, 2017. </media:description>
+      <media:thumbnail url="https://e3.365dm.com/17/01/1920x1080/a681291e38e59079fa1deb87e7429f0be836c76e6c378998e24564aa4324eeb7_3866908.jpg?20170109101026" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/17/01/1920x1080/a681291e38e59079fa1deb87e7429f0be836c76e6c378998e24564aa4324eeb7_3866908.jpg?20170109101026"/>
+    </item>
     <item>
       <title>Oil prices spike as key shipping route disrupted by Iran attacks</title>
       <link>https://news.sky.com/story/oil-prices-spike-as-key-shipping-route-disrupted-by-iran-attacks-13514000</link>
@@ -38,16 +60,15 @@
       <media:content type="image/png" url="https://e3.365dm.com/26/03/1920x1080/skynews-strait-of-hormuz-data-and-forensics_7179117.png?20260301185112"/>
     </item>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;WH Smith buyer Modella draws up plan for store closures and rent cuts at TG Jones | Mark Kleinman blog&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description/>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-wh-smith-gatwick-airport_7132512.jpg?20260111115911" length="0" type="image/jpeg"/>
-      <media:description type="html">Gatwick Airport. Pic: Shutterstock
-</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-wh-smith-gatwick-airport_7132512.jpg?20260111115911" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-wh-smith-gatwick-airport_7132512.jpg?20260111115911"/>
+      <title>Marine biologist on salaries, tears and the one thing everyone could do to save the planet</title>
+      <link>https://news.sky.com/story/marine-biologist-on-salaries-tears-and-the-one-thing-everyone-could-do-to-save-the-planet-13514108</link>
+      <description>If you've ever spent your morning commute daydreaming about starting afresh with your career, this feature is for you.</description>
+      <pubDate>Mon, 02 Mar 2026 07:39:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/marine-biologist-on-salaries-tears-and-the-one-thing-everyone-could-do-to-save-the-planet-13514108</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-jon-coley-money-blog_7179320.jpg?20260302063915" length="0" type="image/jpeg"/>
+      <media:description type="html">Professor Jon Copley, a marine biologist at the School of Ocean and Earth Science at the University of Southampton. No credit needed</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-jon-coley-money-blog_7179320.jpg?20260302063915" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-jon-coley-money-blog_7179320.jpg?20260302063915"/>
     </item>
     <item>
       <title>Flight delayed or cancelled? These are your rights </title>
@@ -104,28 +125,6 @@ Pic: PA</media:description>
       <media:description type="html">Paramount, Netflix and Warner Bros logos are seen in this illustration taken December 8, 2025. REUTERS/Dado Ruvic/Illustration</media:description>
       <media:thumbnail url="https://e3.365dm.com/25/12/1920x1080/skynews-paramount-netflix-warner_7106396.jpg?20251210102854" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/12/1920x1080/skynews-paramount-netflix-warner_7106396.jpg?20251210102854"/>
-    </item>
-    <item>
-      <title>AI willing to 'go nuclear' in wargames</title>
-      <link>https://news.sky.com/story/ai-willing-to-go-nuclear-in-wargames-study-finds-amid-stand-off-between-pentagon-and-leading-ai-lab-13512751</link>
-      <description>As the deadline looms for a leading AI lab to hand over its tech to the US military, a study has appeared suggesting AI models are more than willing to go nuclear in wargames.</description>
-      <pubDate>Fri, 27 Feb 2026 00:01:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/ai-willing-to-go-nuclear-in-wargames-study-finds-amid-stand-off-between-pentagon-and-leading-ai-lab-13512751</guid>
-      <enclosure url="https://e3.365dm.com/26/02/1920x1080/skynews-anthropic-logo-ai-developer_7177298.jpg?20260228021956" length="0" type="image/jpeg"/>
-      <media:description type="html">FILE PHOTO: Anthropic logo is seen in this illustration taken May 20, 2024. REUTERS/Dado Ruvic/Illustration/File Photo</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-anthropic-logo-ai-developer_7177298.jpg?20260228021956" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-anthropic-logo-ai-developer_7177298.jpg?20260228021956"/>
-    </item>
-    <item>
-      <title>Ocado to cut 1,000 jobs under restructuring plan</title>
-      <link>https://news.sky.com/story/ocado-to-cut-1000-jobs-under-restructuring-plan-13512335</link>
-      <description>Ocado is to cut around 1,000 jobs as part of a plan to slash costs and restructure its operations.</description>
-      <pubDate>Thu, 26 Feb 2026 07:56:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/ocado-to-cut-1000-jobs-under-restructuring-plan-13512335</guid>
-      <enclosure url="https://e3.365dm.com/23/06/1920x1080/skynews-ocado-robots_6191259.jpg?20230618145404" length="0" type="image/jpeg"/>
-      <media:description type="html">Ocado</media:description>
-      <media:thumbnail url="https://e3.365dm.com/23/06/1920x1080/skynews-ocado-robots_6191259.jpg?20230618145404" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/23/06/1920x1080/skynews-ocado-robots_6191259.jpg?20230618145404"/>
     </item>
   </channel>
 </rss>
