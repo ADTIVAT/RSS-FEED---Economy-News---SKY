@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 02 Mar 2026 15:44:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 21:40:00 +0000</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>This war has massive implications for the world economy</title>
+      <link>https://news.sky.com/story/this-war-has-massive-implications-for-the-world-economy-13514364</link>
+      <description>There is nowhere else on the planet with quite as concentrated a supply of quite so much energy as the Arabian Gulf.</description>
+      <pubDate>Mon, 02 Mar 2026 17:50:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/this-war-has-massive-implications-for-the-world-economy-13514364</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-tanker-gulf_7180176.jpg?20260302181926" length="0" type="image/jpeg"/>
+      <media:description type="html">A tanker is seen in the Gulf. Pic: AP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-tanker-gulf_7180176.jpg?20260302181926" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-tanker-gulf_7180176.jpg?20260302181926"/>
+    </item>
     <item>
       <title>Oil and gas costs surge but some stocks defy war-focused sell-off</title>
       <link>https://news.sky.com/story/oil-and-gas-costs-surge-but-some-stocks-defy-war-focused-sell-off-13514319</link>
@@ -25,6 +36,29 @@
       <media:description type="html">Production facilities of the newly opened Qatar Gas</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-qatar-gas_7179964.jpg?20260302144045" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-qatar-gas_7179964.jpg?20260302144045"/>
+    </item>
+    <item>
+      <title>Chancellor to say she has the 'right economic plan' in spring forecast</title>
+      <link>https://news.sky.com/story/rachel-reeves-to-deliver-spring-forecast-13514439</link>
+      <description>Rachel Reeves will insist she has "the right economic plan for our country" and that "working people are better off" thanks to Labour when she delivers her spring forecast to the Commons today.</description>
+      <pubDate>Mon, 02 Mar 2026 21:40:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/rachel-reeves-to-deliver-spring-forecast-13514439</guid>
+      <enclosure url="https://e3.365dm.com/25/12/1920x1080/skynews-rachel-reeves-wales_7097682.jpg?20251201151103" length="0" type="image/jpeg"/>
+      <media:description type="html">Rachel Reeves speaking during the Wales Investment Summit.
+Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/12/1920x1080/skynews-rachel-reeves-wales_7097682.jpg?20251201151103" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/12/1920x1080/skynews-rachel-reeves-wales_7097682.jpg?20251201151103"/>
+    </item>
+    <item>
+      <title>Nearly 500 jobs to be lost in BrewDog's American takeover</title>
+      <link>https://news.sky.com/story/nearly-500-jobs-to-be-lost-in-brewdogs-takeover-by-american-firm-tilray-13514417</link>
+      <description>Nearly 500 jobs are expected to be lost when craft beer giant BrewDog is taken over by an American cannabis firm.</description>
+      <pubDate>Mon, 02 Mar 2026 20:24:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/nearly-500-jobs-to-be-lost-in-brewdogs-takeover-by-american-firm-tilray-13514417</guid>
+      <enclosure url="https://e3.365dm.com/22/12/1920x1080/skynews-brewdog-beer_5988857.jpg?20221207031942" length="0" type="image/jpeg"/>
+      <media:description type="html"> </media:description>
+      <media:thumbnail url="https://e3.365dm.com/22/12/1920x1080/skynews-brewdog-beer_5988857.jpg?20221207031942" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/22/12/1920x1080/skynews-brewdog-beer_5988857.jpg?20221207031942"/>
     </item>
     <item>
       <title>Will the cost of petrol in my car go up due to Middle East conflict?</title>
@@ -38,15 +72,15 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-petrol-pump-petrol_7179801.jpg?20260302123514"/>
     </item>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;British luxury yacht-builder Sunseeker sets sail with new owner | Mark Kleinman blog&lt;/a&gt;</title>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt; | Mark Kleinman blog | The Traitors-maker closes in on merger with producer of Squid Game: The Challenge&lt;/a&gt;</title>
       <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
       <description/>
       <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
       <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/17/01/1920x1080/a681291e38e59079fa1deb87e7429f0be836c76e6c378998e24564aa4324eeb7_3866908.jpg?20170109101026" length="0" type="image/jpeg"/>
-      <media:description type="html">File photo dated 08/01/16 of people walking past a Sunseeker 131 luxury yacht on display at the London Boat Show at Excel London, as Britain&amp;#39;s superyacht industry has posted its highest sales figures since the financial crisis, and industry experts say momentum has not been torpedoed by Brexit jitters. PRESS ASSOCIATION Photo. Issue date: Monday January 9, 2017. </media:description>
-      <media:thumbnail url="https://e3.365dm.com/17/01/1920x1080/a681291e38e59079fa1deb87e7429f0be836c76e6c378998e24564aa4324eeb7_3866908.jpg?20170109101026" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/17/01/1920x1080/a681291e38e59079fa1deb87e7429f0be836c76e6c378998e24564aa4324eeb7_3866908.jpg?20170109101026"/>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-traitors-winkleman_7180315.jpg?20260302211423" length="0" type="image/jpeg"/>
+      <media:description type="html">Claudia Winkleman at the launch of BBC&amp;#39;s Celebrity Traitors in October 2025. Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-traitors-winkleman_7180315.jpg?20260302211423" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-traitors-winkleman_7180315.jpg?20260302211423"/>
     </item>
     <item>
       <title>Oil prices spike as key shipping route disrupted by Iran attacks</title>
@@ -91,40 +125,6 @@
       <media:description type="html">Professor Jon Copley, a marine biologist at the School of Ocean and Earth Science at the University of Southampton. No credit needed</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-jon-coley-money-blog_7179320.jpg?20260302063915" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-jon-coley-money-blog_7179320.jpg?20260302063915"/>
-    </item>
-    <item>
-      <title>Flight delayed or cancelled? These are your rights </title>
-      <link>https://news.sky.com/story/what-are-your-rights-if-your-flight-is-delayed-or-cancelled-13258382</link>
-      <description>Joint US-Israel strikes on Iran - and a subsequent retaliation from Tehran - has caused widespread disruption on air travel.</description>
-      <pubDate>Fri, 21 Mar 2025 03:00:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/what-are-your-rights-if-your-flight-is-delayed-or-cancelled-13258382</guid>
-      <enclosure url="https://e3.365dm.com/25/03/1920x1080/skynews-heathrow-terminal-fire_6862947.jpg?20250321084018" length="0" type="image/jpeg"/>
-      <media:description type="html">Stranded passengers at Heathrow Terminal 5.
-Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/03/1920x1080/skynews-heathrow-terminal-fire_6862947.jpg?20250321084018" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/03/1920x1080/skynews-heathrow-terminal-fire_6862947.jpg?20250321084018"/>
-    </item>
-    <item>
-      <title>Paramount strikes deal to buy Warner Bros Discovery for $110bn</title>
-      <link>https://news.sky.com/story/paramount-agrees-to-buy-warner-bros-discovery-in-110bn-deal-13513157</link>
-      <description>Paramount has struck a $110bn deal to buy Warner Bros Discovery.</description>
-      <pubDate>Fri, 27 Feb 2026 21:39:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/paramount-agrees-to-buy-warner-bros-discovery-in-110bn-deal-13513157</guid>
-      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-warner-bros-logo_7140599.jpg?20260120135548" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-warner-bros-logo_7140599.jpg?20260120135548" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-warner-bros-logo_7140599.jpg?20260120135548"/>
-    </item>
-    <item>
-      <title>Trump's furious response to Anthropic is as much about power as it is about AI safety</title>
-      <link>https://news.sky.com/story/trumps-furious-response-to-anthropic-is-as-much-about-power-as-it-is-about-ai-safety-13513194</link>
-      <description>In the most clear and consequential policy move on AI safety yet, the Trump administration has announced it will blacklist a leading AI lab over its refusal to allow unfettered access to its technology for military purposes.</description>
-      <pubDate>Sat, 28 Feb 2026 00:01:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/trumps-furious-response-to-anthropic-is-as-much-about-power-as-it-is-about-ai-safety-13513194</guid>
-      <enclosure url="https://e3.365dm.com/26/02/1920x1080/skynews-anthropic-ai-artificial-intelligence_7156695.jpg?20260205173942" length="0" type="image/jpeg"/>
-      <media:description type="html">Anthropic </media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-anthropic-ai-artificial-intelligence_7156695.jpg?20260205173942" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-anthropic-ai-artificial-intelligence_7156695.jpg?20260205173942"/>
     </item>
   </channel>
 </rss>
