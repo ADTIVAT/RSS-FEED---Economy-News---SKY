@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 02 Mar 2026 21:40:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 13:55:00 +0000</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>UK bills cannot escape the forces of Iran war</title>
+      <link>https://news.sky.com/story/uk-bills-can-not-escape-the-forces-of-iran-war-13514662</link>
+      <description>The economic impacts of the Iran war are already being felt in global markets, and could raise energy prices and wider consumer bills in the UK before long.</description>
+      <pubDate>Tue, 03 Mar 2026 13:55:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/uk-bills-can-not-escape-the-forces-of-iran-war-13514662</guid>
+      <enclosure url="https://e3.365dm.com/25/04/1920x1080/skynews-bills-biz-cost-of-living_6881705.png?20250410131148" length="0" type="image/png"/>
+      <media:description type="html">Picture of person looking at bills with calculator and pound</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/04/1920x1080/skynews-bills-biz-cost-of-living_6881705.png?20250410131148" width="1920" height="1080"/>
+      <media:content type="image/png" url="https://e3.365dm.com/25/04/1920x1080/skynews-bills-biz-cost-of-living_6881705.png?20250410131148"/>
+    </item>
     <item>
       <title>This war has massive implications for the world economy</title>
       <link>https://news.sky.com/story/this-war-has-massive-implications-for-the-world-economy-13514364</link>
@@ -25,6 +36,40 @@
       <media:description type="html">A tanker is seen in the Gulf. Pic: AP</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-tanker-gulf_7180176.jpg?20260302181926" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-tanker-gulf_7180176.jpg?20260302181926"/>
+    </item>
+    <item>
+      <title>UK growth forecast downgraded and unemployment will peak this year, chancellor reveals</title>
+      <link>https://news.sky.com/story/uk-growth-forecast-downgraded-and-unemployment-will-peak-this-year-chancellor-reveals-13514642</link>
+      <description>The UK's economic forecast has been downgraded for 2026 but will then improve - and unemployment will peak this year, the chancellor has revealed.</description>
+      <pubDate>Tue, 03 Mar 2026 13:13:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/uk-growth-forecast-downgraded-and-unemployment-will-peak-this-year-chancellor-reveals-13514642</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/85d359babb058292827f867bd8d1f205d936f3f5fa6b6e6ec85329392359ae13_7180804.jpg?20260303125414" length="0" type="image/jpeg"/>
+      <media:description type="html">Chancellor Rachel Reeves delivers Spring Forecast</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/85d359babb058292827f867bd8d1f205d936f3f5fa6b6e6ec85329392359ae13_7180804.jpg?20260303125414" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/85d359babb058292827f867bd8d1f205d936f3f5fa6b6e6ec85329392359ae13_7180804.jpg?20260303125414"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Mark Kleinman blog | UK banking giants warn of chaos over Lammy plan to raid law firm coffers&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/26/02/1920x1080/skynews-downing-street-david-lammy_7160233.jpg?20260209151022" length="0" type="image/jpeg"/>
+      <media:description type="html">Deputy Prime Minister and Justice Secretary David Lammy in Downing Street.
+Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-downing-street-david-lammy_7160233.jpg?20260209151022" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-downing-street-david-lammy_7160233.jpg?20260209151022"/>
+    </item>
+    <item>
+      <title>'Our house is worth &amp;#163;550,000 - what are pros and cons of equity release?' | Money newsletter</title>
+      <link>https://news.sky.com/story/sky-news-money-blog-newsletter-13367142</link>
+      <description>More than 165,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every Friday.</description>
+      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/sky-news-money-blog-newsletter-13367142</guid>
+      <enclosure url="https://e3.365dm.com/24/08/1920x1080/skynews-money-equity-release_6646134.jpg?20240803102028" length="0" type="image/jpeg"/>
+      <media:description type="html">File pics from iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/24/08/1920x1080/skynews-money-equity-release_6646134.jpg?20240803102028" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/24/08/1920x1080/skynews-money-equity-release_6646134.jpg?20240803102028"/>
     </item>
     <item>
       <title>Oil and gas costs surge but some stocks defy war-focused sell-off</title>
@@ -50,7 +95,7 @@ Pic: PA</media:description>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/12/1920x1080/skynews-rachel-reeves-wales_7097682.jpg?20251201151103"/>
     </item>
     <item>
-      <title>Nearly 500 jobs to be lost in BrewDog's American takeover</title>
+      <title>Nearly 500 jobs to be lost as US cannabis firm takes over BrewDog</title>
       <link>https://news.sky.com/story/nearly-500-jobs-to-be-lost-in-brewdogs-takeover-by-american-firm-tilray-13514417</link>
       <description>Nearly 500 jobs are expected to be lost when craft beer giant BrewDog is taken over by an American cannabis firm.</description>
       <pubDate>Mon, 02 Mar 2026 20:24:00 +0000</pubDate>
@@ -72,17 +117,6 @@ Pic: PA</media:description>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-petrol-pump-petrol_7179801.jpg?20260302123514"/>
     </item>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt; | Mark Kleinman blog | The Traitors-maker closes in on merger with producer of Squid Game: The Challenge&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description/>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-traitors-winkleman_7180315.jpg?20260302211423" length="0" type="image/jpeg"/>
-      <media:description type="html">Claudia Winkleman at the launch of BBC&amp;#39;s Celebrity Traitors in October 2025. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-traitors-winkleman_7180315.jpg?20260302211423" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-traitors-winkleman_7180315.jpg?20260302211423"/>
-    </item>
-    <item>
       <title>Oil prices spike as key shipping route disrupted by Iran attacks</title>
       <link>https://news.sky.com/story/oil-prices-spike-as-key-shipping-route-disrupted-by-iran-attacks-13514000</link>
       <description>Global oil prices have risen sharply after Iran's response to US and Israeli airstrikes disrupted shipping, raising the prospect of a new energy-led surge in inflation.</description>
@@ -92,39 +126,6 @@ Pic: PA</media:description>
       <media:description type="html">Oil pumps in the desert oil fields of Sakhir, Bahrain. Pic: AP </media:description>
       <media:thumbnail url="https://e3.365dm.com/24/09/1920x1080/skynews-oil-oil-price-barrel-of-oil_6695191.jpg?20240924075511" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/24/09/1920x1080/skynews-oil-oil-price-barrel-of-oil_6695191.jpg?20240924075511"/>
-    </item>
-    <item>
-      <title>Fifth of global oil flows through this vital waterway - here's what has happened since Iran strikes</title>
-      <link>https://news.sky.com/story/ship-tracking-reveals-tankers-and-millions-of-barrels-of-oil-stuck-in-the-gulf-13513961</link>
-      <description>Sky's Data and Forensics team has been monitoring shipping through the Strait of Hormuz - a strategically vital waterway for Iran and other oil producers in the Middle East.&amp;#160;</description>
-      <pubDate>Sun, 01 Mar 2026 16:22:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/ship-tracking-reveals-tankers-and-millions-of-barrels-of-oil-stuck-in-the-gulf-13513961</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-strait-of-hormuz-data-and-forensics_7179117.png?20260301185112" length="0" type="image/png"/>
-      <media:description type="html">There are fears the Strait of Hormuz could be blocked</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-strait-of-hormuz-data-and-forensics_7179117.png?20260301185112" width="1920" height="1080"/>
-      <media:content type="image/png" url="https://e3.365dm.com/26/03/1920x1080/skynews-strait-of-hormuz-data-and-forensics_7179117.png?20260301185112"/>
-    </item>
-    <item>
-      <title>Thinking of paying off student loan early? You should know about expert's &amp;#163;60,000 rule | Money newsletter</title>
-      <link>https://news.sky.com/story/sky-news-money-blog-newsletter-13367142</link>
-      <description>More than 165,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every Friday.</description>
-      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/sky-news-money-blog-newsletter-13367142</guid>
-      <enclosure url="https://e3.365dm.com/25/03/1920x1080/skynews-student-loan-university_6865112.jpg?20250323170110" length="0" type="image/jpeg"/>
-      <media:description type="html">The student loan system is being investigated. Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/03/1920x1080/skynews-student-loan-university_6865112.jpg?20250323170110" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/03/1920x1080/skynews-student-loan-university_6865112.jpg?20250323170110"/>
-    </item>
-    <item>
-      <title>Marine biologist on salaries, tears and the one thing everyone could do to save the planet</title>
-      <link>https://news.sky.com/story/marine-biologist-on-salaries-tears-and-the-one-thing-everyone-could-do-to-save-the-planet-13514108</link>
-      <description>If you've ever spent your morning commute daydreaming about starting afresh with your career, this feature is for you.</description>
-      <pubDate>Mon, 02 Mar 2026 07:39:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/marine-biologist-on-salaries-tears-and-the-one-thing-everyone-could-do-to-save-the-planet-13514108</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-jon-coley-money-blog_7179320.jpg?20260302063915" length="0" type="image/jpeg"/>
-      <media:description type="html">Professor Jon Copley, a marine biologist at the School of Ocean and Earth Science at the University of Southampton. No credit needed</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-jon-coley-money-blog_7179320.jpg?20260302063915" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-jon-coley-money-blog_7179320.jpg?20260302063915"/>
     </item>
   </channel>
 </rss>
