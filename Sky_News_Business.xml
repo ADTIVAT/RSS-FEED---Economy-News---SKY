@@ -12,9 +12,21 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 03 Mar 2026 13:55:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 17:35:00 +0000</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Why UK inflation forecast is not worth the paper it was written on</title>
+      <link>https://news.sky.com/story/iran-war-leaves-forecast-for-low-uk-inflation-not-worth-the-paper-it-was-written-on-13514770</link>
+      <description>The rise in gas prices over the past 48 hours is without precedent.</description>
+      <pubDate>Tue, 03 Mar 2026 17:35:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/iran-war-leaves-forecast-for-low-uk-inflation-not-worth-the-paper-it-was-written-on-13514770</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-rachel-reeves-downing-street_7180746.jpg?20260303120355" length="0" type="image/jpeg"/>
+      <media:description type="html">Chancellor of the Exchequer Rachel Reeves leaving 11 Downing Street.
+Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-rachel-reeves-downing-street_7180746.jpg?20260303120355" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-rachel-reeves-downing-street_7180746.jpg?20260303120355"/>
+    </item>
     <item>
       <title>UK bills cannot escape the forces of Iran war</title>
       <link>https://news.sky.com/story/uk-bills-can-not-escape-the-forces-of-iran-war-13514662</link>
@@ -27,15 +39,15 @@
       <media:content type="image/png" url="https://e3.365dm.com/25/04/1920x1080/skynews-bills-biz-cost-of-living_6881705.png?20250410131148"/>
     </item>
     <item>
-      <title>This war has massive implications for the world economy</title>
-      <link>https://news.sky.com/story/this-war-has-massive-implications-for-the-world-economy-13514364</link>
-      <description>There is nowhere else on the planet with quite as concentrated a supply of quite so much energy as the Arabian Gulf.</description>
-      <pubDate>Mon, 02 Mar 2026 17:50:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/this-war-has-massive-implications-for-the-world-economy-13514364</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-tanker-gulf_7180176.jpg?20260302181926" length="0" type="image/jpeg"/>
-      <media:description type="html">A tanker is seen in the Gulf. Pic: AP</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-tanker-gulf_7180176.jpg?20260302181926" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-tanker-gulf_7180176.jpg?20260302181926"/>
+      <title>'Our house is worth &amp;#163;550,000 - what are pros and cons of equity release?' | Money newsletter</title>
+      <link>https://news.sky.com/story/sky-news-money-blog-newsletter-13367142</link>
+      <description>More than 165,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every Friday.</description>
+      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/sky-news-money-blog-newsletter-13367142</guid>
+      <enclosure url="https://e3.365dm.com/24/08/1920x1080/skynews-money-equity-release_6646134.jpg?20240803102028" length="0" type="image/jpeg"/>
+      <media:description type="html">File pics from iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/24/08/1920x1080/skynews-money-equity-release_6646134.jpg?20240803102028" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/24/08/1920x1080/skynews-money-equity-release_6646134.jpg?20240803102028"/>
     </item>
     <item>
       <title>UK growth forecast downgraded and unemployment will peak this year, chancellor reveals</title>
@@ -47,6 +59,17 @@
       <media:description type="html">Chancellor Rachel Reeves delivers Spring Forecast</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/85d359babb058292827f867bd8d1f205d936f3f5fa6b6e6ec85329392359ae13_7180804.jpg?20260303125414" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/85d359babb058292827f867bd8d1f205d936f3f5fa6b6e6ec85329392359ae13_7180804.jpg?20260303125414"/>
+    </item>
+    <item>
+      <title>This war has massive implications for the world economy</title>
+      <link>https://news.sky.com/story/this-war-has-massive-implications-for-the-world-economy-13514364</link>
+      <description>There is nowhere else on the planet with quite as concentrated a supply of quite so much energy as the Arabian Gulf.</description>
+      <pubDate>Mon, 02 Mar 2026 17:50:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/this-war-has-massive-implications-for-the-world-economy-13514364</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-tanker-gulf_7180176.jpg?20260302181926" length="0" type="image/jpeg"/>
+      <media:description type="html">A tanker is seen in the Gulf. Pic: AP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-tanker-gulf_7180176.jpg?20260302181926" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-tanker-gulf_7180176.jpg?20260302181926"/>
     </item>
     <item>
       <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Mark Kleinman blog | UK banking giants warn of chaos over Lammy plan to raid law firm coffers&lt;/a&gt;</title>
@@ -61,15 +84,15 @@ Pic: PA</media:description>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-downing-street-david-lammy_7160233.jpg?20260209151022"/>
     </item>
     <item>
-      <title>'Our house is worth &amp;#163;550,000 - what are pros and cons of equity release?' | Money newsletter</title>
-      <link>https://news.sky.com/story/sky-news-money-blog-newsletter-13367142</link>
-      <description>More than 165,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every Friday.</description>
-      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/sky-news-money-blog-newsletter-13367142</guid>
-      <enclosure url="https://e3.365dm.com/24/08/1920x1080/skynews-money-equity-release_6646134.jpg?20240803102028" length="0" type="image/jpeg"/>
-      <media:description type="html">File pics from iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/24/08/1920x1080/skynews-money-equity-release_6646134.jpg?20240803102028" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/24/08/1920x1080/skynews-money-equity-release_6646134.jpg?20240803102028"/>
+      <title>Ferry scandal fall-out sees harbour buy-up and new contracts for beleaguered shipyard</title>
+      <link>https://news.sky.com/story/ferry-scandal-fall-out-sees-ardrossan-harbour-buy-up-and-new-contracts-for-beleaguered-shipyard-13514661</link>
+      <description>The after-effects of a debacle that has seen taxpayers pay hundreds of millions for a pair of ferries at nearly four times the original budget, are continuing with the harbour that was too small to fit the ships set to be taken into public ownership.</description>
+      <pubDate>Tue, 03 Mar 2026 13:55:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/ferry-scandal-fall-out-sees-ardrossan-harbour-buy-up-and-new-contracts-for-beleaguered-shipyard-13514661</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-glen-sannox-ferry_7180883.jpg?20260303140243" length="0" type="image/jpeg"/>
+      <media:description type="html">The Glen Sannox ferry arrives in Brodick on Isle of Arran fromTroon on its first official day in service. The ferry, built at the Ferguson M</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-glen-sannox-ferry_7180883.jpg?20260303140243" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-glen-sannox-ferry_7180883.jpg?20260303140243"/>
     </item>
     <item>
       <title>Oil and gas costs surge but some stocks defy war-focused sell-off</title>
@@ -104,28 +127,6 @@ Pic: PA</media:description>
       <media:description type="html"> </media:description>
       <media:thumbnail url="https://e3.365dm.com/22/12/1920x1080/skynews-brewdog-beer_5988857.jpg?20221207031942" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/22/12/1920x1080/skynews-brewdog-beer_5988857.jpg?20221207031942"/>
-    </item>
-    <item>
-      <title>Will the cost of petrol in my car go up due to Middle East conflict?</title>
-      <link>https://news.sky.com/story/will-the-cost-of-petrol-in-my-car-go-up-because-of-middle-east-conflict-13514223</link>
-      <description>Fresh conflict in the Middle East threatens to make the cost of petrol more expensive for motorists in the UK, experts have warned.</description>
-      <pubDate>Mon, 02 Mar 2026 13:10:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/will-the-cost-of-petrol-in-my-car-go-up-because-of-middle-east-conflict-13514223</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-petrol-pump-petrol_7179801.jpg?20260302123514" length="0" type="image/jpeg"/>
-      <media:description type="html">Petrol pump. File pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-petrol-pump-petrol_7179801.jpg?20260302123514" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-petrol-pump-petrol_7179801.jpg?20260302123514"/>
-    </item>
-    <item>
-      <title>Oil prices spike as key shipping route disrupted by Iran attacks</title>
-      <link>https://news.sky.com/story/oil-prices-spike-as-key-shipping-route-disrupted-by-iran-attacks-13514000</link>
-      <description>Global oil prices have risen sharply after Iran's response to US and Israeli airstrikes disrupted shipping, raising the prospect of a new energy-led surge in inflation.</description>
-      <pubDate>Sun, 01 Mar 2026 18:57:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/oil-prices-spike-as-key-shipping-route-disrupted-by-iran-attacks-13514000</guid>
-      <enclosure url="https://e3.365dm.com/24/09/1920x1080/skynews-oil-oil-price-barrel-of-oil_6695191.jpg?20240924075511" length="0" type="image/jpeg"/>
-      <media:description type="html">Oil pumps in the desert oil fields of Sakhir, Bahrain. Pic: AP </media:description>
-      <media:thumbnail url="https://e3.365dm.com/24/09/1920x1080/skynews-oil-oil-price-barrel-of-oil_6695191.jpg?20240924075511" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/24/09/1920x1080/skynews-oil-oil-price-barrel-of-oil_6695191.jpg?20240924075511"/>
     </item>
   </channel>
 </rss>
