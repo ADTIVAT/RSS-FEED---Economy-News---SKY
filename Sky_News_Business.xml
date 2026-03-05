@@ -12,9 +12,53 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 03 Mar 2026 17:35:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 06:51:00 +0000</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>South East Water fined &amp;#163;22m for repeated supply failures</title>
+      <link>https://news.sky.com/story/south-east-water-fined-16322m-for-repeated-supply-failures-13515456</link>
+      <description>South East Water has been fined &amp;#163;22m for repeated supply failures, watchdog Ofwat has said.</description>
+      <pubDate>Thu, 05 Mar 2026 06:51:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/south-east-water-fined-16322m-for-repeated-supply-failures-13515456</guid>
+      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-south-east-water-maidstone_7137718.jpg?20260117100602" length="0" type="image/jpeg"/>
+      <media:description type="html">South East Water staff hand out bottled water at a water station in Maidstone. Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-south-east-water-maidstone_7137718.jpg?20260117100602" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-south-east-water-maidstone_7137718.jpg?20260117100602"/>
+    </item>
+    <item>
+      <title>Trump's solutions to Iranian shipping threat leave insurance sector unimpressed</title>
+      <link>https://news.sky.com/story/trumps-solutions-to-iranian-shipping-threat-leave-insurance-sector-unimpressed-13515171</link>
+      <description>Donald Trump's offer of US-backed insurance and naval escorts for shipping travelling through the Strait of Hormuz has not prevented maritime premiums soaring as underwriters scramble to reassess the risks to oil, gas and cargo vessels.</description>
+      <pubDate>Wed, 04 Mar 2026 15:19:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/trumps-solutions-to-iranian-shipping-threat-leave-insurance-sector-unimpressed-13515171</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-cargo-dubai_7182177.jpg?20260304152825" length="0" type="image/jpeg"/>
+      <media:description type="html">A cargo ship approaches Dubai. File pic: AP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-cargo-dubai_7182177.jpg?20260304152825" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-cargo-dubai_7182177.jpg?20260304152825"/>
+    </item>
+    <item>
+      <title>Company admits supplying water unfit for humans after parasitic outbreak</title>
+      <link>https://news.sky.com/story/company-admits-supplying-water-unfit-for-humans-after-parasitic-outbreak-in-brixham-13515261</link>
+      <description>A company has admitted it supplied water that was unfit for human consumption after a parasitic outbreak in Devon.</description>
+      <pubDate>Wed, 04 Mar 2026 17:01:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/company-admits-supplying-water-unfit-for-humans-after-parasitic-outbreak-in-brixham-13515261</guid>
+      <enclosure url="https://e3.365dm.com/24/05/1920x1080/skynews-brixham-devon-parasite_6557074.jpg?20240517143253" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/24/05/1920x1080/skynews-brixham-devon-parasite_6557074.jpg?20240517143253" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/24/05/1920x1080/skynews-brixham-devon-parasite_6557074.jpg?20240517143253"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Mark Kleinman blog | Boss of gambling regulator 'eyes role with betting industry consultants'&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/25/08/1920x1080/skynews-gambling-tax_6984771.jpg?20250807121105" length="0" type="image/jpeg"/>
+      <media:description type="html">Gordon Brown has backed tax rises on the gambling industry to fund scrapping the two-child benefit cap. Pic: Sinenkiy/iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/08/1920x1080/skynews-gambling-tax_6984771.jpg?20250807121105" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/08/1920x1080/skynews-gambling-tax_6984771.jpg?20250807121105"/>
+    </item>
     <item>
       <title>Why UK inflation forecast is not worth the paper it was written on</title>
       <link>https://news.sky.com/story/iran-war-leaves-forecast-for-low-uk-inflation-not-worth-the-paper-it-was-written-on-13514770</link>
@@ -26,6 +70,17 @@
 Pic: PA</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-rachel-reeves-downing-street_7180746.jpg?20260303120355" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-rachel-reeves-downing-street_7180746.jpg?20260303120355"/>
+    </item>
+    <item>
+      <title>Britons could pay &amp;#163;10,000 extra after student loan change</title>
+      <link>https://news.sky.com/story/britons-could-pay-16310000-extra-after-student-loan-change-13515094</link>
+      <description>Middle-income earners will be hardest hit by a freeze to the student loan repayment threshold, experts have said.</description>
+      <pubDate>Wed, 04 Mar 2026 12:50:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/britons-could-pay-16310000-extra-after-student-loan-change-13515094</guid>
+      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-student-finance-loan_7094153.jpg?20251128061607" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-student-finance-loan_7094153.jpg?20251128061607" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-student-finance-loan_7094153.jpg?20251128061607"/>
     </item>
     <item>
       <title>UK bills cannot escape the forces of Iran war</title>
@@ -50,6 +105,17 @@ Pic: PA</media:description>
       <media:content type="image/jpeg" url="https://e3.365dm.com/24/08/1920x1080/skynews-money-equity-release_6646134.jpg?20240803102028"/>
     </item>
     <item>
+      <title>TV chef on Jamie Oliver cookbooks and the thing he wishes customers would stop doing</title>
+      <link>https://news.sky.com/story/tv-chef-on-jamie-oliver-cookbooks-and-the-thing-he-wishes-customers-would-stop-doing-13514978</link>
+      <description>On the first Wednesday of every month, we interview top chefs from around the UK, hearing about their cheap food hacks, views on the industry and more.</description>
+      <pubDate>Wed, 04 Mar 2026 09:01:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/tv-chef-on-jamie-oliver-cookbooks-and-the-thing-he-wishes-customers-would-stop-doing-13514978</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-jean-delport-money-blog_7181616.jpg?20260304061620" length="0" type="image/jpeg"/>
+      <media:description type="html">Great British Menu finalist Jean Delport, of the Michelin-starred Interlude in West Sussex. No credit needed</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-jean-delport-money-blog_7181616.jpg?20260304061620" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-jean-delport-money-blog_7181616.jpg?20260304061620"/>
+    </item>
+    <item>
       <title>UK growth forecast downgraded and unemployment will peak this year, chancellor reveals</title>
       <link>https://news.sky.com/story/uk-growth-forecast-downgraded-and-unemployment-will-peak-this-year-chancellor-reveals-13514642</link>
       <description>The UK's economic forecast has been downgraded for 2026 but will then improve - and unemployment will peak this year, the chancellor has revealed.</description>
@@ -59,74 +125,6 @@ Pic: PA</media:description>
       <media:description type="html">Chancellor Rachel Reeves delivers Spring Forecast</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/85d359babb058292827f867bd8d1f205d936f3f5fa6b6e6ec85329392359ae13_7180804.jpg?20260303125414" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/85d359babb058292827f867bd8d1f205d936f3f5fa6b6e6ec85329392359ae13_7180804.jpg?20260303125414"/>
-    </item>
-    <item>
-      <title>This war has massive implications for the world economy</title>
-      <link>https://news.sky.com/story/this-war-has-massive-implications-for-the-world-economy-13514364</link>
-      <description>There is nowhere else on the planet with quite as concentrated a supply of quite so much energy as the Arabian Gulf.</description>
-      <pubDate>Mon, 02 Mar 2026 17:50:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/this-war-has-massive-implications-for-the-world-economy-13514364</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-tanker-gulf_7180176.jpg?20260302181926" length="0" type="image/jpeg"/>
-      <media:description type="html">A tanker is seen in the Gulf. Pic: AP</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-tanker-gulf_7180176.jpg?20260302181926" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-tanker-gulf_7180176.jpg?20260302181926"/>
-    </item>
-    <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Mark Kleinman blog | UK banking giants warn of chaos over Lammy plan to raid law firm coffers&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description/>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/02/1920x1080/skynews-downing-street-david-lammy_7160233.jpg?20260209151022" length="0" type="image/jpeg"/>
-      <media:description type="html">Deputy Prime Minister and Justice Secretary David Lammy in Downing Street.
-Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-downing-street-david-lammy_7160233.jpg?20260209151022" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-downing-street-david-lammy_7160233.jpg?20260209151022"/>
-    </item>
-    <item>
-      <title>Ferry scandal fall-out sees harbour buy-up and new contracts for beleaguered shipyard</title>
-      <link>https://news.sky.com/story/ferry-scandal-fall-out-sees-ardrossan-harbour-buy-up-and-new-contracts-for-beleaguered-shipyard-13514661</link>
-      <description>The after-effects of a debacle that has seen taxpayers pay hundreds of millions for a pair of ferries at nearly four times the original budget, are continuing with the harbour that was too small to fit the ships set to be taken into public ownership.</description>
-      <pubDate>Tue, 03 Mar 2026 13:55:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/ferry-scandal-fall-out-sees-ardrossan-harbour-buy-up-and-new-contracts-for-beleaguered-shipyard-13514661</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-glen-sannox-ferry_7180883.jpg?20260303140243" length="0" type="image/jpeg"/>
-      <media:description type="html">The Glen Sannox ferry arrives in Brodick on Isle of Arran fromTroon on its first official day in service. The ferry, built at the Ferguson M</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-glen-sannox-ferry_7180883.jpg?20260303140243" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-glen-sannox-ferry_7180883.jpg?20260303140243"/>
-    </item>
-    <item>
-      <title>Oil and gas costs surge but some stocks defy war-focused sell-off</title>
-      <link>https://news.sky.com/story/oil-and-gas-costs-surge-but-some-stocks-defy-war-focused-sell-off-13514319</link>
-      <description>Oil and gas prices have seen dramatic lifts as financial markets give their first reaction to the war in the Middle East.</description>
-      <pubDate>Mon, 02 Mar 2026 15:44:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/oil-and-gas-costs-surge-but-some-stocks-defy-war-focused-sell-off-13514319</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-qatar-gas_7179964.jpg?20260302144045" length="0" type="image/jpeg"/>
-      <media:description type="html">Production facilities of the newly opened Qatar Gas</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-qatar-gas_7179964.jpg?20260302144045" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-qatar-gas_7179964.jpg?20260302144045"/>
-    </item>
-    <item>
-      <title>Chancellor to say she has the 'right economic plan' in spring forecast</title>
-      <link>https://news.sky.com/story/rachel-reeves-to-deliver-spring-forecast-13514439</link>
-      <description>Rachel Reeves will insist she has "the right economic plan for our country" and that "working people are better off" thanks to Labour when she delivers her spring forecast to the Commons today.</description>
-      <pubDate>Mon, 02 Mar 2026 21:40:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/rachel-reeves-to-deliver-spring-forecast-13514439</guid>
-      <enclosure url="https://e3.365dm.com/25/12/1920x1080/skynews-rachel-reeves-wales_7097682.jpg?20251201151103" length="0" type="image/jpeg"/>
-      <media:description type="html">Rachel Reeves speaking during the Wales Investment Summit.
-Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/12/1920x1080/skynews-rachel-reeves-wales_7097682.jpg?20251201151103" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/12/1920x1080/skynews-rachel-reeves-wales_7097682.jpg?20251201151103"/>
-    </item>
-    <item>
-      <title>Nearly 500 jobs to be lost as US cannabis firm takes over BrewDog</title>
-      <link>https://news.sky.com/story/nearly-500-jobs-to-be-lost-in-brewdogs-takeover-by-american-firm-tilray-13514417</link>
-      <description>Nearly 500 jobs are expected to be lost when craft beer giant BrewDog is taken over by an American cannabis firm.</description>
-      <pubDate>Mon, 02 Mar 2026 20:24:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/nearly-500-jobs-to-be-lost-in-brewdogs-takeover-by-american-firm-tilray-13514417</guid>
-      <enclosure url="https://e3.365dm.com/22/12/1920x1080/skynews-brewdog-beer_5988857.jpg?20221207031942" length="0" type="image/jpeg"/>
-      <media:description type="html"> </media:description>
-      <media:thumbnail url="https://e3.365dm.com/22/12/1920x1080/skynews-brewdog-beer_5988857.jpg?20221207031942" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/22/12/1920x1080/skynews-brewdog-beer_5988857.jpg?20221207031942"/>
     </item>
   </channel>
 </rss>
