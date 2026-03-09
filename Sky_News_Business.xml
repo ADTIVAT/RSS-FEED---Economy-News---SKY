@@ -12,41 +12,42 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 09 Mar 2026 02:53:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 08:19:00 +0000</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
-      <title>Oil suffers biggest one-day gain in six years as stocks plunge</title>
-      <link>https://news.sky.com/story/iran-war-oil-suffers-biggest-one-day-gain-in-six-years-as-stocks-plunge-13517128</link>
-      <description>The price of oil has clocked its biggest single-day gain in six years - with Brent crude surging by more than 20% to $114 (&amp;#163;85) a barrel.</description>
-      <pubDate>Mon, 09 Mar 2026 01:43:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/iran-war-oil-suffers-biggest-one-day-gain-in-six-years-as-stocks-plunge-13517128</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-markets-crash_7186545.jpg?20260309020129" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-markets-crash_7186545.jpg?20260309020129" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-markets-crash_7186545.jpg?20260309020129"/>
-    </item>
-    <item>
-      <title>Markets are plummeting as the war escalates - but not every industry is affected </title>
+      <title>Misery for millions but some companies could thrive</title>
       <link>https://news.sky.com/story/iran-war-markets-are-plummeting-as-the-conflict-escalates-but-not-every-industry-is-affected-13516947</link>
-      <description>The conflict in Iran is inflicting misery on millions - driving up bills and upending energy markets.</description>
+      <description>The conflict in Iran is inflicting misery on millions, driving up bills and upending energy markets.</description>
       <pubDate>Mon, 09 Mar 2026 02:53:00 +0000</pubDate>
       <guid>https://news.sky.com/story/iran-war-markets-are-plummeting-as-the-conflict-escalates-but-not-every-industry-is-affected-13516947</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-oil-lng_7186549.jpg?20260309025410" length="0" type="image/jpeg"/>
-      <media:description type="html">LNG</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-oil-lng_7186549.jpg?20260309025410" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-oil-lng_7186549.jpg?20260309025410"/>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-venture-global-usa_7186338.jpg?20260308185736" length="0" type="image/jpeg"/>
+      <media:description type="html">Workers at Venture Global&amp;#39;s Plaquemines LNG export facility. Pic: AP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-venture-global-usa_7186338.jpg?20260308185736" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-venture-global-usa_7186338.jpg?20260308185736"/>
     </item>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Mark Kleinman blog | Purplebricks founders move back in with online estate agent's owner Dunstone&lt;/a&gt;</title>
+      <title>'We can earn six figures': Personal trainer on salary, top fitness tips and essential supplements</title>
+      <link>https://news.sky.com/story/we-can-earn-six-figures-personal-trainer-on-salary-top-fitness-tips-and-essential-supplements-13517191</link>
+      <description>What's it really like to be a... personal trainer? Luke Worthington, who specialises in physical preparation for TV and film work, answers the Money blog's questions.
+</description>
+      <pubDate>Mon, 09 Mar 2026 08:19:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/we-can-earn-six-figures-personal-trainer-on-salary-top-fitness-tips-and-essential-supplements-13517191</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-personal-trainer-luke-worthington_7186702.jpg?20260309083136" length="0" type="image/jpeg"/>
+      <media:description type="html">Luke Worthington</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-personal-trainer-luke-worthington_7186702.jpg?20260309083136" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-personal-trainer-luke-worthington_7186702.jpg?20260309083136"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Mark Kleinman blog | Centerbridge eyes Ebury stake after payments firm stalls London stock market listing&lt;/a&gt;</title>
       <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
       <description/>
       <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
       <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-purplebricks-london_7186356.jpg?20260308192325" length="0" type="image/jpeg"/>
-      <media:description type="html">A sign for online estate agent Purplebricks is pictured outside a property in London. File pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-purplebricks-london_7186356.jpg?20260308192325" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-purplebricks-london_7186356.jpg?20260308192325"/>
+      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-mobile-phone-file-pic_7146442.jpg?20260126155006" length="0" type="image/jpeg"/>
+      <media:description type="html">File pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-mobile-phone-file-pic_7146442.jpg?20260126155006" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-mobile-phone-file-pic_7146442.jpg?20260126155006"/>
     </item>
     <item>
       <title>The global economy's worst nightmare is here and the consequences could be scary</title>
@@ -60,7 +61,7 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-strait-hormuz-oil-lng_7178489.jpg?20260301070043"/>
     </item>
     <item>
-      <title>The 'dropping tax band' trick that could help you now - and boost your pension | Money newsletter</title>
+      <title>The 'dropping tax band' trick that could boost your pension | Money newsletter</title>
       <link>https://news.sky.com/story/money-newsletter-sky-news-13367142</link>
       <description>More than 170,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every Friday.</description>
       <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
