@@ -12,9 +12,49 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 09 Mar 2026 08:19:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 10:16:00 +0000</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>What the Iran war could mean for your mortgage payments and energy bills</title>
+      <link>https://news.sky.com/story/iran-war-the-outlook-for-your-finances-whether-hostilities-end-or-not-13517570</link>
+      <description>Donald Trump has raised hopes that the US-Israel military strikes on Iran may soon be over.</description>
+      <pubDate>Tue, 10 Mar 2026 06:48:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/iran-war-the-outlook-for-your-finances-whether-hostilities-end-or-not-13517570</guid>
+    </item>
+    <item>
+      <title>The world's richest billionaires named</title>
+      <link>https://news.sky.com/story/latest-worlds-richest-people-rankings-revealed-as-number-of-uber-wealthy-grows-13517650</link>
+      <description>The number of billionaires has surged to a record-breaking 3,428, with Elon Musk retaining the title of the world's richest person, according to Forbes.</description>
+      <pubDate>Tue, 10 Mar 2026 10:16:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/latest-worlds-richest-people-rankings-revealed-as-number-of-uber-wealthy-grows-13517650</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-trump-donald_7187450.jpg?20260309234103" length="0" type="image/jpeg"/>
+      <media:description type="html">Donald Trump gives an update on the Iran war / AP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-trump-donald_7187450.jpg?20260309234103" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-trump-donald_7187450.jpg?20260309234103"/>
+    </item>
+    <item>
+      <title>Energy prices ease and stocks recover on hopes Trump will end war soon</title>
+      <link>https://news.sky.com/story/energy-prices-ease-on-hope-trump-will-call-halt-to-iran-war-soon-13517548</link>
+      <description>Oil prices have fallen and stock markets are clawing back some lost ground after Donald Trump raised hopes that Iran war disruption to the global economy would soon be over.</description>
+      <pubDate>Tue, 10 Mar 2026 05:20:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/energy-prices-ease-on-hope-trump-will-call-halt-to-iran-war-soon-13517548</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-bapco-oil-iran-bahrain_7186634.jpg?20260309073258" length="0" type="image/jpeg"/>
+      <media:description type="html">Smoke rises following a strike on the Bapco Oil Refinery, amid the U.S.-Israeli conflict with Iran, on Sitra Island Bahrain, March 9, 2026. Picture taken with a mobile phone. REUTERS/Stringer .     TPX IMAGES OF THE DAY        REFILE - UPDATING LOCATION IN HEADLINE</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-bapco-oil-iran-bahrain_7186634.jpg?20260309073258" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-bapco-oil-iran-bahrain_7186634.jpg?20260309073258"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Mark Kleinman blog | Post Office names acting finance chief after incumbent McCann's abrupt exit&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/25/10/1920x1080/skynews-post-office-sign_7068058.jpg?20251031171735" length="0" type="image/jpeg"/>
+      <media:description type="html">Browadway, Worcestershire, UK - 5 November 2023: Sign on the outside wall of the village post office in Broadway. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/10/1920x1080/skynews-post-office-sign_7068058.jpg?20251031171735" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/10/1920x1080/skynews-post-office-sign_7068058.jpg?20251031171735"/>
+    </item>
     <item>
       <title>Misery for millions but some companies could thrive</title>
       <link>https://news.sky.com/story/iran-war-markets-are-plummeting-as-the-conflict-escalates-but-not-every-industry-is-affected-13516947</link>
@@ -39,15 +79,15 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-personal-trainer-luke-worthington_7186702.jpg?20260309083136"/>
     </item>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Mark Kleinman blog | Centerbridge eyes Ebury stake after payments firm stalls London stock market listing&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description/>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-mobile-phone-file-pic_7146442.jpg?20260126155006" length="0" type="image/jpeg"/>
-      <media:description type="html">File pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-mobile-phone-file-pic_7146442.jpg?20260126155006" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-mobile-phone-file-pic_7146442.jpg?20260126155006"/>
+      <title>The 'dropping tax band' trick that could boost your pension | Money newsletter</title>
+      <link>https://news.sky.com/story/money-newsletter-sky-news-13367142</link>
+      <description>More than 170,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every Friday.</description>
+      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/money-newsletter-sky-news-13367142</guid>
+      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-hmrc-resolutions_7129160.jpg?20260107151812" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-hmrc-resolutions_7129160.jpg?20260107151812" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-hmrc-resolutions_7129160.jpg?20260107151812"/>
     </item>
     <item>
       <title>The global economy's worst nightmare is here and the consequences could be scary</title>
@@ -59,17 +99,6 @@
       <media:description type="html">An aerial view of the Iranian shores and the island of Qeshm in the strait of Hormuz in 2023. File pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-strait-hormuz-oil-lng_7178489.jpg?20260301070043" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-strait-hormuz-oil-lng_7178489.jpg?20260301070043"/>
-    </item>
-    <item>
-      <title>The 'dropping tax band' trick that could boost your pension | Money newsletter</title>
-      <link>https://news.sky.com/story/money-newsletter-sky-news-13367142</link>
-      <description>More than 170,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every Friday.</description>
-      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/money-newsletter-sky-news-13367142</guid>
-      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-hmrc-resolutions_7129160.jpg?20260107151812" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-hmrc-resolutions_7129160.jpg?20260107151812" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-hmrc-resolutions_7129160.jpg?20260107151812"/>
     </item>
     <item>
       <title>European media giant to buy Telegraph in &amp;#163;575m deal</title>
@@ -92,39 +121,6 @@
       <media:description type="html">A man holds his water bill. Pic: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/25/05/1920x1080/skynews-water-bill-bills_6911000.jpg?20250509123621" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/05/1920x1080/skynews-water-bill-bills_6911000.jpg?20250509123621"/>
-    </item>
-    <item>
-      <title>Diesel at 16-month high in UK as Iran war drives oil prices up further</title>
-      <link>https://news.sky.com/story/diesel-at-16-month-high-as-iran-war-drives-oil-prices-up-further-13515828</link>
-      <description>UK average diesel costs have hit a 16-month high, less than a week after war gripped the Middle East and sent oil costs rocketing.</description>
-      <pubDate>Thu, 05 Mar 2026 18:41:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/diesel-at-16-month-high-as-iran-war-drives-oil-prices-up-further-13515828</guid>
-      <enclosure url="https://e3.365dm.com/21/11/1920x1080/skynews-generic-fuel-pump-inflation_5570305.jpg?20211103135312" length="0" type="image/jpeg"/>
-      <media:description type="html">Fuel pump. Pic: AP</media:description>
-      <media:thumbnail url="https://e3.365dm.com/21/11/1920x1080/skynews-generic-fuel-pump-inflation_5570305.jpg?20211103135312" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/21/11/1920x1080/skynews-generic-fuel-pump-inflation_5570305.jpg?20211103135312"/>
-    </item>
-    <item>
-      <title>&amp;#163;22m fine for South East Water over repeated supply failures</title>
-      <link>https://news.sky.com/story/south-east-water-fined-16322m-for-repeated-supply-failures-13515456</link>
-      <description>South East Water is to be fined &amp;#163;22m for repeated supply failures, watchdog Ofwat has said.</description>
-      <pubDate>Thu, 05 Mar 2026 06:51:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/south-east-water-fined-16322m-for-repeated-supply-failures-13515456</guid>
-      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-south-east-water-maidstone_7137718.jpg?20260117100602" length="0" type="image/jpeg"/>
-      <media:description type="html">South East Water staff hand out bottled water at a water station in Maidstone. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-south-east-water-maidstone_7137718.jpg?20260117100602" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-south-east-water-maidstone_7137718.jpg?20260117100602"/>
-    </item>
-    <item>
-      <title>&lt;a href='https://news.sky.com/story/money-live-tips-personal-finance-consumer-sky-news-latest-13040934?postid=11199735#liveblog-body'&gt;&amp;#163;8bn private dentistry industry to be investigated after 'significant' price hikes&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/private-dentist-price-hikes-to-be-investigated-by-competition-watchdog-13515507</link>
-      <description/>
-      <pubDate>Thu, 05 Mar 2026 09:10:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/private-dentist-price-hikes-to-be-investigated-by-competition-watchdog-13515507</guid>
-      <enclosure url="https://e3.365dm.com/25/12/1920x1080/skynews-dentist-teeth_7111588.jpg?20251216044235" length="0" type="image/jpeg"/>
-      <media:description type="html">A dentist at work. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/12/1920x1080/skynews-dentist-teeth_7111588.jpg?20251216044235" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/12/1920x1080/skynews-dentist-teeth_7111588.jpg?20251216044235"/>
     </item>
   </channel>
 </rss>
