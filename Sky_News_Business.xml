@@ -12,15 +12,41 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 10 Mar 2026 10:16:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 00:01:00 +0000</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
-      <title>What the Iran war could mean for your mortgage payments and energy bills</title>
+      <title>Dark ships and shadow fleets &amp;#8211; what is crossing 'closed' Strait of Hormuz?</title>
+      <link>https://news.sky.com/story/dark-ships-and-shadow-fleets-8211-what-is-crossing-closed-strait-of-hormuz-13517746</link>
+      <description>Iran's move to shut the Strait of Hormuz has brought shipping through the 24-mile stretch of water close to a standstill.  </description>
+      <pubDate>Tue, 10 Mar 2026 19:24:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/dark-ships-and-shadow-fleets-8211-what-is-crossing-closed-strait-of-hormuz-13517746</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-dxf-reuters_7188048.jpg?20260310164418" length="0" type="image/jpeg"/>
+      <media:description type="html">Tanker its anchored in Muscat, as Iran vows to close the Strait of Hormuz, March 7, 2026. REUTERS/Benoit Tessier. </media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-dxf-reuters_7188048.jpg?20260310164418" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-dxf-reuters_7188048.jpg?20260310164418"/>
+    </item>
+    <item>
+      <title>Mixed review for British theatre</title>
+      <link>https://news.sky.com/story/british-theatre-is-beating-broadway-but-still-has-one-massive-problem-13517690</link>
+      <description>Theatre is enjoying a renaissance across the UK, welcoming more people to live events than ever before, but over a third of organisations say they still expect to operate at a deficit this year.</description>
+      <pubDate>Wed, 11 Mar 2026 00:01:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/british-theatre-is-beating-broadway-but-still-has-one-massive-problem-13517690</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-much-ado-about-nothing_7187833.jpg?20260310115917" length="0" type="image/jpeg"/>
+      <media:description type="html">Much Ado About Nothing, starring Hayley Atwell,Tom Hiddleston and Marc Brenner. Pic: SOLT/UK Theatre</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-much-ado-about-nothing_7187833.jpg?20260310115917" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-much-ado-about-nothing_7187833.jpg?20260310115917"/>
+    </item>
+    <item>
+      <title>What the Iran war could mean for your food, mortgage payments and energy bills</title>
       <link>https://news.sky.com/story/iran-war-the-outlook-for-your-finances-whether-hostilities-end-or-not-13517570</link>
       <description>Donald Trump has raised hopes that the US-Israel military strikes on Iran may soon be over.</description>
       <pubDate>Tue, 10 Mar 2026 06:48:00 +0000</pubDate>
       <guid>https://news.sky.com/story/iran-war-the-outlook-for-your-finances-whether-hostilities-end-or-not-13517570</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-money-gfx-graphic-war_7187698.jpg?20260310094437" length="0" type="image/jpeg"/>
+      <media:description type="html">X</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-money-gfx-graphic-war_7187698.jpg?20260310094437" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-money-gfx-graphic-war_7187698.jpg?20260310094437"/>
     </item>
     <item>
       <title>The world's richest billionaires named</title>
@@ -32,6 +58,17 @@
       <media:description type="html">Donald Trump gives an update on the Iran war / AP</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-trump-donald_7187450.jpg?20260309234103" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-trump-donald_7187450.jpg?20260309234103"/>
+    </item>
+    <item>
+      <title>The 'dropping tax band' trick that could boost your pension | Money newsletter</title>
+      <link>https://news.sky.com/story/money-newsletter-sky-news-13367142</link>
+      <description>More than 170,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every Friday.</description>
+      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/money-newsletter-sky-news-13367142</guid>
+      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-hmrc-resolutions_7129160.jpg?20260107151812" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-hmrc-resolutions_7129160.jpg?20260107151812" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-hmrc-resolutions_7129160.jpg?20260107151812"/>
     </item>
     <item>
       <title>Energy prices ease and stocks recover on hopes Trump will end war soon</title>
@@ -79,17 +116,6 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-personal-trainer-luke-worthington_7186702.jpg?20260309083136"/>
     </item>
     <item>
-      <title>The 'dropping tax band' trick that could boost your pension | Money newsletter</title>
-      <link>https://news.sky.com/story/money-newsletter-sky-news-13367142</link>
-      <description>More than 170,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every Friday.</description>
-      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/money-newsletter-sky-news-13367142</guid>
-      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-hmrc-resolutions_7129160.jpg?20260107151812" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-hmrc-resolutions_7129160.jpg?20260107151812" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-hmrc-resolutions_7129160.jpg?20260107151812"/>
-    </item>
-    <item>
       <title>The global economy's worst nightmare is here and the consequences could be scary</title>
       <link>https://news.sky.com/story/the-global-economys-worst-nightmare-is-here-and-the-consequences-could-be-scary-13516139</link>
       <description>For years, geopolitical analysts warned us that among the scariest of all scenarios for the world economy was the closure of the Strait of Hormuz.</description>
@@ -99,28 +125,6 @@
       <media:description type="html">An aerial view of the Iranian shores and the island of Qeshm in the strait of Hormuz in 2023. File pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-strait-hormuz-oil-lng_7178489.jpg?20260301070043" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-strait-hormuz-oil-lng_7178489.jpg?20260301070043"/>
-    </item>
-    <item>
-      <title>European media giant to buy Telegraph in &amp;#163;575m deal</title>
-      <link>https://news.sky.com/story/german-media-giant-axel-springer-to-buy-telegraph-media-group-in-163575m-deal-13516157</link>
-      <description>German media giant Axel Springer is to buy Telegraph Media Group in a &amp;#163;575m deal that will see the Daily and Sunday Telegraph print titles and their online business come under overseas ownership.</description>
-      <pubDate>Fri, 06 Mar 2026 13:34:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/german-media-giant-axel-springer-to-buy-telegraph-media-group-in-163575m-deal-13516157</guid>
-      <enclosure url="https://e3.365dm.com/25/11/1920x1080/95d05ccd17ddf532718449f9fe5f80b4c1a96320612fcdbc48a80c1386b561b8_7081975.jpg?20251114130414" length="0" type="image/jpeg"/>
-      <media:description type="html">Daily Telegraph</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/95d05ccd17ddf532718449f9fe5f80b4c1a96320612fcdbc48a80c1386b561b8_7081975.jpg?20251114130414" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/95d05ccd17ddf532718449f9fe5f80b4c1a96320612fcdbc48a80c1386b561b8_7081975.jpg?20251114130414"/>
-    </item>
-    <item>
-      <title>The water companies using bailiffs to collect customer debt more than 6,000 times a year</title>
-      <link>https://news.sky.com/story/the-water-companies-using-bailiffs-to-collect-customer-debt-more-than-6000-times-a-year-13516046</link>
-      <description>Some water companies are instructing bailiffs as they try to recover customers' debt more than 6,000 times in a single year, new data reveals.</description>
-      <pubDate>Fri, 06 Mar 2026 09:25:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/the-water-companies-using-bailiffs-to-collect-customer-debt-more-than-6000-times-a-year-13516046</guid>
-      <enclosure url="https://e3.365dm.com/25/05/1920x1080/skynews-water-bill-bills_6911000.jpg?20250509123621" length="0" type="image/jpeg"/>
-      <media:description type="html">A man holds his water bill. Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/05/1920x1080/skynews-water-bill-bills_6911000.jpg?20250509123621" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/05/1920x1080/skynews-water-bill-bills_6911000.jpg?20250509123621"/>
     </item>
   </channel>
 </rss>
