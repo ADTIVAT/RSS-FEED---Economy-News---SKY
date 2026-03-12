@@ -16,17 +16,6 @@
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
-      <title>Extraordinary announcement not enough to bring down oil price</title>
-      <link>https://news.sky.com/story/extraordinary-iea-announcement-not-enough-to-bring-down-oil-price-13518317</link>
-      <description>The International Energy Agency (IEA), the developed nation body founded in the 1970s to deal with oil crises precisely like the one we're now facing, has announced something extraordinary.</description>
-      <pubDate>Wed, 11 Mar 2026 17:42:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/extraordinary-iea-announcement-not-enough-to-bring-down-oil-price-13518317</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-strait-of-hormuz-tankers_7189574.jpg?20260311224214" length="0" type="image/jpeg"/>
-      <media:description type="html">Oil tankers and cargo ships line up in the Strait of Hormuz. Pic: AP</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-strait-of-hormuz-tankers_7189574.jpg?20260311224214" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-strait-of-hormuz-tankers_7189574.jpg?20260311224214"/>
-    </item>
-    <item>
       <title>First annual bonus in four years at John Lewis Partnership</title>
       <link>https://news.sky.com/story/john-lewis-partnership-hands-out-first-annual-bonus-in-four-years-13518512</link>
       <description>The John Lewis Partnership (JLP) has announced its first annual bonus since 2022 following further progress in its post pandemic turnaround .</description>
@@ -58,6 +47,17 @@
       <media:description type="html">Social media apps on a mobile phone. Pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-social-media-phone_7189158.jpg?20260311164835" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-social-media-phone_7189158.jpg?20260311164835"/>
+    </item>
+    <item>
+      <title>Extraordinary announcement not enough to bring down oil price</title>
+      <link>https://news.sky.com/story/extraordinary-iea-announcement-not-enough-to-bring-down-oil-price-13518317</link>
+      <description>The International Energy Agency (IEA), the developed nation body founded in the 1970s to deal with oil crises precisely like the one we're now facing, has announced something extraordinary.</description>
+      <pubDate>Wed, 11 Mar 2026 17:42:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/extraordinary-iea-announcement-not-enough-to-bring-down-oil-price-13518317</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-strait-of-hormuz-tankers_7189574.jpg?20260311224214" length="0" type="image/jpeg"/>
+      <media:description type="html">Oil tankers and cargo ships line up in the Strait of Hormuz. Pic: AP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-strait-of-hormuz-tankers_7189574.jpg?20260311224214" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-strait-of-hormuz-tankers_7189574.jpg?20260311224214"/>
     </item>
     <item>
       <title>Biggest ever release of oil reserves to ease war supply disruption</title>
