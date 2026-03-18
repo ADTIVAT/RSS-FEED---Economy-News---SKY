@@ -12,19 +12,64 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 16 Mar 2026 15:09:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 21:17:00 +0000</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
-      <title>Stop blaming Brexit for economic woes, Reeves told</title>
-      <link>https://news.sky.com/story/deeper-ties-to-europe-and-ai-the-best-ways-to-boost-economic-growth-chancellor-to-say-13520561</link>
-      <description>Rachel Reeves has been accused of trying to "row back on Brexit", as the chancellor prepares to set out how "deeper" ties with the EU will help drive economic growth.</description>
-      <pubDate>Mon, 16 Mar 2026 15:09:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/deeper-ties-to-europe-and-ai-the-best-ways-to-boost-economic-growth-chancellor-to-say-13520561</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-rachel-reeves-g7-downing-street_7186963.jpg?20260309125855" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-rachel-reeves-g7-downing-street_7186963.jpg?20260309125855" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-rachel-reeves-g7-downing-street_7186963.jpg?20260309125855"/>
+      <title>Naval escorts could make tankers a target, UN warns</title>
+      <link>https://news.sky.com/story/naval-escorts-could-make-tankers-a-target-warns-un-maritime-chief-13520901</link>
+      <description>Naval escorts will not guarantee safe passage for oil tankers through the Strait of Hormuz and could even present a target for Iran as it attempts to leverage control of the vital shipping lane, the head of the International Maritime Organisation (IMO) has warned.</description>
+      <pubDate>Tue, 17 Mar 2026 14:56:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/naval-escorts-could-make-tankers-a-target-warns-un-maritime-chief-13520901</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-tanker-basra_7189835.jpg?20260312093835" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-tanker-basra_7189835.jpg?20260312093835" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-tanker-basra_7189835.jpg?20260312093835"/>
+    </item>
+    <item>
+      <title>North Sea oil - is it time to reconsider drilling?</title>
+      <link>https://news.sky.com/story/north-sea-oil-is-it-time-to-reconsider-drilling-13520893</link>
+      <description>It is easy to forget that not all that long ago, Britain was one of the world's biggest oil producers.</description>
+      <pubDate>Tue, 17 Mar 2026 14:38:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/north-sea-oil-is-it-time-to-reconsider-drilling-13520893</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-north-sea-oil-gfx-graphic_7195422.jpg?20260317143853" length="0" type="image/jpeg"/>
+      <media:description type="html">X</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-north-sea-oil-gfx-graphic_7195422.jpg?20260317143853" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-north-sea-oil-gfx-graphic_7195422.jpg?20260317143853"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Mark Kleinman blog | Tycoon Caring said to near &amp;#163;1.3bn sale of Ivy and Annabel's hospitality empire&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/24/09/1920x1080/skynews-richard-caring-shutterstock_6677949.jpg?20240906093433" length="0" type="image/jpeg"/>
+      <media:description type="html">Richard Caring.
+Pic: Shutterstock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/24/09/1920x1080/skynews-richard-caring-shutterstock_6677949.jpg?20240906093433" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/24/09/1920x1080/skynews-richard-caring-shutterstock_6677949.jpg?20240906093433"/>
+    </item>
+    <item>
+      <title>Government prepares to sue Abramovich after he missed deadline to release &amp;#163;2.5bn from Chelsea sale</title>
+      <link>https://news.sky.com/story/government-prepares-to-sue-abramovich-after-he-missed-deadline-to-release-16325bn-from-chelsea-sale-13521043</link>
+      <description>Sanctioned former Chelsea owner Roman Abramovich has been put on notice that legal action is coming from the UK government after failing "to do the right thing" and release the &amp;#163;2.5bn from the club's sale to help Ukraine.</description>
+      <pubDate>Tue, 17 Mar 2026 21:17:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/government-prepares-to-sue-abramovich-after-he-missed-deadline-to-release-16325bn-from-chelsea-sale-13521043</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-roman-abramovich-russian_7189148.jpg?20260311163011" length="0" type="image/jpeg"/>
+      <media:description type="html">Roman Abramovich. File pic: AP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-roman-abramovich-russian_7189148.jpg?20260311163011" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-roman-abramovich-russian_7189148.jpg?20260311163011"/>
+    </item>
+    <item>
+      <title>How 'cruel' friendship fraudsters are scamming older people</title>
+      <link>https://news.sky.com/story/how-cruel-friendship-fraudsters-are-scamming-older-people-13520850</link>
+      <description>Older and vulnerable people are being targeted by "cruel" friendship fraudsters online, one of the UK's biggest banks has warned.</description>
+      <pubDate>Tue, 17 Mar 2026 12:31:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/how-cruel-friendship-fraudsters-are-scamming-older-people-13520850</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-elderly-fraud_7195354.jpg?20260317132925" length="0" type="image/jpeg"/>
+      <media:description type="html">File image: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-elderly-fraud_7195354.jpg?20260317132925" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-elderly-fraud_7195354.jpg?20260317132925"/>
     </item>
     <item>
       <title>What the Iran war could mean for your food, mortgage and energy bills</title>
@@ -49,7 +94,7 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-chelsea-stamford-bridge_7194476.jpg?20260316132300"/>
     </item>
     <item>
-      <title>What high gilt yields mean for pensions | Money newsletter</title>
+      <title>Why high UK borrowing costs could be good for pensions | Money newsletter</title>
       <link>https://news.sky.com/story/money-newsletter-sky-news-13367142</link>
       <description>More than 175,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every Friday.</description>
       <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
@@ -58,6 +103,17 @@
       <media:description type="html">Older woman assessing a bill. Pic: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-money-blog-widow-pension_7091158.jpg?20251125061949" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-money-blog-widow-pension_7091158.jpg?20251125061949"/>
+    </item>
+    <item>
+      <title>Why an energy bailout will cost us long term</title>
+      <link>https://news.sky.com/story/why-an-energy-bailout-will-cost-us-long-term-13520946</link>
+      <description>&lt;a href='https://podcasts.apple.com/us/podcast/sky-news-daily/id951048357' target='_blank'&gt;👉 Listen to This Is Why on your podcast app 👈&lt;/a&gt;</description>
+      <pubDate>Tue, 17 Mar 2026 16:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/why-an-energy-bailout-will-cost-us-long-term-13520946</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-this-is-why-podcast_7195529.png?20260317162310" length="0" type="image/png"/>
+      <media:description type="html">170326 THIS IS WHY - ENERGY BAILOUT </media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-this-is-why-podcast_7195529.png?20260317162310" width="1920" height="1080"/>
+      <media:content type="image/png" url="https://e3.365dm.com/26/03/1920x1080/skynews-this-is-why-podcast_7195529.png?20260317162310"/>
     </item>
     <item>
       <title>Businesses to get state bonus for hiring unemployed young people</title>
@@ -69,61 +125,6 @@
       <media:description type="html">A young teenage boy and girl enjoying their first job working in a cafe in Tynemouth, England. Archive pic: SolStock/iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-cafe-hospitality-youth_7168412.jpg?20260218162651" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-cafe-hospitality-youth_7168412.jpg?20260218162651"/>
-    </item>
-    <item>
-      <title>Starmer to unveil emergency support for households worst hit by energy price rises</title>
-      <link>https://news.sky.com/story/keir-starmer-to-unveil-emergency-support-for-households-worst-hit-by-energy-price-rises-13520195</link>
-      <description>Emergency help for poorer households hit by energy bills driven up by the Iran war is to be unveiled by Sir Keir Starmer.</description>
-      <pubDate>Sun, 15 Mar 2026 23:00:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/keir-starmer-to-unveil-emergency-support-for-households-worst-hit-by-energy-price-rises-13520195</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-starmer-keir_7193871.jpg?20260315223758" length="0" type="image/jpeg"/>
-      <media:description type="html">Prime Minister Sir Keir Starmer. Pic: PA </media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-starmer-keir_7193871.jpg?20260315223758" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-starmer-keir_7193871.jpg?20260315223758"/>
-    </item>
-    <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;US real estate giant StepStone eyes stake in &amp;#163;4.5bn Center Parcs UK deal&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description/>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/25/12/1920x1080/skynews-center-parcs-pr_7119881.jpg?20251227084037" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: Center Parcs </media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/12/1920x1080/skynews-center-parcs-pr_7119881.jpg?20251227084037" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/12/1920x1080/skynews-center-parcs-pr_7119881.jpg?20251227084037"/>
-    </item>
-    <item>
-      <title>'I'm a window cleaner - here's a cleaning technique you won't know and the customer comment that annoys us'</title>
-      <link>https://news.sky.com/story/im-a-window-cleaner-heres-a-cleaning-technique-you-wont-know-and-the-customer-comment-that-annoys-us-13520470</link>
-      <description>If you've ever spent your morning commute daydreaming about starting afresh with your career, this feature is for you. </description>
-      <pubDate>Mon, 16 Mar 2026 11:28:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/im-a-window-cleaner-heres-a-cleaning-technique-you-wont-know-and-the-customer-comment-that-annoys-us-13520470</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-window-cleaner-window_7194363.jpg?20260316113910" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-window-cleaner-window_7194363.jpg?20260316113910" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-window-cleaner-window_7194363.jpg?20260316113910"/>
-    </item>
-    <item>
-      <title>Rachel Reeves is taking a gamble as the Gulf conflict hits energy prices</title>
-      <link>https://news.sky.com/story/rachel-reeves-is-taking-a-gamble-as-the-gulf-conflict-hits-energy-prices-13519592</link>
-      <description>Targeted support for the poorest households who rely on heating oil is coming, we understand, with Chancellor Rachel Reeves set to make an announcement as soon as Monday.</description>
-      <pubDate>Sat, 14 Mar 2026 14:36:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/rachel-reeves-is-taking-a-gamble-as-the-gulf-conflict-hits-energy-prices-13519592</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-rachel-reeves-chancellor_7192254.jpg?20260314150539" length="0" type="image/jpeg"/>
-      <media:description type="html">Rachel Reeves during a tour of Octopus Energy offices in London. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-rachel-reeves-chancellor_7192254.jpg?20260314150539" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-rachel-reeves-chancellor_7192254.jpg?20260314150539"/>
-    </item>
-    <item>
-      <title>Ministers warn petrol retailers over prices in meeting</title>
-      <link>https://news.sky.com/story/ministers-warn-petrol-retailers-over-prices-in-meeting-13519374</link>
-      <description>Chancellor Rachel Reeves has warned petrol retailers of a "shared obligation" to keep prices down for motorists amid soaring prices and war in the Middle East.</description>
-      <pubDate>Fri, 13 Mar 2026 19:52:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/ministers-warn-petrol-retailers-over-prices-in-meeting-13519374</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-rachel-reeves-petrol_7191648.jpg?20260313200638" length="0" type="image/jpeg"/>
-      <media:description type="html">Chancellor of the Exchequer Rachel Reeves and Energy Security and Net Zero Secretary Ed Miliband at today&amp;#39;s meeting</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-rachel-reeves-petrol_7191648.jpg?20260313200638" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-rachel-reeves-petrol_7191648.jpg?20260313200638"/>
     </item>
   </channel>
 </rss>
