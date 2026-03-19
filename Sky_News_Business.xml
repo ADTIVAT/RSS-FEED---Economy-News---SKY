@@ -12,9 +12,53 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 17 Mar 2026 21:17:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 06:32:00 +0000</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Why the plan to save UK steel is economic dynamite</title>
+      <link>https://news.sky.com/story/watershed-moment-as-uk-levies-steel-tariff-in-new-strategy-13521500</link>
+      <description>There is a small fraction of the population for whom the release of the government's new Steel Strategy represents an extraordinarily fascinating, not to mention important, moment. The chances are you are not one of those people. </description>
+      <pubDate>Wed, 18 Mar 2026 19:10:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/watershed-moment-as-uk-levies-steel-tariff-in-new-strategy-13521500</guid>
+      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-british-steel-scunthorpe_7095101.jpg?20251129082435" length="0" type="image/jpeg"/>
+      <media:description type="html">A worker at one of the blast furnaces at British Steel&amp;#39;s site in Scunthorpe. Pic: Darren Staples/ Pool via AP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-british-steel-scunthorpe_7095101.jpg?20251129082435" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-british-steel-scunthorpe_7095101.jpg?20251129082435"/>
+    </item>
+    <item>
+      <title>Unemployment stuck at five year high as youth rate climbs</title>
+      <link>https://news.sky.com/story/new-uk-unemployment-figures-released-13521630</link>
+      <description>UK unemployment has remained at its highest rate in five years, new official figures show.</description>
+      <pubDate>Thu, 19 Mar 2026 06:32:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/new-uk-unemployment-figures-released-13521630</guid>
+      <enclosure url="https://e3.365dm.com/25/12/1920x1080/skynews-job-centre-plus-job-centre_7103533.jpg?20251207122334" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock                    </media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/12/1920x1080/skynews-job-centre-plus-job-centre_7103533.jpg?20251207122334" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/12/1920x1080/skynews-job-centre-plus-job-centre_7103533.jpg?20251207122334"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Mark Kleinman blog | Real Greek owner weighs restructuring options for casual dining chain&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/21/05/1920x1080/skynews-the-real-greek-restaurant_5397751.jpg?20210528133829" length="0" type="image/jpeg"/>
+      <media:description type="html">The Real Greek restaurant Windsor - undated photo handout from Fulham Shore - sent 28/5/21</media:description>
+      <media:thumbnail url="https://e3.365dm.com/21/05/1920x1080/skynews-the-real-greek-restaurant_5397751.jpg?20210528133829" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/21/05/1920x1080/skynews-the-real-greek-restaurant_5397751.jpg?20210528133829"/>
+    </item>
+    <item>
+      <title>US central bank predicts inflation rise from Iran war as oil prices surge again</title>
+      <link>https://news.sky.com/story/us-central-bank-eyes-iran-war-lift-to-inflation-as-oil-prices-surge-again-13521369</link>
+      <description>The US central bank has raised its forecast for inflation as the Iran war-linked surge in global energy prices threatens self-inflicted damage on the world's largest economy.</description>
+      <pubDate>Wed, 18 Mar 2026 13:59:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/us-central-bank-eyes-iran-war-lift-to-inflation-as-oil-prices-surge-again-13521369</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-us-gas-petrol-station_7196505.jpg?20260318141553" length="0" type="image/jpeg"/>
+      <media:description type="html">US fuel prices have risen more than 25% since the start of the war. Pic: AP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-us-gas-petrol-station_7196505.jpg?20260318141553" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-us-gas-petrol-station_7196505.jpg?20260318141553"/>
+    </item>
     <item>
       <title>Naval escorts could make tankers a target, UN warns</title>
       <link>https://news.sky.com/story/naval-escorts-could-make-tankers-a-target-warns-un-maritime-chief-13520901</link>
@@ -38,15 +82,15 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-north-sea-oil-gfx-graphic_7195422.jpg?20260317143853"/>
     </item>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Mark Kleinman blog | Frasers tycoon Ashley aims to ride to rescue of kids&amp;#8217; cycle maker Frog Bikes&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description/>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/24/02/1920x1080/skynews-mike-ashley-rolls-snow_6466233.jpg?20240223104843" length="0" type="image/jpeg"/>
-      <media:description type="html">Mike Ashley outside the Rolls Building                                                                                                                                                                                                   </media:description>
-      <media:thumbnail url="https://e3.365dm.com/24/02/1920x1080/skynews-mike-ashley-rolls-snow_6466233.jpg?20240223104843" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/24/02/1920x1080/skynews-mike-ashley-rolls-snow_6466233.jpg?20240223104843"/>
+      <title>Why high UK borrowing costs could be good for pensions | Money newsletter</title>
+      <link>https://news.sky.com/story/money-newsletter-sky-news-13367142</link>
+      <description>More than 175,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every Friday.</description>
+      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/money-newsletter-sky-news-13367142</guid>
+      <enclosure url="https://e3.365dm.com/25/08/1920x1080/skynews-pensioner-tax-money_7000874.jpg?20250825112559" length="0" type="image/jpeg"/>
+      <media:description type="html">An old lady takes out British money from an old-fashioned purse. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/08/1920x1080/skynews-pensioner-tax-money_7000874.jpg?20250825112559" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/08/1920x1080/skynews-pensioner-tax-money_7000874.jpg?20250825112559"/>
     </item>
     <item>
       <title>Government prepares to sue Abramovich after he missed deadline to release &amp;#163;2.5bn from Chelsea sale</title>
@@ -71,17 +115,6 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-elderly-fraud_7195354.jpg?20260317132925"/>
     </item>
     <item>
-      <title>Everything that's rising next month - from bills to pensions | Money newsletter</title>
-      <link>https://news.sky.com/story/money-newsletter-sky-news-13367142</link>
-      <description>More than 175,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every Friday.</description>
-      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/money-newsletter-sky-news-13367142</guid>
-      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-money-blog-widow-pension_7091158.jpg?20251125061949" length="0" type="image/jpeg"/>
-      <media:description type="html">Older woman assessing a bill. Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-money-blog-widow-pension_7091158.jpg?20251125061949" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-money-blog-widow-pension_7091158.jpg?20251125061949"/>
-    </item>
-    <item>
       <title>What the Iran war could mean for your food, mortgage and energy bills</title>
       <link>https://news.sky.com/story/iran-war-the-outlook-for-your-finances-whether-hostilities-end-or-not-13517570</link>
       <description>Donald Trump has raised hopes several times that the US-Israel military strikes on Iran may soon be over.</description>
@@ -91,39 +124,6 @@
       <media:description type="html">X</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-money-gfx-graphic-war_7187698.jpg?20260310094437" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-money-gfx-graphic-war_7187698.jpg?20260310094437"/>
-    </item>
-    <item>
-      <title>Chelsea given record fine and suspended transfer ban over secret payments</title>
-      <link>https://news.sky.com/story/chelsea-given-record-1631075m-fine-and-suspended-transfer-ban-over-secret-transfer-payments-13520553</link>
-      <description>Chelsea have been given a suspended one-year transfer ban, and fined a record &amp;#163;10.75m, after admitting historical breaches of Premier League rules.</description>
-      <pubDate>Mon, 16 Mar 2026 14:32:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/chelsea-given-record-1631075m-fine-and-suspended-transfer-ban-over-secret-transfer-payments-13520553</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-chelsea-stamford-bridge_7194476.jpg?20260316132300" length="0" type="image/jpeg"/>
-      <media:description type="html">Chelsea fans outside Stamford Bridge. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-chelsea-stamford-bridge_7194476.jpg?20260316132300" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-chelsea-stamford-bridge_7194476.jpg?20260316132300"/>
-    </item>
-    <item>
-      <title>Why an energy bailout will cost us long term</title>
-      <link>https://news.sky.com/story/why-an-energy-bailout-will-cost-us-long-term-13520946</link>
-      <description>&lt;a href='https://podcasts.apple.com/us/podcast/sky-news-daily/id951048357' target='_blank'&gt;👉 Listen to This Is Why on your podcast app 👈&lt;/a&gt;</description>
-      <pubDate>Tue, 17 Mar 2026 16:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/why-an-energy-bailout-will-cost-us-long-term-13520946</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-this-is-why-podcast_7195529.png?20260317162310" length="0" type="image/png"/>
-      <media:description type="html">170326 THIS IS WHY - ENERGY BAILOUT </media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-this-is-why-podcast_7195529.png?20260317162310" width="1920" height="1080"/>
-      <media:content type="image/png" url="https://e3.365dm.com/26/03/1920x1080/skynews-this-is-why-podcast_7195529.png?20260317162310"/>
-    </item>
-    <item>
-      <title>Businesses to get state bonus for hiring unemployed young people</title>
-      <link>https://news.sky.com/story/businesses-to-get-1633000-state-bonus-for-hiring-unemployed-young-people-13520395</link>
-      <description>Businesses will be given a &amp;#163;3,000 government bonus for hiring a young person who has been out of work for six months.</description>
-      <pubDate>Mon, 16 Mar 2026 08:15:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/businesses-to-get-1633000-state-bonus-for-hiring-unemployed-young-people-13520395</guid>
-      <enclosure url="https://e3.365dm.com/26/02/1920x1080/skynews-cafe-hospitality-youth_7168412.jpg?20260218162651" length="0" type="image/jpeg"/>
-      <media:description type="html">A young teenage boy and girl enjoying their first job working in a cafe in Tynemouth, England. Archive pic: SolStock/iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-cafe-hospitality-youth_7168412.jpg?20260218162651" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-cafe-hospitality-youth_7168412.jpg?20260218162651"/>
     </item>
   </channel>
 </rss>
