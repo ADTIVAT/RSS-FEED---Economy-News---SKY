@@ -12,11 +12,22 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 19 Mar 2026 06:32:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 11:51:00 +0000</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
-      <title>Why the plan to save UK steel is economic dynamite</title>
+      <title>Interest rate hikes could mean more misery for consumers, as war takes toll on pockets</title>
+      <link>https://news.sky.com/story/interest-rate-hikes-could-mean-more-misery-for-consumers-as-war-takes-toll-on-pockets-13521721</link>
+      <description>Sharp rises in the price of oil and gas as a result of the war in Iran have set off an economic chain reaction which is already hitting people in the pocket.</description>
+      <pubDate>Thu, 19 Mar 2026 11:51:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/interest-rate-hikes-could-mean-more-misery-for-consumers-as-war-takes-toll-on-pockets-13521721</guid>
+      <enclosure url="https://e3.365dm.com/25/09/1920x1080/skynews-money-fifty-pounds_7036107.jpg?20250929132156" length="0" type="image/jpeg"/>
+      <media:description type="html">Close up of unrecognizable man counting £50 notes. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/09/1920x1080/skynews-money-fifty-pounds_7036107.jpg?20250929132156" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/09/1920x1080/skynews-money-fifty-pounds_7036107.jpg?20250929132156"/>
+    </item>
+    <item>
+      <title>Why the UK is turning to controversial Trump-style trade tariffs</title>
       <link>https://news.sky.com/story/watershed-moment-as-uk-levies-steel-tariff-in-new-strategy-13521500</link>
       <description>There is a small fraction of the population for whom the release of the government's new Steel Strategy represents an extraordinarily fascinating, not to mention important, moment. The chances are you are not one of those people. </description>
       <pubDate>Wed, 18 Mar 2026 19:10:00 +0000</pubDate>
@@ -25,6 +36,17 @@
       <media:description type="html">A worker at one of the blast furnaces at British Steel&amp;#39;s site in Scunthorpe. Pic: Darren Staples/ Pool via AP</media:description>
       <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-british-steel-scunthorpe_7095101.jpg?20251129082435" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-british-steel-scunthorpe_7095101.jpg?20251129082435"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Mark Kleinman blog | Kushner-backed OakNorth banks on maiden &amp;#163;40m share buyback&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-kushner-trump-israel_7078436.jpg?20251110174714" length="0" type="image/jpeg"/>
+      <media:description type="html">Jared Kushner during a briefing in Israel in late October. Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-kushner-trump-israel_7078436.jpg?20251110174714" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-kushner-trump-israel_7078436.jpg?20251110174714"/>
     </item>
     <item>
       <title>Unemployment stuck at five year high as youth rate climbs</title>
@@ -36,17 +58,6 @@
       <media:description type="html">Pic: iStock                    </media:description>
       <media:thumbnail url="https://e3.365dm.com/25/12/1920x1080/skynews-job-centre-plus-job-centre_7103533.jpg?20251207122334" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/12/1920x1080/skynews-job-centre-plus-job-centre_7103533.jpg?20251207122334"/>
-    </item>
-    <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Mark Kleinman blog | Real Greek owner weighs restructuring options for casual dining chain&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description/>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/21/05/1920x1080/skynews-the-real-greek-restaurant_5397751.jpg?20210528133829" length="0" type="image/jpeg"/>
-      <media:description type="html">The Real Greek restaurant Windsor - undated photo handout from Fulham Shore - sent 28/5/21</media:description>
-      <media:thumbnail url="https://e3.365dm.com/21/05/1920x1080/skynews-the-real-greek-restaurant_5397751.jpg?20210528133829" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/21/05/1920x1080/skynews-the-real-greek-restaurant_5397751.jpg?20210528133829"/>
     </item>
     <item>
       <title>US central bank predicts inflation rise from Iran war as oil prices surge again</title>
@@ -113,17 +124,6 @@
       <media:description type="html">File image: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-elderly-fraud_7195354.jpg?20260317132925" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-elderly-fraud_7195354.jpg?20260317132925"/>
-    </item>
-    <item>
-      <title>What the Iran war could mean for your food, mortgage and energy bills</title>
-      <link>https://news.sky.com/story/iran-war-the-outlook-for-your-finances-whether-hostilities-end-or-not-13517570</link>
-      <description>Donald Trump has raised hopes several times that the US-Israel military strikes on Iran may soon be over.</description>
-      <pubDate>Tue, 10 Mar 2026 06:48:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/iran-war-the-outlook-for-your-finances-whether-hostilities-end-or-not-13517570</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-money-gfx-graphic-war_7187698.jpg?20260310094437" length="0" type="image/jpeg"/>
-      <media:description type="html">X</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-money-gfx-graphic-war_7187698.jpg?20260310094437" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-money-gfx-graphic-war_7187698.jpg?20260310094437"/>
     </item>
   </channel>
 </rss>
