@@ -16,6 +16,19 @@
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Mark Kleinman blog | Majestic Wine-owner Fortress prepares to uncork sale of retailer&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-majestic-wine-london_7198881.jpg?20260321075327" length="0" type="image/jpeg"/>
+      <media:description type="html">A Majestic Wine Warehouse in London. Picture date: Monday February 1, 2021.
+
+</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-majestic-wine-london_7198881.jpg?20260321075327" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-majestic-wine-london_7198881.jpg?20260321075327"/>
+    </item>
+    <item>
       <title>Young earners about to have thousands added to student loan repayments</title>
       <link>https://news.sky.com/story/student-loans-the-main-problems-caused-by-changes-announced-in-the-budget-13520836</link>
       <description>Changes to the student loans system quietly announced in the last budget have provoked a loud and angry response that has woken up Westminster to what anyone who did a degree in the 2010s, and their parents, already knew.</description>
@@ -49,28 +62,6 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-elon-musk-twitter_7198789.jpg?20260320224816"/>
     </item>
     <item>
-      <title>Could thousands of students win compensation from universities?</title>
-      <link>https://news.sky.com/story/could-thousands-of-students-win-covid-compensation-from-universities-13521661</link>
-      <description>Almost 200,000 students who were at university during the COVID-19 pandemic are seeking financial compensation.</description>
-      <pubDate>Thu, 19 Mar 2026 09:02:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/could-thousands-of-students-win-covid-compensation-from-universities-13521661</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-university-covid-compensation_7197161.jpg?20260319102138" length="0" type="image/jpeg"/>
-      <media:description type="html">University students during the COVID pandemic. Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-university-covid-compensation_7197161.jpg?20260319102138" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-university-covid-compensation_7197161.jpg?20260319102138"/>
-    </item>
-    <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Mark Kleinman blog | Student visa giant Study Group hires advisers to be the subject of sale process&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description/>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/21/08/1920x1080/2372108150413398807_5479470.jpg?20210815063626" length="0" type="image/jpeg"/>
-      <media:description type="html">Mature professor giving a lecture in front of projection screen at lecture hall. Copy space.</media:description>
-      <media:thumbnail url="https://e3.365dm.com/21/08/1920x1080/2372108150413398807_5479470.jpg?20210815063626" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/21/08/1920x1080/2372108150413398807_5479470.jpg?20210815063626"/>
-    </item>
-    <item>
       <title>Interest rate hikes could mean more misery for consumers, as war takes toll on pockets</title>
       <link>https://news.sky.com/story/interest-rate-hikes-could-mean-more-misery-for-consumers-as-war-takes-toll-on-pockets-13521721</link>
       <description>Sharp rises in the price of oil and gas as a result of the war in Iran have set off an economic chain reaction which is already hitting people in the pocket.</description>
@@ -80,6 +71,17 @@
       <media:description type="html">Close up of unrecognizable man counting £50 notes. Pic: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/25/09/1920x1080/skynews-money-fifty-pounds_7036107.jpg?20250929132156" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/09/1920x1080/skynews-money-fifty-pounds_7036107.jpg?20250929132156"/>
+    </item>
+    <item>
+      <title>Could thousands of students win compensation from universities?</title>
+      <link>https://news.sky.com/story/could-thousands-of-students-win-covid-compensation-from-universities-13521661</link>
+      <description>Almost 200,000 students who were at university during the COVID-19 pandemic are seeking financial compensation.</description>
+      <pubDate>Thu, 19 Mar 2026 09:02:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/could-thousands-of-students-win-covid-compensation-from-universities-13521661</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-university-covid-compensation_7197161.jpg?20260319102138" length="0" type="image/jpeg"/>
+      <media:description type="html">University students during the COVID pandemic. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-university-covid-compensation_7197161.jpg?20260319102138" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-university-covid-compensation_7197161.jpg?20260319102138"/>
     </item>
     <item>
       <title>Why UK is turning to controversial Trump-style tariffs</title>
