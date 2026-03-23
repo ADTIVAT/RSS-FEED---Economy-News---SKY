@@ -12,21 +12,41 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 20 Mar 2026 22:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 14:47:00 +0000</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Mark Kleinman blog | Majestic Wine-owner Fortress prepares to uncork sale of retailer&lt;/a&gt;</title>
+      <title>Starmer to chair COBRA meeting over Iran war's impact on the economy, Sky News understands</title>
+      <link>https://news.sky.com/story/starmer-to-chair-cobra-meeting-over-iran-wars-impact-on-the-economy-sky-news-understands-13523061</link>
+      <description>Sir Keir Starmer is to chair a COBRA meeting today, Sky News understands.</description>
+      <pubDate>Sun, 22 Mar 2026 14:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/starmer-to-chair-cobra-meeting-over-iran-wars-impact-on-the-economy-sky-news-understands-13523061</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-starmer-downing-street_7200092.jpg?20260322150902" length="0" type="image/jpeg"/>
+      <media:description type="html">Sir Keir Starmer departs 10 Downing Street, London, to attend Prime Minister&amp;#39;s Questions at the Houses of Parliament. Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-starmer-downing-street_7200092.jpg?20260322150902" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-starmer-downing-street_7200092.jpg?20260322150902"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Mark Kleinman blog | Premier League chief urges clubs to reach landmark financial deal with EFL&lt;/a&gt;</title>
       <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
       <description/>
       <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
       <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-majestic-wine-london_7198881.jpg?20260321075327" length="0" type="image/jpeg"/>
-      <media:description type="html">A Majestic Wine Warehouse in London. Picture date: Monday February 1, 2021.
-
-</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-majestic-wine-london_7198881.jpg?20260321075327" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-majestic-wine-london_7198881.jpg?20260321075327"/>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-richard-masters-premier-league_7199958.jpg?20260322122146" length="0" type="image/jpeg"/>
+      <media:description type="html">Richard Masters. Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-richard-masters-premier-league_7199958.jpg?20260322122146" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-richard-masters-premier-league_7199958.jpg?20260322122146"/>
+    </item>
+    <item>
+      <title>'Transfer trick' couples can use to pay less tax | Money newsletter</title>
+      <link>https://news.sky.com/story/money-newsletter-sky-news-13367142</link>
+      <description>More than 175,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every Friday.</description>
+      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/money-newsletter-sky-news-13367142</guid>
+      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-hmrc-resolutions_7129160.jpg?20260107151812" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-hmrc-resolutions_7129160.jpg?20260107151812" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-hmrc-resolutions_7129160.jpg?20260107151812"/>
     </item>
     <item>
       <title>Young earners about to have thousands added to student loan repayments</title>
@@ -104,28 +124,6 @@
       <media:description type="html">Pic: iStock                    </media:description>
       <media:thumbnail url="https://e3.365dm.com/25/12/1920x1080/skynews-job-centre-plus-job-centre_7103533.jpg?20251207122334" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/12/1920x1080/skynews-job-centre-plus-job-centre_7103533.jpg?20251207122334"/>
-    </item>
-    <item>
-      <title>US central bank predicts inflation rise from Iran war as oil prices surge again</title>
-      <link>https://news.sky.com/story/us-central-bank-eyes-iran-war-lift-to-inflation-as-oil-prices-surge-again-13521369</link>
-      <description>The US central bank has raised its forecast for inflation as the Iran war-linked surge in global energy prices threatens self-inflicted damage on the world's largest economy.</description>
-      <pubDate>Wed, 18 Mar 2026 13:59:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/us-central-bank-eyes-iran-war-lift-to-inflation-as-oil-prices-surge-again-13521369</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-us-gas-petrol-station_7196505.jpg?20260318141553" length="0" type="image/jpeg"/>
-      <media:description type="html">US fuel prices have risen more than 25% since the start of the war. Pic: AP</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-us-gas-petrol-station_7196505.jpg?20260318141553" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-us-gas-petrol-station_7196505.jpg?20260318141553"/>
-    </item>
-    <item>
-      <title>Naval escorts could make tankers a target, UN warns</title>
-      <link>https://news.sky.com/story/naval-escorts-could-make-tankers-a-target-warns-un-maritime-chief-13520901</link>
-      <description>Naval escorts will not guarantee safe passage for oil tankers through the Strait of Hormuz and could even present a target for Iran as it attempts to leverage control of the vital shipping lane, the head of the International Maritime Organisation (IMO) has warned.</description>
-      <pubDate>Tue, 17 Mar 2026 14:56:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/naval-escorts-could-make-tankers-a-target-warns-un-maritime-chief-13520901</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-tanker-basra_7189835.jpg?20260312093835" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-tanker-basra_7189835.jpg?20260312093835" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-tanker-basra_7189835.jpg?20260312093835"/>
     </item>
   </channel>
 </rss>
