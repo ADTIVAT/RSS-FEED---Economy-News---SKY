@@ -12,9 +12,55 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 22 Mar 2026 14:47:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 12:07:00 +0000</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>UK firms hit as Iran war delivers biggest costs rise in 44 years  </title>
+      <link>https://news.sky.com/story/war-delivers-biggest-leap-in-uk-manufacturers-costs-since-1992-13523777</link>
+      <description>UK manufacturers are grappling with the biggest monthly leap in their costs since 1992, according to the first snapshot of the Middle East conflict's effect on the economy.</description>
+      <pubDate>Tue, 24 Mar 2026 09:31:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/war-delivers-biggest-leap-in-uk-manufacturers-costs-since-1992-13523777</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-strait-of-hormuz-tankers_7189574.jpg?20260311224214" length="0" type="image/jpeg"/>
+      <media:description type="html">Oil tankers and cargo ships line up in the Strait of Hormuz. Pic: AP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-strait-of-hormuz-tankers_7189574.jpg?20260311224214" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-strait-of-hormuz-tankers_7189574.jpg?20260311224214"/>
+    </item>
+    <item>
+      <title>Pet owners to pay no more than &amp;#163;21 for prescriptions after major investigation</title>
+      <link>https://news.sky.com/story/pet-owners-to-pay-no-more-than-16321-for-prescriptions-after-major-investigation-13523824</link>
+      <description>A price cap will be placed on pet prescriptions, the Competition and Markets Authority has announced following a three-year investigation.</description>
+      <pubDate>Tue, 24 Mar 2026 12:07:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/pet-owners-to-pay-no-more-than-16321-for-prescriptions-after-major-investigation-13523824</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-vet-istock_7201783.jpg?20260324122016" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock </media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-vet-istock_7201783.jpg?20260324122016" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-vet-istock_7201783.jpg?20260324122016"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Mark Kleinman blog | Buyout firm Towerbrook plots sale of specialist finance provider Premium Credit&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/22/10/1920x1080/skynews-london-city-aerial_5933668.jpg?20221017101519" length="0" type="image/jpeg"/>
+      <media:description type="html">File photo dated 09/07/21 of an aerial view of the City of London skyline, as Britain&amp;#39;s economy is expected to shrink around 0.2% each quarter from October through to June next year, economists have warned.
+
+</media:description>
+      <media:thumbnail url="https://e3.365dm.com/22/10/1920x1080/skynews-london-city-aerial_5933668.jpg?20221017101519" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/22/10/1920x1080/skynews-london-city-aerial_5933668.jpg?20221017101519"/>
+    </item>
+    <item>
+      <title>Further fuel price hikes ahead but supplies 'stable'</title>
+      <link>https://news.sky.com/story/iran-war-further-fuel-price-hikes-ahead-but-supplies-stable-13523406</link>
+      <description>There is no end in sight to rising fuel prices but supplies are "stable", according to an industry body.</description>
+      <pubDate>Mon, 23 Mar 2026 10:17:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/iran-war-further-fuel-price-hikes-ahead-but-supplies-stable-13523406</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-petrol-pump-petrol_7179801.jpg?20260302123514" length="0" type="image/jpeg"/>
+      <media:description type="html">Petrol pump. File pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-petrol-pump-petrol_7179801.jpg?20260302123514" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-petrol-pump-petrol_7179801.jpg?20260302123514"/>
+    </item>
     <item>
       <title>Starmer to chair COBRA meeting over Iran war's impact on the economy, Sky News understands</title>
       <link>https://news.sky.com/story/starmer-to-chair-cobra-meeting-over-iran-wars-impact-on-the-economy-sky-news-understands-13523061</link>
@@ -25,17 +71,6 @@
       <media:description type="html">Sir Keir Starmer departs 10 Downing Street, London, to attend Prime Minister&amp;#39;s Questions at the Houses of Parliament. Pic: PA</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-starmer-downing-street_7200092.jpg?20260322150902" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-starmer-downing-street_7200092.jpg?20260322150902"/>
-    </item>
-    <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Mark Kleinman blog | Premier League chief urges clubs to reach landmark financial deal with EFL&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description/>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-richard-masters-premier-league_7199958.jpg?20260322122146" length="0" type="image/jpeg"/>
-      <media:description type="html">Richard Masters. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-richard-masters-premier-league_7199958.jpg?20260322122146" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-richard-masters-premier-league_7199958.jpg?20260322122146"/>
     </item>
     <item>
       <title>'Transfer trick' couples can use to pay less tax | Money newsletter</title>
@@ -60,6 +95,17 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/24/06/1920x1080/skynews-university-student_6572863.jpg?20240604110337"/>
     </item>
     <item>
+      <title>'If I could tell patients one thing...': GP on salaries, mental health and four ingredients that beat a cold</title>
+      <link>https://news.sky.com/story/if-i-could-tell-patients-one-thing-gp-on-salaries-mental-health-and-four-ingredients-that-beat-a-cold-13523373</link>
+      <description>If you've ever spent your morning commute daydreaming about starting afresh with your career, this feature is for you. Each Monday, we speak to someone from a different profession to discover what it's really like. Today we speak to Dr George Hawche, a GP at the Fulham Medical Centre in west London...</description>
+      <pubDate>Mon, 23 Mar 2026 09:34:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/if-i-could-tell-patients-one-thing-gp-on-salaries-mental-health-and-four-ingredients-that-beat-a-cold-13523373</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-dr-george-hawche-money-blog_7200628.png?20260323062002" length="0" type="image/png"/>
+      <media:description type="html">GP Dr George Hawche from the Fulham Medical Centre. Money blog</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-dr-george-hawche-money-blog_7200628.png?20260323062002" width="1920" height="1080"/>
+      <media:content type="image/png" url="https://e3.365dm.com/26/03/1920x1080/skynews-dr-george-hawche-money-blog_7200628.png?20260323062002"/>
+    </item>
+    <item>
       <title>Energy bills to rise hundreds of pounds to three-year high</title>
       <link>https://news.sky.com/story/energy-bills-to-rise-hundreds-of-pounds-to-three-year-high-13522104</link>
       <description>Average annual energy bills will rise by &amp;#163;332 in July, more than double the previously anticipated increase, due to high oil and gas prices driven by the war in Iran, trusted forecasters predicted.</description>
@@ -80,50 +126,6 @@
       <media:description type="html">File pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-elon-musk-twitter_7198789.jpg?20260320224816" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-elon-musk-twitter_7198789.jpg?20260320224816"/>
-    </item>
-    <item>
-      <title>Interest rate hikes could mean more misery for consumers, as war takes toll on pockets</title>
-      <link>https://news.sky.com/story/interest-rate-hikes-could-mean-more-misery-for-consumers-as-war-takes-toll-on-pockets-13521721</link>
-      <description>Sharp rises in the price of oil and gas as a result of the war in Iran have set off an economic chain reaction which is already hitting people in the pocket.</description>
-      <pubDate>Thu, 19 Mar 2026 11:51:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/interest-rate-hikes-could-mean-more-misery-for-consumers-as-war-takes-toll-on-pockets-13521721</guid>
-      <enclosure url="https://e3.365dm.com/25/09/1920x1080/skynews-money-fifty-pounds_7036107.jpg?20250929132156" length="0" type="image/jpeg"/>
-      <media:description type="html">Close up of unrecognizable man counting £50 notes. Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/09/1920x1080/skynews-money-fifty-pounds_7036107.jpg?20250929132156" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/09/1920x1080/skynews-money-fifty-pounds_7036107.jpg?20250929132156"/>
-    </item>
-    <item>
-      <title>Could thousands of students win compensation from universities?</title>
-      <link>https://news.sky.com/story/could-thousands-of-students-win-covid-compensation-from-universities-13521661</link>
-      <description>Almost 200,000 students who were at university during the COVID-19 pandemic are seeking financial compensation.</description>
-      <pubDate>Thu, 19 Mar 2026 09:02:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/could-thousands-of-students-win-covid-compensation-from-universities-13521661</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-university-covid-compensation_7197161.jpg?20260319102138" length="0" type="image/jpeg"/>
-      <media:description type="html">University students during the COVID pandemic. Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-university-covid-compensation_7197161.jpg?20260319102138" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-university-covid-compensation_7197161.jpg?20260319102138"/>
-    </item>
-    <item>
-      <title>Why UK is turning to controversial Trump-style tariffs</title>
-      <link>https://news.sky.com/story/watershed-moment-as-uk-levies-steel-tariff-in-new-strategy-13521500</link>
-      <description>There is a small fraction of the population for whom the release of the government's new Steel Strategy represents an extraordinarily fascinating, not to mention important, moment. The chances are you are not one of those people. </description>
-      <pubDate>Wed, 18 Mar 2026 19:10:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/watershed-moment-as-uk-levies-steel-tariff-in-new-strategy-13521500</guid>
-      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-british-steel-scunthorpe_7095101.jpg?20251129082435" length="0" type="image/jpeg"/>
-      <media:description type="html">A worker at one of the blast furnaces at British Steel&amp;#39;s site in Scunthorpe. Pic: Darren Staples/ Pool via AP</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-british-steel-scunthorpe_7095101.jpg?20251129082435" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-british-steel-scunthorpe_7095101.jpg?20251129082435"/>
-    </item>
-    <item>
-      <title>Unemployment stuck at five year high as youth rate climbs</title>
-      <link>https://news.sky.com/story/new-uk-unemployment-figures-released-13521630</link>
-      <description>UK unemployment has remained at its highest rate in five years, new official figures show.</description>
-      <pubDate>Thu, 19 Mar 2026 06:32:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/new-uk-unemployment-figures-released-13521630</guid>
-      <enclosure url="https://e3.365dm.com/25/12/1920x1080/skynews-job-centre-plus-job-centre_7103533.jpg?20251207122334" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock                    </media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/12/1920x1080/skynews-job-centre-plus-job-centre_7103533.jpg?20251207122334" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/12/1920x1080/skynews-job-centre-plus-job-centre_7103533.jpg?20251207122334"/>
     </item>
   </channel>
 </rss>
