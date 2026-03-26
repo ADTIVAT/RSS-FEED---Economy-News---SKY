@@ -12,9 +12,53 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 24 Mar 2026 19:14:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 06:34:00 +0000</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Taxpayers could foot big bill for NS&amp;I bereavement blunder</title>
+      <link>https://news.sky.com/story/taxpayers-could-foot-big-bill-for-nsi-bereavement-blunder-13524525</link>
+      <description>National Savings and Investments  (NS&amp;I) is in talks with the government over a possible bailout potentially worth hundreds of millions of pounds.</description>
+      <pubDate>Thu, 26 Mar 2026 06:34:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/taxpayers-could-foot-big-bill-for-nsi-bereavement-blunder-13524525</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-national-savings-investments_7203269.jpg?20260326064418" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: NS&amp;I</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-national-savings-investments_7203269.jpg?20260326064418" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-national-savings-investments_7203269.jpg?20260326064418"/>
+    </item>
+    <item>
+      <title>'The floodgates are open': Harry and Meghan welcome result of landmark social media trial</title>
+      <link>https://news.sky.com/story/social-media-giants-found-liable-for-social-media-addiction-in-landmark-court-case-13521834</link>
+      <description>The Duke and Duchess of Sussex have said "the floodgates are open" for more legal cases against tech giants after Google and Meta were found liable for a woman's social media addiction in a landmark lawsuit.</description>
+      <pubDate>Thu, 19 Mar 2026 16:05:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/social-media-giants-found-liable-for-social-media-addiction-in-landmark-court-case-13521834</guid>
+      <enclosure url="https://e3.365dm.com/25/10/1920x1080/skynews-prince-harry-meghan_7047633.jpg?20251010111334" length="0" type="image/jpeg"/>
+      <media:description type="html">Britain&amp;#39;s Prince Harry and Meghan, Duke and Duchess of Sussex attend the &amp;#34;Project Healthy Minds&amp;#34; World Mental Health Day Gala in New York Ci</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/10/1920x1080/skynews-prince-harry-meghan_7047633.jpg?20251010111334" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/10/1920x1080/skynews-prince-harry-meghan_7047633.jpg?20251010111334"/>
+    </item>
+    <item>
+      <title>Rent costs hit new record</title>
+      <link>https://news.sky.com/story/rents-reach-highest-ever-level-relative-to-earnings-driven-by-lack-of-housing-supply-13524394</link>
+      <description>More people in the UK are renting, and they're paying a growing share of their income to do so. </description>
+      <pubDate>Wed, 25 Mar 2026 18:29:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/rents-reach-highest-ever-level-relative-to-earnings-driven-by-lack-of-housing-supply-13524394</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-rents-housing-uk-housing-review_7202996.png?20260325184954" length="0" type="image/png"/>
+      <media:description type="html">Teaser</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-rents-housing-uk-housing-review_7202996.png?20260325184954" width="1920" height="1080"/>
+      <media:content type="image/png" url="https://e3.365dm.com/26/03/1920x1080/skynews-rents-housing-uk-housing-review_7202996.png?20260325184954"/>
+    </item>
+    <item>
+      <title>US airports 'may have to close'</title>
+      <link>https://news.sky.com/story/us-airports-may-have-to-shut-as-passengers-endure-highest-wait-times-in-history-transport-boss-warns-13524468</link>
+      <description>Some US airports may have to shut as travellers endure long wait times at security following a shutdown that's seen 50,000 staff go unpaid.</description>
+      <pubDate>Wed, 25 Mar 2026 22:00:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/us-airports-may-have-to-shut-as-passengers-endure-highest-wait-times-in-history-transport-boss-warns-13524468</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-tsa-shutdown-airport_7203172.jpg?20260325222259" length="0" type="image/jpeg"/>
+      <media:description type="html">Passengers at some airports are dealing with hours-long wait times due to high absence and staff quitting. Pic: AP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-tsa-shutdown-airport_7203172.jpg?20260325222259" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-tsa-shutdown-airport_7203172.jpg?20260325222259"/>
+    </item>
     <item>
       <title>Government looking at decoupling electricity and gas prices to bring down bills</title>
       <link>https://news.sky.com/story/ed-miliband-tells-mps-how-he-hopes-to-cut-household-energy-bills-amid-calls-for-more-north-sea-drilling-13523989</link>
@@ -27,15 +71,17 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-ed-miliband-politics_7202329.jpg?20260324234850"/>
     </item>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Mark Kleinman blog | NatWest sells HR advisory business Mentor to private-backed rival&lt;/a&gt;</title>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Mark Kleinman blog | Chicken chain investor Sixth Street snaps up specialist UK lender Castle Trust Bank&lt;/a&gt;</title>
       <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
       <description/>
       <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
       <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-natwest-money-current-account_7079296.jpg?20251111151310" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-natwest-money-current-account_7079296.jpg?20251111151310" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-natwest-money-current-account_7079296.jpg?20251111151310"/>
+      <enclosure url="https://e3.365dm.com/22/10/1920x1080/skynews-london-city-aerial_5933668.jpg?20221017101519" length="0" type="image/jpeg"/>
+      <media:description type="html">File photo dated 09/07/21 of an aerial view of the City of London skyline, as Britain&amp;#39;s economy is expected to shrink around 0.2% each quarter from October through to June next year, economists have warned.
+
+</media:description>
+      <media:thumbnail url="https://e3.365dm.com/22/10/1920x1080/skynews-london-city-aerial_5933668.jpg?20221017101519" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/22/10/1920x1080/skynews-london-city-aerial_5933668.jpg?20221017101519"/>
     </item>
     <item>
       <title>Hedge fund manager claimed he groped woman because he was under general anaesthetic, tribunal hears</title>
@@ -80,50 +126,6 @@
       <media:description type="html">Pic: iStock </media:description>
       <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-money-sick-pay_7196099.jpg?20260318072901" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-money-sick-pay_7196099.jpg?20260318072901"/>
-    </item>
-    <item>
-      <title>Further fuel price hikes ahead but supplies 'stable'</title>
-      <link>https://news.sky.com/story/iran-war-further-fuel-price-hikes-ahead-but-supplies-stable-13523406</link>
-      <description>There is no end in sight to rising fuel prices but supplies are "stable", according to an industry body.</description>
-      <pubDate>Mon, 23 Mar 2026 10:17:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/iran-war-further-fuel-price-hikes-ahead-but-supplies-stable-13523406</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-petrol-pump-petrol_7179801.jpg?20260302123514" length="0" type="image/jpeg"/>
-      <media:description type="html">Petrol pump. File pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-petrol-pump-petrol_7179801.jpg?20260302123514" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-petrol-pump-petrol_7179801.jpg?20260302123514"/>
-    </item>
-    <item>
-      <title>Starmer to chair COBRA meeting over Iran war's impact on the economy, Sky News understands</title>
-      <link>https://news.sky.com/story/starmer-to-chair-cobra-meeting-over-iran-wars-impact-on-the-economy-sky-news-understands-13523061</link>
-      <description>Sir Keir Starmer is to chair a COBRA meeting today, Sky News understands.</description>
-      <pubDate>Sun, 22 Mar 2026 14:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/starmer-to-chair-cobra-meeting-over-iran-wars-impact-on-the-economy-sky-news-understands-13523061</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-starmer-downing-street_7200092.jpg?20260322150902" length="0" type="image/jpeg"/>
-      <media:description type="html">Sir Keir Starmer departs 10 Downing Street, London, to attend Prime Minister&amp;#39;s Questions at the Houses of Parliament. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-starmer-downing-street_7200092.jpg?20260322150902" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-starmer-downing-street_7200092.jpg?20260322150902"/>
-    </item>
-    <item>
-      <title>'Transfer trick' couples can use to pay less tax | Money newsletter</title>
-      <link>https://news.sky.com/story/money-newsletter-sky-news-13367142</link>
-      <description>More than 175,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every Friday.</description>
-      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/money-newsletter-sky-news-13367142</guid>
-      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-hmrc-resolutions_7129160.jpg?20260107151812" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-hmrc-resolutions_7129160.jpg?20260107151812" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-hmrc-resolutions_7129160.jpg?20260107151812"/>
-    </item>
-    <item>
-      <title>Young earners about to have thousands added to student loan repayments</title>
-      <link>https://news.sky.com/story/student-loans-the-main-problems-caused-by-changes-announced-in-the-budget-13520836</link>
-      <description>Changes to the student loans system quietly announced in the last budget have provoked a loud and angry response that has woken up Westminster to what anyone who did a degree in the 2010s, and their parents, already knew.</description>
-      <pubDate>Tue, 17 Mar 2026 11:41:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/student-loans-the-main-problems-caused-by-changes-announced-in-the-budget-13520836</guid>
-      <enclosure url="https://e3.365dm.com/24/06/1920x1080/skynews-university-student_6572863.jpg?20240604110337" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/24/06/1920x1080/skynews-university-student_6572863.jpg?20240604110337" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/24/06/1920x1080/skynews-university-student_6572863.jpg?20240604110337"/>
     </item>
   </channel>
 </rss>
