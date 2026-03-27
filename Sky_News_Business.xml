@@ -12,9 +12,31 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 26 Mar 2026 15:49:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 21:39:00 +0000</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>'Ripple of fear' among households over Iran war price surge</title>
+      <link>https://news.sky.com/story/ripple-of-fear-among-households-over-iran-war-price-surge-13524601</link>
+      <description>The Middle East conflict has prompted a major shift in UK household spending intentions as a "ripple of fear" has taken hold, according to a respected measure of consumer confidence.</description>
+      <pubDate>Thu, 26 Mar 2026 10:11:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/ripple-of-fear-among-households-over-iran-war-price-surge-13524601</guid>
+      <enclosure url="https://e3.365dm.com/26/02/1920x1080/skynews-money-cash-savings_7156056.jpg?20260205055306" length="0" type="image/jpeg"/>
+      <media:description type="html">Woman hands holding piggy bank and money. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-money-cash-savings_7156056.jpg?20260205055306" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-money-cash-savings_7156056.jpg?20260205055306"/>
+    </item>
+    <item>
+      <title>Benefit cheat who claimed anxiety left her housebound caught ziplining in Mexico</title>
+      <link>https://news.sky.com/story/benefit-cheat-who-claimed-anxiety-left-her-housebound-caught-ziplining-and-surfing-in-mexico-13524870</link>
+      <description>A benefit cheat who defrauded more than &amp;#163;23,000 by claiming she was too ill to go outside was caught surfing and ziplining in Mexico.</description>
+      <pubDate>Thu, 26 Mar 2026 21:39:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/benefit-cheat-who-claimed-anxiety-left-her-housebound-caught-ziplining-and-surfing-in-mexico-13524870</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-catherine-wieland-mexico_7204101.jpg?20260327083448" length="0" type="image/jpeg"/>
+      <media:description type="html">Catherine Wieland claimed her health was so poor she could not cook or wash herself. Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-catherine-wieland-mexico_7204101.jpg?20260327083448" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-catherine-wieland-mexico_7204101.jpg?20260327083448"/>
+    </item>
     <item>
       <title>UK facing biggest economic hit from Iran war of any major country</title>
       <link>https://news.sky.com/story/uk-facing-biggest-economic-hit-from-iran-war-of-any-major-country-13524511</link>
@@ -103,28 +125,6 @@ Pic: Shutterstock</media:description>
       <media:description type="html">Passengers at some airports are dealing with hours-long wait times due to high absence and staff quitting. Pic: AP</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-tsa-shutdown-airport_7203172.jpg?20260325222259" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-tsa-shutdown-airport_7203172.jpg?20260325222259"/>
-    </item>
-    <item>
-      <title>'Major shake-up' for TV fans as HBO Max launches in the UK</title>
-      <link>https://news.sky.com/story/major-shake-up-for-tv-fans-as-hbo-max-launches-in-the-uk-13524626</link>
-      <description>HBO Max has officially launched in the UK today. </description>
-      <pubDate>Thu, 26 Mar 2026 11:00:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/major-shake-up-for-tv-fans-as-hbo-max-launches-in-the-uk-13524626</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-money-hbo-max_7203513.jpg?20260326110449" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock </media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-money-hbo-max_7203513.jpg?20260326110449" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-money-hbo-max_7203513.jpg?20260326110449"/>
-    </item>
-    <item>
-      <title>Government looking at decoupling electricity and gas prices to bring down bills</title>
-      <link>https://news.sky.com/story/ed-miliband-tells-mps-how-he-hopes-to-cut-household-energy-bills-amid-calls-for-more-north-sea-drilling-13523989</link>
-      <description>Ed Miliband has told Labour MPs he is committed to looking at unhitching electricity prices from gas in a bid to bring down household bills.</description>
-      <pubDate>Tue, 24 Mar 2026 18:25:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/ed-miliband-tells-mps-how-he-hopes-to-cut-household-energy-bills-amid-calls-for-more-north-sea-drilling-13523989</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-ed-miliband-politics_7202329.jpg?20260324234850" length="0" type="image/jpeg"/>
-      <media:description type="html">British Secretary of State for Energy Security and Net Zero Ed Miliband walks outside the Cabinet Office, on the day Prime Minister Keir Sta</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-ed-miliband-politics_7202329.jpg?20260324234850" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-ed-miliband-politics_7202329.jpg?20260324234850"/>
     </item>
   </channel>
 </rss>
