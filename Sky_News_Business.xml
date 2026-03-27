@@ -12,7 +12,7 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 26 Mar 2026 21:39:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 07:53:00 +0000</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
@@ -25,6 +25,29 @@
       <media:description type="html">Woman hands holding piggy bank and money. Pic: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-money-cash-savings_7156056.jpg?20260205055306" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-money-cash-savings_7156056.jpg?20260205055306"/>
+    </item>
+    <item>
+      <title>Just Eat and Autotrader among five firms under investigation in fake and misleading review crackdown</title>
+      <link>https://news.sky.com/story/just-eat-and-autotrader-among-five-firms-under-investigation-in-fake-and-misleading-review-crackdown-13524963</link>
+      <description>Just Eat and the funeral provider Dignity are among the latest companies being investigated as part of an inquiry into fake online reviews. </description>
+      <pubDate>Fri, 27 Mar 2026 07:53:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/just-eat-and-autotrader-among-five-firms-under-investigation-in-fake-and-misleading-review-crackdown-13524963</guid>
+      <enclosure url="https://e3.365dm.com/21/07/1920x1080/skynews-five-star-review_5452758.jpg?20260327085740" length="0" type="image/jpeg"/>
+      <media:description type="html">In some cases, a five-star review left online isn&amp;#39;t what it seems. File pic</media:description>
+      <media:thumbnail url="https://e3.365dm.com/21/07/1920x1080/skynews-five-star-review_5452758.jpg?20260327085740" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/21/07/1920x1080/skynews-five-star-review_5452758.jpg?20260327085740"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Mark Kleinman blog | Software giant Visma eyes stake sale as torrid markets stall &amp;#163;17bn stock market float&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/25/12/1920x1080/skynews-london-stock-exchange_7114203.jpg?20251218155600" length="0" type="image/jpeg"/>
+      <media:description type="html"> The London Stock Exchange on Paternoster Square.
+Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/12/1920x1080/skynews-london-stock-exchange_7114203.jpg?20251218155600" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/12/1920x1080/skynews-london-stock-exchange_7114203.jpg?20251218155600"/>
     </item>
     <item>
       <title>Benefit cheat who claimed anxiety left her housebound caught ziplining in Mexico</title>
@@ -103,28 +126,6 @@ Pic: Shutterstock</media:description>
       <media:description type="html">Britain&amp;#39;s Prince Harry and Meghan, Duke and Duchess of Sussex attend the &amp;#34;Project Healthy Minds&amp;#34; World Mental Health Day Gala in New York Ci</media:description>
       <media:thumbnail url="https://e3.365dm.com/25/10/1920x1080/skynews-prince-harry-meghan_7047633.jpg?20251010111334" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/10/1920x1080/skynews-prince-harry-meghan_7047633.jpg?20251010111334"/>
-    </item>
-    <item>
-      <title>Housing crisis deepens as UK rents hit all time high</title>
-      <link>https://news.sky.com/story/rents-reach-highest-ever-level-relative-to-earnings-driven-by-lack-of-housing-supply-13524394</link>
-      <description>More people in the UK are renting, and they're paying a growing share of their income to do so. </description>
-      <pubDate>Wed, 25 Mar 2026 18:29:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/rents-reach-highest-ever-level-relative-to-earnings-driven-by-lack-of-housing-supply-13524394</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-rents-housing-uk-housing-review_7202996.png?20260325184954" length="0" type="image/png"/>
-      <media:description type="html">Teaser</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-rents-housing-uk-housing-review_7202996.png?20260325184954" width="1920" height="1080"/>
-      <media:content type="image/png" url="https://e3.365dm.com/26/03/1920x1080/skynews-rents-housing-uk-housing-review_7202996.png?20260325184954"/>
-    </item>
-    <item>
-      <title>US airports 'may have to close'</title>
-      <link>https://news.sky.com/story/us-airports-may-have-to-shut-as-passengers-endure-highest-wait-times-in-history-transport-boss-warns-13524468</link>
-      <description>Some US airports may have to shut as travellers endure long wait times at security following a shutdown that's seen 50,000 staff go unpaid.</description>
-      <pubDate>Wed, 25 Mar 2026 22:00:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/us-airports-may-have-to-shut-as-passengers-endure-highest-wait-times-in-history-transport-boss-warns-13524468</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-tsa-shutdown-airport_7203172.jpg?20260325222259" length="0" type="image/jpeg"/>
-      <media:description type="html">Passengers at some airports are dealing with hours-long wait times due to high absence and staff quitting. Pic: AP</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-tsa-shutdown-airport_7203172.jpg?20260325222259" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-tsa-shutdown-airport_7203172.jpg?20260325222259"/>
     </item>
   </channel>
 </rss>
