@@ -12,9 +12,53 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 27 Mar 2026 07:53:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 00:01:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>'It's a really serious situation': Warning food prices are set to spike in the UK</title>
+      <link>https://news.sky.com/story/warning-food-prices-are-set-to-spike-in-the-uk-due-to-iran-war-13525118</link>
+      <description>This spring, the most valuable commodity in agriculture is not sunshine or even rain, it is fertiliser.</description>
+      <pubDate>Mon, 30 Mar 2026 00:01:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/warning-food-prices-are-set-to-spike-in-the-uk-due-to-iran-war-13525118</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-food-farming-fertiliser_7204773.png?20260327162307" length="0" type="image/png"/>
+      <media:description type="html">Fork lift in big greenhouse</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-food-farming-fertiliser_7204773.png?20260327162307" width="1920" height="1080"/>
+      <media:content type="image/png" url="https://e3.365dm.com/26/03/1920x1080/skynews-food-farming-fertiliser_7204773.png?20260327162307"/>
+    </item>
+    <item>
+      <title>Motorists should 'fill up as normal' despite fuel prices soaring, minister says</title>
+      <link>https://news.sky.com/story/motorists-should-fill-up-as-normal-despite-fuel-prices-soaring-minister-says-13525774</link>
+      <description>Motorists should "fill up as normal" as the government is "well prepared" for disruption, a senior minister has said as fuel prices soar.</description>
+      <pubDate>Sun, 29 Mar 2026 09:59:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/motorists-should-fill-up-as-normal-despite-fuel-prices-soaring-minister-says-13525774</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-fuel-fuel-prices-petrol_7206063.jpg?20260329100958" length="0" type="image/jpeg"/>
+      <media:description type="html">Petrol prices have risen to an average of more than 150p per litre. Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-fuel-fuel-prices-petrol_7206063.jpg?20260329100958" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-fuel-fuel-prices-petrol_7206063.jpg?20260329100958"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Mark Kleinman blog | Flying taxi company Vertical Aerospace set for take-off with $800m capital-raise&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-vertical-aerospace_7206347.jpg?20260329180106" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: Vertical Aerospace</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-vertical-aerospace_7206347.jpg?20260329180106" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-vertical-aerospace_7206347.jpg?20260329180106"/>
+    </item>
+    <item>
+      <title>Govt reviewing flagship EV sale quotas after biggest car production fall in 73 years</title>
+      <link>https://news.sky.com/story/govt-reviewing-flagship-ev-sale-quotas-after-biggest-car-production-fall-in-73-years-13525842</link>
+      <description>The government is reviewing its electric car sale quotas - one of its flagship green policies.</description>
+      <pubDate>Sun, 29 Mar 2026 15:03:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/govt-reviewing-flagship-ev-sale-quotas-after-biggest-car-production-fall-in-73-years-13525842</guid>
+      <enclosure url="https://e3.365dm.com/25/10/1920x1080/skynews-ev-evs-electric-cars_7040053.jpg?20251003124545" length="0" type="image/jpeg"/>
+      <media:description type="html">File photo dated 05/03/21 of an electric car plugged into a EV charging point. Thirteen more electric car models are eligible for new Govern</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/10/1920x1080/skynews-ev-evs-electric-cars_7040053.jpg?20251003124545" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/10/1920x1080/skynews-ev-evs-electric-cars_7040053.jpg?20251003124545"/>
+    </item>
     <item>
       <title>'Ripple of fear' among households over Iran war price surge</title>
       <link>https://news.sky.com/story/ripple-of-fear-among-households-over-iran-war-price-surge-13524601</link>
@@ -36,18 +80,6 @@
       <media:description type="html">In some cases, a five-star review left online isn&amp;#39;t what it seems. File pic</media:description>
       <media:thumbnail url="https://e3.365dm.com/21/07/1920x1080/skynews-five-star-review_5452758.jpg?20260327085740" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/21/07/1920x1080/skynews-five-star-review_5452758.jpg?20260327085740"/>
-    </item>
-    <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Mark Kleinman blog | Software giant Visma eyes stake sale as torrid markets stall &amp;#163;17bn stock market float&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description/>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/25/12/1920x1080/skynews-london-stock-exchange_7114203.jpg?20251218155600" length="0" type="image/jpeg"/>
-      <media:description type="html"> The London Stock Exchange on Paternoster Square.
-Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/12/1920x1080/skynews-london-stock-exchange_7114203.jpg?20251218155600" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/12/1920x1080/skynews-london-stock-exchange_7114203.jpg?20251218155600"/>
     </item>
     <item>
       <title>Benefit cheat who claimed anxiety left her housebound caught ziplining in Mexico</title>
@@ -93,39 +125,6 @@ Pic: Shutterstock</media:description>
       <media:description type="html">Pic: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-hmrc-resolutions_7129160.jpg?20260107151812" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-hmrc-resolutions_7129160.jpg?20260107151812"/>
-    </item>
-    <item>
-      <title>NS&amp;I bereavement blunder leaves bank facing big  bill</title>
-      <link>https://news.sky.com/story/taxpayers-could-foot-big-bill-for-nsi-bereavement-blunder-13524525</link>
-      <description>National Savings and Investments  (NS&amp;I) is facing a bill worth hundreds of millions of pounds over a missing savings scandal.</description>
-      <pubDate>Thu, 26 Mar 2026 06:34:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/taxpayers-could-foot-big-bill-for-nsi-bereavement-blunder-13524525</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-national-savings-investments_7203269.jpg?20260326064418" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: NS&amp;I</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-national-savings-investments_7203269.jpg?20260326064418" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-national-savings-investments_7203269.jpg?20260326064418"/>
-    </item>
-    <item>
-      <title>Hedge fund manager 'bullied colleagues not to put in measures to protect women'</title>
-      <link>https://news.sky.com/story/hedge-fund-manager-bullied-colleagues-not-to-put-in-measures-to-protect-women-tribunal-hears-13524724</link>
-      <description>Former hedge fund manager Crispin Odey "bullied" colleagues not to introduce measures at his firm to protect women, a tribunal heard.</description>
-      <pubDate>Thu, 26 Mar 2026 15:49:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/hedge-fund-manager-bullied-colleagues-not-to-put-in-measures-to-protect-women-tribunal-hears-13524724</guid>
-      <enclosure url="https://e3.365dm.com/23/06/1920x1080/skynews-crispin-odey_6181848.jpg?20230608160405" length="0" type="image/jpeg"/>
-      <media:description type="html">Crispin Odey has denied the FT&amp;#39;s claims. Pic: Shutterstock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/23/06/1920x1080/skynews-crispin-odey_6181848.jpg?20230608160405" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/23/06/1920x1080/skynews-crispin-odey_6181848.jpg?20230608160405"/>
-    </item>
-    <item>
-      <title>'The floodgates are open': Harry and Meghan welcome result of landmark social media trial</title>
-      <link>https://news.sky.com/story/social-media-giants-found-liable-for-social-media-addiction-in-landmark-court-case-13521834</link>
-      <description>The Duke and Duchess of Sussex have said "the floodgates are open" for more legal cases against tech giants after Google and Meta were found liable for a woman's social media addiction in a landmark lawsuit.</description>
-      <pubDate>Thu, 19 Mar 2026 16:05:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/social-media-giants-found-liable-for-social-media-addiction-in-landmark-court-case-13521834</guid>
-      <enclosure url="https://e3.365dm.com/25/10/1920x1080/skynews-prince-harry-meghan_7047633.jpg?20251010111334" length="0" type="image/jpeg"/>
-      <media:description type="html">Britain&amp;#39;s Prince Harry and Meghan, Duke and Duchess of Sussex attend the &amp;#34;Project Healthy Minds&amp;#34; World Mental Health Day Gala in New York Ci</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/10/1920x1080/skynews-prince-harry-meghan_7047633.jpg?20251010111334" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/10/1920x1080/skynews-prince-harry-meghan_7047633.jpg?20251010111334"/>
     </item>
   </channel>
 </rss>
