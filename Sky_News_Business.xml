@@ -12,9 +12,53 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 30 Mar 2026 00:01:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 19:00:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Millions of drivers owed hundreds of pounds in compensation - here's how to claim</title>
+      <link>https://news.sky.com/story/car-finance-scandal-what-happened-and-am-i-eligible-for-compensation-13526186</link>
+      <description>Millions of motorists who were mis-sold car finance agreements are due to receive &amp;#163;829 on average in compensation, it has been announced.</description>
+      <pubDate>Mon, 30 Mar 2026 19:00:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/car-finance-scandal-what-happened-and-am-i-eligible-for-compensation-13526186</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-car-finance-car-loan_7207208.jpg?20260330194146" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-car-finance-car-loan_7207208.jpg?20260330194146" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-car-finance-car-loan_7207208.jpg?20260330194146"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Government research body UKRI to name former Cambridge vice-chancellor as new chair | Mark Kleinman blog&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/25/05/1920x1080/skynews-whitehall-civil-service_6915406.jpg?20250513164224" length="0" type="image/jpeg"/>
+      <media:description type="html">London, UK - March 15, 2023: Downing Street and Whitehall street sign on a government building in the City of Westminster, London, UK. Pic iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/05/1920x1080/skynews-whitehall-civil-service_6915406.jpg?20250513164224" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/05/1920x1080/skynews-whitehall-civil-service_6915406.jpg?20250513164224"/>
+    </item>
+    <item>
+      <title>Travelodge boss 'desperately sorry' over sex assault at hotel</title>
+      <link>https://news.sky.com/story/travelodge-sex-assault-survivor-hits-out-at-boss-of-hotel-chain-13526191</link>
+      <description>The survivor of a sexual assault that took place in a Travelodge hotel room has accused its CEO of not taking the issue of women's safety "very seriously".</description>
+      <pubDate>Mon, 30 Mar 2026 17:58:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/travelodge-sex-assault-survivor-hits-out-at-boss-of-hotel-chain-13526191</guid>
+      <enclosure url="https://e3.365dm.com/26/02/1920x1080/skynews-travelodge-hotel_7167357.jpg?20260217142837" length="0" type="image/jpeg"/>
+      <media:description type="html">A Travelodge sign</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-travelodge-hotel_7167357.jpg?20260217142837" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-travelodge-hotel_7167357.jpg?20260217142837"/>
+    </item>
+    <item>
+      <title>EV charger firms say energy bill increases will be passed on to drivers</title>
+      <link>https://news.sky.com/story/ev-charger-firms-say-energy-bill-increases-will-be-passed-on-to-drivers-13526126</link>
+      <description>Electric vehicle charger firms have warned that soaring energy bills will have to be passed on to drivers, risking a major setback for the government's green goals.</description>
+      <pubDate>Mon, 30 Mar 2026 14:34:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/ev-charger-firms-say-energy-bill-increases-will-be-passed-on-to-drivers-13526126</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-fastned-electric-vehicle_7207025.jpg?20260330160352" length="0" type="image/jpeg"/>
+      <media:description type="html">Fastned said the large increases will have to be passed onto drivers. Pic: Fastned</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-fastned-electric-vehicle_7207025.jpg?20260330160352" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-fastned-electric-vehicle_7207025.jpg?20260330160352"/>
+    </item>
     <item>
       <title>'It's a really serious situation': Warning food prices are set to spike in the UK</title>
       <link>https://news.sky.com/story/warning-food-prices-are-set-to-spike-in-the-uk-due-to-iran-war-13525118</link>
@@ -38,17 +82,6 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-fuel-fuel-prices-petrol_7206063.jpg?20260329100958"/>
     </item>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Mark Kleinman blog | Flying taxi company Vertical Aerospace set for take-off with $800m capital-raise&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description/>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-vertical-aerospace_7206347.jpg?20260329180106" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: Vertical Aerospace</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-vertical-aerospace_7206347.jpg?20260329180106" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-vertical-aerospace_7206347.jpg?20260329180106"/>
-    </item>
-    <item>
       <title>Govt reviewing flagship EV sale quotas after biggest car production fall in 73 years</title>
       <link>https://news.sky.com/story/govt-reviewing-flagship-ev-sale-quotas-after-biggest-car-production-fall-in-73-years-13525842</link>
       <description>The government is reviewing its electric car sale quotas - one of its flagship green policies.</description>
@@ -58,6 +91,17 @@
       <media:description type="html">File photo dated 05/03/21 of an electric car plugged into a EV charging point. Thirteen more electric car models are eligible for new Govern</media:description>
       <media:thumbnail url="https://e3.365dm.com/25/10/1920x1080/skynews-ev-evs-electric-cars_7040053.jpg?20251003124545" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/10/1920x1080/skynews-ev-evs-electric-cars_7040053.jpg?20251003124545"/>
+    </item>
+    <item>
+      <title>'I'm a florist - and the thing everyone does to preserve their flowers is a complete waste of time'</title>
+      <link>https://news.sky.com/story/im-a-florist-and-the-thing-everyone-does-to-preserve-their-flowers-is-a-complete-waste-of-time-13526037</link>
+      <description>If you've ever spent your morning commute daydreaming about starting afresh with your career, this feature is for you. Each Monday, we speak to someone from a different profession to discover what it's really like. Today we speak to florist and founder of Snapdragon Edinburgh, Catherine Traynor... </description>
+      <pubDate>Mon, 30 Mar 2026 09:58:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/im-a-florist-and-the-thing-everyone-does-to-preserve-their-flowers-is-a-complete-waste-of-time-13526037</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-catherine-traynor-florist_7206540.png?20260330061655" length="0" type="image/png"/>
+      <media:description type="html">Florist and founder of Snapdragon Edinburgh, Catherine Traynor</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-catherine-traynor-florist_7206540.png?20260330061655" width="1920" height="1080"/>
+      <media:content type="image/png" url="https://e3.365dm.com/26/03/1920x1080/skynews-catherine-traynor-florist_7206540.png?20260330061655"/>
     </item>
     <item>
       <title>'Ripple of fear' among households over Iran war price surge</title>
@@ -80,51 +124,6 @@
       <media:description type="html">In some cases, a five-star review left online isn&amp;#39;t what it seems. File pic</media:description>
       <media:thumbnail url="https://e3.365dm.com/21/07/1920x1080/skynews-five-star-review_5452758.jpg?20260327085740" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/21/07/1920x1080/skynews-five-star-review_5452758.jpg?20260327085740"/>
-    </item>
-    <item>
-      <title>Benefit cheat who claimed anxiety left her housebound caught ziplining in Mexico</title>
-      <link>https://news.sky.com/story/benefit-cheat-who-claimed-anxiety-left-her-housebound-caught-ziplining-and-surfing-in-mexico-13524870</link>
-      <description>A benefit cheat who defrauded more than &amp;#163;23,000 by claiming she was too ill to go outside was caught surfing and ziplining in Mexico.</description>
-      <pubDate>Thu, 26 Mar 2026 21:39:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/benefit-cheat-who-claimed-anxiety-left-her-housebound-caught-ziplining-and-surfing-in-mexico-13524870</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-catherine-wieland-mexico_7204101.jpg?20260327083448" length="0" type="image/jpeg"/>
-      <media:description type="html">Catherine Wieland claimed her health was so poor she could not cook or wash herself. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-catherine-wieland-mexico_7204101.jpg?20260327083448" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-catherine-wieland-mexico_7204101.jpg?20260327083448"/>
-    </item>
-    <item>
-      <title>UK facing biggest economic hit from Iran war of any major country</title>
-      <link>https://news.sky.com/story/uk-facing-biggest-economic-hit-from-iran-war-of-any-major-country-13524511</link>
-      <description>Britain faces a bigger economic downgrade as a result of war in the Persian Gulf than any other major country, according to the first comprehensive assessment of the implications of the conflict.</description>
-      <pubDate>Thu, 26 Mar 2026 06:08:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/uk-facing-biggest-economic-hit-from-iran-war-of-any-major-country-13524511</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-money-gfx-graphic-war_7187698.jpg?20260310094437" length="0" type="image/jpeg"/>
-      <media:description type="html">X</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-money-gfx-graphic-war_7187698.jpg?20260310094437" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-money-gfx-graphic-war_7187698.jpg?20260310094437"/>
-    </item>
-    <item>
-      <title>Three areas industry is warning government about due to Iran war</title>
-      <link>https://news.sky.com/story/three-areas-industry-is-warning-government-about-due-to-iran-war-13524555</link>
-      <description>Concerns over queues at the petrol pump are growing at the very top levels of both business and government.</description>
-      <pubDate>Thu, 26 Mar 2026 07:51:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/three-areas-industry-is-warning-government-about-due-to-iran-war-13524555</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-plane-british-airways_7203353.jpg?20260326080512" length="0" type="image/jpeg"/>
-      <media:description type="html">British Airways Airbus jet being refuelled at London Gatwick Airport.
-Pic: Shutterstock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-plane-british-airways_7203353.jpg?20260326080512" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-plane-british-airways_7203353.jpg?20260326080512"/>
-    </item>
-    <item>
-      <title>'Transfer trick' couples can use to pay less tax | Money newsletter</title>
-      <link>https://news.sky.com/story/money-newsletter-sky-news-13367142</link>
-      <description>More than 175,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every Friday.</description>
-      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/money-newsletter-sky-news-13367142</guid>
-      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-hmrc-resolutions_7129160.jpg?20260107151812" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-hmrc-resolutions_7129160.jpg?20260107151812" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-hmrc-resolutions_7129160.jpg?20260107151812"/>
     </item>
   </channel>
 </rss>
