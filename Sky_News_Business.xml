@@ -12,11 +12,11 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 31 Mar 2026 18:39:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 13:17:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
-      <title>All the changes coming this month that will hit your finances</title>
+      <title>Here's all the household bills and taxes set to increase this month</title>
       <link>https://news.sky.com/story/all-the-changes-coming-in-april-that-will-affect-your-money-13521275</link>
       <description>A raft of changes affecting the money in your pocket are coming into force this month.</description>
       <pubDate>Wed, 18 Mar 2026 10:34:00 +0000</pubDate>
@@ -25,6 +25,17 @@
       <media:description type="html">Pic: iStock </media:description>
       <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills-cash_7196305.jpg?20260318111529" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills-cash_7196305.jpg?20260318111529"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Poundland-owner among suitors for upmarket British handbag brand Radley&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-radley-handbag-shop_7183016.jpg?20260305115017" length="0" type="image/jpeg"/>
+      <media:description type="html">Radley handbag and leather accessories shop in Royal Exchange Square, Glasgow. Pic: Liz Leyden, iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-radley-handbag-shop_7183016.jpg?20260305115017" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-radley-handbag-shop_7183016.jpg?20260305115017"/>
     </item>
     <item>
       <title>What business cost increases are being introduced in April?</title>
@@ -49,15 +60,26 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-money-blog-petrol_7195046.jpg?20260317063016"/>
     </item>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Collapse of 217 year-old pottery group Denby hints at wider peril for Britain's economy&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description/>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/02/1920x1080/skynews-denby-pottery_7176766.jpg?20260227130725" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: Denby</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-denby-pottery_7176766.jpg?20260227130725" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-denby-pottery_7176766.jpg?20260227130725"/>
+      <title>Ryanair warns of jet fuel supply disruption in May</title>
+      <link>https://news.sky.com/story/ryanair-warns-of-jet-fuel-supply-disruption-in-may-13526834</link>
+      <description>Jet fuel supplies could be disrupted in early May if the Middle East conflict continues, the boss of Ryanair has warned. </description>
+      <pubDate>Wed, 01 Apr 2026 13:17:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/ryanair-warns-of-jet-fuel-supply-disruption-in-may-13526834</guid>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-money-ryanair_7208558.jpg?20260401132328" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock </media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-money-ryanair_7208558.jpg?20260401132328" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-money-ryanair_7208558.jpg?20260401132328"/>
+    </item>
+    <item>
+      <title>The common insurance that's often a complete waste of money | Money newsletter</title>
+      <link>https://news.sky.com/story/money-newsletter-sky-news-13367142</link>
+      <description>More than 180,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every Friday.</description>
+      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/money-newsletter-sky-news-13367142</guid>
+      <enclosure url="https://e3.365dm.com/25/09/1920x1080/skynews-insurance-file_7036816.jpg?20250930084207" length="0" type="image/jpeg"/>
+      <media:description type="html">An iStock picture of an insurance policy with pen and a folder</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/09/1920x1080/skynews-insurance-file_7036816.jpg?20250930084207" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/09/1920x1080/skynews-insurance-file_7036816.jpg?20250930084207"/>
     </item>
     <item>
       <title>Millions of drivers owed hundreds of pounds in compensation - here's how to claim</title>
@@ -82,17 +104,6 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-travelodge-hotel_7167357.jpg?20260217142837"/>
     </item>
     <item>
-      <title>The common insurance that's often a complete waste of money | Money newsletter</title>
-      <link>https://news.sky.com/story/money-newsletter-sky-news-13367142</link>
-      <description>More than 180,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every Friday.</description>
-      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/money-newsletter-sky-news-13367142</guid>
-      <enclosure url="https://e3.365dm.com/25/09/1920x1080/skynews-insurance-file_7036816.jpg?20250930084207" length="0" type="image/jpeg"/>
-      <media:description type="html">An iStock picture of an insurance policy with pen and a folder</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/09/1920x1080/skynews-insurance-file_7036816.jpg?20250930084207" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/09/1920x1080/skynews-insurance-file_7036816.jpg?20250930084207"/>
-    </item>
-    <item>
       <title>EV charger firms say energy bill increases will be passed on to drivers</title>
       <link>https://news.sky.com/story/ev-charger-firms-say-energy-bill-increases-will-be-passed-on-to-drivers-13526126</link>
       <description>Electric vehicle charger firms have warned that soaring energy bills will have to be passed on to drivers, risking a major setback for the government's green goals.</description>
@@ -113,17 +124,6 @@
       <media:description type="html">Fork lift in big greenhouse</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-food-farming-fertiliser_7204773.png?20260327162307" width="1920" height="1080"/>
       <media:content type="image/png" url="https://e3.365dm.com/26/03/1920x1080/skynews-food-farming-fertiliser_7204773.png?20260327162307"/>
-    </item>
-    <item>
-      <title>Motorists should 'fill up as normal' despite fuel prices soaring, minister says</title>
-      <link>https://news.sky.com/story/motorists-should-fill-up-as-normal-despite-fuel-prices-soaring-minister-says-13525774</link>
-      <description>Motorists should "fill up as normal" as the government is "well prepared" for disruption, a senior minister has said as fuel prices soar.</description>
-      <pubDate>Sun, 29 Mar 2026 09:59:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/motorists-should-fill-up-as-normal-despite-fuel-prices-soaring-minister-says-13525774</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-fuel-fuel-prices-petrol_7206063.jpg?20260329100958" length="0" type="image/jpeg"/>
-      <media:description type="html">Petrol prices have risen to an average of more than 150p per litre. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-fuel-fuel-prices-petrol_7206063.jpg?20260329100958" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-fuel-fuel-prices-petrol_7206063.jpg?20260329100958"/>
     </item>
   </channel>
 </rss>
