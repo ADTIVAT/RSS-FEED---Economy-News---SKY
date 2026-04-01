@@ -12,9 +12,53 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 30 Mar 2026 19:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 18:39:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>All the changes coming this month that will hit your finances</title>
+      <link>https://news.sky.com/story/all-the-changes-coming-in-april-that-will-affect-your-money-13521275</link>
+      <description>A raft of changes affecting the money in your pocket are coming into force this month.</description>
+      <pubDate>Wed, 18 Mar 2026 10:34:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/all-the-changes-coming-in-april-that-will-affect-your-money-13521275</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills-cash_7196305.jpg?20260318111529" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock </media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills-cash_7196305.jpg?20260318111529" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills-cash_7196305.jpg?20260318111529"/>
+    </item>
+    <item>
+      <title>What business cost increases are being introduced in April?</title>
+      <link>https://news.sky.com/story/what-business-cost-increases-are-being-introduced-in-april-13526551</link>
+      <description>For months businesses have been anticipating the impact of a range of tax and regulatory measures announced by the government in the budget and in the weeks since.</description>
+      <pubDate>Tue, 31 Mar 2026 18:39:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/what-business-cost-increases-are-being-introduced-in-april-13526551</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills_7196306.jpg?20260318111605" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills_7196306.jpg?20260318111605" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills_7196306.jpg?20260318111605"/>
+    </item>
+    <item>
+      <title>How countries are dealing with rising oil and gas prices</title>
+      <link>https://news.sky.com/story/how-countries-are-dealing-with-rising-oil-and-gas-prices-13526096</link>
+      <description>With the US-Iran conflict continuing, governments worldwide are desperately trying to curb the effect of soaring energy prices on populations.</description>
+      <pubDate>Mon, 30 Mar 2026 12:49:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/how-countries-are-dealing-with-rising-oil-and-gas-prices-13526096</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-money-blog-petrol_7195046.jpg?20260317063016" length="0" type="image/jpeg"/>
+      <media:description type="html">Man putting petrol in his car. iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-money-blog-petrol_7195046.jpg?20260317063016" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-money-blog-petrol_7195046.jpg?20260317063016"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Collapse of 217 year-old pottery group Denby hints at wider peril for Britain's economy&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/26/02/1920x1080/skynews-denby-pottery_7176766.jpg?20260227130725" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: Denby</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-denby-pottery_7176766.jpg?20260227130725" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-denby-pottery_7176766.jpg?20260227130725"/>
+    </item>
     <item>
       <title>Millions of drivers owed hundreds of pounds in compensation - here's how to claim</title>
       <link>https://news.sky.com/story/car-finance-scandal-what-happened-and-am-i-eligible-for-compensation-13526186</link>
@@ -27,17 +71,6 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-car-finance-car-loan_7207208.jpg?20260330194146"/>
     </item>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Government research body UKRI to name former Cambridge vice-chancellor as new chair | Mark Kleinman blog&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description/>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/25/05/1920x1080/skynews-whitehall-civil-service_6915406.jpg?20250513164224" length="0" type="image/jpeg"/>
-      <media:description type="html">London, UK - March 15, 2023: Downing Street and Whitehall street sign on a government building in the City of Westminster, London, UK. Pic iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/05/1920x1080/skynews-whitehall-civil-service_6915406.jpg?20250513164224" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/05/1920x1080/skynews-whitehall-civil-service_6915406.jpg?20250513164224"/>
-    </item>
-    <item>
       <title>Travelodge boss 'desperately sorry' over sex assault at hotel</title>
       <link>https://news.sky.com/story/travelodge-sex-assault-survivor-hits-out-at-boss-of-hotel-chain-13526191</link>
       <description>The survivor of a sexual assault that took place in a Travelodge hotel room has accused its CEO of not taking the issue of women's safety "very seriously".</description>
@@ -47,6 +80,17 @@
       <media:description type="html">A Travelodge sign</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-travelodge-hotel_7167357.jpg?20260217142837" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-travelodge-hotel_7167357.jpg?20260217142837"/>
+    </item>
+    <item>
+      <title>The common insurance that's often a complete waste of money | Money newsletter</title>
+      <link>https://news.sky.com/story/money-newsletter-sky-news-13367142</link>
+      <description>More than 180,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every Friday.</description>
+      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/money-newsletter-sky-news-13367142</guid>
+      <enclosure url="https://e3.365dm.com/25/09/1920x1080/skynews-insurance-file_7036816.jpg?20250930084207" length="0" type="image/jpeg"/>
+      <media:description type="html">An iStock picture of an insurance policy with pen and a folder</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/09/1920x1080/skynews-insurance-file_7036816.jpg?20250930084207" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/09/1920x1080/skynews-insurance-file_7036816.jpg?20250930084207"/>
     </item>
     <item>
       <title>EV charger firms say energy bill increases will be passed on to drivers</title>
@@ -80,50 +124,6 @@
       <media:description type="html">Petrol prices have risen to an average of more than 150p per litre. Pic: PA</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-fuel-fuel-prices-petrol_7206063.jpg?20260329100958" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-fuel-fuel-prices-petrol_7206063.jpg?20260329100958"/>
-    </item>
-    <item>
-      <title>Govt reviewing flagship EV sale quotas after biggest car production fall in 73 years</title>
-      <link>https://news.sky.com/story/govt-reviewing-flagship-ev-sale-quotas-after-biggest-car-production-fall-in-73-years-13525842</link>
-      <description>The government is reviewing its electric car sale quotas - one of its flagship green policies.</description>
-      <pubDate>Sun, 29 Mar 2026 15:03:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/govt-reviewing-flagship-ev-sale-quotas-after-biggest-car-production-fall-in-73-years-13525842</guid>
-      <enclosure url="https://e3.365dm.com/25/10/1920x1080/skynews-ev-evs-electric-cars_7040053.jpg?20251003124545" length="0" type="image/jpeg"/>
-      <media:description type="html">File photo dated 05/03/21 of an electric car plugged into a EV charging point. Thirteen more electric car models are eligible for new Govern</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/10/1920x1080/skynews-ev-evs-electric-cars_7040053.jpg?20251003124545" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/10/1920x1080/skynews-ev-evs-electric-cars_7040053.jpg?20251003124545"/>
-    </item>
-    <item>
-      <title>'I'm a florist - and the thing everyone does to preserve their flowers is a complete waste of time'</title>
-      <link>https://news.sky.com/story/im-a-florist-and-the-thing-everyone-does-to-preserve-their-flowers-is-a-complete-waste-of-time-13526037</link>
-      <description>If you've ever spent your morning commute daydreaming about starting afresh with your career, this feature is for you. Each Monday, we speak to someone from a different profession to discover what it's really like. Today we speak to florist and founder of Snapdragon Edinburgh, Catherine Traynor... </description>
-      <pubDate>Mon, 30 Mar 2026 09:58:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/im-a-florist-and-the-thing-everyone-does-to-preserve-their-flowers-is-a-complete-waste-of-time-13526037</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-catherine-traynor-florist_7206540.png?20260330061655" length="0" type="image/png"/>
-      <media:description type="html">Florist and founder of Snapdragon Edinburgh, Catherine Traynor</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-catherine-traynor-florist_7206540.png?20260330061655" width="1920" height="1080"/>
-      <media:content type="image/png" url="https://e3.365dm.com/26/03/1920x1080/skynews-catherine-traynor-florist_7206540.png?20260330061655"/>
-    </item>
-    <item>
-      <title>'Ripple of fear' among households over Iran war price surge</title>
-      <link>https://news.sky.com/story/ripple-of-fear-among-households-over-iran-war-price-surge-13524601</link>
-      <description>The Middle East conflict has prompted a major shift in UK household spending intentions as a "ripple of fear" has taken hold, according to a respected measure of consumer confidence.</description>
-      <pubDate>Thu, 26 Mar 2026 10:11:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/ripple-of-fear-among-households-over-iran-war-price-surge-13524601</guid>
-      <enclosure url="https://e3.365dm.com/26/02/1920x1080/skynews-money-cash-savings_7156056.jpg?20260205055306" length="0" type="image/jpeg"/>
-      <media:description type="html">Woman hands holding piggy bank and money. Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-money-cash-savings_7156056.jpg?20260205055306" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-money-cash-savings_7156056.jpg?20260205055306"/>
-    </item>
-    <item>
-      <title>Just Eat and Autotrader among five firms under investigation in fake and misleading review crackdown</title>
-      <link>https://news.sky.com/story/just-eat-and-autotrader-among-five-firms-under-investigation-in-fake-and-misleading-review-crackdown-13524963</link>
-      <description>Just Eat and the funeral provider Dignity are among the latest companies being investigated as part of an inquiry into fake online reviews. </description>
-      <pubDate>Fri, 27 Mar 2026 07:53:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/just-eat-and-autotrader-among-five-firms-under-investigation-in-fake-and-misleading-review-crackdown-13524963</guid>
-      <enclosure url="https://e3.365dm.com/21/07/1920x1080/skynews-five-star-review_5452758.jpg?20260327085740" length="0" type="image/jpeg"/>
-      <media:description type="html">In some cases, a five-star review left online isn&amp;#39;t what it seems. File pic</media:description>
-      <media:thumbnail url="https://e3.365dm.com/21/07/1920x1080/skynews-five-star-review_5452758.jpg?20260327085740" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/21/07/1920x1080/skynews-five-star-review_5452758.jpg?20260327085740"/>
     </item>
   </channel>
 </rss>
