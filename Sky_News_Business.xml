@@ -12,7 +12,7 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 01 Apr 2026 13:17:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 16:09:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
@@ -36,6 +36,17 @@
       <media:description type="html">Radley handbag and leather accessories shop in Royal Exchange Square, Glasgow. Pic: Liz Leyden, iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-radley-handbag-shop_7183016.jpg?20260305115017" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-radley-handbag-shop_7183016.jpg?20260305115017"/>
+    </item>
+    <item>
+      <title>Chelsea reveal largest pre-tax loss in Premier League history</title>
+      <link>https://news.sky.com/story/chelsea-reveal-largest-pre-tax-loss-in-premier-league-history-13526925</link>
+      <description>Chelsea FC have announced a pre-tax loss of &amp;#163;262.4m - the biggest in Premier League history.</description>
+      <pubDate>Wed, 01 Apr 2026 16:09:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/chelsea-reveal-largest-pre-tax-loss-in-premier-league-history-13526925</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-chelsea-stamford-bridge_7194476.jpg?20260316132300" length="0" type="image/jpeg"/>
+      <media:description type="html">Chelsea fans outside Stamford Bridge. Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-chelsea-stamford-bridge_7194476.jpg?20260316132300" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-chelsea-stamford-bridge_7194476.jpg?20260316132300"/>
     </item>
     <item>
       <title>What business cost increases are being introduced in April?</title>
@@ -113,17 +124,6 @@
       <media:description type="html">Fastned said the large increases will have to be passed onto drivers. Pic: Fastned</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-fastned-electric-vehicle_7207025.jpg?20260330160352" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-fastned-electric-vehicle_7207025.jpg?20260330160352"/>
-    </item>
-    <item>
-      <title>'It's a really serious situation': Warning food prices are set to spike in the UK</title>
-      <link>https://news.sky.com/story/warning-food-prices-are-set-to-spike-in-the-uk-due-to-iran-war-13525118</link>
-      <description>This spring, the most valuable commodity in agriculture is not sunshine or even rain, it is fertiliser.</description>
-      <pubDate>Mon, 30 Mar 2026 00:01:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/warning-food-prices-are-set-to-spike-in-the-uk-due-to-iran-war-13525118</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-food-farming-fertiliser_7204773.png?20260327162307" length="0" type="image/png"/>
-      <media:description type="html">Fork lift in big greenhouse</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-food-farming-fertiliser_7204773.png?20260327162307" width="1920" height="1080"/>
-      <media:content type="image/png" url="https://e3.365dm.com/26/03/1920x1080/skynews-food-farming-fertiliser_7204773.png?20260327162307"/>
     </item>
   </channel>
 </rss>
