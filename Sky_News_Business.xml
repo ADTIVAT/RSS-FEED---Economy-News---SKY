@@ -12,9 +12,31 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 02 Apr 2026 08:14:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 19:52:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>M&amp;S boss issues stark warning over worsening crime</title>
+      <link>https://news.sky.com/story/marks-and-spencer-boss-warns-crime-is-getting-more-brazen-after-days-of-unrest-13527380</link>
+      <description>Marks and Spencer's retail boss has warned crime is getting "more brazen, more organised and more aggressive" after a week plagued by antisocial behaviour.</description>
+      <pubDate>Thu, 02 Apr 2026 19:52:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/marks-and-spencer-boss-warns-crime-is-getting-more-brazen-after-days-of-unrest-13527380</guid>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-clapham-youths-riot_7208619.jpg?20260401143104" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: BestOfClaphamLDN/Instagram</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-clapham-youths-riot_7208619.jpg?20260401143104" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-clapham-youths-riot_7208619.jpg?20260401143104"/>
+    </item>
+    <item>
+      <title>Choc horror: Why 'flavour' bars and small packs are here to stay</title>
+      <link>https://news.sky.com/story/choc-horror-why-flavour-bars-and-small-packs-are-here-to-stay-13527191</link>
+      <description>Chocolate-flavour bars and smaller packs appear here to stay despite the fall of cocoa costs to a near three-year low and a 20% drop in the sugar price.</description>
+      <pubDate>Thu, 02 Apr 2026 11:25:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/choc-horror-why-flavour-bars-and-small-packs-are-here-to-stay-13527191</guid>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-chocolate-flavour-bar_7209492.jpg?20260402135658" length="0" type="image/jpeg"/>
+      <media:description type="html">A selection of chocolate flavour bars</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-chocolate-flavour-bar_7209492.jpg?20260402135658" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-chocolate-flavour-bar_7209492.jpg?20260402135658"/>
+    </item>
     <item>
       <title>Clear market uncertainty despite latest Trump attempt to soothe concerns</title>
       <link>https://news.sky.com/story/clear-market-uncertainty-despite-latest-trump-attempt-too-soothe-concerns-13527080</link>
@@ -102,28 +124,6 @@
       <media:description type="html">Pic: iStock </media:description>
       <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-money-ryanair_7208558.jpg?20260401132328" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-money-ryanair_7208558.jpg?20260401132328"/>
-    </item>
-    <item>
-      <title>Millions of drivers owed hundreds of pounds in compensation - here's how to claim</title>
-      <link>https://news.sky.com/story/car-finance-scandal-what-happened-and-am-i-eligible-for-compensation-13526186</link>
-      <description>Millions of motorists who were mis-sold car finance agreements are due to receive &amp;#163;829 on average in compensation, it has been announced.</description>
-      <pubDate>Mon, 30 Mar 2026 19:00:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/car-finance-scandal-what-happened-and-am-i-eligible-for-compensation-13526186</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-car-finance-car-loan_7207208.jpg?20260330194146" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-car-finance-car-loan_7207208.jpg?20260330194146" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-car-finance-car-loan_7207208.jpg?20260330194146"/>
-    </item>
-    <item>
-      <title>Travelodge boss 'desperately sorry' over sex assault at hotel</title>
-      <link>https://news.sky.com/story/travelodge-sex-assault-survivor-hits-out-at-boss-of-hotel-chain-13526191</link>
-      <description>The survivor of a sexual assault that took place in a Travelodge hotel room has accused its CEO of not taking the issue of women's safety "very seriously".</description>
-      <pubDate>Mon, 30 Mar 2026 17:58:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/travelodge-sex-assault-survivor-hits-out-at-boss-of-hotel-chain-13526191</guid>
-      <enclosure url="https://e3.365dm.com/26/02/1920x1080/skynews-travelodge-hotel_7167357.jpg?20260217142837" length="0" type="image/jpeg"/>
-      <media:description type="html">A Travelodge sign</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-travelodge-hotel_7167357.jpg?20260217142837" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-travelodge-hotel_7167357.jpg?20260217142837"/>
     </item>
   </channel>
 </rss>
