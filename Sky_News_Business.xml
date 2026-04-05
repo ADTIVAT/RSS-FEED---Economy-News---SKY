@@ -12,19 +12,30 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 02 Apr 2026 19:52:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 03:40:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;HSBC puts ex-Standard Chartered executive Meddings in frame as next chairman | Mark Kleinman blog&lt;/a&gt;</title>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Rappers Krept &amp; Konan tune into &amp;#163;3m Smacks Burgers &amp; Hot Chicken fundraising | Mark Kleinman blog&lt;/a&gt;</title>
       <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
       <description/>
       <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
       <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-hsbc-headquarters-london_7210664.jpg?20260404084113" length="0" type="image/jpeg"/>
-      <media:description type="html">HSBC headquarters in London&amp;#39;s Canary Wharf. File pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-hsbc-headquarters-london_7210664.jpg?20260404084113" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-hsbc-headquarters-london_7210664.jpg?20260404084113"/>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-smacks-burgers-hot-chicken_7211446.jpg?20260405123135" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: Smacks Burgers &amp; Hot Chicken</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-smacks-burgers-hot-chicken_7211446.jpg?20260405123135" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-smacks-burgers-hot-chicken_7211446.jpg?20260405123135"/>
+    </item>
+    <item>
+      <title>Over 12m people to benefit from state pension increase tomorrow</title>
+      <link>https://news.sky.com/story/over-12m-people-to-benefit-from-state-pension-increase-tomorrow-13528096</link>
+      <description>More than 12 million people will see their state pension rise by &amp;#163;575 a year from tomorrow.</description>
+      <pubDate>Sun, 05 Apr 2026 03:40:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/over-12m-people-to-benefit-from-state-pension-increase-tomorrow-13528096</guid>
+      <enclosure url="https://e3.365dm.com/26/02/1920x1080/skynews-banknotes-money_7153300.jpg?20260202130021" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-banknotes-money_7153300.jpg?20260202130021" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-banknotes-money_7153300.jpg?20260202130021"/>
     </item>
     <item>
       <title>M&amp;S boss issues stark warning over worsening crime</title>
@@ -113,17 +124,6 @@
       <media:description type="html">Man putting petrol in his car. iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-money-blog-petrol_7195046.jpg?20260317063016" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-money-blog-petrol_7195046.jpg?20260317063016"/>
-    </item>
-    <item>
-      <title>Ryanair warns of jet fuel supply disruption in May</title>
-      <link>https://news.sky.com/story/ryanair-warns-of-jet-fuel-supply-disruption-in-may-13526834</link>
-      <description>Jet fuel supplies could be disrupted in early May if the Middle East conflict continues, the boss of Ryanair has warned. </description>
-      <pubDate>Wed, 01 Apr 2026 13:17:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/ryanair-warns-of-jet-fuel-supply-disruption-in-may-13526834</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-money-ryanair_7208558.jpg?20260401132328" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock </media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-money-ryanair_7208558.jpg?20260401132328" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-money-ryanair_7208558.jpg?20260401132328"/>
     </item>
   </channel>
 </rss>
