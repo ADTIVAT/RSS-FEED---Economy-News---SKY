@@ -12,9 +12,42 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 08 Apr 2026 16:32:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 12:59:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Diesel and jet fuel shortages for some time, IMF warns</title>
+      <link>https://news.sky.com/story/diesel-and-jet-fuel-shortages-for-some-time-imf-warns-13529635</link>
+      <description>The world will experience diesel and jet fuel shortages "for some time" because of the war in Iran, according to the International Monetary Fund (IMF).</description>
+      <pubDate>Thu, 09 Apr 2026 12:59:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/diesel-and-jet-fuel-shortages-for-some-time-imf-warns-13529635</guid>
+      <enclosure url="https://e3.365dm.com/24/10/1920x1080/skynews-kristalina-georgieva_6718972.jpg?20241017172703" length="0" type="image/jpeg"/>
+      <media:description type="html">IMF Managing Director Kristalina Georgieva holds a press briefing on the Global Policy Agenda to open the IMF and World Bank&amp;#39;s 2024 annual Spring Meetings in Washington, U.S., April 18, 2024. REUTERS/Kevin Lamarque</media:description>
+      <media:thumbnail url="https://e3.365dm.com/24/10/1920x1080/skynews-kristalina-georgieva_6718972.jpg?20241017172703" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/24/10/1920x1080/skynews-kristalina-georgieva_6718972.jpg?20241017172703"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Rolls-Royce wins crucial proxy backing for 'Turbo Tufan's' multimillion pound pay hike&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-princess-royal-anne_7080814.jpg?20251113092919" length="0" type="image/jpeg"/>
+      <media:description type="html">The Princess Royal views engines on display during a visit to to Rolls-Royce&amp;#39;s Regional Training Centre, the first of its kind in Asia, to h</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-princess-royal-anne_7080814.jpg?20251113092919" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-princess-royal-anne_7080814.jpg?20251113092919"/>
+    </item>
+    <item>
+      <title>Brits facing extra EU border checks, as 'technical difficulties' hamper new system</title>
+      <link>https://news.sky.com/story/what-you-need-to-know-as-new-eu-entryexit-system-rolls-out-this-week-13529529</link>
+      <description>British travellers heading on their spring and summer holidays face changes at borders after the introduction of the EU's Entry/Exit System (EES).</description>
+      <pubDate>Thu, 09 Apr 2026 07:05:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/what-you-need-to-know-as-new-eu-entryexit-system-rolls-out-this-week-13529529</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-passport-heathrow-travel_7197298.jpg?20260319132335" length="0" type="image/jpeg"/>
+      <media:description type="html">Passport control at Heathrow Airport. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-passport-heathrow-travel_7197298.jpg?20260319132335" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-passport-heathrow-travel_7197298.jpg?20260319132335"/>
+    </item>
     <item>
       <title>Oil prices fall sharply after Trump announces two-week Iran war ceasefire</title>
       <link>https://news.sky.com/story/oil-prices-fall-sharply-after-trump-announces-two-week-iran-war-ceasefire-13529148</link>
@@ -25,17 +58,6 @@
       <media:description type="html">Oil production</media:description>
       <media:thumbnail url="https://e3.365dm.com/16/01/1920x1080/oil-us-1-2048x1536_3405830.jpg?20160126121024" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/16/01/1920x1080/oil-us-1-2048x1536_3405830.jpg?20160126121024"/>
-    </item>
-    <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Co-op Group swoops with deal to take over struggling Southern Co-op&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description/>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-co-op-retail_7214259.jpg?20260408154747" length="0" type="image/jpeg"/>
-      <media:description type="html">Co-op</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-co-op-retail_7214259.jpg?20260408154747" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-co-op-retail_7214259.jpg?20260408154747"/>
     </item>
     <item>
       <title>How countries are dealing with fuel supply crisis</title>
@@ -102,28 +124,6 @@
       <media:description type="html">Pic: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-bills-money_7212953.jpg?20260407085844" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-bills-money_7212953.jpg?20260407085844"/>
-    </item>
-    <item>
-      <title>Five common renovations that could actually devalue your home</title>
-      <link>https://news.sky.com/story/five-common-renovations-that-could-actually-devalue-your-home-13529373</link>
-      <description>Whether it's a head-to-toe transformation of a fixer-upper or a few licks of paint to freshen the place up, homeowners are usually keen to put their own stamp on their property.</description>
-      <pubDate>Wed, 08 Apr 2026 16:32:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/five-common-renovations-that-could-actually-devalue-your-home-13529373</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-home-renovation-decorating_7214266.jpg?20260408155641" length="0" type="image/jpeg"/>
-      <media:description type="html">A couple paint their home. Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-home-renovation-decorating_7214266.jpg?20260408155641" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-home-renovation-decorating_7214266.jpg?20260408155641"/>
-    </item>
-    <item>
-      <title>New worker rights kick in - including on parental leave and sick pay</title>
-      <link>https://news.sky.com/story/new-worker-rights-kick-in-including-on-parental-leave-and-sick-pay-13528814</link>
-      <description>Employees have a raft of new rights.</description>
-      <pubDate>Tue, 07 Apr 2026 08:36:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/new-worker-rights-kick-in-including-on-parental-leave-and-sick-pay-13528814</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-istock-stock-file-generic_7212123.jpg?20260406101549" length="0" type="image/jpeg"/>
-      <media:description type="html">A sick office worker sneezing. Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-istock-stock-file-generic_7212123.jpg?20260406101549" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-istock-stock-file-generic_7212123.jpg?20260406101549"/>
     </item>
   </channel>
 </rss>
