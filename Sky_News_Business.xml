@@ -12,118 +12,118 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 02 Apr 2026 19:52:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 16:32:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Rappers Krept &amp; Konan tune into &amp;#163;3m Smacks Burgers &amp; Hot Chicken fundraising | Mark Kleinman blog&lt;/a&gt;</title>
+      <title>Oil prices fall sharply after Trump announces two-week Iran war ceasefire</title>
+      <link>https://news.sky.com/story/oil-prices-fall-sharply-after-trump-announces-two-week-iran-war-ceasefire-13529148</link>
+      <description>Oil prices have fallen sharply and stock markets have soared on news of a two-week ceasefire between the US and Iran.</description>
+      <pubDate>Wed, 08 Apr 2026 06:27:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/oil-prices-fall-sharply-after-trump-announces-two-week-iran-war-ceasefire-13529148</guid>
+      <enclosure url="https://e3.365dm.com/16/01/1920x1080/oil-us-1-2048x1536_3405830.jpg?20160126121024" length="0" type="image/jpeg"/>
+      <media:description type="html">Oil production</media:description>
+      <media:thumbnail url="https://e3.365dm.com/16/01/1920x1080/oil-us-1-2048x1536_3405830.jpg?20160126121024" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/16/01/1920x1080/oil-us-1-2048x1536_3405830.jpg?20160126121024"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Co-op Group swoops with deal to take over struggling Southern Co-op&lt;/a&gt;</title>
       <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
       <description/>
       <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
       <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-smacks-burgers-hot-chicken_7211446.jpg?20260405123135" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: Smacks Burgers &amp; Hot Chicken</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-smacks-burgers-hot-chicken_7211446.jpg?20260405123135" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-smacks-burgers-hot-chicken_7211446.jpg?20260405123135"/>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-co-op-retail_7214259.jpg?20260408154747" length="0" type="image/jpeg"/>
+      <media:description type="html">Co-op</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-co-op-retail_7214259.jpg?20260408154747" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-co-op-retail_7214259.jpg?20260408154747"/>
     </item>
     <item>
-      <title>M&amp;S boss issues stark warning over worsening crime</title>
-      <link>https://news.sky.com/story/marks-and-spencer-boss-warns-crime-is-getting-more-brazen-after-days-of-unrest-13527380</link>
-      <description>Marks and Spencer's retail boss has warned crime is getting "more brazen, more organised and more aggressive" after a week plagued by antisocial behaviour.</description>
-      <pubDate>Thu, 02 Apr 2026 19:52:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/marks-and-spencer-boss-warns-crime-is-getting-more-brazen-after-days-of-unrest-13527380</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-clapham-youths-riot_7208619.jpg?20260401143104" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: BestOfClaphamLDN/Instagram</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-clapham-youths-riot_7208619.jpg?20260401143104" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-clapham-youths-riot_7208619.jpg?20260401143104"/>
+      <title>How countries are dealing with fuel supply crisis</title>
+      <link>https://news.sky.com/story/iran-war-how-the-crisis-in-key-strait-of-hormuz-waterway-is-affecting-fuel-supplies-for-different-countries-13528841</link>
+      <description>Fears of fuel shortages have been sparked recently as the number of tankers passing through the Strait of Hormuz was reduced to a trickle amid threats from Iran, which experts say effectively controls the waterway.</description>
+      <pubDate>Tue, 07 Apr 2026 09:54:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/iran-war-how-the-crisis-in-key-strait-of-hormuz-waterway-is-affecting-fuel-supplies-for-different-countries-13528841</guid>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-cargo-ships-strait-of-hormuz_7213349.jpg?20260407153100" length="0" type="image/jpeg"/>
+      <media:description type="html">Cargo ships in the Gulf, near the Strait of Hormuz. File pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-cargo-ships-strait-of-hormuz_7213349.jpg?20260407153100" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-cargo-ships-strait-of-hormuz_7213349.jpg?20260407153100"/>
     </item>
     <item>
-      <title>Choc horror: Why 'flavour' bars and small packs are here to stay</title>
-      <link>https://news.sky.com/story/choc-horror-why-flavour-bars-and-small-packs-are-here-to-stay-13527191</link>
-      <description>Chocolate-flavour bars and smaller packs appear here to stay despite the fall of cocoa costs to a near three-year low and a 20% drop in the sugar price.</description>
-      <pubDate>Thu, 02 Apr 2026 11:25:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/choc-horror-why-flavour-bars-and-small-packs-are-here-to-stay-13527191</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-chocolate-flavour-bar_7209492.jpg?20260402135658" length="0" type="image/jpeg"/>
-      <media:description type="html">A selection of chocolate flavour bars</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-chocolate-flavour-bar_7209492.jpg?20260402135658" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-chocolate-flavour-bar_7209492.jpg?20260402135658"/>
+      <title>Interest rate to be capped on some student loans</title>
+      <link>https://news.sky.com/story/interest-rate-to-be-capped-on-some-student-loans-13528874</link>
+      <description>Interest rates on plan 2 and 3 student loans will be capped at 6% for one year from September, the government has announced.&amp;#160;</description>
+      <pubDate>Tue, 07 Apr 2026 11:20:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/interest-rate-to-be-capped-on-some-student-loans-13528874</guid>
+      <enclosure url="https://e3.365dm.com/25/12/1920x1080/skynews-university-erasmus_7113004.jpg?20251217130927" length="0" type="image/jpeg"/>
+      <media:description type="html">STUDENT UNIVERSITY ERASMUS</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/12/1920x1080/skynews-university-erasmus_7113004.jpg?20251217130927" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/12/1920x1080/skynews-university-erasmus_7113004.jpg?20251217130927"/>
     </item>
     <item>
-      <title>Clear market uncertainty despite latest Trump attempt to soothe concerns</title>
-      <link>https://news.sky.com/story/clear-market-uncertainty-despite-latest-trump-attempt-too-soothe-concerns-13527080</link>
-      <description>The latest attempt by Donald Trump to ease uncertainty over the US and Israel's war on Iran has only heightened investor concerns. </description>
-      <pubDate>Thu, 02 Apr 2026 06:22:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/clear-market-uncertainty-despite-latest-trump-attempt-too-soothe-concerns-13527080</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-south-korea-market_7186795.jpg?20260309100528" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: Jintak Han/ZUMA Press Wire/Shutterstock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-south-korea-market_7186795.jpg?20260309100528" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-south-korea-market_7186795.jpg?20260309100528"/>
-    </item>
-    <item>
-      <title>Here's all the household bills and taxes set to increase this month</title>
-      <link>https://news.sky.com/story/all-the-changes-coming-in-april-that-will-affect-your-money-13521275</link>
-      <description>A raft of changes affecting the money in your pocket are coming into force this month.</description>
-      <pubDate>Wed, 18 Mar 2026 10:34:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/all-the-changes-coming-in-april-that-will-affect-your-money-13521275</guid>
+      <title>Are you due &amp;#163;40 compensation from your bank? | Money newsletter</title>
+      <link>https://news.sky.com/story/money-newsletter-sky-news-13367142</link>
+      <description>More than 180,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
+      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/money-newsletter-sky-news-13367142</guid>
       <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills-cash_7196305.jpg?20260318111529" length="0" type="image/jpeg"/>
       <media:description type="html">Pic: iStock </media:description>
       <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills-cash_7196305.jpg?20260318111529" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills-cash_7196305.jpg?20260318111529"/>
     </item>
     <item>
-      <title>Top chef reveals the two supermarkets that do great meat and fish - and shares most underrated store cupboard ingredient</title>
-      <link>https://news.sky.com/story/top-chef-reveals-the-two-supermarkets-that-do-great-meat-and-fish-and-shares-most-underrated-store-cupboard-ingredient-13527110</link>
-      <description>Every month we interview top chefs from around the UK, hearing about their cheap food hacks, views on the industry and more.&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203;&amp;#8203; This time, we speak to multiple Michelin-starred chef Kenny Atkinson, chef-owner at Solstice and House of Tides in Newcastle and Solaya in London.</description>
-      <pubDate>Thu, 02 Apr 2026 08:14:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/top-chef-reveals-the-two-supermarkets-that-do-great-meat-and-fish-and-shares-most-underrated-store-cupboard-ingredient-13527110</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-kenny-atkinson-cheap-eats_7209085.jpg?20260402053603" length="0" type="image/jpeg"/>
-      <media:description type="html">Michelin-starred chef Kenny Atkinson</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-kenny-atkinson-cheap-eats_7209085.jpg?20260402053603" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-kenny-atkinson-cheap-eats_7209085.jpg?20260402053603"/>
+      <title>Waitrose worker sacked for tackling Easter egg thief gets job offer</title>
+      <link>https://news.sky.com/story/iceland-offers-job-to-waitrose-worker-sacked-for-tackling-shoplifter-13528881</link>
+      <description>The boss of Iceland has offered a job to the man who says he was sacked from Waitrose for tackling a shoplifter.</description>
+      <pubDate>Tue, 07 Apr 2026 12:24:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/iceland-offers-job-to-waitrose-worker-sacked-for-tackling-shoplifter-13528881</guid>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-walker-smith-waitrose_7213309.jpg?20260407143539" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: Facebook</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-walker-smith-waitrose_7213309.jpg?20260407143539" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-walker-smith-waitrose_7213309.jpg?20260407143539"/>
     </item>
     <item>
-      <title>Chelsea reveal largest pre-tax loss in Premier League history</title>
-      <link>https://news.sky.com/story/chelsea-reveal-largest-pre-tax-loss-in-premier-league-history-13526925</link>
-      <description>Chelsea FC have announced a pre-tax loss of &amp;#163;262.4m - the biggest in Premier League history.</description>
-      <pubDate>Wed, 01 Apr 2026 16:09:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/chelsea-reveal-largest-pre-tax-loss-in-premier-league-history-13526925</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-chelsea-stamford-bridge_7194476.jpg?20260316132300" length="0" type="image/jpeg"/>
-      <media:description type="html">Chelsea fans outside Stamford Bridge. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-chelsea-stamford-bridge_7194476.jpg?20260316132300" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-chelsea-stamford-bridge_7194476.jpg?20260316132300"/>
+      <title>&lt;a href='https://news.sky.com/story/money-live-tips-personal-finance-consumer-sky-news-latest-13040934?postid=11474380#liveblog-body'&gt;Popular holiday hotspot airport is out of fuel - with more running out&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/popular-holiday-hotspot-airport-is-out-of-fuel-with-more-running-out-13528811</link>
+      <description/>
+      <pubDate>Tue, 07 Apr 2026 08:15:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/popular-holiday-hotspot-airport-is-out-of-fuel-with-more-running-out-13528811</guid>
+      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-gatwick-sussex-police_7075638.jpg?20251108142315" length="0" type="image/jpeg"/>
+      <media:description type="html">Gatwick is the busiest single runway airport in Europe. Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-gatwick-sussex-police_7075638.jpg?20251108142315" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-gatwick-sussex-police_7075638.jpg?20251108142315"/>
     </item>
     <item>
-      <title>What business cost increases are being introduced in April?</title>
-      <link>https://news.sky.com/story/what-business-cost-increases-are-being-introduced-in-april-13526551</link>
-      <description>For months businesses have been anticipating the impact of a range of tax and regulatory measures announced by the government in the budget and in the weeks since.</description>
-      <pubDate>Tue, 31 Mar 2026 18:39:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/what-business-cost-increases-are-being-introduced-in-april-13526551</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills_7196306.jpg?20260318111605" length="0" type="image/jpeg"/>
+      <title>Six big tax changes as new financial year begins</title>
+      <link>https://news.sky.com/story/six-big-tax-changes-as-new-financial-year-begins-13528818</link>
+      <description>Several changes that could affect your tax bill took effect as the new financial year began this week.</description>
+      <pubDate>Tue, 07 Apr 2026 08:50:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/six-big-tax-changes-as-new-financial-year-begins-13528818</guid>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-bills-money_7212953.jpg?20260407085844" length="0" type="image/jpeg"/>
       <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills_7196306.jpg?20260318111605" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills_7196306.jpg?20260318111605"/>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-bills-money_7212953.jpg?20260407085844" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-bills-money_7212953.jpg?20260407085844"/>
     </item>
     <item>
-      <title>How countries are dealing with rising oil and gas prices</title>
-      <link>https://news.sky.com/story/how-countries-are-dealing-with-rising-oil-and-gas-prices-13526096</link>
-      <description>With the US-Iran conflict continuing, governments worldwide are desperately trying to curb the effect of soaring energy prices on populations.</description>
-      <pubDate>Mon, 30 Mar 2026 12:49:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/how-countries-are-dealing-with-rising-oil-and-gas-prices-13526096</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-money-blog-petrol_7195046.jpg?20260317063016" length="0" type="image/jpeg"/>
-      <media:description type="html">Man putting petrol in his car. iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-money-blog-petrol_7195046.jpg?20260317063016" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-money-blog-petrol_7195046.jpg?20260317063016"/>
+      <title>Five common renovations that could actually devalue your home</title>
+      <link>https://news.sky.com/story/five-common-renovations-that-could-actually-devalue-your-home-13529373</link>
+      <description>Whether it's a head-to-toe transformation of a fixer-upper or a few licks of paint to freshen the place up, homeowners are usually keen to put their own stamp on their property.</description>
+      <pubDate>Wed, 08 Apr 2026 16:32:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/five-common-renovations-that-could-actually-devalue-your-home-13529373</guid>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-home-renovation-decorating_7214266.jpg?20260408155641" length="0" type="image/jpeg"/>
+      <media:description type="html">A couple paint their home. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-home-renovation-decorating_7214266.jpg?20260408155641" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-home-renovation-decorating_7214266.jpg?20260408155641"/>
     </item>
     <item>
-      <title>Ryanair warns of jet fuel supply disruption in May</title>
-      <link>https://news.sky.com/story/ryanair-warns-of-jet-fuel-supply-disruption-in-may-13526834</link>
-      <description>Jet fuel supplies could be disrupted in early May if the Middle East conflict continues, the boss of Ryanair has warned. </description>
-      <pubDate>Wed, 01 Apr 2026 13:17:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/ryanair-warns-of-jet-fuel-supply-disruption-in-may-13526834</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-money-ryanair_7208558.jpg?20260401132328" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock </media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-money-ryanair_7208558.jpg?20260401132328" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-money-ryanair_7208558.jpg?20260401132328"/>
+      <title>New worker rights kick in - including on parental leave and sick pay</title>
+      <link>https://news.sky.com/story/new-worker-rights-kick-in-including-on-parental-leave-and-sick-pay-13528814</link>
+      <description>Employees have a raft of new rights.</description>
+      <pubDate>Tue, 07 Apr 2026 08:36:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/new-worker-rights-kick-in-including-on-parental-leave-and-sick-pay-13528814</guid>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-istock-stock-file-generic_7212123.jpg?20260406101549" length="0" type="image/jpeg"/>
+      <media:description type="html">A sick office worker sneezing. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-istock-stock-file-generic_7212123.jpg?20260406101549" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-istock-stock-file-generic_7212123.jpg?20260406101549"/>
     </item>
   </channel>
 </rss>
