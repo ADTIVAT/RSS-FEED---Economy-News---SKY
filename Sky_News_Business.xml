@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 09 Apr 2026 12:59:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 11:10:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Domino's Pizza faces deep panning from investors over executive pay plans&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-dominos-pizza_7083950.jpg?20251117105523" length="0" type="image/jpeg"/>
+      <media:description type="html">A Domino&amp;#39;s Pizza sign. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-dominos-pizza_7083950.jpg?20251117105523" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-dominos-pizza_7083950.jpg?20251117105523"/>
+    </item>
     <item>
       <title>Diesel and jet fuel shortages for some time, IMF warns</title>
       <link>https://news.sky.com/story/diesel-and-jet-fuel-shortages-for-some-time-imf-warns-13529635</link>
@@ -27,17 +38,6 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/24/10/1920x1080/skynews-kristalina-georgieva_6718972.jpg?20241017172703"/>
     </item>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Rolls-Royce wins crucial proxy backing for 'Turbo Tufan's' multimillion pound pay hike&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description/>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-princess-royal-anne_7080814.jpg?20251113092919" length="0" type="image/jpeg"/>
-      <media:description type="html">The Princess Royal views engines on display during a visit to to Rolls-Royce&amp;#39;s Regional Training Centre, the first of its kind in Asia, to h</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-princess-royal-anne_7080814.jpg?20251113092919" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-princess-royal-anne_7080814.jpg?20251113092919"/>
-    </item>
-    <item>
       <title>New EU border checks - what British travellers need to know</title>
       <link>https://news.sky.com/story/what-you-need-to-know-as-new-eu-entryexit-system-rolls-out-this-week-13529529</link>
       <description>British travellers heading on their spring and summer holidays face changes at borders after the introduction of the EU's Entry/Exit System (EES).</description>
@@ -47,6 +47,17 @@
       <media:description type="html">Passport control at Heathrow Airport. Pic: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-passport-heathrow-travel_7197298.jpg?20260319132335" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-passport-heathrow-travel_7197298.jpg?20260319132335"/>
+    </item>
+    <item>
+      <title>Dolce &amp; Gabbana co-founder quits as chairman</title>
+      <link>https://news.sky.com/story/dolce-gabbana-co-founder-stefano-gabbana-quits-as-chairman-13530003</link>
+      <description>Stefano Gabbana, the co-founder of Italian luxury fashion house Dolce &amp; Gabbana, stepped down as the brand's chairman.</description>
+      <pubDate>Fri, 10 Apr 2026 11:10:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/dolce-gabbana-co-founder-stefano-gabbana-quits-as-chairman-13530003</guid>
+      <enclosure url="https://e3.365dm.com/21/03/1920x1080/skynews-dolce-and-gabbana-stefano-gabbana_5295859.jpg?20210307052356" length="0" type="image/jpeg"/>
+      <media:description type="html">Italian designers Domenico Dolce and Stefano Gabbana</media:description>
+      <media:thumbnail url="https://e3.365dm.com/21/03/1920x1080/skynews-dolce-and-gabbana-stefano-gabbana_5295859.jpg?20210307052356" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/21/03/1920x1080/skynews-dolce-and-gabbana-stefano-gabbana_5295859.jpg?20210307052356"/>
     </item>
     <item>
       <title>Oil prices fall sharply after Trump announces two-week Iran war ceasefire</title>
@@ -113,17 +124,6 @@
       <media:description type="html">Gatwick is the busiest single runway airport in Europe. Pic: PA</media:description>
       <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-gatwick-sussex-police_7075638.jpg?20251108142315" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-gatwick-sussex-police_7075638.jpg?20251108142315"/>
-    </item>
-    <item>
-      <title>Six big tax changes as new financial year begins</title>
-      <link>https://news.sky.com/story/six-big-tax-changes-as-new-financial-year-begins-13528818</link>
-      <description>Several changes that could affect your tax bill took effect as the new financial year began this week.</description>
-      <pubDate>Tue, 07 Apr 2026 08:50:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/six-big-tax-changes-as-new-financial-year-begins-13528818</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-bills-money_7212953.jpg?20260407085844" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-bills-money_7212953.jpg?20260407085844" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-bills-money_7212953.jpg?20260407085844"/>
     </item>
   </channel>
 </rss>
