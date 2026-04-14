@@ -12,19 +12,64 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 10 Apr 2026 11:10:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 14:57:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Domino's Pizza faces deep panning from investors over executive pay plans&lt;/a&gt;</title>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Mark Kleinman blog | National Lottery operator Allwyn eyes &amp;#163;1bn jackpots with US Powerball game plot&lt;/a&gt;</title>
       <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
       <description/>
       <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
       <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-dominos-pizza_7083950.jpg?20251117105523" length="0" type="image/jpeg"/>
-      <media:description type="html">A Domino&amp;#39;s Pizza sign. Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-dominos-pizza_7083950.jpg?20251117105523" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-dominos-pizza_7083950.jpg?20251117105523"/>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-lottery-national-lottery_7188833.jpg?20260311110548" length="0" type="image/jpeg"/>
+      <media:description type="html">Undated file photo of a National Lottery sign outside a newsagent in north London. Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-lottery-national-lottery_7188833.jpg?20260311110548" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-lottery-national-lottery_7188833.jpg?20260311110548"/>
+    </item>
+    <item>
+      <title>Oil back over $100 a barrel after just four days</title>
+      <link>https://news.sky.com/story/oil-back-over-100-a-barrel-after-just-four-days-13531204</link>
+      <description>After just four days below, the oil price is back above $100 a barrel as US President Donald Trump said the US military would blockade the key Strait of Hormuz shipping lane.</description>
+      <pubDate>Mon, 13 Apr 2026 06:37:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/oil-back-over-100-a-barrel-after-just-four-days-13531204</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-kharg-island-iran-oil_7192105.jpg?20260314115743" length="0" type="image/jpeg"/>
+      <media:description type="html">Pipelines transferring crude oil from storage on the hills of Kharg Island to tankers in the eastern dock in 2016. Pic: AP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-kharg-island-iran-oil_7192105.jpg?20260314115743" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-kharg-island-iran-oil_7192105.jpg?20260314115743"/>
+    </item>
+    <item>
+      <title>Judge throws out $10bn Trump lawsuit</title>
+      <link>https://news.sky.com/story/judge-dismisses-trumps-10bn-lawsuit-against-wall-street-journal-and-murdoch-over-reporting-on-epstein-ties-13529907</link>
+      <description>A judge has dismissed Donald Trump's $10bn (&amp;#163;7.43bn) lawsuit against the Wall Street Journal (WSJ) and its owner, Rupert Murdoch, over reporting on his ties to Jeffrey Epstein.</description>
+      <pubDate>Mon, 13 Apr 2026 14:57:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/judge-dismisses-trumps-10bn-lawsuit-against-wall-street-journal-and-murdoch-over-reporting-on-epstein-ties-13529907</guid>
+      <enclosure url="https://e3.365dm.com/26/02/1920x1080/skynews-trump-epstein_7154173.jpg?20260203101147" length="0" type="image/jpeg"/>
+      <media:description type="html">Donald Trump and Jeffrey Epstein in 1992</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-trump-epstein_7154173.jpg?20260203101147" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-trump-epstein_7154173.jpg?20260203101147"/>
+    </item>
+    <item>
+      <title>Airports warn of 'systemic' fuel shortages due to Iran war</title>
+      <link>https://news.sky.com/story/airports-council-international-warns-of-fuel-shortages-if-strait-of-hormuz-not-reopened-amid-us-iran-war-talks-13530261</link>
+      <description>Airports are bracing for mass shortages of jet fuel if the Strait of Hormuz does not reopen within the next three weeks, according to a trade body. </description>
+      <pubDate>Fri, 10 Apr 2026 23:05:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/airports-council-international-warns-of-fuel-shortages-if-strait-of-hormuz-not-reopened-amid-us-iran-war-talks-13530261</guid>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-plane-fuel-shortages_7216582.jpg?20260410231330" length="0" type="image/jpeg"/>
+      <media:description type="html">Supplies of jet fuel from the Middle East have been disrupted since the US-Israel’s war with Iran. Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-plane-fuel-shortages_7216582.jpg?20260410231330" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-plane-fuel-shortages_7216582.jpg?20260410231330"/>
+    </item>
+    <item>
+      <title>More than 900,000 pensioners not claiming key benefit | Money newsletter</title>
+      <link>https://news.sky.com/story/money-newsletter-13367142</link>
+      <description>More than 180,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
+      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/money-newsletter-13367142</guid>
+      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-champagne-flying-airplanes_7073451.jpg?20251106081507" length="0" type="image/jpeg"/>
+      <media:description type="html">A person holding a glass of champagne to a plane window.
+File pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-champagne-flying-airplanes_7073451.jpg?20251106081507" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-champagne-flying-airplanes_7073451.jpg?20251106081507"/>
     </item>
     <item>
       <title>Diesel and jet fuel shortages for some time, IMF warns</title>
@@ -80,50 +125,6 @@
       <media:description type="html">Cargo ships in the Gulf, near the Strait of Hormuz. File pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-cargo-ships-strait-of-hormuz_7213349.jpg?20260407153100" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-cargo-ships-strait-of-hormuz_7213349.jpg?20260407153100"/>
-    </item>
-    <item>
-      <title>Interest rate to be capped on some student loans</title>
-      <link>https://news.sky.com/story/interest-rate-to-be-capped-on-some-student-loans-13528874</link>
-      <description>Interest rates on plan 2 and 3 student loans will be capped at 6% for one year from September, the government has announced.&amp;#160;</description>
-      <pubDate>Tue, 07 Apr 2026 11:20:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/interest-rate-to-be-capped-on-some-student-loans-13528874</guid>
-      <enclosure url="https://e3.365dm.com/25/12/1920x1080/skynews-university-erasmus_7113004.jpg?20251217130927" length="0" type="image/jpeg"/>
-      <media:description type="html">STUDENT UNIVERSITY ERASMUS</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/12/1920x1080/skynews-university-erasmus_7113004.jpg?20251217130927" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/12/1920x1080/skynews-university-erasmus_7113004.jpg?20251217130927"/>
-    </item>
-    <item>
-      <title>Are you due &amp;#163;40 compensation from your bank? | Money newsletter</title>
-      <link>https://news.sky.com/story/money-newsletter-sky-news-13367142</link>
-      <description>More than 180,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
-      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/money-newsletter-sky-news-13367142</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills-cash_7196305.jpg?20260318111529" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock </media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills-cash_7196305.jpg?20260318111529" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills-cash_7196305.jpg?20260318111529"/>
-    </item>
-    <item>
-      <title>Waitrose worker sacked for tackling Easter egg thief gets job offer</title>
-      <link>https://news.sky.com/story/iceland-offers-job-to-waitrose-worker-sacked-for-tackling-shoplifter-13528881</link>
-      <description>The boss of Iceland has offered a job to the man who says he was sacked from Waitrose for tackling a shoplifter.</description>
-      <pubDate>Tue, 07 Apr 2026 12:24:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/iceland-offers-job-to-waitrose-worker-sacked-for-tackling-shoplifter-13528881</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-walker-smith-waitrose_7213309.jpg?20260407143539" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: Facebook</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-walker-smith-waitrose_7213309.jpg?20260407143539" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-walker-smith-waitrose_7213309.jpg?20260407143539"/>
-    </item>
-    <item>
-      <title>&lt;a href='https://news.sky.com/story/money-live-tips-personal-finance-consumer-sky-news-latest-13040934?postid=11474380#liveblog-body'&gt;Popular holiday hotspot airport is out of fuel - with more running out&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/popular-holiday-hotspot-airport-is-out-of-fuel-with-more-running-out-13528811</link>
-      <description/>
-      <pubDate>Tue, 07 Apr 2026 08:15:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/popular-holiday-hotspot-airport-is-out-of-fuel-with-more-running-out-13528811</guid>
-      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-gatwick-sussex-police_7075638.jpg?20251108142315" length="0" type="image/jpeg"/>
-      <media:description type="html">Gatwick is the busiest single runway airport in Europe. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-gatwick-sussex-police_7075638.jpg?20251108142315" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-gatwick-sussex-police_7075638.jpg?20251108142315"/>
     </item>
   </channel>
 </rss>
