@@ -12,9 +12,42 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 15 Apr 2026 07:40:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 06:15:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>UK economy grows by surprising amount</title>
+      <link>https://news.sky.com/story/uk-economy-back-to-growth-but-it-could-be-the-last-for-a-while-13532364</link>
+      <description>The UK economy grew far more than expected in the month before the war in Iran began, latest official figures show.</description>
+      <pubDate>Thu, 16 Apr 2026 06:15:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/uk-economy-back-to-growth-but-it-could-be-the-last-for-a-while-13532364</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills-cash_7196305.jpg?20260318111529" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock </media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills-cash_7196305.jpg?20260318111529" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills-cash_7196305.jpg?20260318111529"/>
+    </item>
+    <item>
+      <title>Fears government cash will come too late to save manufacturing jobs</title>
+      <link>https://news.sky.com/story/fears-government-cash-will-come-too-late-to-save-manufacturing-jobs-13532189</link>
+      <description>Manufacturers are demanding immediate help with energy bills after the government revealed an expansion of a key support scheme, but said it would not begin until next April as planned.</description>
+      <pubDate>Wed, 15 Apr 2026 15:41:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/fears-government-cash-will-come-too-late-to-save-manufacturing-jobs-13532189</guid>
+      <enclosure url="https://e3.365dm.com/22/04/1920x1080/skynews-liberty-steel-arc_5754357.jpg?20220428160522" length="0" type="image/jpeg"/>
+      <media:description type="html">Liberty Steel, part of Sanjeev Gupta&amp;#39;s GFG, uses electric arc furnaces to produce steel from recycled materials. Pic: LS</media:description>
+      <media:thumbnail url="https://e3.365dm.com/22/04/1920x1080/skynews-liberty-steel-arc_5754357.jpg?20220428160522" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/22/04/1920x1080/skynews-liberty-steel-arc_5754357.jpg?20220428160522"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Mandelson's advisory firm collapsed owing taxman six-figure sum&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-lord-mandelson-peter-mandelson_7189614.jpg?20260311234306" length="0" type="image/jpeg"/>
+      <media:description type="html">Lord Mandelson leaves his north London home on Wednesday. Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-lord-mandelson-peter-mandelson_7189614.jpg?20260311234306" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-lord-mandelson-peter-mandelson_7189614.jpg?20260311234306"/>
+    </item>
     <item>
       <title>First watchdog clamp down on illegal online pricing with customers to get refunds</title>
       <link>https://news.sky.com/story/customers-to-get-refunds-as-aa-driving-schools-fined-16342m-13531961</link>
@@ -27,6 +60,17 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-aa-driving-school-money-blog_7084679.jpg?20251118071915"/>
     </item>
     <item>
+      <title>BBC to cut up to 2,000 jobs</title>
+      <link>https://news.sky.com/story/bbc-to-cut-up-to-2000-jobs-in-biggest-downsize-for-15-years-13532192</link>
+      <description>The BBC will cut up to 2,000 jobs as part of its biggest downsize in 15 years.</description>
+      <pubDate>Wed, 15 Apr 2026 15:54:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/bbc-to-cut-up-to-2000-jobs-in-biggest-downsize-for-15-years-13532192</guid>
+      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-bbc-nbh_7077746.jpg?20251110031119" length="0" type="image/jpeg"/>
+      <media:description type="html">iStock file pic</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-bbc-nbh_7077746.jpg?20251110031119" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-bbc-nbh_7077746.jpg?20251110031119"/>
+    </item>
+    <item>
       <title>Unemployed Britons turning up to job interviews to find the interviewer is an AI robot</title>
       <link>https://news.sky.com/story/british-job-hunters-turning-up-to-find-their-interviewer-is-an-ai-robot-13531971</link>
       <description>David Gwynn isn't happy with how his job interview at a London hospitality agency went last month.</description>
@@ -36,17 +80,6 @@
       <media:description type="html">A CV being fed through a shredder by a robot arm. Pic: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-cv-shredder-robot-ai_7220425.jpg?20260415061617" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-cv-shredder-robot-ai_7220425.jpg?20260415061617"/>
-    </item>
-    <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;State-owned British Business Bank writes &amp;#163;100m cheque to back British healthcare scale-ups&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description/>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/22/09/1920x1080/skynews-treasury-kwasi-kwarteng_5914402.jpg?20220929175850" length="0" type="image/jpeg"/>
-      <media:description type="html">HM Treasury</media:description>
-      <media:thumbnail url="https://e3.365dm.com/22/09/1920x1080/skynews-treasury-kwasi-kwarteng_5914402.jpg?20220929175850" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/22/09/1920x1080/skynews-treasury-kwasi-kwarteng_5914402.jpg?20220929175850"/>
     </item>
     <item>
       <title>Britain's economic prospects downgraded more than any other major economy</title>
@@ -91,39 +124,6 @@
       <media:description type="html">A pensioner stands in his kitchen with a cup of tea and some bills. Pic: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-money-pensioner-pension_7212868.jpg?20260407065305" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-money-pensioner-pension_7212868.jpg?20260407065305"/>
-    </item>
-    <item>
-      <title>Autonomous robo-taxis now driving themselves on British streets</title>
-      <link>https://news.sky.com/story/autonomous-robo-taxis-now-driving-themselves-on-british-streets-13531630</link>
-      <description>Autonomous taxis are now driving themselves around London streets, the American company behind the technology has announced.</description>
-      <pubDate>Tue, 14 Apr 2026 11:45:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/autonomous-robo-taxis-now-driving-themselves-on-british-streets-13531630</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-waymo-taxi_7219697.png?20260414115213" length="0" type="image/png"/>
-      <media:description type="html">A Waymo car lets an ambulance pass. Pic: Waymo</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-waymo-taxi_7219697.png?20260414115213" width="1920" height="1080"/>
-      <media:content type="image/png" url="https://e3.365dm.com/26/04/1920x1080/skynews-waymo-taxi_7219697.png?20260414115213"/>
-    </item>
-    <item>
-      <title>Water company boss to forgo bonus following water outage</title>
-      <link>https://news.sky.com/story/water-company-boss-to-forgo-bonus-following-water-outage-13531662</link>
-      <description>The boss of South East Water has said he will not accept a bonus for the current financial year.</description>
-      <pubDate>Tue, 14 Apr 2026 13:20:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/water-company-boss-to-forgo-bonus-following-water-outage-13531662</guid>
-      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-south-east-water-maidstone_7139619.jpg?20260119114704" length="0" type="image/jpeg"/>
-      <media:description type="html">South East Water staff hand out bottled water at a water station in Maidstone on 13 January. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-south-east-water-maidstone_7139619.jpg?20260119114704" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-south-east-water-maidstone_7139619.jpg?20260119114704"/>
-    </item>
-    <item>
-      <title>Oil back over $100 a barrel after just four days</title>
-      <link>https://news.sky.com/story/oil-back-over-100-a-barrel-after-just-four-days-13531204</link>
-      <description>After just four days below, the oil price is back above $100 a barrel as US President Donald Trump said the US military would blockade the key Strait of Hormuz shipping lane.</description>
-      <pubDate>Mon, 13 Apr 2026 06:37:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/oil-back-over-100-a-barrel-after-just-four-days-13531204</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-kharg-island-iran-oil_7192105.jpg?20260314115743" length="0" type="image/jpeg"/>
-      <media:description type="html">Pipelines transferring crude oil from storage on the hills of Kharg Island to tankers in the eastern dock in 2016. Pic: AP</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-kharg-island-iran-oil_7192105.jpg?20260314115743" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-kharg-island-iran-oil_7192105.jpg?20260314115743"/>
     </item>
   </channel>
 </rss>
