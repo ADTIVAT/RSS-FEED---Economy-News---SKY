@@ -12,20 +12,41 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 17 Apr 2026 10:46:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 05:27:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Buyout firm plots &amp;#163;600m swoop on London-listed Advanced Medical Solutions Group&lt;/a&gt;</title>
+      <title>UK to 'flirt' with recession as Iran war oil shock bites, report warns</title>
+      <link>https://news.sky.com/story/uk-to-flirt-with-recession-as-iran-war-oil-shock-bites-report-warns-13533971</link>
+      <description>The UK economy will "flirt" with recession this year and almost 250,000 people could lose their jobs due to the effects of the Iran war oil price shock, according to a respected independent forecaster. </description>
+      <pubDate>Mon, 20 Apr 2026 05:27:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/uk-to-flirt-with-recession-as-iran-war-oil-shock-bites-report-warns-13533971</guid>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-strait-of-hormuz-tankers_7219545.jpg?20260415135442" length="0" type="image/jpeg"/>
+      <media:description type="html">FILE - Oil tankers and cargo ships line up in the Strait of Hormuz as seen from Khor Fakkan, United Arab Emirates, Wednesday, March 11, 2026. (AP Photo/Altaf Qadri,File)</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-strait-of-hormuz-tankers_7219545.jpg?20260415135442" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-strait-of-hormuz-tankers_7219545.jpg?20260415135442"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Buyout firms set Benchmark with bids for Schroders' financial planning unit&lt;/a&gt;</title>
       <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
       <description/>
       <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
       <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/25/12/1920x1080/skynews-stock-exchange-london_7114201.jpg?20251218155412" length="0" type="image/jpeg"/>
-      <media:description type="html">The London Stock Exchange in the City of London.
-Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/12/1920x1080/skynews-stock-exchange-london_7114201.jpg?20251218155412" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/12/1920x1080/skynews-stock-exchange-london_7114201.jpg?20251218155412"/>
+      <enclosure url="https://e3.365dm.com/16/12/1920x1080/c45eca8faca53eabdbfe6878e68b59ed4126ec7340b8434f17638f17b39c39f6_3847181.jpg?20161206192423" length="0" type="image/jpeg"/>
+      <media:description type="html">Schroders logo in City of London</media:description>
+      <media:thumbnail url="https://e3.365dm.com/16/12/1920x1080/c45eca8faca53eabdbfe6878e68b59ed4126ec7340b8434f17638f17b39c39f6_3847181.jpg?20161206192423" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/16/12/1920x1080/c45eca8faca53eabdbfe6878e68b59ed4126ec7340b8434f17638f17b39c39f6_3847181.jpg?20161206192423"/>
+    </item>
+    <item>
+      <title>Free delivery trick on Amazon; why are there two state pensions? | Money newsletter</title>
+      <link>https://news.sky.com/story/money-newsletter-13367142</link>
+      <description>More than 185,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
+      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/money-newsletter-13367142</guid>
+      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-delivery-money_7087668.jpg?20251121141813" length="0" type="image/jpeg"/>
+      <media:description type="html">Close-up of packages left on the porch of a house. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-delivery-money_7087668.jpg?20251121141813" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-delivery-money_7087668.jpg?20251121141813"/>
     </item>
     <item>
       <title>Fans feeling 'neglected and ripped off' over ticket price laws</title>
@@ -103,28 +124,6 @@ Pic: PA</media:description>
       <media:description type="html">Liberty Steel, part of Sanjeev Gupta&amp;#39;s GFG, uses electric arc furnaces to produce steel from recycled materials. Pic: LS</media:description>
       <media:thumbnail url="https://e3.365dm.com/22/04/1920x1080/skynews-liberty-steel-arc_5754357.jpg?20220428160522" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/22/04/1920x1080/skynews-liberty-steel-arc_5754357.jpg?20220428160522"/>
-    </item>
-    <item>
-      <title>First watchdog clamp down on illegal online pricing with customers to get refunds</title>
-      <link>https://news.sky.com/story/customers-to-get-refunds-as-aa-driving-schools-fined-16342m-13531961</link>
-      <description>Customers of BSM Driving School and The AA Driving School - both owned by the AA - are to receive refunds following an investigation by the competition regulator.</description>
-      <pubDate>Wed, 15 Apr 2026 07:07:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/customers-to-get-refunds-as-aa-driving-schools-fined-16342m-13531961</guid>
-      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-aa-driving-school-money-blog_7084679.jpg?20251118071915" length="0" type="image/jpeg"/>
-      <media:description type="html">London. UK- July 31. 2025. Side view of an AA Driving School vehicle parked on a street.</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-aa-driving-school-money-blog_7084679.jpg?20251118071915" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-aa-driving-school-money-blog_7084679.jpg?20251118071915"/>
-    </item>
-    <item>
-      <title>Why are there two different state pensions?</title>
-      <link>https://news.sky.com/story/why-are-there-two-different-state-pensions-13532473</link>
-      <description>The state pension rose this month - drawing attention once again to the continued existence of two different pensions.</description>
-      <pubDate>Thu, 16 Apr 2026 11:57:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/why-are-there-two-different-state-pensions-13532473</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-pensioners-pension_7212867.jpg?20260407065148" length="0" type="image/jpeg"/>
-      <media:description type="html">Two women of pension age take a selfie during a coach trip. Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-pensioners-pension_7212867.jpg?20260407065148" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-pensioners-pension_7212867.jpg?20260407065148"/>
     </item>
   </channel>
 </rss>
