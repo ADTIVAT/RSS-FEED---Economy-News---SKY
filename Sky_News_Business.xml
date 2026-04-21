@@ -12,9 +12,42 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 20 Apr 2026 05:27:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 05:32:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Surprise fall in unemployment rate but wage growth hits five-year low</title>
+      <link>https://news.sky.com/story/uk-economy-surprise-fall-in-unemployment-rate-to-49-13534371</link>
+      <description>The UK's unemployment rate has taken a surprise fall, according to official figures, released amid warnings of a spike in job losses to come.</description>
+      <pubDate>Tue, 21 Apr 2026 05:32:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/uk-economy-surprise-fall-in-unemployment-rate-to-49-13534371</guid>
+      <enclosure url="https://e3.365dm.com/24/04/1920x1080/skynews-payslip-wages_6518639.jpg?20241216121351" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/24/04/1920x1080/skynews-payslip-wages_6518639.jpg?20241216121351" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/24/04/1920x1080/skynews-payslip-wages_6518639.jpg?20241216121351"/>
+    </item>
+    <item>
+      <title>Apple boss to step down</title>
+      <link>https://news.sky.com/story/tim-cook-to-step-down-as-apple-ceo-as-tech-giant-names-successor-13534345</link>
+      <description>Tim Cook will be stepping down from his role as Apple CEO, to be replaced by John Ternus, the company has announced.</description>
+      <pubDate>Mon, 20 Apr 2026 22:47:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/tim-cook-to-step-down-as-apple-ceo-as-tech-giant-names-successor-13534345</guid>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-tim-cook-apple_7225816.jpg?20260420225248" length="0" type="image/jpeg"/>
+      <media:description type="html">Tim Cook. File pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-tim-cook-apple_7225816.jpg?20260420225248" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-tim-cook-apple_7225816.jpg?20260420225248"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Surgical smoke startup inhales &amp;#163;7m in IW Capital-led fundraising&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/23/08/1920x1080/skynews-istock-operating-theatre_6246192.jpg?20230810101346" length="0" type="image/jpeg"/>
+      <media:description type="html"> </media:description>
+      <media:thumbnail url="https://e3.365dm.com/23/08/1920x1080/skynews-istock-operating-theatre_6246192.jpg?20230810101346" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/23/08/1920x1080/skynews-istock-operating-theatre_6246192.jpg?20230810101346"/>
+    </item>
     <item>
       <title>UK to 'flirt' with recession as Iran war oil shock bites, report warns</title>
       <link>https://news.sky.com/story/uk-to-flirt-with-recession-as-iran-war-oil-shock-bites-report-warns-13533971</link>
@@ -25,17 +58,6 @@
       <media:description type="html">FILE - Oil tankers and cargo ships line up in the Strait of Hormuz as seen from Khor Fakkan, United Arab Emirates, Wednesday, March 11, 2026. (AP Photo/Altaf Qadri,File)</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-strait-of-hormuz-tankers_7219545.jpg?20260415135442" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-strait-of-hormuz-tankers_7219545.jpg?20260415135442"/>
-    </item>
-    <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Buyout firms set Benchmark with bids for Schroders' financial planning unit&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description/>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/16/12/1920x1080/c45eca8faca53eabdbfe6878e68b59ed4126ec7340b8434f17638f17b39c39f6_3847181.jpg?20161206192423" length="0" type="image/jpeg"/>
-      <media:description type="html">Schroders logo in City of London</media:description>
-      <media:thumbnail url="https://e3.365dm.com/16/12/1920x1080/c45eca8faca53eabdbfe6878e68b59ed4126ec7340b8434f17638f17b39c39f6_3847181.jpg?20161206192423" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/16/12/1920x1080/c45eca8faca53eabdbfe6878e68b59ed4126ec7340b8434f17638f17b39c39f6_3847181.jpg?20161206192423"/>
     </item>
     <item>
       <title>Free delivery trick on Amazon; why are there two state pensions? | Money newsletter</title>
@@ -102,28 +124,6 @@
       <media:description type="html">Taylor Swift performs during The Eras Tour on Friday, Dec. 6, 2024, in Vancouver, British Columbia. (AP Photo/Lindsey Wasson, File)</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-taylor-swift-eras-tour_7221382.jpg?20260416094550" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-taylor-swift-eras-tour_7221382.jpg?20260416094550"/>
-    </item>
-    <item>
-      <title>The curious link between Helen Mirren's garden and food prices</title>
-      <link>https://news.sky.com/story/why-helen-mirrens-garden-could-have-a-direct-impact-on-your-food-bills-13532406</link>
-      <description>What do an Oscar-winning actress and your grocery bill have in common? More than you might think.</description>
-      <pubDate>Thu, 16 Apr 2026 08:58:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/why-helen-mirrens-garden-could-have-a-direct-impact-on-your-food-bills-13532406</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-dame-helen-mirren-olive-oil_7221355.jpg?20260416092150" length="0" type="image/jpeg"/>
-      <media:description type="html">Dame Helen Mirren speaks to reporters at a Save the Olives event</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-dame-helen-mirren-olive-oil_7221355.jpg?20260416092150" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-dame-helen-mirren-olive-oil_7221355.jpg?20260416092150"/>
-    </item>
-    <item>
-      <title>Fears government cash will come too late to save manufacturing jobs</title>
-      <link>https://news.sky.com/story/fears-government-cash-will-come-too-late-to-save-manufacturing-jobs-13532189</link>
-      <description>Manufacturers are demanding immediate help with energy bills after the government revealed an expansion of a key support scheme, but said it would not begin until next April as planned.</description>
-      <pubDate>Wed, 15 Apr 2026 15:41:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/fears-government-cash-will-come-too-late-to-save-manufacturing-jobs-13532189</guid>
-      <enclosure url="https://e3.365dm.com/22/04/1920x1080/skynews-liberty-steel-arc_5754357.jpg?20220428160522" length="0" type="image/jpeg"/>
-      <media:description type="html">Liberty Steel, part of Sanjeev Gupta&amp;#39;s GFG, uses electric arc furnaces to produce steel from recycled materials. Pic: LS</media:description>
-      <media:thumbnail url="https://e3.365dm.com/22/04/1920x1080/skynews-liberty-steel-arc_5754357.jpg?20220428160522" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/22/04/1920x1080/skynews-liberty-steel-arc_5754357.jpg?20220428160522"/>
     </item>
   </channel>
 </rss>
