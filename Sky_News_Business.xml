@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 21 Apr 2026 05:32:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 00:39:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Airline cuts 20,000 flights</title>
+      <link>https://news.sky.com/story/lufthansa-cuts-20000-flights-amid-soaring-jet-fuel-costs-13534786</link>
+      <description>Lufthansa has said 20,000 short-haul flights are being cut from its schedule this summer, allowing it to save on the soaring cost of jet fuel.</description>
+      <pubDate>Tue, 21 Apr 2026 22:07:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/lufthansa-cuts-20000-flights-amid-soaring-jet-fuel-costs-13534786</guid>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-lufthansa-planes_7226804.jpg?20260421224632" length="0" type="image/jpeg"/>
+      <media:description type="html">The German airline closed down its City Line service last week. Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-lufthansa-planes_7226804.jpg?20260421224632" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-lufthansa-planes_7226804.jpg?20260421224632"/>
+    </item>
     <item>
       <title>Surprise fall in unemployment rate but wage growth hits five-year low</title>
       <link>https://news.sky.com/story/uk-economy-surprise-fall-in-unemployment-rate-to-49-13534371</link>
@@ -27,26 +38,61 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/24/04/1920x1080/skynews-payslip-wages_6518639.jpg?20241216121351"/>
     </item>
     <item>
-      <title>Apple boss to step down</title>
-      <link>https://news.sky.com/story/tim-cook-to-step-down-as-apple-ceo-as-tech-giant-names-successor-13534345</link>
-      <description>Tim Cook will be stepping down from his role as Apple CEO, to be replaced by John Ternus, the company has announced.</description>
-      <pubDate>Mon, 20 Apr 2026 22:47:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/tim-cook-to-step-down-as-apple-ceo-as-tech-giant-names-successor-13534345</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-tim-cook-apple_7225816.jpg?20260420225248" length="0" type="image/jpeg"/>
-      <media:description type="html">Tim Cook. File pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-tim-cook-apple_7225816.jpg?20260420225248" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-tim-cook-apple_7225816.jpg?20260420225248"/>
+      <title>The incredible fall of an unlikely Premier League champion</title>
+      <link>https://news.sky.com/story/how-leicester-city-went-from-premier-league-champions-to-the-third-tier-in-a-decade-13534825</link>
+      <description>In May 2016, Leicester City held aloft the Premier League trophy, defying 5,000/1 odds in what was one of the most extraordinary underdog stories in the history of English football. </description>
+      <pubDate>Wed, 22 Apr 2026 00:39:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/how-leicester-city-went-from-premier-league-champions-to-the-third-tier-in-a-decade-13534825</guid>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-leicester-football_7226848.jpg?20260422024337" length="0" type="image/jpeg"/>
+      <media:description type="html">Pics: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-leicester-football_7226848.jpg?20260422024337" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-leicester-football_7226848.jpg?20260422024337"/>
     </item>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Surgical smoke startup inhales &amp;#163;7m in IW Capital-led fundraising&lt;/a&gt;</title>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Retail veteran Higginson in shock exit as JD Sports Fashion chairman&lt;/a&gt;</title>
       <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
       <description/>
       <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
       <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/23/08/1920x1080/skynews-istock-operating-theatre_6246192.jpg?20230810101346" length="0" type="image/jpeg"/>
-      <media:description type="html"> </media:description>
-      <media:thumbnail url="https://e3.365dm.com/23/08/1920x1080/skynews-istock-operating-theatre_6246192.jpg?20230810101346" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/23/08/1920x1080/skynews-istock-operating-theatre_6246192.jpg?20230810101346"/>
+      <enclosure url="https://e3.365dm.com/24/12/1920x1080/skynews-boxing-day-oxford-street_6785126.jpg?20241226091245" length="0" type="image/jpeg"/>
+      <media:description type="html">A man carries bags from JD Sports after shopping on London&amp;#39;s Oxford Street during the Boxing Day sales.
+Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/24/12/1920x1080/skynews-boxing-day-oxford-street_6785126.jpg?20241226091245" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/24/12/1920x1080/skynews-boxing-day-oxford-street_6785126.jpg?20241226091245"/>
+    </item>
+    <item>
+      <title>Apple boss to step down</title>
+      <link>https://news.sky.com/story/tim-cook-to-step-down-as-apple-ceo-as-tech-giant-names-successor-13534345</link>
+      <description>Tim Cook  is to step down from his role as Apple CEO, to be replaced by John Ternus, the company has announced.</description>
+      <pubDate>Mon, 20 Apr 2026 22:47:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/tim-cook-to-step-down-as-apple-ceo-as-tech-giant-names-successor-13534345</guid>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-tim-cook-apple_7226056.jpg?20260421104733" length="0" type="image/jpeg"/>
+      <media:description type="html">Tim Cook will remain in his current role until Septermber.
+Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-tim-cook-apple_7226056.jpg?20260421104733" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-tim-cook-apple_7226056.jpg?20260421104733"/>
+    </item>
+    <item>
+      <title>Primark demerger aims to maximise potential after successive shocks</title>
+      <link>https://news.sky.com/story/primark-demerger-aims-to-maximise-potential-after-successive-shocks-13534399</link>
+      <description>It hardly inspires confidence when a company's share price falls sharply as it announces a demerger aimed at maximising shareholder value.</description>
+      <pubDate>Tue, 21 Apr 2026 08:21:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/primark-demerger-aims-to-maximise-potential-after-successive-shocks-13534399</guid>
+      <enclosure url="https://e3.365dm.com/24/03/1920x1080/skynews-primark-store-uk_6494092.jpg?20240318112316" length="0" type="image/jpeg"/>
+      <media:description type="html">A Primark store. Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/24/03/1920x1080/skynews-primark-store-uk_6494092.jpg?20240318112316" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/24/03/1920x1080/skynews-primark-store-uk_6494092.jpg?20240318112316"/>
+    </item>
+    <item>
+      <title>Tube strikes: Full list of dates and lines affected in walkout</title>
+      <link>https://news.sky.com/story/tube-strikes-full-list-of-dates-and-lines-affected-in-walkout-13534035</link>
+      <description>Heavy disruption is hitting the Tube this week as train drivers go on strike over changes to their working conditions.</description>
+      <pubDate>Mon, 20 Apr 2026 09:33:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/tube-strikes-full-list-of-dates-and-lines-affected-in-walkout-13534035</guid>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-london-underground_7225051.jpg?20260420093939" length="0" type="image/jpeg"/>
+      <media:description type="html">Crowd outside a London station. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-london-underground_7225051.jpg?20260420093939" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-london-underground_7225051.jpg?20260420093939"/>
     </item>
     <item>
       <title>UK to 'flirt' with recession as Iran war oil shock bites, report warns</title>
@@ -60,15 +106,15 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-strait-of-hormuz-tankers_7219545.jpg?20260415135442"/>
     </item>
     <item>
-      <title>Free delivery trick on Amazon; why are there two state pensions? | Money newsletter</title>
+      <title>Four tell-tale signs your car has a secret past | Money newsletter</title>
       <link>https://news.sky.com/story/money-newsletter-13367142</link>
       <description>More than 185,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
       <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
       <guid>https://news.sky.com/story/money-newsletter-13367142</guid>
-      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-delivery-money_7087668.jpg?20251121141813" length="0" type="image/jpeg"/>
-      <media:description type="html">Close-up of packages left on the porch of a house. Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-delivery-money_7087668.jpg?20251121141813" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-delivery-money_7087668.jpg?20251121141813"/>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-money-blog-money-car_7226161.jpg?20260421122931" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-money-blog-money-car_7226161.jpg?20260421122931" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-money-blog-money-car_7226161.jpg?20260421122931"/>
     </item>
     <item>
       <title>Fans feeling 'neglected and ripped off' over ticket price laws</title>
@@ -80,50 +126,6 @@
       <media:description type="html">Oasis fans on Wembley Way, ahead of the first night of the Oasis Live &amp;#39;25 tour opening at Wembley Stadium in London. Pic: PA</media:description>
       <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-oasis-wembley_7086117.jpg?20251119160346" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-oasis-wembley_7086117.jpg?20251119160346"/>
-    </item>
-    <item>
-      <title>Tesco swapping barcodes for QR codes in UK 'first' - here's why</title>
-      <link>https://news.sky.com/story/tesco-swapping-barcodes-for-qr-codes-in-uk-first-heres-why-13532875</link>
-      <description>Tesco is swapping barcodes for QR codes on a range of its own-brand products in a move the supermarket chain is describing as a UK "first".&amp;#160;</description>
-      <pubDate>Fri, 17 Apr 2026 10:46:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/tesco-swapping-barcodes-for-qr-codes-in-uk-first-heres-why-13532875</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-tesco-sausages-qr-code_7222407.jpg?20260417093121" length="0" type="image/jpeg"/>
-      <media:description type="html">EMBARGOED TO 0800 FRIDAY APRIL 17 Undated handout photo issued by Tesco of the packaging of one of their own-brand sausages which has been u</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-tesco-sausages-qr-code_7222407.jpg?20260417093121" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-tesco-sausages-qr-code_7222407.jpg?20260417093121"/>
-    </item>
-    <item>
-      <title>UK economy grows by surprising amount</title>
-      <link>https://news.sky.com/story/uk-economy-back-to-growth-but-it-could-be-the-last-for-a-while-13532364</link>
-      <description>The UK economy grew far more than expected in the month before the war in Iran began, latest official figures show.</description>
-      <pubDate>Thu, 16 Apr 2026 06:15:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/uk-economy-back-to-growth-but-it-could-be-the-last-for-a-while-13532364</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills-cash_7196305.jpg?20260318111529" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock </media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills-cash_7196305.jpg?20260318111529" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills-cash_7196305.jpg?20260318111529"/>
-    </item>
-    <item>
-      <title>Huge rise in workers tipping off HMRC about bosses underpaying staff</title>
-      <link>https://news.sky.com/story/huge-rise-in-workers-tipping-off-hmrc-about-bosses-underpaying-staff-13532812</link>
-      <description>More people are reporting their employers for underpaying staff, data shared exclusively with &lt;a href="https://news.sky.com/story/money-live-consumer-personal-finance-tips-sky-news-latest-13040934" target="_blank"&gt;Money&lt;/a&gt; has shown.</description>
-      <pubDate>Fri, 17 Apr 2026 07:34:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/huge-rise-in-workers-tipping-off-hmrc-about-bosses-underpaying-staff-13532812</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-hmrc-tax_7222291.jpg?20260417022838" length="0" type="image/jpeg"/>
-      <media:description type="html">iStock file pic </media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-hmrc-tax_7222291.jpg?20260417022838" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-hmrc-tax_7222291.jpg?20260417022838"/>
-    </item>
-    <item>
-      <title>Live Nation and Ticketmaster ran a monopoly over big US venues, jury finds</title>
-      <link>https://news.sky.com/story/live-nation-and-ticketmaster-ran-a-monopoly-over-big-us-venues-jury-finds-13532415</link>
-      <description>Concert giant Live Nation and its subsidiary Ticketmaster have had a harmful monopoly over big music venues, a jury in the US has found.</description>
-      <pubDate>Thu, 16 Apr 2026 09:28:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/live-nation-and-ticketmaster-ran-a-monopoly-over-big-us-venues-jury-finds-13532415</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-taylor-swift-eras-tour_7221382.jpg?20260416094550" length="0" type="image/jpeg"/>
-      <media:description type="html">Taylor Swift performs during The Eras Tour on Friday, Dec. 6, 2024, in Vancouver, British Columbia. (AP Photo/Lindsey Wasson, File)</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-taylor-swift-eras-tour_7221382.jpg?20260416094550" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-taylor-swift-eras-tour_7221382.jpg?20260416094550"/>
     </item>
   </channel>
 </rss>
