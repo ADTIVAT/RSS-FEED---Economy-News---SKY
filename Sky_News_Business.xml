@@ -12,9 +12,42 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 22 Apr 2026 00:39:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 07:14:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>WH Smith issues profit warning as jet fuel crisis looms</title>
+      <link>https://news.sky.com/story/wh-smith-issues-profit-warning-as-jet-fuel-crisis-looms-13535290</link>
+      <description>WH Smith has issued a profit warning and suspended shareholder payouts as the travel-focused retailer grapples growing travel disruption caused by the Middle East crisis.</description>
+      <pubDate>Thu, 23 Apr 2026 07:14:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/wh-smith-issues-profit-warning-as-jet-fuel-crisis-looms-13535290</guid>
+      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-wh-smith-store-heathrow_7085742.jpg?20251119093840" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: W H Smith </media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-wh-smith-store-heathrow_7085742.jpg?20251119093840" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-wh-smith-store-heathrow_7085742.jpg?20251119093840"/>
+    </item>
+    <item>
+      <title>Tesla surprises Wall Street and says demand for vehicles has returned</title>
+      <link>https://news.sky.com/story/tesla-surprises-wall-street-and-says-demand-for-vehicles-has-returned-13535152</link>
+      <description>Tesla defied expectations, profiting more and spending less than expected in closely watched results as the company shifts focus from electric vehicles to artificial intelligence (AI). </description>
+      <pubDate>Wed, 22 Apr 2026 19:52:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/tesla-surprises-wall-street-and-says-demand-for-vehicles-has-returned-13535152</guid>
+      <enclosure url="https://e3.365dm.com/24/10/1920x1080/skynews-lon-musk-tesla-elon-musk_6727518.jpg?20241025151125" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: AP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/24/10/1920x1080/skynews-lon-musk-tesla-elon-musk_6727518.jpg?20241025151125" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/24/10/1920x1080/skynews-lon-musk-tesla-elon-musk_6727518.jpg?20241025151125"/>
+    </item>
+    <item>
+      <title>The outlook for UK finances if US-Iran war persists</title>
+      <link>https://news.sky.com/story/the-outlook-for-the-economy-and-your-finances-if-us-iran-war-persists-13534921</link>
+      <description>Inflation figures covering the first month of the US-Iran war have fired a warning shot across the bows over what may lie ahead for the UK economy.</description>
+      <pubDate>Wed, 22 Apr 2026 11:02:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/the-outlook-for-the-economy-and-your-finances-if-us-iran-war-persists-13534921</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-money-gfx-graphic-war_7187698.jpg?20260310094437" length="0" type="image/jpeg"/>
+      <media:description type="html">X</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-money-gfx-graphic-war_7187698.jpg?20260310094437" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-money-gfx-graphic-war_7187698.jpg?20260310094437"/>
+    </item>
     <item>
       <title>Airline cuts 20,000 flights</title>
       <link>https://news.sky.com/story/lufthansa-cuts-20000-flights-amid-soaring-jet-fuel-costs-13534786</link>
@@ -25,6 +58,31 @@
       <media:description type="html">The German airline closed down its City Line service last week. Pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-lufthansa-planes_7226804.jpg?20260421224632" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-lufthansa-planes_7226804.jpg?20260421224632"/>
+    </item>
+    <item>
+      <title>UK's top cybersecurity chief warns against AI threats</title>
+      <link>https://news.sky.com/story/uks-top-cybersecurity-chief-warns-against-ai-threats-amid-anthropics-new-mythos-model-13534940</link>
+      <description>The UK's top cybersecurity official has told Sky News that AI models such as Mythos are "warning shots" for the UK about the danger of powerful AI.</description>
+      <pubDate>Wed, 22 Apr 2026 12:03:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/uks-top-cybersecurity-chief-warns-against-ai-threats-amid-anthropics-new-mythos-model-13534940</guid>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-richard-horne_7227154.jpg?20260422121307" length="0" type="image/jpeg"/>
+      <media:description type="html">Richard Horne, CEO of the National Cyber Security Centre (NCSC) warned that organisations without secure cyber protection &amp;#34;will be exposed&amp;#34;.</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-richard-horne_7227154.jpg?20260422121307" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-richard-horne_7227154.jpg?20260422121307"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Ex-civil service chief Kelly urges PM to back Britain with Whitehall procurement overhaul&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-whitehall-street_7207424.jpg?20260331072039" length="0" type="image/jpeg"/>
+      <media:description type="html">Whitehall street, London, United Kingdom.
+Pic: iStock
+
+</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-whitehall-street_7207424.jpg?20260331072039" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-whitehall-street_7207424.jpg?20260331072039"/>
     </item>
     <item>
       <title>Surprise fall in unemployment rate but wage growth hits five-year low</title>
@@ -38,7 +96,18 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/24/04/1920x1080/skynews-payslip-wages_6518639.jpg?20241216121351"/>
     </item>
     <item>
-      <title>The incredible fall of an unlikely Premier League champion</title>
+      <title>Car finance compensation could be delayed as redress scheme faces legal challenge</title>
+      <link>https://news.sky.com/story/car-finance-scandal-compensation-could-be-delayed-as-consumer-group-launches-legal-actions-13534996</link>
+      <description>A consumer group is launching legal action in a bid to change the car finance scandal compensation scheme.</description>
+      <pubDate>Wed, 22 Apr 2026 13:51:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/car-finance-scandal-compensation-could-be-delayed-as-consumer-group-launches-legal-actions-13534996</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-car-finance-car-loan_7207208.jpg?20260330194146" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-car-finance-car-loan_7207208.jpg?20260330194146" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-car-finance-car-loan_7207208.jpg?20260330194146"/>
+    </item>
+    <item>
+      <title>The incredible fall of unlikely Premier League champions</title>
       <link>https://news.sky.com/story/how-leicester-city-went-from-premier-league-champions-to-the-third-tier-in-a-decade-13534825</link>
       <description>In May 2016, Leicester City held aloft the Premier League trophy, defying 5,000/1 odds in what was one of the most extraordinary underdog stories in the history of English football. </description>
       <pubDate>Wed, 22 Apr 2026 00:39:00 +0100</pubDate>
@@ -49,83 +118,15 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-leicester-football_7226848.jpg?20260422024337"/>
     </item>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Retail veteran Higginson in shock exit as JD Sports Fashion chairman&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description/>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/24/12/1920x1080/skynews-boxing-day-oxford-street_6785126.jpg?20241226091245" length="0" type="image/jpeg"/>
-      <media:description type="html">A man carries bags from JD Sports after shopping on London&amp;#39;s Oxford Street during the Boxing Day sales.
-Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/24/12/1920x1080/skynews-boxing-day-oxford-street_6785126.jpg?20241226091245" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/24/12/1920x1080/skynews-boxing-day-oxford-street_6785126.jpg?20241226091245"/>
-    </item>
-    <item>
-      <title>Apple boss to step down</title>
-      <link>https://news.sky.com/story/tim-cook-to-step-down-as-apple-ceo-as-tech-giant-names-successor-13534345</link>
-      <description>Tim Cook  is to step down from his role as Apple CEO, to be replaced by John Ternus, the company has announced.</description>
-      <pubDate>Mon, 20 Apr 2026 22:47:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/tim-cook-to-step-down-as-apple-ceo-as-tech-giant-names-successor-13534345</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-tim-cook-apple_7226056.jpg?20260421104733" length="0" type="image/jpeg"/>
-      <media:description type="html">Tim Cook will remain in his current role until Septermber.
-Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-tim-cook-apple_7226056.jpg?20260421104733" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-tim-cook-apple_7226056.jpg?20260421104733"/>
-    </item>
-    <item>
-      <title>Primark demerger aims to maximise potential after successive shocks</title>
-      <link>https://news.sky.com/story/primark-demerger-aims-to-maximise-potential-after-successive-shocks-13534399</link>
-      <description>It hardly inspires confidence when a company's share price falls sharply as it announces a demerger aimed at maximising shareholder value.</description>
-      <pubDate>Tue, 21 Apr 2026 08:21:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/primark-demerger-aims-to-maximise-potential-after-successive-shocks-13534399</guid>
-      <enclosure url="https://e3.365dm.com/24/03/1920x1080/skynews-primark-store-uk_6494092.jpg?20240318112316" length="0" type="image/jpeg"/>
-      <media:description type="html">A Primark store. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/24/03/1920x1080/skynews-primark-store-uk_6494092.jpg?20240318112316" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/24/03/1920x1080/skynews-primark-store-uk_6494092.jpg?20240318112316"/>
-    </item>
-    <item>
-      <title>Tube strikes: Full list of dates and lines affected in walkout</title>
-      <link>https://news.sky.com/story/tube-strikes-full-list-of-dates-and-lines-affected-in-walkout-13534035</link>
-      <description>Heavy disruption is hitting the Tube this week as train drivers go on strike over changes to their working conditions.</description>
-      <pubDate>Mon, 20 Apr 2026 09:33:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/tube-strikes-full-list-of-dates-and-lines-affected-in-walkout-13534035</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-london-underground_7225051.jpg?20260420093939" length="0" type="image/jpeg"/>
-      <media:description type="html">Crowd outside a London station. Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-london-underground_7225051.jpg?20260420093939" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-london-underground_7225051.jpg?20260420093939"/>
-    </item>
-    <item>
-      <title>UK to 'flirt' with recession as Iran war oil shock bites, report warns</title>
-      <link>https://news.sky.com/story/uk-to-flirt-with-recession-as-iran-war-oil-shock-bites-report-warns-13533971</link>
-      <description>The UK economy will "flirt" with recession this year and almost 250,000 people could lose their jobs due to the effects of the Iran war oil price shock, according to a respected independent forecaster. </description>
-      <pubDate>Mon, 20 Apr 2026 05:27:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/uk-to-flirt-with-recession-as-iran-war-oil-shock-bites-report-warns-13533971</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-strait-of-hormuz-tankers_7219545.jpg?20260415135442" length="0" type="image/jpeg"/>
-      <media:description type="html">FILE - Oil tankers and cargo ships line up in the Strait of Hormuz as seen from Khor Fakkan, United Arab Emirates, Wednesday, March 11, 2026. (AP Photo/Altaf Qadri,File)</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-strait-of-hormuz-tankers_7219545.jpg?20260415135442" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-strait-of-hormuz-tankers_7219545.jpg?20260415135442"/>
-    </item>
-    <item>
-      <title>Four tell-tale signs your car has a secret past | Money newsletter</title>
-      <link>https://news.sky.com/story/money-newsletter-13367142</link>
-      <description>More than 185,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
-      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/money-newsletter-13367142</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-money-blog-money-car_7226161.jpg?20260421122931" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-money-blog-money-car_7226161.jpg?20260421122931" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-money-blog-money-car_7226161.jpg?20260421122931"/>
-    </item>
-    <item>
-      <title>Fans feeling 'neglected and ripped off' over ticket price laws</title>
-      <link>https://news.sky.com/story/stop-concert-tickets-being-sold-above-face-value-govt-told-13532439</link>
-      <description>The government has been urged to ban the resale of concert tickets above face value after fans reported feeling "neglected and ripped off".&amp;#160;</description>
-      <pubDate>Fri, 17 Apr 2026 04:25:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/stop-concert-tickets-being-sold-above-face-value-govt-told-13532439</guid>
-      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-oasis-wembley_7086117.jpg?20251119160346" length="0" type="image/jpeg"/>
-      <media:description type="html">Oasis fans on Wembley Way, ahead of the first night of the Oasis Live &amp;#39;25 tour opening at Wembley Stadium in London. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-oasis-wembley_7086117.jpg?20251119160346" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-oasis-wembley_7086117.jpg?20251119160346"/>
+      <title>Facial recognition being rolled out across UK</title>
+      <link>https://news.sky.com/story/facial-recognition-to-be-rolled-out-across-uk-after-human-rights-challenge-fails-13534598</link>
+      <description>Facial recognition systems will be introduced across the country, the government has said as it welcomed the failure of a legal challenge to the technology.  </description>
+      <pubDate>Tue, 21 Apr 2026 15:56:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/facial-recognition-to-be-rolled-out-across-uk-after-human-rights-challenge-fails-13534598</guid>
+      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-live-facial-recognition_7079321.jpg?20251111153203" length="0" type="image/jpeg"/>
+      <media:description type="html">A camera on top of a Live Facial Recognition (LFR) van deployed on Briggate in Leeds, as West Yorkshire Police use the facial recognition technology for the first time in Yorkshire. Picture date: Tuesday November 11, 2025. PA Photo. LFR will be used in authorised locations across the county to help identify individuals who are wanted by the courts, subject to arrest, or pose a risk to the public. It will also be used to locate missing persons, key witnesses to serious offences and victims of offences such as modern slavery. The technology works by scanning faces in real time and comparing them against an authorised watchlist of individuals of interest to the police. Photo credit should read: Danny Lawson/PA Wire</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-live-facial-recognition_7079321.jpg?20251111153203" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-live-facial-recognition_7079321.jpg?20251111153203"/>
     </item>
   </channel>
 </rss>
