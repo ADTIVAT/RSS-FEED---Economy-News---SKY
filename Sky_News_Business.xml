@@ -12,9 +12,31 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 01 May 2026 08:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 10:42:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;LIV Golf tees off bid to secure funding lifeline | Mark Kleinman blog&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description></description>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-liv-golf_7236697.jpg?20260502080709" length="0" type="image/jpeg"/>
+      <media:description type="html">General view of the LIV Golf Mexico sign during second round. Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-liv-golf_7236697.jpg?20260502080709" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-liv-golf_7236697.jpg?20260502080709"/>
+    </item>
+    <item>
+      <title>The holiday booking window that saves you an average &amp;#163;93 | Money newsletter</title>
+      <link>https://news.sky.com/story/money-newsletter-sky-news-13367142</link>
+      <description>More than 190,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
+      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/money-newsletter-sky-news-13367142</guid>
+      <enclosure url="https://e3.365dm.com/24/08/1920x1080/skynews-family-holiday-airport_6657780.jpg?20240816062553" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/24/08/1920x1080/skynews-family-holiday-airport_6657780.jpg?20240816062553" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/24/08/1920x1080/skynews-family-holiday-airport_6657780.jpg?20240816062553"/>
+    </item>
     <item>
       <title>The war in Iran is coming for Britain's favourite food</title>
       <link>https://news.sky.com/story/the-war-in-iran-is-coming-for-britains-favourite-food-13537197</link>
@@ -27,17 +49,6 @@
 </media:description>
       <media:thumbnail url="https://e3.365dm.com/22/06/1920x1080/skynews-fish-chips-takeaway_5796591.jpg?20260501104439" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/22/06/1920x1080/skynews-fish-chips-takeaway_5796591.jpg?20260501104439"/>
-    </item>
-    <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Hundreds of jobs at risk of redundancy at care homes giant HC-One | Mark Kleinman blog&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description></description>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/23/02/1920x1080/skynews-beds-care-homes_6067892.jpg?20230223235239" length="0" type="image/jpeg"/>
-      <media:description type="html">        </media:description>
-      <media:thumbnail url="https://e3.365dm.com/23/02/1920x1080/skynews-beds-care-homes_6067892.jpg?20230223235239" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/23/02/1920x1080/skynews-beds-care-homes_6067892.jpg?20230223235239"/>
     </item>
     <item>
       <title>Call to scrap 'outdated and unaffordable' triple lock</title>
@@ -84,6 +95,17 @@
       <media:content type="image/png" url="https://e3.365dm.com/25/07/1920x1080/skynews-living-money-bailey_6965893.png?20250716092313"/>
     </item>
     <item>
+      <title>The health supplement 'wild west' - do we need any of them?</title>
+      <link>https://news.sky.com/story/the-health-supplement-wild-west-do-we-need-any-of-them-13539637</link>
+      <description>The number of complaints about advertisements for health supplements filed with Britain's watchdog has more than doubled in just two years, the Money team can reveal.</description>
+      <pubDate>Sun, 03 May 2026 10:42:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/the-health-supplement-wild-west-do-we-need-any-of-them-13539637</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-pills-istock_7237784.jpg?20260503074757" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-pills-istock_7237784.jpg?20260503074757" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-pills-istock_7237784.jpg?20260503074757"/>
+    </item>
+    <item>
       <title>Owner of Premier Inn and Beefeater to cut nearly 4,000 jobs - blaming tax rises</title>
       <link>https://news.sky.com/story/premier-inn-owner-to-cut-more-than-12-of-uk-and-ireland-jobs-13538288</link>
       <description>The owner of hotel chain Premier Inn has announced plans to cut 3,800 jobs, blaming higher costs, as part of an overhaul of its restaurants.</description>
@@ -104,28 +126,6 @@
       <media:description type="html">Sam Altman (left) and Elon Musk were in court again today.</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-elon-musk-sam-altman_7234693.jpg?20260430180304" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-elon-musk-sam-altman_7234693.jpg?20260430180304"/>
-    </item>
-    <item>
-      <title>UK borrowing cost highest since 1998 as inflation outlook darkens</title>
-      <link>https://news.sky.com/story/iran-war-uk-borrowing-cost-highest-since-1998-as-oil-price-shoots-up-13538103</link>
-      <description>UK long-term borrowing costs have hit their highest level since 1998 while oil prices have notched a new Iran war peak amid fears of extended disruption to energy flows from the Middle East.</description>
-      <pubDate>Wed, 29 Apr 2026 16:36:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/iran-war-uk-borrowing-cost-highest-since-1998-as-oil-price-shoots-up-13538103</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-treasury-borrowing_7234622.jpg?20260429212537" length="0" type="image/jpeg"/>
-      <media:description type="html">HM Treasury. Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-treasury-borrowing_7234622.jpg?20260429212537" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-treasury-borrowing_7234622.jpg?20260429212537"/>
-    </item>
-    <item>
-      <title>Fresh oil shock as UAE exits Saudi-controlled cartels</title>
-      <link>https://news.sky.com/story/uae-exits-saudi-controlled-opec-cartels-in-fresh-oil-market-shock-13537642</link>
-      <description>The United Arab Emirates (UAE) has said it is to leave the OPEC and OPEC+ cartels of oil-producing nations, potentially threatening greater turbulence for global energy markets ahead.</description>
-      <pubDate>Tue, 28 Apr 2026 14:21:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/uae-exits-saudi-controlled-opec-cartels-in-fresh-oil-market-shock-13537642</guid>
-      <enclosure url="https://e3.365dm.com/24/12/1920x1080/skynews-uae-dubai_6774121.jpg?20241212141335" length="0" type="image/jpeg"/>
-      <media:description type="html">FILE - Luxury towers that dominate the skyline in the Dubai Marina district, center, and the new Dubai Harbor development, right, are seen from the observation deck of &amp;#34;The View at The Palm Jumeirah&amp;#34; in Dubai, United Arab Emirates, on April 6, 2021. A senior United Arab Emirates official says the Gulf nation wants a U.N. climate summit it...s hosting later this year to deliver ...game-changing results... for international efforts to curb global warming. But UAE diplomat Majid al-Suwaidi said doing so will require having the fossil fuel industry at the table. (AP Photo/Kamran Jebreili, File)</media:description>
-      <media:thumbnail url="https://e3.365dm.com/24/12/1920x1080/skynews-uae-dubai_6774121.jpg?20241212141335" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/24/12/1920x1080/skynews-uae-dubai_6774121.jpg?20241212141335"/>
     </item>
   </channel>
 </rss>
