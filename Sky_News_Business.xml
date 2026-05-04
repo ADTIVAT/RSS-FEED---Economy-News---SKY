@@ -12,7 +12,7 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 03 May 2026 10:42:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 13:05:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
@@ -27,15 +27,26 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-groucho-club-club_7238866.jpg?20260504111001"/>
     </item>
     <item>
-      <title>The holiday booking window that saves you an average &amp;#163;93 | Money newsletter</title>
+      <title>eBay shares soar as US Gamestop shops chain makes $56bn takeover bid</title>
+      <link>https://news.sky.com/story/ebay-shares-soar-as-us-gamestop-shops-chain-makes-56bn-takeover-bid-13540065</link>
+      <description>American computer game retailer GameStop has made a US$56bn (&amp;#163;41bn) bid to take over eBay.</description>
+      <pubDate>Mon, 04 May 2026 13:05:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/ebay-shares-soar-as-us-gamestop-shops-chain-makes-56bn-takeover-bid-13540065</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-gamestop-new-york-stock-exchange_7238962.jpg?20260504141441" length="0" type="image/jpeg"/>
+      <media:description type="html">A screen displays the logo and trading information for GameStop on the floor of the New York Stock Exchange (NYSE) in New York City, U.S., M</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-gamestop-new-york-stock-exchange_7238962.jpg?20260504141441" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-gamestop-new-york-stock-exchange_7238962.jpg?20260504141441"/>
+    </item>
+    <item>
+      <title>Why you should never book a holiday on a Tuesday | Money newsletter</title>
       <link>https://news.sky.com/story/money-newsletter-sky-news-13367142</link>
       <description>More than 190,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
       <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
       <guid>https://news.sky.com/story/money-newsletter-sky-news-13367142</guid>
-      <enclosure url="https://e3.365dm.com/24/08/1920x1080/skynews-family-holiday-airport_6657780.jpg?20240816062553" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/24/08/1920x1080/skynews-family-holiday-airport_6657780.jpg?20240816062553" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/24/08/1920x1080/skynews-family-holiday-airport_6657780.jpg?20240816062553"/>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-holiday-money_7220564.jpg?20260415100405" length="0" type="image/jpeg"/>
+      <media:description type="html">A resort pool, surrounded by loungers, palms, and ocean views. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-holiday-money_7220564.jpg?20260415100405" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-holiday-money_7220564.jpg?20260415100405"/>
     </item>
     <item>
       <title>The war in Iran is coming for Britain's favourite food</title>
@@ -115,17 +126,6 @@
       <media:description type="html">Premier Inn.  File pic: PA/Mike Egerton</media:description>
       <media:thumbnail url="https://e3.365dm.com/24/11/1920x1080/skynews-premier-inn-london_6739449.jpg?20241105113632" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/24/11/1920x1080/skynews-premier-inn-london_6739449.jpg?20241105113632"/>
-    </item>
-    <item>
-      <title>Musk says Altman tried to 'steal' charity, as moguls contest $150bn court battle  </title>
-      <link>https://news.sky.com/story/elon-musk-says-sam-altman-tried-to-steal-charity-as-moguls-contest-150bn-court-battle-13538226</link>
-      <description>Elon Musk has accused his rival Sam Altman of trying to &quot;steal&quot; a charity as he fights his $150bn (&amp;#163;111bn) court claim over OpenAI.  </description>
-      <pubDate>Wed, 29 Apr 2026 22:11:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/elon-musk-says-sam-altman-tried-to-steal-charity-as-moguls-contest-150bn-court-battle-13538226</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-elon-musk-sam-altman_7234693.jpg?20260430180304" length="0" type="image/jpeg"/>
-      <media:description type="html">Sam Altman (left) and Elon Musk were in court again today.</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-elon-musk-sam-altman_7234693.jpg?20260430180304" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-elon-musk-sam-altman_7234693.jpg?20260430180304"/>
     </item>
   </channel>
 </rss>
