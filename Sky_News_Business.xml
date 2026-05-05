@@ -12,9 +12,31 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 04 May 2026 13:05:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 01:13:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>UK's worst airports for flight delays revealed</title>
+      <link>https://news.sky.com/story/uks-worst-airports-for-flight-delays-revealed-13540253</link>
+      <description>The worst airports in the UK for flight delays have been revealed.</description>
+      <pubDate>Tue, 05 May 2026 01:13:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/uks-worst-airports-for-flight-delays-revealed-13540253</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-manchester-airport_7239390.jpg?20260505013146" length="0" type="image/jpeg"/>
+      <media:description type="html">Cancelled flights to London are seen on screen at Manchester Airport, after a fire at a nearby electrical substation wiped out power at the </media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-manchester-airport_7239390.jpg?20260505013146" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-manchester-airport_7239390.jpg?20260505013146"/>
+    </item>
+    <item>
+      <title>Two pubs closing every day after 'sheer weight' of tax rises</title>
+      <link>https://news.sky.com/story/two-pubs-closing-every-day-after-sheer-weight-of-tax-rises-13540252</link>
+      <description>Around two pubs closed each day in the first three months of the year, new industry figures suggest.</description>
+      <pubDate>Tue, 05 May 2026 00:32:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/two-pubs-closing-every-day-after-sheer-weight-of-tax-rises-13540252</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-rachel-reeves-pub_7239389.jpg?20260505010734" length="0" type="image/jpeg"/>
+      <media:description type="html">Chancellor of the Exchequer Rachel Reeves pours a pint at the Goldsmith Arms pub in south east London, following the announcement that every pub in England will get 15% off its business rates bill from April.  Picture date: Tuesday January 27, 2026. PA Photo. Photo credit should read: Stefan Rousseau/PA Wire</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-rachel-reeves-pub_7239389.jpg?20260505010734" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-rachel-reeves-pub_7239389.jpg?20260505010734"/>
+    </item>
     <item>
       <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Former trade minister quits as chair of Groucho Club-owner Artfarm | Mark Kleinman blog&lt;/a&gt;</title>
       <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
@@ -104,28 +126,6 @@
       <media:description type="html">For use on Money</media:description>
       <media:thumbnail url="https://e3.365dm.com/25/07/1920x1080/skynews-living-money-bailey_6965893.png?20250716092313" width="1920" height="1080"/>
       <media:content type="image/png" url="https://e3.365dm.com/25/07/1920x1080/skynews-living-money-bailey_6965893.png?20250716092313"/>
-    </item>
-    <item>
-      <title>The health supplement 'wild west' - do we need any of them?</title>
-      <link>https://news.sky.com/story/the-health-supplement-wild-west-do-we-need-any-of-them-13539637</link>
-      <description>The number of complaints about advertisements for health supplements filed with Britain's watchdog has more than doubled in just two years, the Money team can reveal.</description>
-      <pubDate>Sun, 03 May 2026 10:42:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/the-health-supplement-wild-west-do-we-need-any-of-them-13539637</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-pills-istock_7237784.jpg?20260503074757" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-pills-istock_7237784.jpg?20260503074757" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-pills-istock_7237784.jpg?20260503074757"/>
-    </item>
-    <item>
-      <title>Owner of Premier Inn and Beefeater to cut nearly 4,000 jobs - blaming tax rises</title>
-      <link>https://news.sky.com/story/premier-inn-owner-to-cut-more-than-12-of-uk-and-ireland-jobs-13538288</link>
-      <description>The owner of hotel chain Premier Inn has announced plans to cut 3,800 jobs, blaming higher costs, as part of an overhaul of its restaurants.</description>
-      <pubDate>Thu, 30 Apr 2026 07:58:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/premier-inn-owner-to-cut-more-than-12-of-uk-and-ireland-jobs-13538288</guid>
-      <enclosure url="https://e3.365dm.com/24/11/1920x1080/skynews-premier-inn-london_6739449.jpg?20241105113632" length="0" type="image/jpeg"/>
-      <media:description type="html">Premier Inn.  File pic: PA/Mike Egerton</media:description>
-      <media:thumbnail url="https://e3.365dm.com/24/11/1920x1080/skynews-premier-inn-london_6739449.jpg?20241105113632" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/24/11/1920x1080/skynews-premier-inn-london_6739449.jpg?20241105113632"/>
     </item>
   </channel>
 </rss>
