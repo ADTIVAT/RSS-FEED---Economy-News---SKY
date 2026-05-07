@@ -12,19 +12,63 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 06 May 2026 12:32:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 11:08:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Retailer TG Jones secures reprieve from taxman in race to secure rescue deal | Mark Kleinman blog&lt;/a&gt;</title>
+      <title>Shell gives update on costly war damage to its output</title>
+      <link>https://news.sky.com/story/shell-profits-surge-but-war-inflicts-damage-too-13540940</link>
+      <description>Shell has revealed a surge in quarterly profits on the back of the Middle East conflict but also given an update on costly war damage to its output.</description>
+      <pubDate>Thu, 07 May 2026 05:58:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/shell-profits-surge-but-war-inflicts-damage-too-13540940</guid>
+      <enclosure url="https://e3.365dm.com/23/11/1920x1080/skynews-shell-logo_6367451.jpg?20231121112604" length="0" type="image/jpeg"/>
+      <media:description type="html">The Shell logo</media:description>
+      <media:thumbnail url="https://e3.365dm.com/23/11/1920x1080/skynews-shell-logo_6367451.jpg?20231121112604" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/23/11/1920x1080/skynews-shell-logo_6367451.jpg?20231121112604"/>
+    </item>
+    <item>
+      <title>What if your flight is cancelled due to jet fuel shortages - and is your hotel protected?</title>
+      <link>https://news.sky.com/story/what-if-your-flight-is-cancelled-due-to-jet-fuel-shortages-13535483</link>
+      <description>Europe is facing a crisis over low jet fuel stocks due to the war in Iran, raising concerns over summer holiday plans.</description>
+      <pubDate>Thu, 23 Apr 2026 15:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/what-if-your-flight-is-cancelled-due-to-jet-fuel-shortages-13535483</guid>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-money-lufthansa_7227242.jpg?20260422132715" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-money-lufthansa_7227242.jpg?20260422132715" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-money-lufthansa_7227242.jpg?20260422132715"/>
+    </item>
+    <item>
+      <title>An extraordinary watershed moment passed below the radar - and helped make Trump's war possible</title>
+      <link>https://news.sky.com/story/the-slice-of-desert-that-helped-make-trumps-middle-east-war-possible-13540767</link>
+      <description>Load up a satellite map of Texas and find your way to a city called Midland, all the way over in the west of the state.</description>
+      <pubDate>Wed, 06 May 2026 15:19:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/the-slice-of-desert-that-helped-make-trumps-middle-east-war-possible-13540767</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-permian-basin-oil-pumpjacks_7240680.png?20260506160245" length="0" type="image/png"/>
+      <media:description type="html">Oil pumpjacks in the Permian Basin</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-permian-basin-oil-pumpjacks_7240680.png?20260506160245" width="1920" height="1080"/>
+      <media:content type="image/png" url="https://e3.365dm.com/26/05/1920x1080/skynews-permian-basin-oil-pumpjacks_7240680.png?20260506160245"/>
+    </item>
+    <item>
+      <title>EU waters down landmark AI regulation amid industry pressure</title>
+      <link>https://news.sky.com/story/eu-waters-down-landmark-ai-regulation-amid-industry-pressure-13541012</link>
+      <description>Overnight, EU lawmakers agreed to water down their AI legislation that was world-leading when it launched in 2024.</description>
+      <pubDate>Thu, 07 May 2026 11:08:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/eu-waters-down-landmark-ai-regulation-amid-industry-pressure-13541012</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-artificial-intelligence_7241261.jpg?20260507111736" length="0" type="image/jpeg"/>
+      <media:description type="html">File pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-artificial-intelligence_7241261.jpg?20260507111736" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-artificial-intelligence_7241261.jpg?20260507111736"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;KPMG charges back into UK restructuring market five years after Interpath sale | Mark Kleinman blog&lt;/a&gt;</title>
       <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
       <description></description>
       <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
       <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-tgjones-shop_7237946.jpg?20260503134138" length="0" type="image/jpeg"/>
-      <media:description type="html">TG Jones. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-tgjones-shop_7237946.jpg?20260503134138" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-tgjones-shop_7237946.jpg?20260503134138"/>
+      <enclosure url="https://e3.365dm.com/24/04/1920x1080/skynews-kpmg-canary-wharf_6508939.jpg?20240403112139" length="0" type="image/jpeg"/>
+      <media:description type="html">The headquarters of KPMG in London, United Kingdom, 17 March 2017. Photo by: Jens Kalaene/picture-alliance/dpa/AP Images</media:description>
+      <media:thumbnail url="https://e3.365dm.com/24/04/1920x1080/skynews-kpmg-canary-wharf_6508939.jpg?20240403112139" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/24/04/1920x1080/skynews-kpmg-canary-wharf_6508939.jpg?20240403112139"/>
     </item>
     <item>
       <title>Next plans 'moderate' price hikes as rising costs hit businesses</title>
@@ -60,6 +104,17 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-manchester-airport_7239390.jpg?20260505013146"/>
     </item>
     <item>
+      <title>Google workers call for AI technology not to be used by Israeli and US military</title>
+      <link>https://news.sky.com/story/google-ai-workers-demand-union-recognition-over-use-of-technology-by-israeli-and-us-military-13540456</link>
+      <description>&quot;Scores&quot; of workers at Google DeepMind, the company's British AI research arm, are demanding union recognition over the use of their work by Israel and the US military.</description>
+      <pubDate>Tue, 05 May 2026 16:00:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/google-ai-workers-demand-union-recognition-over-use-of-technology-by-israeli-and-us-military-13540456</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-deepmind-google_7239885.jpg?20260505160836" length="0" type="image/jpeg"/>
+      <media:description type="html">File pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-deepmind-google_7239885.jpg?20260505160836" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-deepmind-google_7239885.jpg?20260505160836"/>
+    </item>
+    <item>
       <title>Chancellor's policies blamed for wave of pub closures</title>
       <link>https://news.sky.com/story/two-pubs-closing-every-day-after-sheer-weight-of-tax-rises-13540252</link>
       <description>Around two pubs closed each day in the first three months of the year, new industry figures suggest.</description>
@@ -69,61 +124,6 @@
       <media:description type="html">Chancellor of the Exchequer Rachel Reeves pours a pint at the Goldsmith Arms pub in south east London, following the announcement that every pub in England will get 15% off its business rates bill from April.  Picture date: Tuesday January 27, 2026. PA Photo. Photo credit should read: Stefan Rousseau/PA Wire</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-rachel-reeves-pub_7239389.jpg?20260505010734" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-rachel-reeves-pub_7239389.jpg?20260505010734"/>
-    </item>
-    <item>
-      <title>Why you should never book a holiday on a Tuesday | Money newsletter</title>
-      <link>https://news.sky.com/story/money-newsletter-sky-news-13367142</link>
-      <description>More than 190,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
-      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/money-newsletter-sky-news-13367142</guid>
-      <enclosure url="https://e3.365dm.com/23/09/1920x1080/skynews-airport-holiday-baggage_6280753.jpg?20230911074740" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/23/09/1920x1080/skynews-airport-holiday-baggage_6280753.jpg?20230911074740" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/23/09/1920x1080/skynews-airport-holiday-baggage_6280753.jpg?20230911074740"/>
-    </item>
-    <item>
-      <title>eBay shares soar as US Gamestop shops chain makes $56bn takeover bid</title>
-      <link>https://news.sky.com/story/ebay-shares-soar-as-us-gamestop-shops-chain-makes-56bn-takeover-bid-13540065</link>
-      <description>American computer game retailer GameStop has made a US$56bn (&amp;#163;41bn) bid to take over eBay.</description>
-      <pubDate>Mon, 04 May 2026 13:05:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/ebay-shares-soar-as-us-gamestop-shops-chain-makes-56bn-takeover-bid-13540065</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-gamestop-new-york-stock-exchange_7238962.jpg?20260504141441" length="0" type="image/jpeg"/>
-      <media:description type="html">A screen displays the logo and trading information for GameStop on the floor of the New York Stock Exchange (NYSE) in New York City, U.S., M</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-gamestop-new-york-stock-exchange_7238962.jpg?20260504141441" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-gamestop-new-york-stock-exchange_7238962.jpg?20260504141441"/>
-    </item>
-    <item>
-      <title>Major bank loses 25,000 customers to rivals in three months - and there's one big beneficiary</title>
-      <link>https://news.sky.com/story/major-bank-loses-25000-customers-to-rivals-in-three-months-and-theres-one-big-beneficiary-13540653</link>
-      <description>Nationwide gained the most customers at the end of last year, the latest data from the Current Account Switching Service shows.&amp;#160;</description>
-      <pubDate>Wed, 06 May 2026 10:25:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/major-bank-loses-25000-customers-to-rivals-in-three-months-and-theres-one-big-beneficiary-13540653</guid>
-      <enclosure url="https://e3.365dm.com/25/01/1920x1080/skynews-cash-pocket-banknotes_6788862.jpg?20250101025738" length="0" type="image/jpeg"/>
-      <media:description type="html"> </media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/01/1920x1080/skynews-cash-pocket-banknotes_6788862.jpg?20250101025738" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/01/1920x1080/skynews-cash-pocket-banknotes_6788862.jpg?20250101025738"/>
-    </item>
-    <item>
-      <title>New supermarket war as three big names call out Aldi and Lidl loophole</title>
-      <link>https://news.sky.com/story/new-supermarket-war-as-three-big-names-call-out-aldi-and-lidl-loophole-13540702</link>
-      <description>Supermarkets used to competing on price are now in a dispute over an expansion loophole.</description>
-      <pubDate>Wed, 06 May 2026 12:32:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/new-supermarket-war-as-three-big-names-call-out-aldi-and-lidl-loophole-13540702</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-lidl-aldi_7240433.jpg?20260506120946" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: PA/iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-lidl-aldi_7240433.jpg?20260506120946" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-lidl-aldi_7240433.jpg?20260506120946"/>
-    </item>
-    <item>
-      <title>Food price inflation still rising, as lower income households feel the squeeze, study says</title>
-      <link>https://news.sky.com/story/food-price-inflation-still-rising-as-lower-income-households-feel-the-squeeze-study-says-13540028</link>
-      <description>UK food prices by November could be 50% higher than they were at the start of the cost-of-living crisis five years ago, analysts have said.</description>
-      <pubDate>Mon, 04 May 2026 10:34:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/food-price-inflation-still-rising-as-lower-income-households-feel-the-squeeze-study-says-13540028</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-shopping-iran-war-food_7222791.jpg?20260417153244" length="0" type="image/jpeg"/>
-      <media:description type="html">File photo dated 03/09/22 of a shopper walking through the aisle of a supermarket. UK inflation rose to a near 18-month high in June as food</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-shopping-iran-war-food_7222791.jpg?20260417153244" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-shopping-iran-war-food_7222791.jpg?20260417153244"/>
     </item>
   </channel>
 </rss>
