@@ -12,19 +12,74 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 08 May 2026 11:39:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 10:42:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
-      <title>Beware 'third-party capture' tactic by insurers; landlord left with tenant's &amp;#163;3,500 council tax bill | Money newsletter</title>
-      <link>https://news.sky.com/story/money-newsletter-sky-news-13367142</link>
+      <title>British Steel to be nationalised, says Starmer</title>
+      <link>https://news.sky.com/story/british-steel-to-be-nationalised-to-make-britain-stronger-says-starmer-13542652</link>
+      <description>Keir Starmer has announced government plans to nationalise British Steel.</description>
+      <pubDate>Mon, 11 May 2026 10:42:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/british-steel-to-be-nationalised-to-make-britain-stronger-says-starmer-13542652</guid>
+      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-british-steel-scunthorpe_7095101.jpg?20251129082435" length="0" type="image/jpeg"/>
+      <media:description type="html">A worker at one of the blast furnaces at British Steel&amp;#39;s site in Scunthorpe. Pic: Darren Staples/ Pool via AP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-british-steel-scunthorpe_7095101.jpg?20251129082435" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-british-steel-scunthorpe_7095101.jpg?20251129082435"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;British payments firm Paymentology lands &amp;#163;130m private equity investment | Mark Kleinman blog&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description></description>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-jeff-parker_7245604.jpg?20260511143527" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: Paymentology</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-jeff-parker_7245604.jpg?20260511143527" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-jeff-parker_7245604.jpg?20260511143527"/>
+    </item>
+    <item>
+      <title>Fraud risk as World Cup frenzy begins, fans warned</title>
+      <link>https://news.sky.com/story/fraud-risk-as-world-cup-frenzy-begins-fans-warned-13542468</link>
+      <description>Football fans are being urged to be alert to fraud ahead of the World Cup, with victims of ticket scams losing &amp;#163;215 on average.</description>
+      <pubDate>Mon, 11 May 2026 05:45:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/fraud-risk-as-world-cup-frenzy-begins-fans-warned-13542468</guid>
+      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-world-cup-trophy-davos_7142541.jpg?20260122122841" length="0" type="image/jpeg"/>
+      <media:description type="html">The FIFA World Cup trophy is seen during the 56th annual World Economic Forum (WEF) meeting in Davos, Switzerland, January 22, 2026. REUTERS</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-world-cup-trophy-davos_7142541.jpg?20260122122841" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-world-cup-trophy-davos_7142541.jpg?20260122122841"/>
+    </item>
+    <item>
+      <title>Trouble brewing? Climate change puts tea drinkers in hot water</title>
+      <link>https://news.sky.com/story/trouble-brewing-climate-change-puts-tea-drinkers-in-hot-water-13542591</link>
+      <description>There's trouble brewing for tea lovers, as the flavour of the beloved hot drink is under threat from climate change.</description>
+      <pubDate>Mon, 11 May 2026 03:47:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/trouble-brewing-climate-change-puts-tea-drinkers-in-hot-water-13542591</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-tea-cup_7245218.jpg?20260511035130" length="0" type="image/jpeg"/>
+      <media:description type="html">A cup of tea with a teabag is prepared. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-tea-cup_7245218.jpg?20260511035130" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-tea-cup_7245218.jpg?20260511035130"/>
+    </item>
+    <item>
+      <title>'I'm a literary agent - here's what makes me sign a writer instantly and what most authors actually earn'</title>
+      <link>https://news.sky.com/story/im-a-literary-agent-heres-what-makes-me-sign-a-writer-instantly-and-what-most-authors-actually-earn-13542628</link>
+      <description>If you've ever spent your morning commute daydreaming about starting afresh with your career, this feature is for you. Each week, we speak to someone from a different profession to discover what it's really like. Today we speak to literary agent Maddalena Cavaciuti, from&amp;#160;David Higham Associates (DHA)...</description>
+      <pubDate>Mon, 11 May 2026 08:44:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/im-a-literary-agent-heres-what-makes-me-sign-a-writer-instantly-and-what-most-authors-actually-earn-13542628</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-maddalena-cavaciuti_7245226.jpg?20260511060402" length="0" type="image/jpeg"/>
+      <media:description type="html">Literary agent Maddalena Cavaciuti, from David Higham Associates</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-maddalena-cavaciuti_7245226.jpg?20260511060402" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-maddalena-cavaciuti_7245226.jpg?20260511060402"/>
+    </item>
+    <item>
+      <title>Tenant leaves landlord with &amp;#163;3,500 bill; 'third-party capture' tactic; 'mixed mortgages' explained | Money newsletter</title>
+      <link>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</link>
       <description>More than 190,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
       <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/money-newsletter-sky-news-13367142</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-insurance-car-accident_7244242.jpg?20260510100758" length="0" type="image/jpeg"/>
-      <media:description type="html">A woman makes a call after a car accident. Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-insurance-car-accident_7244242.jpg?20260510100758" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-insurance-car-accident_7244242.jpg?20260510100758"/>
+      <guid>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</guid>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-council-tax-bill-money_7221356.jpg?20260416092333" length="0" type="image/jpeg"/>
+      <media:description type="html">A file picture of a council tax bill via iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-council-tax-bill-money_7221356.jpg?20260416092333" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-council-tax-bill-money_7221356.jpg?20260416092333"/>
     </item>
     <item>
       <title>British Airways owner 'confident' on jet fuel supply 'throughout summer'</title>
@@ -49,17 +104,6 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-david-dave-hinton-water_7242280.jpg?20260508084637"/>
     </item>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Blair's daughter-in-law lined up to head UK Sovereign AI fund | Mark Kleinman blog&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description></description>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-cabinet-office-hm-revenue_7243238.jpg?20260509091305" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-cabinet-office-hm-revenue_7243238.jpg?20260509091305" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-cabinet-office-hm-revenue_7243238.jpg?20260509091305"/>
-    </item>
-    <item>
       <title>Key parking fine rules clarified by appeals body - with operators increasingly giving up cases</title>
       <link>https://news.sky.com/story/key-parking-fine-rules-clarified-by-appeals-body-with-operators-increasingly-giving-up-cases-13541479</link>
       <description>A record number of private parking fines were successfully appealed to the industry body last year, the Money blog can reveal.</description>
@@ -80,50 +124,6 @@
       <media:description type="html">The Shell logo</media:description>
       <media:thumbnail url="https://e3.365dm.com/23/11/1920x1080/skynews-shell-logo_6367451.jpg?20231121112604" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/23/11/1920x1080/skynews-shell-logo_6367451.jpg?20231121112604"/>
-    </item>
-    <item>
-      <title>What if your flight is cancelled due to jet fuel shortages - and is your hotel protected?</title>
-      <link>https://news.sky.com/story/what-if-your-flight-is-cancelled-due-to-jet-fuel-shortages-13535483</link>
-      <description>Europe is facing a crisis over low jet fuel stocks due to the war in Iran, raising concerns over summer holiday plans.</description>
-      <pubDate>Thu, 23 Apr 2026 15:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/what-if-your-flight-is-cancelled-due-to-jet-fuel-shortages-13535483</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-money-lufthansa_7227242.jpg?20260422132715" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-money-lufthansa_7227242.jpg?20260422132715" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-money-lufthansa_7227242.jpg?20260422132715"/>
-    </item>
-    <item>
-      <title>An extraordinary watershed moment passed below the radar - and helped make Trump's war possible</title>
-      <link>https://news.sky.com/story/the-slice-of-desert-that-helped-make-trumps-middle-east-war-possible-13540767</link>
-      <description>Load up a satellite map of Texas and find your way to a city called Midland, all the way over in the west of the state.</description>
-      <pubDate>Wed, 06 May 2026 15:19:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/the-slice-of-desert-that-helped-make-trumps-middle-east-war-possible-13540767</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-permian-basin-oil-pumpjacks_7240680.png?20260506160245" length="0" type="image/png"/>
-      <media:description type="html">Oil pumpjacks in the Permian Basin</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-permian-basin-oil-pumpjacks_7240680.png?20260506160245" width="1920" height="1080"/>
-      <media:content type="image/png" url="https://e3.365dm.com/26/05/1920x1080/skynews-permian-basin-oil-pumpjacks_7240680.png?20260506160245"/>
-    </item>
-    <item>
-      <title>EU waters down landmark AI regulation amid industry pressure</title>
-      <link>https://news.sky.com/story/eu-waters-down-landmark-ai-regulation-amid-industry-pressure-13541012</link>
-      <description>Overnight, EU lawmakers agreed to water down their AI legislation that was world-leading when it launched in 2024.</description>
-      <pubDate>Thu, 07 May 2026 11:08:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/eu-waters-down-landmark-ai-regulation-amid-industry-pressure-13541012</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-artificial-intelligence_7241261.jpg?20260507111736" length="0" type="image/jpeg"/>
-      <media:description type="html">File pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-artificial-intelligence_7241261.jpg?20260507111736" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-artificial-intelligence_7241261.jpg?20260507111736"/>
-    </item>
-    <item>
-      <title>Next plans 'moderate' price hikes as rising costs hit businesses</title>
-      <link>https://news.sky.com/story/next-plans-moderate-price-hikes-as-rising-costs-hit-businesses-13540630</link>
-      <description>Next is planning &quot;moderate&quot; price increases this month as a closely watched survey of companies reports the fastest rise in cost pressures for three-and-a-half years.</description>
-      <pubDate>Wed, 06 May 2026 09:39:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/next-plans-moderate-price-hikes-as-rising-costs-hit-businesses-13540630</guid>
-      <enclosure url="https://e3.365dm.com/25/07/1920x1080/skynews-next-shop_6978999.jpg?20250731140048" length="0" type="image/jpeg"/>
-      <media:description type="html">A Next store. PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/07/1920x1080/skynews-next-shop_6978999.jpg?20250731140048" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/07/1920x1080/skynews-next-shop_6978999.jpg?20250731140048"/>
     </item>
   </channel>
 </rss>
