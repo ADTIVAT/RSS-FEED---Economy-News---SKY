@@ -12,9 +12,32 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 11 May 2026 10:42:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 08:51:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>UK borrowing costs hit decades-long high</title>
+      <link>https://news.sky.com/story/uk-borrowing-costs-hit-decades-long-high-as-pressure-mounts-on-starmer-13542996</link>
+      <description>The cost of UK government borrowing has hit a high not seen in decades as Prime Minister Keir Starmer faces mounting threats to his leadership and the oil price rises.  </description>
+      <pubDate>Tue, 12 May 2026 08:51:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/uk-borrowing-costs-hit-decades-long-high-as-pressure-mounts-on-starmer-13542996</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-canary-wharf-greenwich-park_7246408.jpg?20260512114314" length="0" type="image/jpeg"/>
+      <media:description type="html">Tourists gather at the General Wolfe Statue viewpoint overlooking Canary Wharf, in Greenwich Park.
+Pic Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-canary-wharf-greenwich-park_7246408.jpg?20260512114314" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-canary-wharf-greenwich-park_7246408.jpg?20260512114314"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Charterhouse eyes &amp;#163;250m bonanza from stake in pension consultant LCP | Mark Kleinman blog&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description></description>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/23/11/1920x1080/skynews-alison-rose-cbi-conference_6354833.jpg?20231110102040" length="0" type="image/jpeg"/>
+      <media:description type="html">Dame Alison Rose</media:description>
+      <media:thumbnail url="https://e3.365dm.com/23/11/1920x1080/skynews-alison-rose-cbi-conference_6354833.jpg?20231110102040" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/23/11/1920x1080/skynews-alison-rose-cbi-conference_6354833.jpg?20231110102040"/>
+    </item>
     <item>
       <title>British Steel to be nationalised, says Starmer</title>
       <link>https://news.sky.com/story/british-steel-to-be-nationalised-to-make-britain-stronger-says-starmer-13542652</link>
@@ -27,15 +50,26 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-british-steel-scunthorpe_7095101.jpg?20251129082435"/>
     </item>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;British payments firm Paymentology lands &amp;#163;130m private equity investment | Mark Kleinman blog&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description></description>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-jeff-parker_7245604.jpg?20260511143527" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: Paymentology</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-jeff-parker_7245604.jpg?20260511143527" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-jeff-parker_7245604.jpg?20260511143527"/>
+      <title>Cut employee national insurance to win back voters, Labour report says</title>
+      <link>https://news.sky.com/story/cut-employee-national-insurance-to-win-back-voters-labour-report-says-13542790</link>
+      <description>Radical economic reforms such as cutting national insurance and overhauling capital gains tax are Labour's only ways of winning back voters they have lost to Reform and the Greens, a report will warn.</description>
+      <pubDate>Mon, 11 May 2026 16:59:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/cut-employee-national-insurance-to-win-back-voters-labour-report-says-13542790</guid>
+      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-money-blog-payslip_7091483.jpg?20251125132022" length="0" type="image/jpeg"/>
+      <media:description type="html">A payslip showing pay as you earn tax deductions, national insurance and pension contributions with some bank notes and coins.</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-money-blog-payslip_7091483.jpg?20251125132022" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-money-blog-payslip_7091483.jpg?20251125132022"/>
+    </item>
+    <item>
+      <title>The laptop mistake when booking a holiday | Money newsletter</title>
+      <link>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</link>
+      <description>More than 190,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
+      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</guid>
+      <enclosure url="https://e3.365dm.com/25/12/1920x1080/skynews-holiday-booking_7111710.jpg?20251216074114" length="0" type="image/jpeg"/>
+      <media:description type="html">A file photo of someone searching for flights their laptop. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/12/1920x1080/skynews-holiday-booking_7111710.jpg?20251216074114" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/12/1920x1080/skynews-holiday-booking_7111710.jpg?20251216074114"/>
     </item>
     <item>
       <title>Fraud risk as World Cup frenzy begins, fans warned</title>
@@ -71,17 +105,6 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-maddalena-cavaciuti_7245226.jpg?20260511060402"/>
     </item>
     <item>
-      <title>Tenant leaves landlord with &amp;#163;3,500 bill; 'third-party capture' tactic; 'mixed mortgages' explained | Money newsletter</title>
-      <link>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</link>
-      <description>More than 190,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
-      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-council-tax-bill-money_7221356.jpg?20260416092333" length="0" type="image/jpeg"/>
-      <media:description type="html">A file picture of a council tax bill via iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-council-tax-bill-money_7221356.jpg?20260416092333" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-council-tax-bill-money_7221356.jpg?20260416092333"/>
-    </item>
-    <item>
       <title>British Airways owner 'confident' on jet fuel supply 'throughout summer'</title>
       <link>https://news.sky.com/story/british-airways-owner-confident-on-jet-fuel-supply-throughout-summer-13541363</link>
       <description>The owner of British Airways has said it does not expect its services across main markets to be affected by the threat of jet fuel shortages &quot;throughout the summer&quot;, as supplies are squeezed by the effects of the US-Iran war.</description>
@@ -102,28 +125,6 @@
       <media:description type="html">David Hinton appears before the Environment, Food and Rural Affairs Committee in April. Pic: House of Commons/UK Parliament/PA </media:description>
       <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-david-dave-hinton-water_7242280.jpg?20260508084637" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-david-dave-hinton-water_7242280.jpg?20260508084637"/>
-    </item>
-    <item>
-      <title>Key parking fine rules clarified by appeals body - with operators increasingly giving up cases</title>
-      <link>https://news.sky.com/story/key-parking-fine-rules-clarified-by-appeals-body-with-operators-increasingly-giving-up-cases-13541479</link>
-      <description>A record number of private parking fines were successfully appealed to the industry body last year, the Money blog can reveal.</description>
-      <pubDate>Fri, 08 May 2026 11:39:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/key-parking-fine-rules-clarified-by-appeals-body-with-operators-increasingly-giving-up-cases-13541479</guid>
-      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-parking-machine_7137677.jpg?20260117075037" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-parking-machine_7137677.jpg?20260117075037" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-parking-machine_7137677.jpg?20260117075037"/>
-    </item>
-    <item>
-      <title>Shell gives update on costly war damage to its output</title>
-      <link>https://news.sky.com/story/shell-profits-surge-but-war-inflicts-damage-too-13540940</link>
-      <description>Shell has revealed a surge in quarterly profits on the back of the Middle East conflict but also given an update on costly war damage to its output.</description>
-      <pubDate>Thu, 07 May 2026 05:58:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/shell-profits-surge-but-war-inflicts-damage-too-13540940</guid>
-      <enclosure url="https://e3.365dm.com/23/11/1920x1080/skynews-shell-logo_6367451.jpg?20231121112604" length="0" type="image/jpeg"/>
-      <media:description type="html">The Shell logo</media:description>
-      <media:thumbnail url="https://e3.365dm.com/23/11/1920x1080/skynews-shell-logo_6367451.jpg?20231121112604" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/23/11/1920x1080/skynews-shell-logo_6367451.jpg?20231121112604"/>
     </item>
   </channel>
 </rss>
