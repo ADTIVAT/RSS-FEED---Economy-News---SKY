@@ -12,9 +12,31 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 15 May 2026 12:21:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 05:57:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Ryanair sees flat fare headwinds from Iran war</title>
+      <link>https://news.sky.com/story/ryanair-warns-flat-fares-may-weigh-on-profits-13545375</link>
+      <description>Ryanair has warned investors that annual profits look set to be pressured by effects from the US-Iran war.</description>
+      <pubDate>Mon, 18 May 2026 05:57:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/ryanair-warns-flat-fares-may-weigh-on-profits-13545375</guid>
+      <enclosure url="https://e3.365dm.com/23/09/1920x1080/skynews-ryanair-plane_6292411.jpg?20230921102917" length="0" type="image/jpeg"/>
+      <media:description type="html">File photo dated 02/09/22 of a Ryanair Boeing 737-8AS passenger airliner comes in to land at Stansted Airport in Essex. Ryanair has revealed around 63,000 of its passengers saw their flights cancelled during last week&amp;#39;s air traffic control failure which caused widespread disruption across the industry and left thousands of passengers stranded overseas. In its August traffic update, the Irish carrier said more than 350 of its flights were cancelled on August 28 and 29 due to the air traffic contr</media:description>
+      <media:thumbnail url="https://e3.365dm.com/23/09/1920x1080/skynews-ryanair-plane_6292411.jpg?20230921102917" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/23/09/1920x1080/skynews-ryanair-plane_6292411.jpg?20230921102917"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Liberty Steel bidder seeks taxpayer guarantees | Mark Kleinman blog&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description></description>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/21/03/1920x1080/skynews-liberty-steel-rotherham_5317949.jpg?20210325195052" length="0" type="image/jpeg"/>
+      <media:description type="html">Liberty Steel plant Rotherham 25/3/21</media:description>
+      <media:thumbnail url="https://e3.365dm.com/21/03/1920x1080/skynews-liberty-steel-rotherham_5317949.jpg?20210325195052" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/21/03/1920x1080/skynews-liberty-steel-rotherham_5317949.jpg?20210325195052"/>
+    </item>
     <item>
       <title>British Gas to pay &amp;#163;20m for treatment of prepayment meter customers</title>
       <link>https://news.sky.com/story/british-gas-to-pay-16320m-for-treatment-of-prepayment-meter-customers-13544213</link>
@@ -27,6 +49,17 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/23/04/1920x1080/skynews-energy-prepayment-birmingham_6125562.jpg?20230418205639"/>
     </item>
     <item>
+      <title>The often-overlooked supermarket aisle where popular items are cheaper | Money newsletter</title>
+      <link>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</link>
+      <description>More than 190,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
+      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</guid>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-shopping-iran-war-food_7222791.jpg?20260417153244" length="0" type="image/jpeg"/>
+      <media:description type="html">File photo dated 03/09/22 of a shopper walking through the aisle of a supermarket. UK inflation rose to a near 18-month high in June as food</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-shopping-iran-war-food_7222791.jpg?20260417153244" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-shopping-iran-war-food_7222791.jpg?20260417153244"/>
+    </item>
+    <item>
       <title>UK borrowing costs hit fresh financial crash-era high amid political uncertainty</title>
       <link>https://news.sky.com/story/uk-borrowing-costs-hit-fresh-financial-crash-era-high-amid-political-uncertainty-13544322</link>
       <description>The benchmark UK borrowing cost has hit a fresh financial crash-era high as Prime Minister Sir Keir Starmer faces a potential leadership challenge from Manchester mayor Andy Burnham. </description>
@@ -37,17 +70,6 @@
 Pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-downing-street-viewfinder_7248333.jpg?20260514082457" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-downing-street-viewfinder_7248333.jpg?20260514082457"/>
-    </item>
-    <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Premier League moves goalposts on financial rule breach cases | Mark Kleinman blog&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description></description>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-everton-nottingham-forest_7249549.jpg?20260515135907" length="0" type="image/jpeg"/>
-      <media:description type="html">Nottingham Forest v Everton - The City Ground, Nottingham - December 2025. Everton&amp;#39;s Thiero Barry celebrates. Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-everton-nottingham-forest_7249549.jpg?20260515135907" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-everton-nottingham-forest_7249549.jpg?20260515135907"/>
     </item>
     <item>
       <title>Post Office signed &amp;#163;2.4m crisis PR contract while fighting legal claims from scandal victims</title>
@@ -105,28 +127,6 @@ Pic: No 10/Reuters/iStock</media:description>
 </media:description>
       <media:thumbnail url="https://e3.365dm.com/23/01/1920x1080/skynews-microsoft-teams_6035461.jpg?20230125083023" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/23/01/1920x1080/skynews-microsoft-teams_6035461.jpg?20230125083023"/>
-    </item>
-    <item>
-      <title>China issues warning over British Steel nationalisation plan</title>
-      <link>https://news.sky.com/story/china-issues-warning-over-governments-plan-to-nationalise-british-steel-13543877</link>
-      <description>China has urged Britain to &quot;make decisions prudently&quot; over &amp;#8204;plans to nationalise British Steel and warned that it would protect Chinese businesses.</description>
-      <pubDate>Thu, 14 May 2026 10:36:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/china-issues-warning-over-governments-plan-to-nationalise-british-steel-13543877</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-british-steel-scunthorpe_7246426.jpg?20260512115647" length="0" type="image/jpeg"/>
-      <media:description type="html">General view of the British Steel works in Scunthorpe. British Steel is set to return to public ownership as Sir Keir Starmer announced new laws he said will give the Government &amp;#34;options&amp;#34; to protect the industry and Scunthorpe workers. New powers could be used to nationalise British Steel, 38 years since the firm was first sold off. Picture date: Tuesday May 12, 2026. PA Photo. Photo credit should read: Joe Giddens/PA Wire</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-british-steel-scunthorpe_7246426.jpg?20260512115647" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-british-steel-scunthorpe_7246426.jpg?20260512115647"/>
-    </item>
-    <item>
-      <title>The 'hidden' abuse forcing women to turn to loan sharks</title>
-      <link>https://news.sky.com/story/women-turning-to-loan-sharks-due-to-debt-racked-up-by-abusive-partners-13543454</link>
-      <description>Women are being forced to turn to loan sharks due to a &quot;hidden&quot; but devastating form of economic abuse, new research has shown.</description>
-      <pubDate>Wed, 13 May 2026 10:13:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/women-turning-to-loan-sharks-due-to-debt-racked-up-by-abusive-partners-13543454</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-domestic-abuse-coerced-debt_7247280.jpg?20260513102920" length="0" type="image/jpeg"/>
-      <media:description type="html">File PA pic of a woman in distress.</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-domestic-abuse-coerced-debt_7247280.jpg?20260513102920" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-domestic-abuse-coerced-debt_7247280.jpg?20260513102920"/>
     </item>
   </channel>
 </rss>
