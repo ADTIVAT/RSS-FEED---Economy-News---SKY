@@ -12,9 +12,53 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 19 May 2026 14:48:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 10:33:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Supermarkets 'encouraged to cap food prices' - but bosses hit out at '1970s-style &amp;#8288;price controls'</title>
+      <link>https://news.sky.com/story/supermarkets-encouraged-to-cap-food-prices-by-government-to-help-with-cost-of-living-crisis-13546028</link>
+      <description>The government has moved to distance itself from reported efforts to introduce price caps on key supermarket products, such as eggs, bread and milk, in return for the easing of some regulations.</description>
+      <pubDate>Tue, 19 May 2026 20:02:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/supermarkets-encouraged-to-cap-food-prices-by-government-to-help-with-cost-of-living-crisis-13546028</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-money-food_7187899.jpg?20260310134242" length="0" type="image/jpeg"/>
+      <media:description type="html">A trolley full of groceries in a supermarket. </media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-money-food_7187899.jpg?20260310134242" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-money-food_7187899.jpg?20260310134242"/>
+    </item>
+    <item>
+      <title>UK waters down Russian oil sanctions</title>
+      <link>https://news.sky.com/story/uk-waters-down-russian-oil-sanctions-amid-jet-fuel-crisis-brought-on-by-strait-of-hormuz-closure-13546009</link>
+      <description>The UK government has watered-down sanctions on Russia, allowing diesel and jet fuel from Russian crude oil to enter the UK if it is refined in other countries. </description>
+      <pubDate>Tue, 19 May 2026 19:09:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/uk-waters-down-russian-oil-sanctions-amid-jet-fuel-crisis-brought-on-by-strait-of-hormuz-closure-13546009</guid>
+      <enclosure url="https://e3.365dm.com/25/10/1920x1080/skynews-rosneft-oil-russia_7059341.jpg?20251023115501" length="0" type="image/jpeg"/>
+      <media:description type="html">Man working on top of a tanker wagon at a Rosneft oil terminal. Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/10/1920x1080/skynews-rosneft-oil-russia_7059341.jpg?20251023115501" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/10/1920x1080/skynews-rosneft-oil-russia_7059341.jpg?20251023115501"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;West Africa-focused oil cash shell to float in London in &amp;#163;30m boost to IPO market | Mark Kleinman blog&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/24/07/1920x1080/skynews-london-london-stock-exchange_6636523.jpg?20240722164846" length="0" type="image/jpeg"/>
+      <media:description type="html">Paternoster Square, where the London Stock Exchange is based. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/24/07/1920x1080/skynews-london-london-stock-exchange_6636523.jpg?20240722164846" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/24/07/1920x1080/skynews-london-london-stock-exchange_6636523.jpg?20240722164846"/>
+    </item>
+    <item>
+      <title>Pending tax claims against Trump to be dropped, says Justice Department</title>
+      <link>https://news.sky.com/story/pending-tax-claims-against-trump-to-be-dropped-says-us-justice-department-13546166</link>
+      <description>The US government has agreed to permanently drop any past tax claims against President Donald Trump, his family and companies.</description>
+      <pubDate>Wed, 20 May 2026 10:33:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/pending-tax-claims-against-trump-to-be-dropped-says-us-justice-department-13546166</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-donald-trump-us-president_7253829.jpg?20260520104917" length="0" type="image/jpeg"/>
+      <media:description type="html">U.S. President Donald Trump speaks during a roundtable focused on tax cuts in Las Vegas, Nevada, U.S., April 16, 2026. REUTERS/Evan Vucci</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-donald-trump-us-president_7253829.jpg?20260520104917" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-donald-trump-us-president_7253829.jpg?20260520104917"/>
+    </item>
     <item>
       <title>World's 'most expensive' high-speed rail line to be slower and cost more</title>
       <link>https://news.sky.com/story/hs2-worlds-most-expensive-high-speed-rail-line-to-be-slower-and-cost-more-13545915</link>
@@ -51,28 +95,6 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/24/04/1920x1080/skynews-standard-chartered_6521395.jpg?20240414152517"/>
     </item>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Goldman Sachs tees off with &amp;#163;330m sale of former Ryder Cup host The Belfry | Mark Kleinman blog&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description/>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/21/04/1920x1080/skynews-ryder-cup-belfry_5334845.jpg?20210408180755" length="0" type="image/jpeg"/>
-      <media:description type="html">The Belfry , Birmingham , 29/9/02 Paul McGinley - European Team celebrates after winning the Ryder cup after his putt on the 18th. Pic: Action Images/Brandon Malone</media:description>
-      <media:thumbnail url="https://e3.365dm.com/21/04/1920x1080/skynews-ryder-cup-belfry_5334845.jpg?20210408180755" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/21/04/1920x1080/skynews-ryder-cup-belfry_5334845.jpg?20210408180755"/>
-    </item>
-    <item>
-      <title>We tried 23 tins of chopped tomatoes - two blew us away (and there's a great option for 47p)</title>
-      <link>https://news.sky.com/story/we-tried-23-tins-of-chopped-tomatoes-two-blew-us-away-and-theres-a-great-option-for-47p-13545882</link>
-      <description>Tinned tomato prices have spiked significantly over the past few years, so the team has been keen to do a taste test for a while now.</description>
-      <pubDate>Tue, 19 May 2026 13:14:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/we-tried-23-tins-of-chopped-tomatoes-two-blew-us-away-and-theres-a-great-option-for-47p-13545882</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-chotted-tomatoes-tins_7252281.jpg?20260518140300" length="0" type="image/jpeg"/>
-      <media:description type="html">Chopped tomatoes</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-chotted-tomatoes-tins_7252281.jpg?20260518140300" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-chotted-tomatoes-tins_7252281.jpg?20260518140300"/>
-    </item>
-    <item>
       <title>Elon Musk loses lawsuit against OpenAI</title>
       <link>https://news.sky.com/story/elon-musk-loses-lawsuit-against-openai-13545636</link>
       <description>Elon Musk has lost his lawsuit against OpenAI and its chief executive Sam Altman.</description>
@@ -105,28 +127,6 @@ Pic: AP</media:description>
       <media:description type="html">File photo dated 02/09/22 of a Ryanair Boeing 737-8AS passenger airliner comes in to land at Stansted Airport in Essex. Ryanair has revealed around 63,000 of its passengers saw their flights cancelled during last week&amp;#39;s air traffic control failure which caused widespread disruption across the industry and left thousands of passengers stranded overseas. In its August traffic update, the Irish carrier said more than 350 of its flights were cancelled on August 28 and 29 due to the air traffic contr</media:description>
       <media:thumbnail url="https://e3.365dm.com/23/09/1920x1080/skynews-ryanair-plane_6292411.jpg?20230921102917" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/23/09/1920x1080/skynews-ryanair-plane_6292411.jpg?20230921102917"/>
-    </item>
-    <item>
-      <title>London Tube strikes planned for this week are called off</title>
-      <link>https://news.sky.com/story/tube-strikes-suspended-after-11th-hour-deal-13545488</link>
-      <description>Two 24-hour strikes that were planned by London Underground drivers this week have been suspended.</description>
-      <pubDate>Mon, 18 May 2026 12:25:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/tube-strikes-suspended-after-11th-hour-deal-13545488</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-london-underground_7252350.jpg?20260518151000" length="0" type="image/jpeg"/>
-      <media:description type="html">Commuters will avoid a planned London Underground strike. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-london-underground_7252350.jpg?20260518151000" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-london-underground_7252350.jpg?20260518151000"/>
-    </item>
-    <item>
-      <title>The overlooked rule cutting state pensions for millions | Money newsletter</title>
-      <link>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</link>
-      <description>More than 190,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
-      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</guid>
-      <enclosure url="https://e3.365dm.com/25/08/1920x1080/skynews-pensioner-tax-money_7000874.jpg?20250825112559" length="0" type="image/jpeg"/>
-      <media:description type="html">An old lady takes out British money from an old-fashioned purse. Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/08/1920x1080/skynews-pensioner-tax-money_7000874.jpg?20250825112559" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/08/1920x1080/skynews-pensioner-tax-money_7000874.jpg?20250825112559"/>
     </item>
   </channel>
 </rss>
