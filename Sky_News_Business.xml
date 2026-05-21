@@ -12,9 +12,54 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 20 May 2026 10:33:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 07:40:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>SpaceX seeks Mars money in flotation that could make Musk a trillionaire</title>
+      <link>https://news.sky.com/story/spacex-targets-record-flotation-that-could-make-musk-a-trillionaire-13546470</link>
+      <description>Elon Musk has revealed plans for a stock market flotation of SpaceX that looks set to raise a record sum and could make him the world's first trillionaire.</description>
+      <pubDate>Thu, 21 May 2026 07:40:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/spacex-targets-record-flotation-that-could-make-musk-a-trillionaire-13546470</guid>
+      <enclosure url="https://e3.365dm.com/25/12/1920x1080/skynews-spacex-starlink-elon-musk_7111188.png?20251215175626" length="0" type="image/png"/>
+      <media:description type="html">Space X
+</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/12/1920x1080/skynews-spacex-starlink-elon-musk_7111188.png?20251215175626" width="1920" height="1080"/>
+      <media:content type="image/png" url="https://e3.365dm.com/25/12/1920x1080/skynews-spacex-starlink-elon-musk_7111188.png?20251215175626"/>
+    </item>
+    <item>
+      <title>Zuckerberg warns 'success isn't a given' as 10% of Meta workforce laid off</title>
+      <link>https://news.sky.com/story/zuckerberg-warns-success-isnt-a-given-as-10-of-meta-workforce-laid-off-13546464</link>
+      <description>Tech giant Meta has laid off 10% of its workforce - as chief executive Mark Zuckerberg warns that &quot;success isn't a given&quot;. </description>
+      <pubDate>Thu, 21 May 2026 03:44:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/zuckerberg-warns-success-isnt-a-given-as-10-of-meta-workforce-laid-off-13546464</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-meta-mark-zuckerberg_7203004.jpg?20260325185845" length="0" type="image/jpeg"/>
+      <media:description type="html">Meta Platforms CEO Mark Zuckerberg leaving a LA court after testifying in a landmark social media addiction trial. Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-meta-mark-zuckerberg_7203004.jpg?20260325185845" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-meta-mark-zuckerberg_7203004.jpg?20260325185845"/>
+    </item>
+    <item>
+      <title>World's most valuable company continues record breaking streak - but not everyone is convinced</title>
+      <link>https://news.sky.com/story/nvidia-continues-record-breaking-streak-but-not-everyone-is-convinced-13546395</link>
+      <description>The world's most valuable company has reported another series of record-breaking and expectation-defying results, easing fears, for now, of a slowdown in the AI boom. </description>
+      <pubDate>Wed, 20 May 2026 19:46:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/nvidia-continues-record-breaking-streak-but-not-everyone-is-convinced-13546395</guid>
+      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-nvidia-davos_7141441.jpg?20260121110600" length="0" type="image/jpeg"/>
+      <media:description type="html">President and CEO of NVIDIA, Jensen Huang, attends the 56th annual World Economic Forum (WEF) meeting in Davos, Switzerland, January 21, 202</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-nvidia-davos_7141441.jpg?20260121110600" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-nvidia-davos_7141441.jpg?20260121110600"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Former Unilever brands-owner in talks about sale of Timotei and VO5 | Mark Kleinman blog&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description></description>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-timotei-shampoo_7254498.jpg?20260521072113" length="0" type="image/jpeg"/>
+      <media:description type="html">Timotei</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-timotei-shampoo_7254498.jpg?20260521072113" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-timotei-shampoo_7254498.jpg?20260521072113"/>
+    </item>
     <item>
       <title>Supermarkets 'encouraged to cap food prices' - but bosses hit out at '1970s-style &amp;#8288;price controls'</title>
       <link>https://news.sky.com/story/supermarkets-encouraged-to-cap-food-prices-by-government-to-help-with-cost-of-living-crisis-13546028</link>
@@ -36,17 +81,6 @@
       <media:description type="html">Man working on top of a tanker wagon at a Rosneft oil terminal. Pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/25/10/1920x1080/skynews-rosneft-oil-russia_7059341.jpg?20251023115501" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/10/1920x1080/skynews-rosneft-oil-russia_7059341.jpg?20251023115501"/>
-    </item>
-    <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;West Africa-focused oil cash shell to float in London in &amp;#163;30m boost to IPO market | Mark Kleinman blog&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description/>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/24/07/1920x1080/skynews-london-london-stock-exchange_6636523.jpg?20240722164846" length="0" type="image/jpeg"/>
-      <media:description type="html">Paternoster Square, where the London Stock Exchange is based. Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/24/07/1920x1080/skynews-london-london-stock-exchange_6636523.jpg?20240722164846" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/24/07/1920x1080/skynews-london-london-stock-exchange_6636523.jpg?20240722164846"/>
     </item>
     <item>
       <title>Pending tax claims against Trump to be dropped, says Justice Department</title>
@@ -84,7 +118,7 @@
     <item>
       <title>Company to replace 'lower-value human capital' with AI</title>
       <link>https://news.sky.com/story/standard-chartered-to-replace-lower-value-human-capital-with-ai-13545809</link>
-      <description>Standard Chartered bank could cut more than 7,500 jobs as it seeks to replace "lower-value human capital" under a technology and artificial intelligence (AI) drive.</description>
+      <description>Standard Chartered bank could cut more than 7,500 jobs as it seeks to replace &quot;lower-value human capital&quot; under a technology and artificial intelligence (AI) drive.</description>
       <pubDate>Tue, 19 May 2026 10:05:00 +0100</pubDate>
       <guid>https://news.sky.com/story/standard-chartered-to-replace-lower-value-human-capital-with-ai-13545809</guid>
       <enclosure url="https://e3.365dm.com/24/04/1920x1080/skynews-standard-chartered_6521395.jpg?20240414152517" length="0" type="image/jpeg"/>
@@ -93,40 +127,6 @@
 </media:description>
       <media:thumbnail url="https://e3.365dm.com/24/04/1920x1080/skynews-standard-chartered_6521395.jpg?20240414152517" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/24/04/1920x1080/skynews-standard-chartered_6521395.jpg?20240414152517"/>
-    </item>
-    <item>
-      <title>Elon Musk loses lawsuit against OpenAI</title>
-      <link>https://news.sky.com/story/elon-musk-loses-lawsuit-against-openai-13545636</link>
-      <description>Elon Musk has lost his lawsuit against OpenAI and its chief executive Sam Altman.</description>
-      <pubDate>Mon, 18 May 2026 18:44:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/elon-musk-loses-lawsuit-against-openai-13545636</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-openai-logo_7252650.jpg?20260518220913" length="0" type="image/jpeg"/>
-      <media:description type="html">File pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-openai-logo_7252650.jpg?20260518220913" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-openai-logo_7252650.jpg?20260518220913"/>
-    </item>
-    <item>
-      <title>No need for Bank of England rate rise this year, IMF says</title>
-      <link>https://news.sky.com/story/iran-war-no-need-for-bank-of-england-rate-rise-this-year-imf-says-13545486</link>
-      <description>The Bank of England will not need to raise interest rates this year to combat the effects of rising energy costs, according to the world's lender of last resort. </description>
-      <pubDate>Mon, 18 May 2026 12:13:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/iran-war-no-need-for-bank-of-england-rate-rise-this-year-imf-says-13545486</guid>
-      <enclosure url="https://e3.365dm.com/26/02/1920x1080/skynews-bank-of-england-people_7156323.jpg?20260205120733" length="0" type="image/jpeg"/>
-      <media:description type="html">People walk in front of the Bank of England.
-Pic: AP</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-bank-of-england-people_7156323.jpg?20260205120733" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-bank-of-england-people_7156323.jpg?20260205120733"/>
-    </item>
-    <item>
-      <title>Ryanair sees flat fare headwinds from Iran war</title>
-      <link>https://news.sky.com/story/ryanair-warns-flat-fares-may-weigh-on-profits-13545375</link>
-      <description>Ryanair has warned investors that annual profits look set to be pressured by effects from the US-Iran war.</description>
-      <pubDate>Mon, 18 May 2026 05:57:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/ryanair-warns-flat-fares-may-weigh-on-profits-13545375</guid>
-      <enclosure url="https://e3.365dm.com/23/09/1920x1080/skynews-ryanair-plane_6292411.jpg?20230921102917" length="0" type="image/jpeg"/>
-      <media:description type="html">File photo dated 02/09/22 of a Ryanair Boeing 737-8AS passenger airliner comes in to land at Stansted Airport in Essex. Ryanair has revealed around 63,000 of its passengers saw their flights cancelled during last week&amp;#39;s air traffic control failure which caused widespread disruption across the industry and left thousands of passengers stranded overseas. In its August traffic update, the Irish carrier said more than 350 of its flights were cancelled on August 28 and 29 due to the air traffic contr</media:description>
-      <media:thumbnail url="https://e3.365dm.com/23/09/1920x1080/skynews-ryanair-plane_6292411.jpg?20230921102917" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/23/09/1920x1080/skynews-ryanair-plane_6292411.jpg?20230921102917"/>
     </item>
   </channel>
 </rss>
