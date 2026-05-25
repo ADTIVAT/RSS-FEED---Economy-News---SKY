@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 22 May 2026 11:42:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 00:01:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Moneybox urges Reeves to end LISA 'policy theatre'  | Mark Kleinman blog&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description></description>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-rachel-reeves-chancellor_7197230.jpg?20260319121409" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: AP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-rachel-reeves-chancellor_7197230.jpg?20260319121409" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-rachel-reeves-chancellor_7197230.jpg?20260319121409"/>
+    </item>
     <item>
       <title>Morrisons to shut 100 'loss-making' stores</title>
       <link>https://news.sky.com/story/morrisons-to-shut-100-loss-making-stores-blaming-surge-in-costs-13546965</link>
@@ -25,6 +36,17 @@
       <media:description type="html">Pic: PA</media:description>
       <media:thumbnail url="https://e3.365dm.com/24/08/1920x1080/skynews-freezers-morrisons_6645292.png?20240802080213" width="1920" height="1080"/>
       <media:content type="image/png" url="https://e3.365dm.com/24/08/1920x1080/skynews-freezers-morrisons_6645292.png?20240802080213"/>
+    </item>
+    <item>
+      <title>Why an industry that brought &amp;#163;8.8bn to UK economy last year faces uncertain future</title>
+      <link>https://news.sky.com/story/britains-gaming-boom-faces-an-uncertain-future-13547495</link>
+      <description>When we talk about the value of the video games industry in the UK, it's usually in terms of money.&amp;#160;</description>
+      <pubDate>Mon, 25 May 2026 00:01:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/britains-gaming-boom-faces-an-uncertain-future-13547495</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-tomb-raider-lara-croft_7257902.jpg?20260525085407" length="0" type="image/jpeg"/>
+      <media:description type="html">Tomb Raider: Legacy of Atlantis is set for release in 2026. Pic: Crystal Dynamics</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-tomb-raider-lara-croft_7257902.jpg?20260525085407" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-tomb-raider-lara-croft_7257902.jpg?20260525085407"/>
     </item>
     <item>
       <title>Fuel sales collapse as Iran war costs knock savings</title>
@@ -49,17 +71,6 @@
       <media:description type="html">Prime Minister Sir Keir Starmer and Chancellor of the Exchequer Rachel Reeves visit a children&amp;#39;s activity centre in Brentwood, Essex, as the</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-sir-keir-starmer-rachel-reeves_7255048.jpg?20260521182811" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-sir-keir-starmer-rachel-reeves_7255048.jpg?20260521182811"/>
-    </item>
-    <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Desmond handed &amp;#163;40m losing Lottery ticket | Mark Kleinman blog&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description></description>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-lottery-national-lottery_7188833.jpg?20260311110548" length="0" type="image/jpeg"/>
-      <media:description type="html">Undated file photo of a National Lottery sign outside a newsagent in north London. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-lottery-national-lottery_7188833.jpg?20260311110548" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-lottery-national-lottery_7188833.jpg?20260311110548"/>
     </item>
     <item>
       <title>SpaceX seeks Mars money in flotation that could make Musk a trillionaire</title>
@@ -116,17 +127,6 @@
       <media:description type="html">A trolley full of groceries in a supermarket. </media:description>
       <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-money-food_7187899.jpg?20260310134242" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-money-food_7187899.jpg?20260310134242"/>
-    </item>
-    <item>
-      <title>UK waters down Russian oil sanctions</title>
-      <link>https://news.sky.com/story/uk-waters-down-russian-oil-sanctions-amid-jet-fuel-crisis-brought-on-by-strait-of-hormuz-closure-13546009</link>
-      <description>The UK government has watered-down sanctions on Russia, allowing diesel and jet fuel from Russian crude oil to enter the UK if it is refined in other countries. </description>
-      <pubDate>Tue, 19 May 2026 19:09:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/uk-waters-down-russian-oil-sanctions-amid-jet-fuel-crisis-brought-on-by-strait-of-hormuz-closure-13546009</guid>
-      <enclosure url="https://e3.365dm.com/25/10/1920x1080/skynews-rosneft-oil-russia_7059341.jpg?20251023115501" length="0" type="image/jpeg"/>
-      <media:description type="html">Man working on top of a tanker wagon at a Rosneft oil terminal. Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/10/1920x1080/skynews-rosneft-oil-russia_7059341.jpg?20251023115501" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/10/1920x1080/skynews-rosneft-oil-russia_7059341.jpg?20251023115501"/>
     </item>
   </channel>
 </rss>
