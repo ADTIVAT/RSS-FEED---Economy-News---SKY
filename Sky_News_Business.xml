@@ -12,19 +12,85 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 26 May 2026 02:52:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 10:00:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Job losses loom in sale of handbag brand Radley | Mark Kleinman blog&lt;/a&gt;</title>
+      <title>Former BP boss hits back at oil giant after his ousting</title>
+      <link>https://news.sky.com/story/former-bp-boss-hits-back-at-oil-giant-after-his-ousting-saying-he-does-not-accept-the-lies-over-his-conduct-13548381</link>
+      <description>The former chairman of BP has come out swinging against his ousting, saying no one has ever made the kinds of bullying accusations levelled against him in recent days. </description>
+      <pubDate>Wed, 27 May 2026 09:19:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/former-bp-boss-hits-back-at-oil-giant-after-his-ousting-saying-he-does-not-accept-the-lies-over-his-conduct-13548381</guid>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-bp-wilfred-frost_7233189.jpg?20260428140900" length="0" type="image/jpeg"/>
+      <media:description type="html">Wilfred Frost explains BP&amp;#39;s profit surge</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-bp-wilfred-frost_7233189.jpg?20260428140900" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-bp-wilfred-frost_7233189.jpg?20260428140900"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Collapsed Vashi&amp;#8217;s liquidators in &amp;#163;750,000 auditor deal | Mark Kleinman blog&lt;/a&gt;</title>
       <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
       <description></description>
       <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
       <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-radley-handbag-shop_7183016.jpg?20260305115017" length="0" type="image/jpeg"/>
-      <media:description type="html">Radley handbag and leather accessories shop in Royal Exchange Square, Glasgow. Pic: Liz Leyden, iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-radley-handbag-shop_7183016.jpg?20260305115017" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-radley-handbag-shop_7183016.jpg?20260305115017"/>
+      <enclosure url="https://e3.365dm.com/23/04/1920x1080/skynews-vashi-jewellery_6111571.jpg?20230405143035" length="0" type="image/jpeg"/>
+      <media:description type="html">Vashi. Covent Garden</media:description>
+      <media:thumbnail url="https://e3.365dm.com/23/04/1920x1080/skynews-vashi-jewellery_6111571.jpg?20230405143035" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/23/04/1920x1080/skynews-vashi-jewellery_6111571.jpg?20230405143035"/>
+    </item>
+    <item>
+      <title>Google engineer charged with insider trading after D4vd bet makes $1.2m</title>
+      <link>https://news.sky.com/story/google-engineer-charged-with-insider-trading-after-d4vd-bet-makes-12m-on-polymarket-13548658</link>
+      <description>An Italian Google engineer has been charged with insider trading after he allegedly made $1.2m betting on prediction markets.</description>
+      <pubDate>Thu, 28 May 2026 10:00:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/google-engineer-charged-with-insider-trading-after-d4vd-bet-makes-12m-on-polymarket-13548658</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-polymarket-trading_7260100.jpg?20260528100743" length="0" type="image/jpeg"/>
+      <media:description type="html">Polymarket describes itself as the world&amp;#39;s largest prediction market. File pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-polymarket-trading_7260100.jpg?20260528100743" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-polymarket-trading_7260100.jpg?20260528100743"/>
+    </item>
+    <item>
+      <title>We all face higher bills for mounting household energy debt</title>
+      <link>https://news.sky.com/story/the-escalating-energy-debt-crisis-as-price-cap-set-for-rare-summer-hike-13548243</link>
+      <description>There is alarm over growing household energy debts as we learn the price cap is going up 13% this summer, with the potential for further hikes ahead.</description>
+      <pubDate>Tue, 26 May 2026 16:37:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/the-escalating-energy-debt-crisis-as-price-cap-set-for-rare-summer-hike-13548243</guid>
+      <enclosure url="https://e3.365dm.com/25/09/1920x1080/skynews-energy-bills-price-cap_7030057.jpg?20250924081415" length="0" type="image/jpeg"/>
+      <media:description type="html">Home electricity expenses and bill statement document. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/09/1920x1080/skynews-energy-bills-price-cap_7030057.jpg?20250924081415" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/09/1920x1080/skynews-energy-bills-price-cap_7030057.jpg?20250924081415"/>
+    </item>
+    <item>
+      <title>Students 'misled' over university loans, says top committee chair</title>
+      <link>https://news.sky.com/story/government-gave-misleading-information-about-student-loans-senior-committee-chair-tells-sky-news-13548517</link>
+      <description>Students received &quot;misleading&quot; advice from the government about loans to pay for their university education, the chair of a top parliamentary committee has told Sky News.</description>
+      <pubDate>Wed, 27 May 2026 17:30:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/government-gave-misleading-information-about-student-loans-senior-committee-chair-tells-sky-news-13548517</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-department-for-education_7259710.jpg?20260527173529" length="0" type="image/jpeg"/>
+      <media:description type="html">Department for Education. Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-department-for-education_7259710.jpg?20260527173529" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-department-for-education_7259710.jpg?20260527173529"/>
+    </item>
+    <item>
+      <title>Police issue warning over Post Office scandal probe</title>
+      <link>https://news.sky.com/story/horizon-post-office-scandal-victims-dont-have-luxury-of-time-inquiry-commander-warns-13548233</link>
+      <description>Police have warned that time is running out for the victims of the Horizon Post Office scandal to receive justice, unless millions of pounds are funnelled into the criminal investigation.</description>
+      <pubDate>Tue, 26 May 2026 20:00:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/horizon-post-office-scandal-victims-dont-have-luxury-of-time-inquiry-commander-warns-13548233</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-post-office-horizon_7259032.jpg?20260526162219" length="0" type="image/jpeg"/>
+      <media:description type="html">File photo dated 03/11/09 of a Post Office sign. Victims of the Post Office scandal who are seeking compensation have one month to go before</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-post-office-horizon_7259032.jpg?20260526162219" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-post-office-horizon_7259032.jpg?20260526162219"/>
+    </item>
+    <item>
+      <title>Why an industry that brought &amp;#163;8.8bn to UK economy last year faces uncertain future</title>
+      <link>https://news.sky.com/story/britains-gaming-boom-faces-an-uncertain-future-13547495</link>
+      <description>When we talk about the value of the video games industry in the UK, it's usually in terms of money.&amp;#160;</description>
+      <pubDate>Mon, 25 May 2026 00:01:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/britains-gaming-boom-faces-an-uncertain-future-13547495</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-tomb-raider-lara-croft_7257902.jpg?20260525085407" length="0" type="image/jpeg"/>
+      <media:description type="html">Tomb Raider: Legacy of Atlantis is set for release in 2026. Pic: Crystal Dynamics</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-tomb-raider-lara-croft_7257902.jpg?20260525085407" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-tomb-raider-lara-croft_7257902.jpg?20260525085407"/>
     </item>
     <item>
       <title>Homes across Kent, Sussex and Leicestershire without water during heatwave</title>
@@ -50,84 +116,16 @@ Pic: PA</media:description>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-starbucks-south-korea_7258524.jpg?20260526040354"/>
     </item>
     <item>
-      <title>Morrisons to shut 100 'loss-making' stores</title>
-      <link>https://news.sky.com/story/morrisons-to-shut-100-loss-making-stores-blaming-surge-in-costs-13546965</link>
-      <description>Morrisons says it is to shut &quot;loss-making&quot; convenience stores, placing hundreds of jobs at risk.</description>
-      <pubDate>Fri, 22 May 2026 11:42:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/morrisons-to-shut-100-loss-making-stores-blaming-surge-in-costs-13546965</guid>
-      <enclosure url="https://e3.365dm.com/24/08/1920x1080/skynews-freezers-morrisons_6645292.png?20240802080213" length="0" type="image/png"/>
-      <media:description type="html">Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/24/08/1920x1080/skynews-freezers-morrisons_6645292.png?20240802080213" width="1920" height="1080"/>
-      <media:content type="image/png" url="https://e3.365dm.com/24/08/1920x1080/skynews-freezers-morrisons_6645292.png?20240802080213"/>
-    </item>
-    <item>
-      <title>Why an industry that brought &amp;#163;8.8bn to UK economy last year faces uncertain future</title>
-      <link>https://news.sky.com/story/britains-gaming-boom-faces-an-uncertain-future-13547495</link>
-      <description>When we talk about the value of the video games industry in the UK, it's usually in terms of money.&amp;#160;</description>
-      <pubDate>Mon, 25 May 2026 00:01:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/britains-gaming-boom-faces-an-uncertain-future-13547495</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-tomb-raider-lara-croft_7257902.jpg?20260525085407" length="0" type="image/jpeg"/>
-      <media:description type="html">Tomb Raider: Legacy of Atlantis is set for release in 2026. Pic: Crystal Dynamics</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-tomb-raider-lara-croft_7257902.jpg?20260525085407" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-tomb-raider-lara-croft_7257902.jpg?20260525085407"/>
-    </item>
-    <item>
-      <title>The parking mistake that operators can't fine you for &amp;#8211; but often do | Money newsletter</title>
-      <link>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</link>
-      <description>More than 190,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
-      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</guid>
-      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-parking-machine_7137677.jpg?20260117075037" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-parking-machine_7137677.jpg?20260117075037" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-parking-machine_7137677.jpg?20260117075037"/>
-    </item>
-    <item>
-      <title>Fuel sales collapse as Iran war costs knock savings</title>
-      <link>https://news.sky.com/story/fuel-sales-collapse-as-iran-war-costs-knock-savings-13546889</link>
-      <description>A growing number of UK households are dipping into savings as rising costs linked to the US-Iran war pile pressure on family budgets, according to a closely-watched survey as official figures chart a collapse in fuel sales.</description>
-      <pubDate>Fri, 22 May 2026 07:21:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/fuel-sales-collapse-as-iran-war-costs-knock-savings-13546889</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-petrol-station-liverpool_7186901.jpg?20260309115306" length="0" type="image/jpeg"/>
-      <media:description type="html">Fuel pump nozzles on the forecourt of a petrol station in Liverpool, Britain, March 9, 2026. REUTERS/Phil Noble
-
-</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-petrol-station-liverpool_7186901.jpg?20260309115306" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-petrol-station-liverpool_7186901.jpg?20260309115306"/>
-    </item>
-    <item>
-      <title>Rachel Reeves fires up summer spending reminiscent of Rishi Sunak's COVID scheme </title>
-      <link>https://news.sky.com/story/back-to-the-future-as-rachel-reeves-fires-up-summer-spending-reminiscent-of-rishi-sunaks-covid-scheme-13546746</link>
-      <description>Rachel Reeves' Great British Summer Savings, a family-friendly bundle of VAT cuts for kids' meals and leisure attractions, and free bus travel to get to there, is reminiscent of a previous Treasury wheeze intended to lift spirits in a troubled summer - think Eat Out To Help Out, without social distancing or gnawing anxiety.</description>
-      <pubDate>Thu, 21 May 2026 18:20:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/back-to-the-future-as-rachel-reeves-fires-up-summer-spending-reminiscent-of-rishi-sunaks-covid-scheme-13546746</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-sir-keir-starmer-rachel-reeves_7255048.jpg?20260521182811" length="0" type="image/jpeg"/>
-      <media:description type="html">Prime Minister Sir Keir Starmer and Chancellor of the Exchequer Rachel Reeves visit a children&amp;#39;s activity centre in Brentwood, Essex, as the</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-sir-keir-starmer-rachel-reeves_7255048.jpg?20260521182811" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-sir-keir-starmer-rachel-reeves_7255048.jpg?20260521182811"/>
-    </item>
-    <item>
-      <title>SpaceX seeks Mars money in flotation that could make Musk a trillionaire</title>
-      <link>https://news.sky.com/story/spacex-targets-record-flotation-that-could-make-musk-a-trillionaire-13546470</link>
-      <description>Elon Musk has revealed plans for a stock market flotation of SpaceX that looks set to raise a record sum and could make him the world's first trillionaire.</description>
-      <pubDate>Thu, 21 May 2026 07:40:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/spacex-targets-record-flotation-that-could-make-musk-a-trillionaire-13546470</guid>
-      <enclosure url="https://e3.365dm.com/25/12/1920x1080/skynews-spacex-starlink-elon-musk_7111188.png?20251215175626" length="0" type="image/png"/>
-      <media:description type="html">Space X
-</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/12/1920x1080/skynews-spacex-starlink-elon-musk_7111188.png?20251215175626" width="1920" height="1080"/>
-      <media:content type="image/png" url="https://e3.365dm.com/25/12/1920x1080/skynews-spacex-starlink-elon-musk_7111188.png?20251215175626"/>
-    </item>
-    <item>
-      <title>Zuckerberg warns 'success isn't a given' as 10% of Meta workforce laid off</title>
-      <link>https://news.sky.com/story/zuckerberg-warns-success-isnt-a-given-as-10-of-meta-workforce-laid-off-13546464</link>
-      <description>Tech giant Meta has laid off 10% of its workforce - as chief executive Mark Zuckerberg warns that &quot;success isn't a given&quot;. </description>
-      <pubDate>Thu, 21 May 2026 03:44:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/zuckerberg-warns-success-isnt-a-given-as-10-of-meta-workforce-laid-off-13546464</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-meta-mark-zuckerberg_7203004.jpg?20260325185845" length="0" type="image/jpeg"/>
-      <media:description type="html">Meta Platforms CEO Mark Zuckerberg leaving a LA court after testifying in a landmark social media addiction trial. Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-meta-mark-zuckerberg_7203004.jpg?20260325185845" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-meta-mark-zuckerberg_7203004.jpg?20260325185845"/>
+      <title>BP shares plunge after chairman ousted</title>
+      <link>https://news.sky.com/story/bp-chairman-removed-from-role-after-serious-concerns-over-conduct-oversight-and-governance-13548169</link>
+      <description>Oil giant BP has suffered a sharp fall in its share price following the shock announcement that its chairman had been removed by the company's board.</description>
+      <pubDate>Tue, 26 May 2026 12:41:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/bp-chairman-removed-from-role-after-serious-concerns-over-conduct-oversight-and-governance-13548169</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-bp-fuel_7258887.jpg?20260526131205" length="0" type="image/jpeg"/>
+      <media:description type="html">A logo is seen at a BP fuel station in London.
+Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-bp-fuel_7258887.jpg?20260526131205" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-bp-fuel_7258887.jpg?20260526131205"/>
     </item>
   </channel>
 </rss>
