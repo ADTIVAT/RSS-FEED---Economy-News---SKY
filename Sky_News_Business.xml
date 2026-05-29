@@ -12,9 +12,53 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 28 May 2026 10:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 21:38:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Rihanna-endorsed streetwear brand collapses | Mark Kleinman blog&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description></description>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-rihanna-new-york_7188527.jpg?20260311030125" length="0" type="image/jpeg"/>
+      <media:description type="html">Rihanna attends the 2025 CFDA Fashion Awards in New York City, U.S., November 3, 2025. REUTERS/Eduardo Munoz</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-rihanna-new-york_7188527.jpg?20260311030125" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-rihanna-new-york_7188527.jpg?20260311030125"/>
+    </item>
+    <item>
+      <title>Inside the 'extreme' movement that could help you retire decades early</title>
+      <link>https://news.sky.com/story/playing-with-fire-inside-the-extreme-movement-that-could-help-you-retire-decades-early-13548211</link>
+      <description>Former gambling addict David Scothern will retire 20 years earlier than the average Briton.</description>
+      <pubDate>Tue, 26 May 2026 15:04:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/playing-with-fire-inside-the-extreme-movement-that-could-help-you-retire-decades-early-13548211</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-money-blog-retirement_7259991.jpg?20260528073329" length="0" type="image/jpeg"/>
+      <media:description type="html">Couple on holiday</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-money-blog-retirement_7259991.jpg?20260528073329" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-money-blog-retirement_7259991.jpg?20260528073329"/>
+    </item>
+    <item>
+      <title>Tap water disruption for thousands of customers set to continue over weekend</title>
+      <link>https://news.sky.com/story/thousands-left-without-water-due-to-high-demand-after-heatwave-13548666</link>
+      <description>Thousands of people in Kent have been warned that disruption to their tap water supply is likely to continue over the weekend.</description>
+      <pubDate>Thu, 28 May 2026 10:28:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/thousands-left-without-water-due-to-high-demand-after-heatwave-13548666</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-uk-heatwave-weather_7260080.jpg?20260528093620" length="0" type="image/jpeg"/>
+      <media:description type="html">Water bottles being handed out at a water collection point at a Sainsbury&amp;#39;s near Whitstable, Kent. Some areas of Kent and Sussex are experiencing water supply disruptions due to the hot spell, with storage reservoirs at critical levels in Whitstable and Herne Bay.  Picture date: Thursday May 28, 2026. PA Photo. Photo credit should read: Gareth Fuller/PA Wire</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-uk-heatwave-weather_7260080.jpg?20260528093620" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-uk-heatwave-weather_7260080.jpg?20260528093620"/>
+    </item>
+    <item>
+      <title>Disney accuses Trump's media regulator of 'unlawfully' suppressing free speech</title>
+      <link>https://news.sky.com/story/disney-accuses-trumps-media-regulator-of-unlawfully-suppressing-free-speech-13548889</link>
+      <description>Disney has accused Donald Trump's media regulator of an &quot;unlawful&quot; attempt to suppress free speech after it was forced to apply for early licence reviews for its eight ABC TV stations.</description>
+      <pubDate>Thu, 28 May 2026 21:38:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/disney-accuses-trumps-media-regulator-of-unlawfully-suppressing-free-speech-13548889</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-disney-us_7260746.jpg?20260528232005" length="0" type="image/jpeg"/>
+      <media:description type="html">The water tank of The Walt Disney Co Studios is pictured in Burbank, California February 5, 2014. Media company Walt Disney Co reported high</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-disney-us_7260746.jpg?20260528232005" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-disney-us_7260746.jpg?20260528232005"/>
+    </item>
     <item>
       <title>Former BP boss hits back at oil giant after his ousting</title>
       <link>https://news.sky.com/story/former-bp-boss-hits-back-at-oil-giant-after-his-ousting-saying-he-does-not-accept-the-lies-over-his-conduct-13548381</link>
@@ -25,17 +69,6 @@
       <media:description type="html">Wilfred Frost explains BP&amp;#39;s profit surge</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-bp-wilfred-frost_7233189.jpg?20260428140900" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-bp-wilfred-frost_7233189.jpg?20260428140900"/>
-    </item>
-    <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Collapsed Vashi&amp;#8217;s liquidators in &amp;#163;750,000 auditor deal | Mark Kleinman blog&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description></description>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/23/04/1920x1080/skynews-vashi-jewellery_6111571.jpg?20230405143035" length="0" type="image/jpeg"/>
-      <media:description type="html">Vashi. Covent Garden</media:description>
-      <media:thumbnail url="https://e3.365dm.com/23/04/1920x1080/skynews-vashi-jewellery_6111571.jpg?20230405143035" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/23/04/1920x1080/skynews-vashi-jewellery_6111571.jpg?20230405143035"/>
     </item>
     <item>
       <title>Google engineer charged with insider trading after D4vd bet makes $1.2m</title>
@@ -91,41 +124,6 @@
       <media:description type="html">Tomb Raider: Legacy of Atlantis is set for release in 2026. Pic: Crystal Dynamics</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-tomb-raider-lara-croft_7257902.jpg?20260525085407" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-tomb-raider-lara-croft_7257902.jpg?20260525085407"/>
-    </item>
-    <item>
-      <title>Homes across Kent, Sussex and Leicestershire without water during heatwave</title>
-      <link>https://news.sky.com/story/homes-across-kent-sussex-and-leicestershire-without-water-during-heatwave-13547934</link>
-      <description>Water supply issues are currently affecting about 700 customers of South East Water and Anglian Water across Kent, Sussex and Leicestershire, leaving them without water on the hottest day of the year.</description>
-      <pubDate>Mon, 25 May 2026 16:27:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/homes-across-kent-sussex-and-leicestershire-without-water-during-heatwave-13547934</guid>
-      <enclosure url="https://e3.365dm.com/25/12/1920x1080/skynews-tunbridge-wells-bottled_7099690.jpg?20251203144608" length="0" type="image/jpeg"/>
-      <media:description type="html">A worker hands out bottled water at the Tunbridge Wells Sports Centre.
-Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/12/1920x1080/skynews-tunbridge-wells-bottled_7099690.jpg?20251203144608" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/12/1920x1080/skynews-tunbridge-wells-bottled_7099690.jpg?20251203144608"/>
-    </item>
-    <item>
-      <title>Starbucks Korea boss apologises after advert sparks big backlash</title>
-      <link>https://news.sky.com/story/starbucks-korea-boss-apologises-after-advert-sparks-big-backlash-13548037</link>
-      <description>A billionaire whose company runs Starbucks in South Korea has publicly apologised for a controversial marketing campaign.</description>
-      <pubDate>Tue, 26 May 2026 02:52:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/starbucks-korea-boss-apologises-after-advert-sparks-big-backlash-13548037</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-starbucks-south-korea_7258524.jpg?20260526040354" length="0" type="image/jpeg"/>
-      <media:description type="html">Protesters could be seen smashing mugs and tumblers. Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-starbucks-south-korea_7258524.jpg?20260526040354" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-starbucks-south-korea_7258524.jpg?20260526040354"/>
-    </item>
-    <item>
-      <title>BP shares plunge after chairman ousted</title>
-      <link>https://news.sky.com/story/bp-chairman-removed-from-role-after-serious-concerns-over-conduct-oversight-and-governance-13548169</link>
-      <description>Oil giant BP has suffered a sharp fall in its share price following the shock announcement that its chairman had been removed by the company's board.</description>
-      <pubDate>Tue, 26 May 2026 12:41:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/bp-chairman-removed-from-role-after-serious-concerns-over-conduct-oversight-and-governance-13548169</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-bp-fuel_7258887.jpg?20260526131205" length="0" type="image/jpeg"/>
-      <media:description type="html">A logo is seen at a BP fuel station in London.
-Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-bp-fuel_7258887.jpg?20260526131205" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-bp-fuel_7258887.jpg?20260526131205"/>
     </item>
   </channel>
 </rss>
