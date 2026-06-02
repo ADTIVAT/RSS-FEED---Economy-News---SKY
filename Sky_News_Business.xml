@@ -12,19 +12,55 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 01 Jun 2026 09:03:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 03:18:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Reeves summons oil bosses for tax loophole talks | Mark Kleinman blog&lt;/a&gt;</title>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Modella plots rent and job cuts at footwear chain Wynsors | Mark Kleinman blog&lt;/a&gt;</title>
       <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
       <description></description>
       <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
       <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-sir-keir-starmer-rachel-reeves_7255048.jpg?20260521182811" length="0" type="image/jpeg"/>
-      <media:description type="html">Prime Minister Sir Keir Starmer and Chancellor of the Exchequer Rachel Reeves visit a children&amp;#39;s activity centre in Brentwood, Essex, as the</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-sir-keir-starmer-rachel-reeves_7255048.jpg?20260521182811" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-sir-keir-starmer-rachel-reeves_7255048.jpg?20260521182811"/>
+      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-wynsors-shoes-sheffield_7263652.jpg?20260602124006" length="0" type="image/jpeg"/>
+      <media:description type="html">Wynsors Shoes.
+Pic: Istock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-wynsors-shoes-sheffield_7263652.jpg?20260602124006" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-wynsors-shoes-sheffield_7263652.jpg?20260602124006"/>
+    </item>
+    <item>
+      <title>ChatGPT maker OpenAI sued in landmark lawsuit</title>
+      <link>https://news.sky.com/story/florida-becomes-first-state-to-sue-openai-claiming-chatgpt-helped-criminals-including-school-shooters-13549968</link>
+      <description>The state of Florida has filed a lawsuit against OpenAI and its chief executive &amp;#8211; accusing the company of offering children guidance on self-harm and providing information helping school shooters and other criminals.</description>
+      <pubDate>Tue, 02 Jun 2026 03:18:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/florida-becomes-first-state-to-sue-openai-claiming-chatgpt-helped-criminals-including-school-shooters-13549968</guid>
+      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-openai-sam-altman_7263347.jpg?20260602033234" length="0" type="image/jpeg"/>
+      <media:description type="html">OpenAI chief executive Sam Altman attends an event in Tokyo, Japan, February 2025. Reuters/ Kim Kyung-Hoon
+
+</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-openai-sam-altman_7263347.jpg?20260602033234" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-openai-sam-altman_7263347.jpg?20260602033234"/>
+    </item>
+    <item>
+      <title>Tube strikes return today - here's what you need to know</title>
+      <link>https://news.sky.com/story/tube-strikes-full-list-of-days-and-lines-affected-in-june-walkout-on-london-underground-13549904</link>
+      <description>Strikes by some London Underground train drivers begin today, kicking off a week of heavy disruption for commuters.</description>
+      <pubDate>Mon, 01 Jun 2026 18:48:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/tube-strikes-full-list-of-days-and-lines-affected-in-june-walkout-on-london-underground-13549904</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-london-underground_7252350.jpg?20260518151000" length="0" type="image/jpeg"/>
+      <media:description type="html">Commuters will avoid a planned London Underground strike. Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-london-underground_7252350.jpg?20260518151000" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-london-underground_7252350.jpg?20260518151000"/>
+    </item>
+    <item>
+      <title>Anthropic plans to go public in once in a generation moment for Wall Street</title>
+      <link>https://news.sky.com/story/anthropic-becomes-latest-ai-company-to-go-public-in-once-in-a-generation-moment-for-wall-street-13549891</link>
+      <description>The maker of the popular Claude AI chatbot has announced plans to become a public company. </description>
+      <pubDate>Mon, 01 Jun 2026 17:54:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/anthropic-becomes-latest-ai-company-to-go-public-in-once-in-a-generation-moment-for-wall-street-13549891</guid>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-anthropic-cyber_7227180.jpg?20260422122322" length="0" type="image/jpeg"/>
+      <media:description type="html">AI firm Anthropic recently announced that their new model, Mythos, is significantly better at finding cyber vulnerabilities. Pic: AP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-anthropic-cyber_7227180.jpg?20260422122322" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-anthropic-cyber_7227180.jpg?20260422122322"/>
     </item>
     <item>
       <title>Why easyJet is attracting takeover interest</title>
@@ -60,15 +96,15 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-marks-and-spencer-m-and-s_7262004.jpg?20260531021402"/>
     </item>
     <item>
-      <title>'I'm an estate agent - here's what our creative terms really mean and why your home isn't selling'</title>
-      <link>https://news.sky.com/story/im-an-estate-agent-heres-what-our-creative-terms-really-mean-and-why-your-home-isnt-selling-13549698</link>
-      <description>If you've ever spent your morning commute daydreaming about starting afresh with your career, this feature is for you. Each Monday, we speak to someone from a different profession to discover what it's really like. Today we speak to Heathgate estate agent Vivienne Harris...</description>
-      <pubDate>Mon, 01 Jun 2026 07:00:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/im-an-estate-agent-heres-what-our-creative-terms-really-mean-and-why-your-home-isnt-selling-13549698</guid>
-      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-real-estate-money_7262645.jpg?20260601073911" length="0" type="image/jpeg"/>
-      <media:description type="html">Heathgate estate agent Vivienne Harris</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-real-estate-money_7262645.jpg?20260601073911" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-real-estate-money_7262645.jpg?20260601073911"/>
+      <title>Plan unveiled to tackle 'totally unacceptable' behaviour by airline passengers</title>
+      <link>https://news.sky.com/story/disruptive-passengers-could-be-banned-from-all-flights-under-uk-government-plan-13549760</link>
+      <description>Disruptive plane passengers could find themselves banned from flying by all airlines under a new UK government proposal.</description>
+      <pubDate>Mon, 01 Jun 2026 11:24:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/disruptive-passengers-could-be-banned-from-all-flights-under-uk-government-plan-13549760</guid>
+      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-airplane-plane-aircraft_7262822.jpg?20260601113631" length="0" type="image/jpeg"/>
+      <media:description type="html">Planes take off and land at London Gatwick airport in Crawley, West Sussex, as thousands of families embark on summer holidays amid the end </media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-airplane-plane-aircraft_7262822.jpg?20260601113631" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-airplane-plane-aircraft_7262822.jpg?20260601113631"/>
     </item>
     <item>
       <title>How HMRC finds out about cash gifts you've made | Money newsletter</title>
@@ -82,48 +118,15 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-hmrc-tax_7222291.jpg?20260417022838"/>
     </item>
     <item>
-      <title>Inside the 'extreme' movement that could help you retire decades early</title>
-      <link>https://news.sky.com/story/playing-with-fire-inside-the-extreme-movement-that-could-help-you-retire-decades-early-13548211</link>
-      <description>Former gambling addict David Scothern will retire 20 years earlier than the average Briton.</description>
-      <pubDate>Tue, 26 May 2026 15:04:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/playing-with-fire-inside-the-extreme-movement-that-could-help-you-retire-decades-early-13548211</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-money-blog-retirement_7259991.jpg?20260528073329" length="0" type="image/jpeg"/>
-      <media:description type="html">Couple on holiday</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-money-blog-retirement_7259991.jpg?20260528073329" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-money-blog-retirement_7259991.jpg?20260528073329"/>
-    </item>
-    <item>
-      <title>Tap water disruption for thousands of customers set to continue over weekend</title>
-      <link>https://news.sky.com/story/thousands-left-without-water-due-to-high-demand-after-heatwave-13548666</link>
-      <description>Thousands of people in Kent have been warned that disruption to their tap water supply is likely to continue over the weekend.</description>
-      <pubDate>Thu, 28 May 2026 10:28:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/thousands-left-without-water-due-to-high-demand-after-heatwave-13548666</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-uk-heatwave-weather_7260080.jpg?20260528093620" length="0" type="image/jpeg"/>
-      <media:description type="html">Water bottles being handed out at a water collection point at a Sainsbury&amp;#39;s near Whitstable, Kent. Some areas of Kent and Sussex are experiencing water supply disruptions due to the hot spell, with storage reservoirs at critical levels in Whitstable and Herne Bay.  Picture date: Thursday May 28, 2026. PA Photo. Photo credit should read: Gareth Fuller/PA Wire</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-uk-heatwave-weather_7260080.jpg?20260528093620" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-uk-heatwave-weather_7260080.jpg?20260528093620"/>
-    </item>
-    <item>
-      <title>Disney accuses Trump's media regulator of 'unlawfully' suppressing free speech</title>
-      <link>https://news.sky.com/story/disney-accuses-trumps-media-regulator-of-unlawfully-suppressing-free-speech-13548889</link>
-      <description>Disney has accused Donald Trump's media regulator of an &quot;unlawful&quot; attempt to suppress free speech after it was forced to apply for early licence reviews for its eight ABC TV stations.</description>
-      <pubDate>Thu, 28 May 2026 21:38:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/disney-accuses-trumps-media-regulator-of-unlawfully-suppressing-free-speech-13548889</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-disney-us_7260746.jpg?20260528232005" length="0" type="image/jpeg"/>
-      <media:description type="html">The water tank of The Walt Disney Co Studios is pictured in Burbank, California February 5, 2014. Media company Walt Disney Co reported high</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-disney-us_7260746.jpg?20260528232005" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-disney-us_7260746.jpg?20260528232005"/>
-    </item>
-    <item>
-      <title>Former BP boss hits back at oil giant after his ousting</title>
-      <link>https://news.sky.com/story/former-bp-boss-hits-back-at-oil-giant-after-his-ousting-saying-he-does-not-accept-the-lies-over-his-conduct-13548381</link>
-      <description>The former chairman of BP has come out swinging against his ousting, saying no one has ever made the kinds of bullying accusations levelled against him in recent days. </description>
-      <pubDate>Wed, 27 May 2026 09:19:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/former-bp-boss-hits-back-at-oil-giant-after-his-ousting-saying-he-does-not-accept-the-lies-over-his-conduct-13548381</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-bp-wilfred-frost_7233189.jpg?20260428140900" length="0" type="image/jpeg"/>
-      <media:description type="html">Wilfred Frost explains BP&amp;#39;s profit surge</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-bp-wilfred-frost_7233189.jpg?20260428140900" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-bp-wilfred-frost_7233189.jpg?20260428140900"/>
+      <title>'I'm an estate agent - here's what our creative terms really mean and why your home isn't selling'</title>
+      <link>https://news.sky.com/story/im-an-estate-agent-heres-what-our-creative-terms-really-mean-and-why-your-home-isnt-selling-13549698</link>
+      <description>If you've ever spent your morning commute daydreaming about starting afresh with your career, this feature is for you. Each Monday, we speak to someone from a different profession to discover what it's really like. Today we speak to Heathgate estate agent Vivienne Harris...</description>
+      <pubDate>Mon, 01 Jun 2026 07:00:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/im-an-estate-agent-heres-what-our-creative-terms-really-mean-and-why-your-home-isnt-selling-13549698</guid>
+      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-real-estate-money_7262645.jpg?20260601073911" length="0" type="image/jpeg"/>
+      <media:description type="html">Heathgate estate agent Vivienne Harris</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-real-estate-money_7262645.jpg?20260601073911" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-real-estate-money_7262645.jpg?20260601073911"/>
     </item>
   </channel>
 </rss>
