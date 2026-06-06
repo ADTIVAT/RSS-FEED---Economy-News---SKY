@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 05 Jun 2026 07:02:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 10:02:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Premier League clubs spark race to agree EFL deal | Mark Kleinman blog&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description></description>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-hull-city-promotion_7266608.jpg?20260606062253" length="0" type="image/jpeg"/>
+      <media:description type="html">Hull City celebrate promotion to the Premier League. Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-hull-city-promotion_7266608.jpg?20260606062253" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-hull-city-promotion_7266608.jpg?20260606062253"/>
+    </item>
     <item>
       <title>Water firm faces &amp;#163;44.7m 'enforcement package' for sewage failings</title>
       <link>https://news.sky.com/story/water-firm-faces-163447m-enforcement-package-for-sewage-failings-13550989</link>
@@ -25,17 +36,6 @@
       <media:description type="html">Discharge of sewage into a river. File pic: iStock </media:description>
       <media:thumbnail url="https://e3.365dm.com/25/07/1920x1080/skynews-sewage-pipe-river_6967947.jpg?20250718165159" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/07/1920x1080/skynews-sewage-pipe-river_6967947.jpg?20250718165159"/>
-    </item>
-    <item>
-      <title>Superdrug removes skincare brand amid concerns over Israeli settlement products</title>
-      <link>https://news.sky.com/story/superdrug-removes-skincare-brand-as-suspected-cosmetic-ingredients-seen-in-west-bank-israeli-settlement-13543117</link>
-      <description>Superdrug, the UK's second-largest beauty and health retailer, has blocked a skincare brand from its website after suspected cosmetic ingredients were seen at an Israeli settlement in the West Bank.</description>
-      <pubDate>Fri, 05 Jun 2026 00:01:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/superdrug-removes-skincare-brand-as-suspected-cosmetic-ingredients-seen-in-west-bank-israeli-settlement-13543117</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-mitzpe-shalem-ahava_7247751.jpg?20260513161851" length="0" type="image/jpeg"/>
-      <media:description type="html">A view of the Dead Sea, past earth piles in the Mitzpe Shalem, West Bank settlement. Empty containers can also be seen. Pic: AFSC</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-mitzpe-shalem-ahava_7247751.jpg?20260513161851" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-mitzpe-shalem-ahava_7247751.jpg?20260513161851"/>
     </item>
     <item>
       <title>FIFA 'regrets' free World Cup tickets and demands fans pay up</title>
@@ -49,15 +49,26 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-world-cup-trophy-davos_7142541.jpg?20260122122841"/>
     </item>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Landlord slams 'unacceptable' TG Jones rescue | Mark Kleinman blog&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description></description>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-tgjones-shop_7237946.jpg?20260503134138" length="0" type="image/jpeg"/>
-      <media:description type="html">TG Jones. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-tgjones-shop_7237946.jpg?20260503134138" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-tgjones-shop_7237946.jpg?20260503134138"/>
+      <title>British Heart Foundation to close 150 charity shops </title>
+      <link>https://news.sky.com/story/british-heart-foundation-to-close-150-charity-shops-amid-retail-slump-13551033</link>
+      <description>The British Heart Foundation (BHF) will close about 150 shops over the next two financial years because some of its stores are &quot;no longer financially sustainable&quot;.</description>
+      <pubDate>Fri, 05 Jun 2026 10:02:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/british-heart-foundation-to-close-150-charity-shops-amid-retail-slump-13551033</guid>
+      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-bhf-british-heart-foundation_7265976.jpg?20260605110159" length="0" type="image/jpeg"/>
+      <media:description type="html">A view of a British Heart Foundation shop in London. Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-bhf-british-heart-foundation_7265976.jpg?20260605110159" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-bhf-british-heart-foundation_7265976.jpg?20260605110159"/>
+    </item>
+    <item>
+      <title>How to time car insurance to save hundreds of pounds | Money newsletter</title>
+      <link>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</link>
+      <description>More than 200,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
+      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-money-car-insurance_7241186.jpg?20260507100057" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock </media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-money-car-insurance_7241186.jpg?20260507100057" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-money-car-insurance_7241186.jpg?20260507100057"/>
     </item>
     <item>
       <title>Lex Greensill handed nine-year UK directorship ban</title>
@@ -94,6 +105,17 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/24/09/1920x1080/skynews-sales-car-showroom_6677140.jpg?20240905082653"/>
     </item>
     <item>
+      <title>Superdrug removes skincare brand amid concerns over Israeli settlement products</title>
+      <link>https://news.sky.com/story/superdrug-removes-skincare-brand-as-suspected-cosmetic-ingredients-seen-in-west-bank-israeli-settlement-13543117</link>
+      <description>Superdrug, the UK's second-largest beauty and health retailer, has blocked a skincare brand from its website after suspected cosmetic ingredients were seen at an Israeli settlement in the West Bank.</description>
+      <pubDate>Fri, 05 Jun 2026 00:01:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/superdrug-removes-skincare-brand-as-suspected-cosmetic-ingredients-seen-in-west-bank-israeli-settlement-13543117</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-mitzpe-shalem-ahava_7247751.jpg?20260513161851" length="0" type="image/jpeg"/>
+      <media:description type="html">A view of the Dead Sea, past earth piles in the Mitzpe Shalem, West Bank settlement. Empty containers can also be seen. Pic: AFSC</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-mitzpe-shalem-ahava_7247751.jpg?20260513161851" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-mitzpe-shalem-ahava_7247751.jpg?20260513161851"/>
+    </item>
+    <item>
       <title>Universal theme park gets &amp;#163;1.3bn taxpayer support - as name is revealed</title>
       <link>https://news.sky.com/story/universal-theme-park-gets-16313bn-taxpayer-support-as-name-is-revealed-13550378</link>
       <description>Europe's first Universal theme park is being built in the UK with &amp;#163;1.3bn in taxpayer support, it has been announced.</description>
@@ -103,31 +125,6 @@
       <media:description type="html">An artist&amp;#39;s impression of what the theme park and resort will look like. Pic: Universal</media:description>
       <media:thumbnail url="https://e3.365dm.com/25/04/1920x1080/skynews-universal-theme-park_6880196.jpg?20250408203215" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/04/1920x1080/skynews-universal-theme-park_6880196.jpg?20250408203215"/>
-    </item>
-    <item>
-      <title>Tube strikes return today - here's what you need to know</title>
-      <link>https://news.sky.com/story/tube-strikes-full-list-of-days-and-lines-affected-in-june-walkout-on-london-underground-13549904</link>
-      <description>London Underground drivers are on strike again today.</description>
-      <pubDate>Mon, 01 Jun 2026 18:48:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/tube-strikes-full-list-of-days-and-lines-affected-in-june-walkout-on-london-underground-13549904</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-london-underground_7252350.jpg?20260518151000" length="0" type="image/jpeg"/>
-      <media:description type="html">Commuters will avoid a planned London Underground strike. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-london-underground_7252350.jpg?20260518151000" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-london-underground_7252350.jpg?20260518151000"/>
-    </item>
-    <item>
-      <title>Google search facing UK 'conduct requirement'</title>
-      <link>https://news.sky.com/story/google-search-given-nine-months-to-implement-uk-conduct-requirement-13550313</link>
-      <description>Google search is facing a series of targeted rules that a UK regulator says will secure a fairer deal for publishers and consumers, and improve its services at the same time.</description>
-      <pubDate>Wed, 03 Jun 2026 06:13:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/google-search-given-nine-months-to-implement-uk-conduct-requirement-13550313</guid>
-      <enclosure url="https://e3.365dm.com/21/09/1920x1080/skynews-google-search_5519625.jpg?20210921163500" length="0" type="image/jpeg"/>
-      <media:description type="html">FILE - In this Aug. 28, 2018, file photo, a cursor moves over Google&amp;#39;s search engine page, in Portland, Ore. Google is paying more attention to the small words in your searches. Google is rolling out the change to English language searches in the U.S. starting this week. (AP Photo/Don Ryan, File)
-
-
-</media:description>
-      <media:thumbnail url="https://e3.365dm.com/21/09/1920x1080/skynews-google-search_5519625.jpg?20210921163500" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/21/09/1920x1080/skynews-google-search_5519625.jpg?20210921163500"/>
     </item>
   </channel>
 </rss>
