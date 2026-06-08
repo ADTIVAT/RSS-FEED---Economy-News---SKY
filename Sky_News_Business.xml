@@ -12,19 +12,30 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 05 Jun 2026 10:02:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 14:45:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Terra Firma among suitors for &amp;#163;300m pubs estate | Mark Kleinman blog&lt;/a&gt;</title>
+      <title>Banned fund manager Neil Woodford facing City watchdog injunction</title>
+      <link>https://news.sky.com/story/neil-woodford-facing-city-watchdog-injunction-13552003</link>
+      <description>The City regulator is seeking an injunction against the former star fund manager Neil Woodford, claiming he is breaking the terms of a ban related to the collapse of his flagship fund in 2019.</description>
+      <pubDate>Mon, 08 Jun 2026 14:45:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/neil-woodford-facing-city-watchdog-injunction-13552003</guid>
+      <enclosure url="https://e3.365dm.com/20/01/1920x1080/Ut_HKthATH4eww8X4xMDoxOjA4MTsiGN_4903881.jpg?20200127210152" length="0" type="image/jpeg"/>
+      <media:description type="html">Disgraced fund manager Neil Woodford.</media:description>
+      <media:thumbnail url="https://e3.365dm.com/20/01/1920x1080/Ut_HKthATH4eww8X4xMDoxOjA4MTsiGN_4903881.jpg?20200127210152" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/20/01/1920x1080/Ut_HKthATH4eww8X4xMDoxOjA4MTsiGN_4903881.jpg?20200127210152"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Starling Bank takes flight with first bond issue | Mark Kleinman blog&lt;/a&gt;</title>
       <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
       <description></description>
       <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
       <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-guy-hands-2023-chelsea-flower-show_7267488.jpg?20260607142945" length="0" type="image/jpeg"/>
-      <media:description type="html">Guy Hands. Pic: Guy Bell/Shutterstock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-guy-hands-2023-chelsea-flower-show_7267488.jpg?20260607142945" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-guy-hands-2023-chelsea-flower-show_7267488.jpg?20260607142945"/>
+      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-starling-bank_7268388.png?20260608143210" length="0" type="image/png"/>
+      <media:description type="html">Pic: Starling</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-starling-bank_7268388.png?20260608143210" width="1920" height="1080"/>
+      <media:content type="image/png" url="https://e3.365dm.com/26/06/1920x1080/skynews-starling-bank_7268388.png?20260608143210"/>
     </item>
     <item>
       <title>Water firm faces &amp;#163;44.7m 'enforcement package' for sewage failings</title>
@@ -114,17 +125,6 @@
       <media:description type="html">A view of the Dead Sea, past earth piles in the Mitzpe Shalem, West Bank settlement. Empty containers can also be seen. Pic: AFSC</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-mitzpe-shalem-ahava_7247751.jpg?20260513161851" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-mitzpe-shalem-ahava_7247751.jpg?20260513161851"/>
-    </item>
-    <item>
-      <title>Universal theme park gets &amp;#163;1.3bn taxpayer support - as name is revealed</title>
-      <link>https://news.sky.com/story/universal-theme-park-gets-16313bn-taxpayer-support-as-name-is-revealed-13550378</link>
-      <description>Europe's first Universal theme park is being built in the UK with &amp;#163;1.3bn in taxpayer support, it has been announced.</description>
-      <pubDate>Wed, 03 Jun 2026 10:30:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/universal-theme-park-gets-16313bn-taxpayer-support-as-name-is-revealed-13550378</guid>
-      <enclosure url="https://e3.365dm.com/25/04/1920x1080/skynews-universal-theme-park_6880196.jpg?20250408203215" length="0" type="image/jpeg"/>
-      <media:description type="html">An artist&amp;#39;s impression of what the theme park and resort will look like. Pic: Universal</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/04/1920x1080/skynews-universal-theme-park_6880196.jpg?20250408203215" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/04/1920x1080/skynews-universal-theme-park_6880196.jpg?20250408203215"/>
     </item>
   </channel>
 </rss>
