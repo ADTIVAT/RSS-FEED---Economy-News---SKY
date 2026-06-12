@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 11 Jun 2026 07:04:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 12:12:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>UK economy contracts as Iran war bites</title>
+      <link>https://news.sky.com/story/uk-economy-contracts-as-iran-war-bites-13552921</link>
+      <description>The UK economy shrank slightly, as fuel price rises caused by the Iran war hit spending, new official figures show. </description>
+      <pubDate>Thu, 11 Jun 2026 06:43:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/uk-economy-contracts-as-iran-war-bites-13552921</guid>
+      <enclosure url="https://e3.365dm.com/23/09/1920x1080/skynews-uk-economy-gdp_6302114.jpg?20230929121902" length="0" type="image/jpeg"/>
+      <media:description type="html"> </media:description>
+      <media:thumbnail url="https://e3.365dm.com/23/09/1920x1080/skynews-uk-economy-gdp_6302114.jpg?20230929121902" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/23/09/1920x1080/skynews-uk-economy-gdp_6302114.jpg?20230929121902"/>
+    </item>
     <item>
       <title>Europe's biggest airline investigated over charging parents to sit with their children</title>
       <link>https://news.sky.com/story/ryanair-investigated-over-charging-parents-to-sit-with-their-children-13552923</link>
@@ -27,6 +38,28 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-money-ryanair_7208558.jpg?20260401132328"/>
     </item>
     <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Waterstones owner plots &amp;#163;2bn Very Group deal | Mark Kleinman blog&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description></description>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/25/08/1920x1080/skynews-very-group-verygroup_6985453.jpg?20250808104049" length="0" type="image/jpeg"/>
+      <media:description type="html">The Very Group</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/08/1920x1080/skynews-very-group-verygroup_6985453.jpg?20250808104049" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/08/1920x1080/skynews-very-group-verygroup_6985453.jpg?20250808104049"/>
+    </item>
+    <item>
+      <title>Police push tech firms to make stolen phones unusable for thieves</title>
+      <link>https://news.sky.com/story/police-push-tech-firms-to-make-stolen-phones-unusable-for-thieves-13552918</link>
+      <description>The Metropolitan Police are pushing for tech firms to make stolen phones unusable for thieves.</description>
+      <pubDate>Thu, 11 Jun 2026 12:12:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/police-push-tech-firms-to-make-stolen-phones-unusable-for-thieves-13552918</guid>
+      <enclosure url="https://e3.365dm.com/26/06/1920x1080/017c8ca3ab46372bbfc5a2343ce61b9ffb5630af87cfcb02f081e3623c9ecb0b_7270678.jpg?20260611120246" length="0" type="image/jpeg"/>
+      <media:description type="html">Sir Mark</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/017c8ca3ab46372bbfc5a2343ce61b9ffb5630af87cfcb02f081e3623c9ecb0b_7270678.jpg?20260611120246" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/017c8ca3ab46372bbfc5a2343ce61b9ffb5630af87cfcb02f081e3623c9ecb0b_7270678.jpg?20260611120246"/>
+    </item>
+    <item>
       <title>Sports Direct owner launches takeover of Hugo Boss</title>
       <link>https://news.sky.com/story/sports-direct-owner-launches-takeover-offer-for-hugo-boss-13552803</link>
       <description>Mike Ashley's retail empire has launched a takeover offer for fashion brand Hugo Boss.</description>
@@ -36,17 +69,6 @@
       <media:description type="html">Frasers has been a major shareholder in Hugo Boss since 2020. Pic: AP</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-hugo-boss_7270210.jpg?20260610181731" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-hugo-boss_7270210.jpg?20260610181731"/>
-    </item>
-    <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Accountants linked to collapsed mortgage lender MFS face probe | Mark Kleinman blog&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description></description>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-money-mortgage_7182972.jpg?20260305111433" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-money-mortgage_7182972.jpg?20260305111433" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-money-mortgage_7182972.jpg?20260305111433"/>
     </item>
     <item>
       <title>Americans are paying a growing financial price for Iran war</title>
@@ -102,28 +124,6 @@
       <media:description type="html">Discharge of sewage into a river. File pic: iStock </media:description>
       <media:thumbnail url="https://e3.365dm.com/25/07/1920x1080/skynews-sewage-pipe-river_6967947.jpg?20250718165159" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/07/1920x1080/skynews-sewage-pipe-river_6967947.jpg?20250718165159"/>
-    </item>
-    <item>
-      <title>FIFA 'regrets' free World Cup tickets and demands fans pay up</title>
-      <link>https://news.sky.com/story/fifa-regrets-free-world-cup-tickets-and-demands-fans-pay-up-13550862</link>
-      <description>FIFA has confirmed a website glitch has left dozens of fans getting free tickets for the World Cup 2026.</description>
-      <pubDate>Thu, 04 Jun 2026 18:28:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/fifa-regrets-free-world-cup-tickets-and-demands-fans-pay-up-13550862</guid>
-      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-world-cup-trophy-davos_7142541.jpg?20260122122841" length="0" type="image/jpeg"/>
-      <media:description type="html">The FIFA World Cup trophy is seen during the 56th annual World Economic Forum (WEF) meeting in Davos, Switzerland, January 22, 2026. REUTERS</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-world-cup-trophy-davos_7142541.jpg?20260122122841" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-world-cup-trophy-davos_7142541.jpg?20260122122841"/>
-    </item>
-    <item>
-      <title>British Heart Foundation to close 150 charity shops </title>
-      <link>https://news.sky.com/story/british-heart-foundation-to-close-150-charity-shops-amid-retail-slump-13551033</link>
-      <description>The British Heart Foundation (BHF) will close about 150 shops over the next two financial years because some of its stores are &quot;no longer financially sustainable&quot;.</description>
-      <pubDate>Fri, 05 Jun 2026 10:02:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/british-heart-foundation-to-close-150-charity-shops-amid-retail-slump-13551033</guid>
-      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-bhf-british-heart-foundation_7265976.jpg?20260605110159" length="0" type="image/jpeg"/>
-      <media:description type="html">A view of a British Heart Foundation shop in London. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-bhf-british-heart-foundation_7265976.jpg?20260605110159" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-bhf-british-heart-foundation_7265976.jpg?20260605110159"/>
     </item>
   </channel>
 </rss>
