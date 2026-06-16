@@ -12,13 +12,13 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 16 Jun 2026 05:27:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 14:19:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
       <title>Thames Water rescue in peril as government opposes 'weak' deal</title>
       <link>https://news.sky.com/story/thames-water-rescue-in-peril-as-government-opposes-weak-deal-13554493</link>
-      <description>Thames Water is again facing down the prospect of being placed in temporary public ownership after the government raised objections to a proposed £10bn rescue by its lenders.</description>
+      <description>Cash-strapped Thames Water is again facing down the prospect of being placed in temporary public ownership after the government raised objections to a proposed £10bn rescue by its lenders.</description>
       <pubDate>Tue, 16 Jun 2026 05:27:00 +0100</pubDate>
       <guid>https://news.sky.com/story/thames-water-rescue-in-peril-as-government-opposes-weak-deal-13554493</guid>
       <enclosure url="https://e3.365dm.com/25/08/1920x1080/skynews-thames-water-uk_6988989.jpg?20250812141833" length="0" type="image/jpeg"/>
@@ -27,15 +27,37 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/08/1920x1080/skynews-thames-water-uk_6988989.jpg?20250812141833"/>
     </item>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;PureGym chief Chesser to leave after 18 months | Mark Kleinman blog&lt;/a&gt;</title>
+      <title>Former Microsoft chief Barclay joins British fintech unicorn Zilch</title>
+      <link>https://news.sky.com/story/former-microsoft-chief-barclay-joins-british-fintech-unicorn-zilch-13554644</link>
+      <description>One of Britain's leading fintech unicorns will this week name Microsoft's former UK boss to its board as it continues to seek acquisition targets ahead of an eventual public listing.</description>
+      <pubDate>Tue, 16 Jun 2026 14:19:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/former-microsoft-chief-barclay-joins-british-fintech-unicorn-zilch-13554644</guid>
+      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-zilch-payment_7274880.jpg?20260616132116" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: Zilch</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-zilch-payment_7274880.jpg?20260616132116" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-zilch-payment_7274880.jpg?20260616132116"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Burberry kept in check over boss's pay deal | Mark Kleinman blog&lt;/a&gt;</title>
       <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
       <description></description>
       <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
       <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-pure-gym-file_7274380.jpg?20260615184856" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-pure-gym-file_7274380.jpg?20260615184856" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-pure-gym-file_7274380.jpg?20260615184856"/>
+      <enclosure url="https://e3.365dm.com/24/07/1920x1080/skynews-burberry-shinjuku-tokyo_6626562.jpg?20240715093850" length="0" type="image/jpeg"/>
+      <media:description type="html">The logo of Burberry is seen in Shinjuku, Tokyo. Pic: AP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/24/07/1920x1080/skynews-burberry-shinjuku-tokyo_6626562.jpg?20240715093850" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/24/07/1920x1080/skynews-burberry-shinjuku-tokyo_6626562.jpg?20240715093850"/>
+    </item>
+    <item>
+      <title>How threat of social media ban jolted tech giants into action</title>
+      <link>https://news.sky.com/story/threat-of-social-media-ban-jolted-tech-giants-into-action-before-it-was-even-announced-13552054</link>
+      <description>Roblox has revealed new safety measures, just as the government announces it will ban under-16s from social media and potentially some gaming platforms… like Roblox. </description>
+      <pubDate>Mon, 08 Jun 2026 17:11:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/threat-of-social-media-ban-jolted-tech-giants-into-action-before-it-was-even-announced-13552054</guid>
+      <enclosure url="https://e3.365dm.com/26/02/1920x1080/skynews-roblox-gaming_7161796.jpg?20260211080950" length="0" type="image/jpeg"/>
+      <media:description type="html">A child uses Roblox. File pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-roblox-gaming_7161796.jpg?20260211080950" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-roblox-gaming_7161796.jpg?20260211080950"/>
     </item>
     <item>
       <title>Oil prices drop and stocks enjoy cautious rally on US-Iran peace progress</title>
@@ -104,28 +126,6 @@
       <media:description type="html">Pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-warner-bros-logo_7140599.jpg?20260120135548" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-warner-bros-logo_7140599.jpg?20260120135548"/>
-    </item>
-    <item>
-      <title>UK economy contracts as Iran war bites</title>
-      <link>https://news.sky.com/story/uk-economy-contracts-as-iran-war-bites-13552921</link>
-      <description>The UK economy shrank slightly, as fuel price rises caused by the Iran war hit spending, new official figures show. </description>
-      <pubDate>Thu, 11 Jun 2026 06:43:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/uk-economy-contracts-as-iran-war-bites-13552921</guid>
-      <enclosure url="https://e3.365dm.com/23/09/1920x1080/skynews-uk-economy-gdp_6302114.jpg?20230929121902" length="0" type="image/jpeg"/>
-      <media:description type="html"> </media:description>
-      <media:thumbnail url="https://e3.365dm.com/23/09/1920x1080/skynews-uk-economy-gdp_6302114.jpg?20230929121902" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/23/09/1920x1080/skynews-uk-economy-gdp_6302114.jpg?20230929121902"/>
-    </item>
-    <item>
-      <title>Europe's biggest airline investigated over charging parents to sit with their children</title>
-      <link>https://news.sky.com/story/ryanair-investigated-over-charging-parents-to-sit-with-their-children-13552923</link>
-      <description>Europe's largest airline is being investigated by the UK's competition watchdog over its policy of charging parents to sit with their children.</description>
-      <pubDate>Thu, 11 Jun 2026 07:04:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/ryanair-investigated-over-charging-parents-to-sit-with-their-children-13552923</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-money-ryanair_7208558.jpg?20260401132328" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock </media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-money-ryanair_7208558.jpg?20260401132328" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-money-ryanair_7208558.jpg?20260401132328"/>
     </item>
   </channel>
 </rss>
