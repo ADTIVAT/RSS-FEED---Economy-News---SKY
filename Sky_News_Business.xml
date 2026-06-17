@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 16 Jun 2026 14:19:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 15:16:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Union seeks pension guarantees amid Thames Water crisis | Mark Kleinman blog&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description></description>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/25/05/1920x1080/skynews-thames-water-thameswater_6929423.jpg?20250528094500" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: istock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/05/1920x1080/skynews-thames-water-thameswater_6929423.jpg?20250528094500" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/05/1920x1080/skynews-thames-water-thameswater_6929423.jpg?20250528094500"/>
+    </item>
     <item>
       <title>Thames Water rescue in peril as government opposes 'weak' deal</title>
       <link>https://news.sky.com/story/thames-water-rescue-in-peril-as-government-opposes-weak-deal-13554493</link>
@@ -38,15 +49,15 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-zilch-payment_7274880.jpg?20260616132116"/>
     </item>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Burberry kept in check over boss's pay deal | Mark Kleinman blog&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description></description>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/24/07/1920x1080/skynews-burberry-shinjuku-tokyo_6626562.jpg?20240715093850" length="0" type="image/jpeg"/>
-      <media:description type="html">The logo of Burberry is seen in Shinjuku, Tokyo. Pic: AP</media:description>
-      <media:thumbnail url="https://e3.365dm.com/24/07/1920x1080/skynews-burberry-shinjuku-tokyo_6626562.jpg?20240715093850" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/24/07/1920x1080/skynews-burberry-shinjuku-tokyo_6626562.jpg?20240715093850"/>
+      <title>Shares of Elon Musk's SpaceX soar past Amazon</title>
+      <link>https://news.sky.com/story/shares-of-elon-musks-spacex-soar-past-amazon-13554662</link>
+      <description>Shares of Elon Musk's SpaceX soared more than 14% on Tuesday, lifting its value higher than Amazon and briefly Microsoft just days after its debut. </description>
+      <pubDate>Tue, 16 Jun 2026 15:16:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/shares-of-elon-musks-spacex-soar-past-amazon-13554662</guid>
+      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-spacex-elon-musk_7275154.jpg?20260616165621" length="0" type="image/jpeg"/>
+      <media:description type="html">FILE PHOTO: FILE PHOTO: Tesla and SpaceX&amp;#39;s CEO Elon Musk reacts during an in-conversation event with British Prime Minister Rishi Sunak in L</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-spacex-elon-musk_7275154.jpg?20260616165621" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-spacex-elon-musk_7275154.jpg?20260616165621"/>
     </item>
     <item>
       <title>How threat of social media ban jolted tech giants into action</title>
@@ -115,17 +126,6 @@
       <media:description type="html">Ice cream man James Shemmeld. For Money blog, no credit needed</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-money-blog-james-shemmeld_7273702.jpg?20260615064559" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-money-blog-james-shemmeld_7273702.jpg?20260615064559"/>
-    </item>
-    <item>
-      <title>Paramount takeover of Warner Bros 'won't harm competition or consumers'</title>
-      <link>https://news.sky.com/story/paramount-takeover-of-warner-bros-wont-harm-competition-or-consumers-doj-says-13553573</link>
-      <description>A US Department of Justice (DOJ) investigation into the proposed Paramount Skydance acquisition of Warner Bros Discovery (WBD) has determined the merger is not likely to harm competition in the industry or be harmful to consumers.</description>
-      <pubDate>Sat, 13 Jun 2026 01:15:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/paramount-takeover-of-warner-bros-wont-harm-competition-or-consumers-doj-says-13553573</guid>
-      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-warner-bros-logo_7140599.jpg?20260120135548" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-warner-bros-logo_7140599.jpg?20260120135548" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-warner-bros-logo_7140599.jpg?20260120135548"/>
     </item>
   </channel>
 </rss>
