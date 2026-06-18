@@ -12,19 +12,63 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 17 Jun 2026 14:48:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 10:03:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;TG Jones to sweeten survival plan after landlord backlash | Mark Kleinman blog&lt;/a&gt;</title>
+      <title>A Bank of England rate hike is still possible - here's why</title>
+      <link>https://news.sky.com/story/a-bank-of-england-rate-hike-is-still-possible-despite-easing-inflation-outlook-13555250</link>
+      <description>Announcing its latest interest rates decision the morning after a thrilling England World Cup win, the Bank of England continues to put its foot on the ball.</description>
+      <pubDate>Thu, 18 Jun 2026 10:03:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/a-bank-of-england-rate-hike-is-still-possible-despite-easing-inflation-outlook-13555250</guid>
+      <enclosure url="https://e3.365dm.com/25/07/1920x1080/skynews-living-money-bailey_6965893.png?20250716092313" length="0" type="image/png"/>
+      <media:description type="html">For use on Money</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/07/1920x1080/skynews-living-money-bailey_6965893.png?20250716092313" width="1920" height="1080"/>
+      <media:content type="image/png" url="https://e3.365dm.com/25/07/1920x1080/skynews-living-money-bailey_6965893.png?20250716092313"/>
+    </item>
+    <item>
+      <title>Unemployment rate falls but private sector wage growth suffers</title>
+      <link>https://news.sky.com/story/unemployment-rate-falls-but-private-sector-wage-growth-suffers-13554974</link>
+      <description>There has been an unexpected dip in the UK's unemployment rate in official figures also showing new recruits in payrolled work at their lowest level for five years and private sector basic pay awards struggling.</description>
+      <pubDate>Wed, 17 Jun 2026 12:57:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/unemployment-rate-falls-but-private-sector-wage-growth-suffers-13554974</guid>
+      <enclosure url="https://e3.365dm.com/24/03/1920x1080/skynews-pay-pay-slip-wages_6481248.jpg?20240307072145" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/24/03/1920x1080/skynews-pay-pay-slip-wages_6481248.jpg?20240307072145" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/24/03/1920x1080/skynews-pay-pay-slip-wages_6481248.jpg?20240307072145"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/iran-war-latest-trump-deal-tehran-pakistan-strait-hormuz-blockade-13509565?postid=11895378#liveblog-body'&gt;Oil price hovers just above pre-war levels but future is uncertain&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/oil-price-hovers-just-above-pre-war-levels-but-future-is-uncertain-13555221</link>
+      <description></description>
+      <pubDate>Thu, 18 Jun 2026 08:00:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/oil-price-hovers-just-above-pre-war-levels-but-future-is-uncertain-13555221</guid>
+      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-strait-of-hormuz-iran-war_7272677.jpg?20260613185925" length="0" type="image/jpeg"/>
+      <media:description type="html">A person stands in shallow water as cargo and commercial vessels are anchored in the Strait of Hormuz, off Bandar Abbas, Iran. Pic: AP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-strait-of-hormuz-iran-war_7272677.jpg?20260613185925" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-strait-of-hormuz-iran-war_7272677.jpg?20260613185925"/>
+    </item>
+    <item>
+      <title>AI's most powerful bosses deliver message to world leaders - and it's not very reassuring</title>
+      <link>https://news.sky.com/story/ais-most-powerful-bosses-deliver-message-to-world-leaders-and-its-not-very-reassuring-13555183</link>
+      <description>The bosses of the world's leading AI companies have a clear ask for the leaders of the G7: you have to come up with a way to govern artificial intelligence.</description>
+      <pubDate>Thu, 18 Jun 2026 01:38:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/ais-most-powerful-bosses-deliver-message-to-world-leaders-and-its-not-very-reassuring-13555183</guid>
+      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-ai-altman-hassabis_7276307.jpg?20260618020513" length="0" type="image/jpeg"/>
+      <media:description type="html">L/R: AI bosses Dario Amodei, Sam Altman, and Demis Hassabis. Pics: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-ai-altman-hassabis_7276307.jpg?20260618020513" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-ai-altman-hassabis_7276307.jpg?20260618020513"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Sweden's Qred and UK SME lender Liberis in £600m merger: Mark Kleinman blog&lt;/a&gt;</title>
       <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
       <description></description>
       <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
       <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-tgjones-shop_7237946.jpg?20260503134138" length="0" type="image/jpeg"/>
-      <media:description type="html">TG Jones. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-tgjones-shop_7237946.jpg?20260503134138" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-tgjones-shop_7237946.jpg?20260503134138"/>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-city-of-london-skyline_7230803.jpg?20260425223818" length="0" type="image/jpeg"/>
+      <media:description type="html">City of London skyline. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-city-of-london-skyline_7230803.jpg?20260425223818" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-city-of-london-skyline_7230803.jpg?20260425223818"/>
     </item>
     <item>
       <title>Thames Water rescue in peril as government opposes 'weak' deal</title>
@@ -80,52 +124,6 @@
       <media:description type="html">A child uses Roblox. File pic: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-roblox-gaming_7161796.jpg?20260211080950" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-roblox-gaming_7161796.jpg?20260211080950"/>
-    </item>
-    <item>
-      <title>Oil prices drop and stocks enjoy cautious rally on US-Iran peace progress</title>
-      <link>https://news.sky.com/story/oil-prices-drop-and-stocks-enjoy-cautious-rally-on-us-iran-peace-progress-13554196</link>
-      <description>There is cautious optimism on financial markets that a US-Iran peace deal will ease the hit to the global economy caused by their war.</description>
-      <pubDate>Mon, 15 Jun 2026 06:25:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/oil-prices-drop-and-stocks-enjoy-cautious-rally-on-us-iran-peace-progress-13554196</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-odessa-crude-tanker_7242171.jpg?20260508071824" length="0" type="image/jpeg"/>
-      <media:description type="html">Tugboats guide the crude oil tanker Odessa, carrying UAE crude after passing through the Strait of Hormuz with its Automatic Identification System transponder turned off, navigates the waters at Daesan port, where it is expected to discharge crude oil, in Seosan, South Korea, May 8, 2026. REUTERS/Kim Soo-hyeon</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-odessa-crude-tanker_7242171.jpg?20260508071824" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-odessa-crude-tanker_7242171.jpg?20260508071824"/>
-    </item>
-    <item>
-      <title>Fox to buy Roku for $22bn</title>
-      <link>https://news.sky.com/story/fox-to-buy-roku-for-22bn-13554315</link>
-      <description>Fox has agreed a takeover of Roku in a deal worth $22bn (£16.4bn).</description>
-      <pubDate>Mon, 15 Jun 2026 12:23:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/fox-to-buy-roku-for-22bn-13554315</guid>
-      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-roku-tv_7274102.jpg?20260615124438" length="0" type="image/jpeg"/>
-      <media:description type="html">A Roku smart TV. Pic: AP</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-roku-tv_7274102.jpg?20260615124438" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-roku-tv_7274102.jpg?20260615124438"/>
-    </item>
-    <item>
-      <title>Stuff Matters... because boring stuff is often actually tremendously interesting</title>
-      <link>https://news.sky.com/story/stuff-matters-because-boring-stuff-is-often-actually-tremendously-interesting-13553395</link>
-      <description>How did the light-emitting diode change the world? And, come to mention it, might it perversely actually prompt us to puff more carbon dioxide into the atmosphere?</description>
-      <pubDate>Mon, 15 Jun 2026 00:01:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/stuff-matters-because-boring-stuff-is-often-actually-tremendously-interesting-13553395</guid>
-      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-ed-conway-stuff-matters_7271778.jpg?20260612170829" length="0" type="image/jpeg"/>
-      <media:description type="html">Ed Conway&amp;#39;s new podcast uncovers the &quot;hidden global forces behind everyday objects&quot;</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-ed-conway-stuff-matters_7271778.jpg?20260612170829" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-ed-conway-stuff-matters_7271778.jpg?20260612170829"/>
-    </item>
-    <item>
-      <title>Why you shouldn't pay for passport photos | Money newsletter</title>
-      <link>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</link>
-      <description>More than 200,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
-      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</guid>
-      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-istock-stock-file-generic_7271569.jpg?20260612124617" length="0" type="image/jpeg"/>
-      <media:description type="html">Shot of young smiling coworkers showing instant photos and having fun in their free time in the office. Pic: iStock
-
-</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-istock-stock-file-generic_7271569.jpg?20260612124617" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-istock-stock-file-generic_7271569.jpg?20260612124617"/>
     </item>
   </channel>
 </rss>
