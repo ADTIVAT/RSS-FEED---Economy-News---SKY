@@ -12,9 +12,31 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 18 Jun 2026 10:03:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 09:06:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Asda losses grow to almost £1bn as it fends off Aldi</title>
+      <link>https://news.sky.com/story/asda-losses-grow-to-almost-1bn-as-it-fends-off-aldi-13555676</link>
+      <description>Asda slumped deeper into the red last year, according to accounts showing hits from price cuts to lure back shoppers and one-off costs. </description>
+      <pubDate>Fri, 19 Jun 2026 09:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/asda-losses-grow-to-almost-1bn-as-it-fends-off-aldi-13555676</guid>
+      <enclosure url="https://e3.365dm.com/26/02/1920x1080/skynews-asda-money_7155174.jpg?20260204093125" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock </media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-asda-money_7155174.jpg?20260204093125" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-asda-money_7155174.jpg?20260204093125"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Channel 4 borrowing plea to get government backing amid TV ad market decline | Mark Kleinman blog&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
+      <description></description>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-channel-4-4_7253922.jpg?20260520122535" length="0" type="image/jpeg"/>
+      <media:description type="html">Channel 4&amp;#39;s logo</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-channel-4-4_7253922.jpg?20260520122535" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-channel-4-4_7253922.jpg?20260520122535"/>
+    </item>
     <item>
       <title>A Bank of England rate hike is still possible - here's why</title>
       <link>https://news.sky.com/story/a-bank-of-england-rate-hike-is-still-possible-despite-easing-inflation-outlook-13555250</link>
@@ -60,17 +82,6 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-ai-altman-hassabis_7276307.jpg?20260618020513"/>
     </item>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Sweden's Qred and UK SME lender Liberis in £600m merger: Mark Kleinman blog&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description></description>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-city-of-london-skyline_7230803.jpg?20260425223818" length="0" type="image/jpeg"/>
-      <media:description type="html">City of London skyline. Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-city-of-london-skyline_7230803.jpg?20260425223818" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-city-of-london-skyline_7230803.jpg?20260425223818"/>
-    </item>
-    <item>
       <title>Thames Water rescue in peril as government opposes 'weak' deal</title>
       <link>https://news.sky.com/story/thames-water-rescue-in-peril-as-government-opposes-weak-deal-13554493</link>
       <description>Cash-strapped Thames Water is again facing down the prospect of being placed in temporary public ownership after the government raised objections to a proposed £10bn rescue by its lenders.</description>
@@ -113,17 +124,6 @@
       <media:description type="html">FILE PHOTO: FILE PHOTO: Tesla and SpaceX&amp;#39;s CEO Elon Musk reacts during an in-conversation event with British Prime Minister Rishi Sunak in L</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-spacex-elon-musk_7275154.jpg?20260616165621" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-spacex-elon-musk_7275154.jpg?20260616165621"/>
-    </item>
-    <item>
-      <title>How threat of social media ban jolted tech giants into action</title>
-      <link>https://news.sky.com/story/threat-of-social-media-ban-jolted-tech-giants-into-action-before-it-was-even-announced-13552054</link>
-      <description>Roblox has revealed new safety measures, just as the government announces it will ban under-16s from social media and potentially some gaming platforms… like Roblox. </description>
-      <pubDate>Mon, 08 Jun 2026 17:11:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/threat-of-social-media-ban-jolted-tech-giants-into-action-before-it-was-even-announced-13552054</guid>
-      <enclosure url="https://e3.365dm.com/26/02/1920x1080/skynews-roblox-gaming_7161796.jpg?20260211080950" length="0" type="image/jpeg"/>
-      <media:description type="html">A child uses Roblox. File pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-roblox-gaming_7161796.jpg?20260211080950" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-roblox-gaming_7161796.jpg?20260211080950"/>
     </item>
   </channel>
 </rss>
