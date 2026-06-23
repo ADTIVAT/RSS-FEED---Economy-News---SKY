@@ -12,9 +12,53 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 22 Jun 2026 11:10:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 07:03:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Landlord drops TG Jones rescue deal challenge after rent climbdown | Mark Kleinman blog&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</link>
+      <description></description>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-tgjones-shop_7237946.jpg?20260503134138" length="0" type="image/jpeg"/>
+      <media:description type="html">TG Jones. Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-tgjones-shop_7237946.jpg?20260503134138" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-tgjones-shop_7237946.jpg?20260503134138"/>
+    </item>
+    <item>
+      <title>StubHub UK ordered to refund 50k customers and fined</title>
+      <link>https://news.sky.com/story/stubhub-uk-ordered-to-refund-50k-customers-and-fined-nearly-900k-13556941</link>
+      <description>Ticket resale site StubHub UK has been ordered to refund more than 51,000 customers and fined over hidden fees, the competition regulator has announced.</description>
+      <pubDate>Tue, 23 Jun 2026 07:03:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/stubhub-uk-ordered-to-refund-50k-customers-and-fined-nearly-900k-13556941</guid>
+      <enclosure url="https://e3.365dm.com/24/10/1920x1080/skynews-beyond-the-music-live-music-gig_6713666.jpg?20241011192018" length="0" type="image/jpeg"/>
+      <media:description type="html">Party people enjoy concert at festival. Crowd at concert. Summer music festival</media:description>
+      <media:thumbnail url="https://e3.365dm.com/24/10/1920x1080/skynews-beyond-the-music-live-music-gig_6713666.jpg?20241011192018" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/24/10/1920x1080/skynews-beyond-the-music-live-music-gig_6713666.jpg?20241011192018"/>
+    </item>
+    <item>
+      <title>Verdict on Iran war threat to UK power supplies</title>
+      <link>https://news.sky.com/story/verdict-on-iran-war-threat-to-uk-power-supplies-13556923</link>
+      <description>Electricity supplies will &quot;remain secure&quot; during the coming UK winter despite challenges posed to energy supplies due to the Iran war, the National Energy System Operator (NESO) has announced.</description>
+      <pubDate>Tue, 23 Jun 2026 05:05:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/verdict-on-iran-war-threat-to-uk-power-supplies-13556923</guid>
+      <enclosure url="https://e3.365dm.com/23/11/1920x1080/skynews-pylons-pylon-electricity_6375605.jpg?20231128165258" length="0" type="image/jpeg"/>
+      <media:description type="html">Pylons on a section of the Beauly to Denny electrical power line are seen in Highland Perthshire, Scotland November 29, 2015. REUTERS/Russell Cheyne</media:description>
+      <media:thumbnail url="https://e3.365dm.com/23/11/1920x1080/skynews-pylons-pylon-electricity_6375605.jpg?20231128165258" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/23/11/1920x1080/skynews-pylons-pylon-electricity_6375605.jpg?20231128165258"/>
+    </item>
+    <item>
+      <title>Billionaire to invest in ocean protection as UK and US scale back funding</title>
+      <link>https://news.sky.com/story/billionaire-to-invest-in-ocean-protection-as-uk-and-us-scale-back-funding-13556720</link>
+      <description>Michael Bloomberg has pledged $260m (£196m) to conserve the world's oceans, as major funders including the US and UK scale back science and conservation budgets.</description>
+      <pubDate>Tue, 23 Jun 2026 05:00:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/billionaire-to-invest-in-ocean-protection-as-uk-and-us-scale-back-funding-13556720</guid>
+      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-palau-oceans-pacific_7280239.jpg?20260622165042" length="0" type="image/jpeg"/>
+      <media:description type="html">An aerial view of Ngerukewid, a set of islands also known as the Seventy Islands, which is a part of the Rock Islands Southern Lagoon UNESCO</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-palau-oceans-pacific_7280239.jpg?20260622165042" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-palau-oceans-pacific_7280239.jpg?20260622165042"/>
+    </item>
     <item>
       <title>The economic statistic that will haunt Starmer's legacy</title>
       <link>https://news.sky.com/story/starmer-quits-the-economic-statistic-that-will-haunt-his-legacy-13556667</link>
@@ -28,6 +72,17 @@ Pic: Simon Dawson/No 10 Downing Street</media:description>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-keir-starmer-rachel-reeves_7091604.jpg?20251125154520"/>
     </item>
     <item>
+      <title>Alan Greenspan, longtime head of the US Federal Reserve, dies aged 100</title>
+      <link>https://news.sky.com/story/alan-greenspan-longtime-head-of-the-federal-reserve-dies-aged-100-13556721</link>
+      <description>Alan Greenspan, the longtime head of the Federal Reserve and influential economist, has died aged 100.</description>
+      <pubDate>Mon, 22 Jun 2026 13:16:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/alan-greenspan-longtime-head-of-the-federal-reserve-dies-aged-100-13556721</guid>
+      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-alan-greenspan-economy_7280044.jpg?20260622132606" length="0" type="image/jpeg"/>
+      <media:description type="html">Greenspan is considered by some to be the greatest-ever Federal Reserve chairman. Pic: Reuters/Kevin Lamarque</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-alan-greenspan-economy_7280044.jpg?20260622132606" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-alan-greenspan-economy_7280044.jpg?20260622132606"/>
+    </item>
+    <item>
       <title>U-turn on electric vehicle plans 'would add 13% to UK emissions'</title>
       <link>https://news.sky.com/story/u-turn-on-electric-vehicle-plans-would-add-13-to-uk-emissions-13556086</link>
       <description>Backtracking on the UK's electric vehicle plans would blow the government's much feted climate target by 13% in a worst-case scenario, according to new analysis shared exclusively with Sky News.</description>
@@ -37,17 +92,6 @@ Pic: Simon Dawson/No 10 Downing Street</media:description>
       <media:description type="html">Electric vehicles climate teaser</media:description>
       <media:thumbnail url="https://e3.365dm.com/22/02/1920x1080/skynews-electric-vehicles-evs_5668078.jpg?20220209163936" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/22/02/1920x1080/skynews-electric-vehicles-evs_5668078.jpg?20220209163936"/>
-    </item>
-    <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Lloyds weighs bid for SME lender Aldermore | Mark Kleinman blog&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</link>
-      <description></description>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-money-lloyds_7189941.jpg?20260312111328" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: Reuters </media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-money-lloyds_7189941.jpg?20260312111328" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-money-lloyds_7189941.jpg?20260312111328"/>
     </item>
     <item>
       <title>Wowcher apologises over email that referenced crocodile attack</title>
@@ -81,50 +125,6 @@ Pic: Simon Dawson/No 10 Downing Street</media:description>
       <media:description type="html">Pic: iStock </media:description>
       <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-asda-money_7155174.jpg?20260204093125" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-asda-money_7155174.jpg?20260204093125"/>
-    </item>
-    <item>
-      <title>King to become first British monarch to share personal tax information</title>
-      <link>https://news.sky.com/story/king-to-become-first-british-monarch-to-share-personal-tax-information-13556187</link>
-      <description>The King is to become the first UK monarch to reveal how much he has paid in tax.</description>
-      <pubDate>Sat, 20 Jun 2026 18:58:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/king-to-become-first-british-monarch-to-share-personal-tax-information-13556187</guid>
-      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-king-charles-queen-camilla_7278684.jpg?20260620171948" length="0" type="image/jpeg"/>
-      <media:description type="html">Horse Racing - Royal Ascot 2026 - Ascot Racecourse, Ascot, Britain - June 20, 2026 Britain&amp;#39;s King Charles and Queen Camilla arrive by horse </media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-king-charles-queen-camilla_7278684.jpg?20260620171948" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-king-charles-queen-camilla_7278684.jpg?20260620171948"/>
-    </item>
-    <item>
-      <title>A Bank of England rate hike is still possible - here's why</title>
-      <link>https://news.sky.com/story/a-bank-of-england-rate-hike-is-still-possible-despite-easing-inflation-outlook-13555250</link>
-      <description>Announcing its latest interest rates decision the morning after a thrilling England World Cup win, the Bank of England continues to put its foot on the ball.</description>
-      <pubDate>Thu, 18 Jun 2026 10:03:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/a-bank-of-england-rate-hike-is-still-possible-despite-easing-inflation-outlook-13555250</guid>
-      <enclosure url="https://e3.365dm.com/25/07/1920x1080/skynews-living-money-bailey_6965893.png?20250716092313" length="0" type="image/png"/>
-      <media:description type="html">For use on Money</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/07/1920x1080/skynews-living-money-bailey_6965893.png?20250716092313" width="1920" height="1080"/>
-      <media:content type="image/png" url="https://e3.365dm.com/25/07/1920x1080/skynews-living-money-bailey_6965893.png?20250716092313"/>
-    </item>
-    <item>
-      <title>Unemployment rate falls but private sector wage growth suffers</title>
-      <link>https://news.sky.com/story/unemployment-rate-falls-but-private-sector-wage-growth-suffers-13554974</link>
-      <description>There has been an unexpected dip in the UK's unemployment rate in official figures also showing new recruits in payrolled work at their lowest level for five years and private sector basic pay awards struggling.</description>
-      <pubDate>Wed, 17 Jun 2026 12:57:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/unemployment-rate-falls-but-private-sector-wage-growth-suffers-13554974</guid>
-      <enclosure url="https://e3.365dm.com/24/03/1920x1080/skynews-pay-pay-slip-wages_6481248.jpg?20240307072145" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/24/03/1920x1080/skynews-pay-pay-slip-wages_6481248.jpg?20240307072145" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/24/03/1920x1080/skynews-pay-pay-slip-wages_6481248.jpg?20240307072145"/>
-    </item>
-    <item>
-      <title>&lt;a href='https://news.sky.com/story/iran-war-latest-trump-deal-tehran-pakistan-strait-hormuz-blockade-13509565?postid=11895378#liveblog-body'&gt;Oil price hovers just above pre-war levels but future is uncertain&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/oil-price-hovers-just-above-pre-war-levels-but-future-is-uncertain-13555221</link>
-      <description></description>
-      <pubDate>Thu, 18 Jun 2026 08:00:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/oil-price-hovers-just-above-pre-war-levels-but-future-is-uncertain-13555221</guid>
-      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-strait-of-hormuz-iran-war_7272677.jpg?20260613185925" length="0" type="image/jpeg"/>
-      <media:description type="html">A person stands in shallow water as cargo and commercial vessels are anchored in the Strait of Hormuz, off Bandar Abbas, Iran. Pic: AP</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-strait-of-hormuz-iran-war_7272677.jpg?20260613185925" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-strait-of-hormuz-iran-war_7272677.jpg?20260613185925"/>
     </item>
   </channel>
 </rss>
