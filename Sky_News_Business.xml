@@ -12,15 +12,48 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 24 Jun 2026 13:02:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 08:16:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
-      <title>'We need more power', says grid operator in UK summer first</title>
-      <link>https://news.sky.com/story/british-grid-operator-calls-for-more-power-generation-as-temperatures-soar-13557264</link>
-      <description>The body which oversees Britain's energy network has appealed for more power generation as temperatures soar across the country and wider Europe.</description>
+      <title>Cost of living hope as oil prices sink to pre-war levels</title>
+      <link>https://news.sky.com/story/cost-of-living-hope-as-oil-prices-return-to-pre-war-levels-13557556</link>
+      <description>Oil prices have returned to levels last seen just before the US-Iran war began, bolstering hopes of a respite ahead from cost-of-living pressures.</description>
+      <pubDate>Thu, 25 Jun 2026 06:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/cost-of-living-hope-as-oil-prices-return-to-pre-war-levels-13557556</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-strait-of-hormuz-ships_7240136.jpg?20260506021202" length="0" type="image/jpeg"/>
+      <media:description type="html">Vessels in the Strait of Hormuz near Bandar Abbas, Iran. Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-strait-of-hormuz-ships_7240136.jpg?20260506021202" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-strait-of-hormuz-ships_7240136.jpg?20260506021202"/>
+    </item>
+    <item>
+      <title>Don't buy air conditioning until you've read this</title>
+      <link>https://news.sky.com/story/dont-buy-air-conditioning-until-youve-read-this-13557590</link>
+      <description>Families across the country are having their annual discussion/argument about whether it's time to invest in air con.</description>
+      <pubDate>Thu, 25 Jun 2026 08:16:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/dont-buy-air-conditioning-until-youve-read-this-13557590</guid>
+      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-money-air-con_7282360.jpg?20260625083910" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock </media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-money-air-con_7282360.jpg?20260625083910" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-money-air-con_7282360.jpg?20260625083910"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Irish approval turns page on Telegraph ownership | Mark Kleinman blog&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</link>
+      <description></description>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</guid>
+      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-telegraph-daily-telegraph_7088252.jpg?20251122090200" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-telegraph-daily-telegraph_7088252.jpg?20251122090200" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-telegraph-daily-telegraph_7088252.jpg?20251122090200"/>
+    </item>
+    <item>
+      <title>British grid operator cancels plea for more power as temperatures soar</title>
+      <link>https://news.sky.com/story/british-grid-operator-cancels-calls-for-more-power-13557264</link>
+      <description>The body which oversees Britain's energy network has walked back a call for more power generation.</description>
       <pubDate>Wed, 24 Jun 2026 06:30:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/british-grid-operator-calls-for-more-power-generation-as-temperatures-soar-13557264</guid>
+      <guid>https://news.sky.com/story/british-grid-operator-cancels-calls-for-more-power-13557264</guid>
       <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-electric-fan-heat-heatwave_7281463.jpg?20260624082224" length="0" type="image/jpeg"/>
       <media:description type="html">File pic: Coldsnowstorm/iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-electric-fan-heat-heatwave_7281463.jpg?20260624082224" width="1920" height="1080"/>
@@ -38,17 +71,6 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-youtube-alphabet_7281547.jpg?20260624103453"/>
     </item>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Santander UK poaches Yorkshire finance chief months after bungled exit statement | Mark Kleinman blog&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</link>
-      <description></description>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</guid>
-      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-santander-current-account_7079306.jpg?20251111152121" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-santander-current-account_7079306.jpg?20251111152121" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-santander-current-account_7079306.jpg?20251111152121"/>
-    </item>
-    <item>
       <title>Plan to close small parcel tax loophole pulled forward - but retailers still unhappy</title>
       <link>https://news.sky.com/story/government-pulls-forward-plan-to-close-small-parcel-import-tax-loophole-but-retailers-are-still-unhappy-13557158</link>
       <description>The government has brought forward plans to close a loophole on import taxes for small parcels – but major high street brands have said the timeframe is still &quot;unacceptable&quot;.</description>
@@ -58,6 +80,17 @@
       <media:description type="html">Packs of clothing are pictured at a garment factory for Shein in Guangzhou, Guangdong province, China April 1, 2025. REUTERS/Casey Hall</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-shein-factory_7281172.jpg?20260623185012" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-shein-factory_7281172.jpg?20260623185012"/>
+    </item>
+    <item>
+      <title>Family sues Tesla over fatal high-speed crash into mother's front room</title>
+      <link>https://news.sky.com/story/family-sues-tesla-over-fatal-high-speed-crash-into-mothers-front-room-13557335</link>
+      <description>The family of a woman killed when a Tesla crashed into her home, allegedly while in self-driving mode, is suing Elon Musk's company and the driver.</description>
+      <pubDate>Wed, 24 Jun 2026 12:16:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/family-sues-tesla-over-fatal-high-speed-crash-into-mothers-front-room-13557335</guid>
+      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-tesla-car_7281630.jpg?20260624122758" length="0" type="image/jpeg"/>
+      <media:description type="html">The scene of the crash. Pic: Harris County Constable Precinct 5</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-tesla-car_7281630.jpg?20260624122758" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-tesla-car_7281630.jpg?20260624122758"/>
     </item>
     <item>
       <title>Elon Musk loses billions as SpaceX shares slump in tech sell-off</title>
@@ -91,39 +124,6 @@
       <media:description type="html">Party people enjoy concert at festival. Crowd at concert. Summer music festival</media:description>
       <media:thumbnail url="https://e3.365dm.com/24/10/1920x1080/skynews-beyond-the-music-live-music-gig_6713666.jpg?20241011192018" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/24/10/1920x1080/skynews-beyond-the-music-live-music-gig_6713666.jpg?20241011192018"/>
-    </item>
-    <item>
-      <title>Treasury looking to introduce new first time buyer ISA - here's how it might work</title>
-      <link>https://news.sky.com/story/treasury-looking-to-introduce-new-first-time-buyer-isa-heres-how-it-might-work-13557352</link>
-      <description>The Treasury has revealed more details about its plans to launch a new ISA product to help people saving for their first home. </description>
-      <pubDate>Wed, 24 Jun 2026 13:01:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/treasury-looking-to-introduce-new-first-time-buyer-isa-heres-how-it-might-work-13557352</guid>
-      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-housing-isa-money-house_7281690.jpg?20260624131515" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-housing-isa-money-house_7281690.jpg?20260624131515" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-housing-isa-money-house_7281690.jpg?20260624131515"/>
-    </item>
-    <item>
-      <title>Verdict on Iran war threat to UK power supplies</title>
-      <link>https://news.sky.com/story/verdict-on-iran-war-threat-to-uk-power-supplies-13556923</link>
-      <description>Electricity supplies will &quot;remain secure&quot; during the coming UK winter despite challenges posed to energy supplies due to the Iran war, the National Energy System Operator (NESO) has announced.</description>
-      <pubDate>Tue, 23 Jun 2026 05:05:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/verdict-on-iran-war-threat-to-uk-power-supplies-13556923</guid>
-      <enclosure url="https://e3.365dm.com/23/11/1920x1080/skynews-pylons-pylon-electricity_6375605.jpg?20231128165258" length="0" type="image/jpeg"/>
-      <media:description type="html">Pylons on a section of the Beauly to Denny electrical power line are seen in Highland Perthshire, Scotland November 29, 2015. REUTERS/Russell Cheyne</media:description>
-      <media:thumbnail url="https://e3.365dm.com/23/11/1920x1080/skynews-pylons-pylon-electricity_6375605.jpg?20231128165258" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/23/11/1920x1080/skynews-pylons-pylon-electricity_6375605.jpg?20231128165258"/>
-    </item>
-    <item>
-      <title>Billionaire to invest in ocean protection as UK and US scale back funding</title>
-      <link>https://news.sky.com/story/billionaire-to-invest-in-ocean-protection-as-uk-and-us-scale-back-funding-13556720</link>
-      <description>Michael Bloomberg has pledged $260m (£196m) to conserve the world's oceans, as major funders including the US and UK scale back science and conservation budgets.</description>
-      <pubDate>Tue, 23 Jun 2026 05:00:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/billionaire-to-invest-in-ocean-protection-as-uk-and-us-scale-back-funding-13556720</guid>
-      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-palau-oceans-pacific_7280239.jpg?20260622165042" length="0" type="image/jpeg"/>
-      <media:description type="html">An aerial view of Ngerukewid, a set of islands also known as the Seventy Islands, which is a part of the Rock Islands Southern Lagoon UNESCO</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-palau-oceans-pacific_7280239.jpg?20260622165042" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-palau-oceans-pacific_7280239.jpg?20260622165042"/>
     </item>
   </channel>
 </rss>
