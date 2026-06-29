@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 25 Jun 2026 08:16:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 08:23:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>British American Tobacco cuts 5,500 jobs in AI drive</title>
+      <link>https://news.sky.com/story/british-american-tobacco-to-cut-5500-jobs-in-ai-drive-13558767</link>
+      <description>British American Tobacco (BAT) is cutting 5,500 jobs across its global operations as an AI-focused transformation programme gathers pace.</description>
+      <pubDate>Mon, 29 Jun 2026 08:23:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/british-american-tobacco-to-cut-5500-jobs-in-ai-drive-13558767</guid>
+      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-vuse-vape_7285482.jpg?20260629090506" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-vuse-vape_7285482.jpg?20260629090506" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-vuse-vape_7285482.jpg?20260629090506"/>
+    </item>
     <item>
       <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Giant investor EQT eyes stake in UK tech champion CuspAI | Mark Kleinman blog&lt;/a&gt;</title>
       <link>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</link>
@@ -25,6 +36,17 @@
       <media:description type="html">A semiconductor manufacturing factory. File pic: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-semiconductor-manufacturing-factory_7284766.jpg?20260628091019" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-semiconductor-manufacturing-factory_7284766.jpg?20260628091019"/>
+    </item>
+    <item>
+      <title>'We paid for meet and greet airport parking - but when we got back, we became suspicious'</title>
+      <link>https://news.sky.com/story/money-problem-i-booked-airport-meet-and-greet-my-mileage-went-up-60-miles-and-dashcam-history-was-deleted-13557365</link>
+      <description>Every week, we help a reader with their consumer issue or personal finance dilemma in our Money Problem series. You can send yours to moneyblog@sky.uk. Today we're tackling this one from Shelley...</description>
+      <pubDate>Wed, 24 Jun 2026 13:29:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/money-problem-i-booked-airport-meet-and-greet-my-mileage-went-up-60-miles-and-dashcam-history-was-deleted-13557365</guid>
+      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-money-east-midlands-airport_7281711.jpg?20260624133750" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock </media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-money-east-midlands-airport_7281711.jpg?20260624133750" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-money-east-midlands-airport_7281711.jpg?20260624133750"/>
     </item>
     <item>
       <title>Cost of living hope as oil prices sink to pre-war levels</title>
@@ -60,15 +82,15 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-electric-fan-heat-heatwave_7281463.jpg?20260624082224"/>
     </item>
     <item>
-      <title>The rule that could help grandparents boost state pension | Money newsletter</title>
+      <title>The state pension rule that could help grandparents who provide childcare | Money newsletter</title>
       <link>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</link>
       <description>More than 200,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
       <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
       <guid>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</guid>
-      <enclosure url="https://e3.365dm.com/24/09/1920x1080/skynews-money-blog-pensioner_6680742.jpg?20240910062417" length="0" type="image/jpeg"/>
-      <media:description type="html">iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/24/09/1920x1080/skynews-money-blog-pensioner_6680742.jpg?20240910062417" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/24/09/1920x1080/skynews-money-blog-pensioner_6680742.jpg?20240910062417"/>
+      <enclosure url="https://e3.365dm.com/24/08/1920x1080/skynews-istock-older-people_6656020.jpg?20240814040353" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock </media:description>
+      <media:thumbnail url="https://e3.365dm.com/24/08/1920x1080/skynews-istock-older-people_6656020.jpg?20240814040353" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/24/08/1920x1080/skynews-istock-older-people_6656020.jpg?20240814040353"/>
     </item>
     <item>
       <title>YouTube settles social media addiction lawsuit brought by teenager amid tidal wave of court cases</title>
@@ -102,28 +124,6 @@
       <media:description type="html">The scene of the crash. Pic: Harris County Constable Precinct 5</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-tesla-car_7281630.jpg?20260624122758" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-tesla-car_7281630.jpg?20260624122758"/>
-    </item>
-    <item>
-      <title>Elon Musk loses billions as SpaceX shares slump in tech sell-off</title>
-      <link>https://news.sky.com/story/elon-musk-loses-billions-as-spacex-shares-slump-in-tech-sell-off-13557098</link>
-      <description>Elon Musk has seen $350bn (£264bn) shaved off his net worth as SpaceX share prices have slumped.</description>
-      <pubDate>Tue, 23 Jun 2026 15:27:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/elon-musk-loses-billions-as-spacex-shares-slump-in-tech-sell-off-13557098</guid>
-      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-musk-elon_7281007.jpg?20260623153856" length="0" type="image/jpeg"/>
-      <media:description type="html">14 May 2026, China, Peking: Tech billionaire and Tesla founder Elon Musk at a meeting. US President Trump is accompanied by a large business delegation on his visit to China. Photo by: Johannes Neudecker/picture-alliance/dpa/AP Images</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-musk-elon_7281007.jpg?20260623153856" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-musk-elon_7281007.jpg?20260623153856"/>
-    </item>
-    <item>
-      <title>'I'm an enforcement agent... here's what item we seize the most'</title>
-      <link>https://news.sky.com/story/im-an-enforcement-agent-heres-what-item-we-seize-the-most-13557350</link>
-      <description>If you've ever spent your morning commute daydreaming about starting afresh with your career, this feature is for you. Each Monday, we speak to someone from a different profession to discover what it's really like. Today we speak to Jodie Pickard, a bailiff (or, as they're now known, enforcement agent) for CDER Group...</description>
-      <pubDate>Wed, 24 Jun 2026 13:02:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/im-an-enforcement-agent-heres-what-item-we-seize-the-most-13557350</guid>
-      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-jodie-pickard-bailiff_7279671.jpg?20260622061927" length="0" type="image/jpeg"/>
-      <media:description type="html">Jodie Pickard</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-jodie-pickard-bailiff_7279671.jpg?20260622061927" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-jodie-pickard-bailiff_7279671.jpg?20260622061927"/>
     </item>
   </channel>
 </rss>
