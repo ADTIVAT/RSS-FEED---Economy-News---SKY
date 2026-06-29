@@ -12,13 +12,13 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 29 Jun 2026 08:23:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 11:02:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
       <title>British American Tobacco cuts 5,500 jobs in AI drive</title>
       <link>https://news.sky.com/story/british-american-tobacco-to-cut-5500-jobs-in-ai-drive-13558767</link>
-      <description>British American Tobacco (BAT) is cutting 5,500 jobs across its global operations as an AI-focused transformation programme gathers pace.</description>
+      <description>British American Tobacco (BAT) has cut 5,500 jobs across its global operations as an AI-focused transformation programme gathers pace.</description>
       <pubDate>Mon, 29 Jun 2026 08:23:00 +0100</pubDate>
       <guid>https://news.sky.com/story/british-american-tobacco-to-cut-5500-jobs-in-ai-drive-13558767</guid>
       <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-vuse-vape_7285482.jpg?20260629090506" length="0" type="image/jpeg"/>
@@ -27,15 +27,48 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-vuse-vape_7285482.jpg?20260629090506"/>
     </item>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Giant investor EQT eyes stake in UK tech champion CuspAI | Mark Kleinman blog&lt;/a&gt;</title>
+      <title>Sky under NBCUniversal umbrella in Comcast spin-off</title>
+      <link>https://news.sky.com/story/sky-under-nbcuniversal-umbrella-in-comcast-spin-off-13558842</link>
+      <description>Sky, the owner of Sky News, is to become part of NBCUniversal under a spin-off plan revealed by parent firm Comcast.</description>
+      <pubDate>Mon, 29 Jun 2026 11:02:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/sky-under-nbcuniversal-umbrella-in-comcast-spin-off-13558842</guid>
+      <enclosure url="https://e3.365dm.com/18/01/1920x1080/skynews-sky-takeover-fox-osterley_4212640.jpg?20260629121231" length="0" type="image/jpeg"/>
+      <media:description type="html">Sky building</media:description>
+      <media:thumbnail url="https://e3.365dm.com/18/01/1920x1080/skynews-sky-takeover-fox-osterley_4212640.jpg?20260629121231" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/18/01/1920x1080/skynews-sky-takeover-fox-osterley_4212640.jpg?20260629121231"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Breedon built case for merger with London-listed rival Marshalls | Mark Kleinman blog&lt;/a&gt;</title>
       <link>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</link>
       <description></description>
       <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
       <guid>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-semiconductor-manufacturing-factory_7284766.jpg?20260628091019" length="0" type="image/jpeg"/>
-      <media:description type="html">A semiconductor manufacturing factory. File pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-semiconductor-manufacturing-factory_7284766.jpg?20260628091019" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-semiconductor-manufacturing-factory_7284766.jpg?20260628091019"/>
+      <enclosure url="https://e3.365dm.com/21/07/1920x1080/skynews-building-construction_5462675.jpg?20210730114658" length="0" type="image/jpeg"/>
+      <media:description type="html">Housebuilding</media:description>
+      <media:thumbnail url="https://e3.365dm.com/21/07/1920x1080/skynews-building-construction_5462675.jpg?20210730114658" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/21/07/1920x1080/skynews-building-construction_5462675.jpg?20210730114658"/>
+    </item>
+    <item>
+      <title>'I'm an investment manager - here's the most important lesson I learned about money'</title>
+      <link>https://news.sky.com/story/im-an-investment-manager-heres-the-most-important-lesson-i-learned-about-money-13558790</link>
+      <description>If you've ever spent your morning commute daydreaming about starting afresh with your career, this feature is for you. Each Monday, we speak to someone from a different profession to discover what it's really like. Today we speak to investment manager Laura Longley from Evelyn Partners... </description>
+      <pubDate>Mon, 29 Jun 2026 09:34:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/im-an-investment-manager-heres-the-most-important-lesson-i-learned-about-money-13558790</guid>
+      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-money-investment_7285510.jpg?20260629095432" length="0" type="image/jpeg"/>
+      <media:description type="html">Laura Longley from Evelyn Partners</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-money-investment_7285510.jpg?20260629095432" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-money-investment_7285510.jpg?20260629095432"/>
+    </item>
+    <item>
+      <title>The state pension rule that could help grandparents who provide childcare | Money newsletter</title>
+      <link>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</link>
+      <description>More than 200,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
+      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</guid>
+      <enclosure url="https://e3.365dm.com/24/08/1920x1080/skynews-istock-older-people_6656020.jpg?20240814040353" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock </media:description>
+      <media:thumbnail url="https://e3.365dm.com/24/08/1920x1080/skynews-istock-older-people_6656020.jpg?20240814040353" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/24/08/1920x1080/skynews-istock-older-people_6656020.jpg?20240814040353"/>
     </item>
     <item>
       <title>'We paid for meet and greet airport parking - but when we got back, we became suspicious'</title>
@@ -71,6 +104,17 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-money-air-con_7282360.jpg?20260625083910"/>
     </item>
     <item>
+      <title>Council tax debt hits record high - but could a policy change be coming?</title>
+      <link>https://news.sky.com/story/council-tax-debt-hits-record-high-but-could-a-policy-change-be-coming-13558836</link>
+      <description>Council tax debt has reached a record high in England, government data shows.</description>
+      <pubDate>Mon, 29 Jun 2026 10:49:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/council-tax-debt-hits-record-high-but-could-a-policy-change-be-coming-13558836</guid>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-council-tax-bill-money_7221356.jpg?20260416092333" length="0" type="image/jpeg"/>
+      <media:description type="html">A file picture of a council tax bill via iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-council-tax-bill-money_7221356.jpg?20260416092333" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-council-tax-bill-money_7221356.jpg?20260416092333"/>
+    </item>
+    <item>
       <title>British grid operator cancels plea for more power as temperatures soar</title>
       <link>https://news.sky.com/story/british-grid-operator-cancels-calls-for-more-power-13557264</link>
       <description>The body which oversees Britain's energy network has walked back a call for more power generation.</description>
@@ -80,50 +124,6 @@
       <media:description type="html">File pic: Coldsnowstorm/iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-electric-fan-heat-heatwave_7281463.jpg?20260624082224" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-electric-fan-heat-heatwave_7281463.jpg?20260624082224"/>
-    </item>
-    <item>
-      <title>The state pension rule that could help grandparents who provide childcare | Money newsletter</title>
-      <link>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</link>
-      <description>More than 200,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
-      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</guid>
-      <enclosure url="https://e3.365dm.com/24/08/1920x1080/skynews-istock-older-people_6656020.jpg?20240814040353" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock </media:description>
-      <media:thumbnail url="https://e3.365dm.com/24/08/1920x1080/skynews-istock-older-people_6656020.jpg?20240814040353" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/24/08/1920x1080/skynews-istock-older-people_6656020.jpg?20240814040353"/>
-    </item>
-    <item>
-      <title>YouTube settles social media addiction lawsuit brought by teenager amid tidal wave of court cases</title>
-      <link>https://news.sky.com/story/youtube-settles-social-media-addiction-lawsuit-brought-by-teenager-amid-tidal-wave-of-court-cases-13557314</link>
-      <description>YouTube's owner, Google, has settled a lawsuit brought by a teenager suing the world's biggest social media companies over their role in the youth mental health crisis. </description>
-      <pubDate>Wed, 24 Jun 2026 10:25:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/youtube-settles-social-media-addiction-lawsuit-brought-by-teenager-amid-tidal-wave-of-court-cases-13557314</guid>
-      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-youtube-alphabet_7281547.jpg?20260624103453" length="0" type="image/jpeg"/>
-      <media:description type="html">File pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-youtube-alphabet_7281547.jpg?20260624103453" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-youtube-alphabet_7281547.jpg?20260624103453"/>
-    </item>
-    <item>
-      <title>Plan to close small parcel tax loophole pulled forward - but retailers still unhappy</title>
-      <link>https://news.sky.com/story/government-pulls-forward-plan-to-close-small-parcel-import-tax-loophole-but-retailers-are-still-unhappy-13557158</link>
-      <description>The government has brought forward plans to close a loophole on import taxes for small parcels – but major high street brands have said the timeframe is still &quot;unacceptable&quot;.</description>
-      <pubDate>Tue, 23 Jun 2026 18:19:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/government-pulls-forward-plan-to-close-small-parcel-import-tax-loophole-but-retailers-are-still-unhappy-13557158</guid>
-      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-shein-factory_7281172.jpg?20260623185012" length="0" type="image/jpeg"/>
-      <media:description type="html">Packs of clothing are pictured at a garment factory for Shein in Guangzhou, Guangdong province, China April 1, 2025. REUTERS/Casey Hall</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-shein-factory_7281172.jpg?20260623185012" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-shein-factory_7281172.jpg?20260623185012"/>
-    </item>
-    <item>
-      <title>Family sues Tesla over fatal high-speed crash into mother's front room</title>
-      <link>https://news.sky.com/story/family-sues-tesla-over-fatal-high-speed-crash-into-mothers-front-room-13557335</link>
-      <description>The family of a woman killed when a Tesla crashed into her home, allegedly while in self-driving mode, is suing Elon Musk's company and the driver.</description>
-      <pubDate>Wed, 24 Jun 2026 12:16:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/family-sues-tesla-over-fatal-high-speed-crash-into-mothers-front-room-13557335</guid>
-      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-tesla-car_7281630.jpg?20260624122758" length="0" type="image/jpeg"/>
-      <media:description type="html">The scene of the crash. Pic: Harris County Constable Precinct 5</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-tesla-car_7281630.jpg?20260624122758" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-tesla-car_7281630.jpg?20260624122758"/>
     </item>
   </channel>
 </rss>
