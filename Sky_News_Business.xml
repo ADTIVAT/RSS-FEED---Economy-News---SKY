@@ -12,9 +12,32 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 29 Jun 2026 11:02:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 02:28:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/politics-latest-burnham-starmer-labour-tories-badenoch-farage-12593360?postid=11966162#liveblog-body'&gt;Asylum seekers to pay £10k towards their accommodation&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/asylum-seekers-to-pay-10k-towards-their-accommodation-13559077</link>
+      <description></description>
+      <pubDate>Tue, 30 Jun 2026 02:28:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/asylum-seekers-to-pay-10k-towards-their-accommodation-13559077</guid>
+      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-shabana-mahmood_7286184.jpg?20260630022943" length="0" type="image/jpeg"/>
+      <media:description type="html">Shabana Mahmood. Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-shabana-mahmood_7286184.jpg?20260630022943" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-shabana-mahmood_7286184.jpg?20260630022943"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Bournemouth owner completes £45m Exeter Chiefs deal | Mark Kleinman blog&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</link>
+      <description></description>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</guid>
+      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-exeter-chiefs-henry-slade_7286337.jpg?20260630093950" length="0" type="image/jpeg"/>
+      <media:description type="html">Exeter Chiefs&amp;#39; Henry Slade with the ball during the Gallagher PREM match at The Recreation Ground, Bath.
+Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-exeter-chiefs-henry-slade_7286337.jpg?20260630093950" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-exeter-chiefs-henry-slade_7286337.jpg?20260630093950"/>
+    </item>
     <item>
       <title>British American Tobacco cuts 5,500 jobs in AI drive</title>
       <link>https://news.sky.com/story/british-american-tobacco-to-cut-5500-jobs-in-ai-drive-13558767</link>
@@ -36,17 +59,6 @@
       <media:description type="html">Sky building</media:description>
       <media:thumbnail url="https://e3.365dm.com/18/01/1920x1080/skynews-sky-takeover-fox-osterley_4212640.jpg?20260629121231" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/18/01/1920x1080/skynews-sky-takeover-fox-osterley_4212640.jpg?20260629121231"/>
-    </item>
-    <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Breedon built case for merger with London-listed rival Marshalls | Mark Kleinman blog&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</link>
-      <description></description>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</guid>
-      <enclosure url="https://e3.365dm.com/21/07/1920x1080/skynews-building-construction_5462675.jpg?20210730114658" length="0" type="image/jpeg"/>
-      <media:description type="html">Housebuilding</media:description>
-      <media:thumbnail url="https://e3.365dm.com/21/07/1920x1080/skynews-building-construction_5462675.jpg?20210730114658" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/21/07/1920x1080/skynews-building-construction_5462675.jpg?20210730114658"/>
     </item>
     <item>
       <title>'I'm an investment manager - here's the most important lesson I learned about money'</title>
@@ -91,17 +103,6 @@
       <media:description type="html">Vessels in the Strait of Hormuz near Bandar Abbas, Iran. Pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-strait-of-hormuz-ships_7240136.jpg?20260506021202" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-strait-of-hormuz-ships_7240136.jpg?20260506021202"/>
-    </item>
-    <item>
-      <title>Don't buy air conditioning until you've read this</title>
-      <link>https://news.sky.com/story/dont-buy-air-conditioning-until-youve-read-this-13557590</link>
-      <description>Families across the country are having their annual discussion/argument about whether it's time to invest in air con.</description>
-      <pubDate>Thu, 25 Jun 2026 08:16:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/dont-buy-air-conditioning-until-youve-read-this-13557590</guid>
-      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-money-air-con_7282360.jpg?20260625083910" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock </media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-money-air-con_7282360.jpg?20260625083910" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-money-air-con_7282360.jpg?20260625083910"/>
     </item>
     <item>
       <title>Council tax debt hits record high - but could a policy change be coming?</title>
