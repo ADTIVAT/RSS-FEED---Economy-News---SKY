@@ -12,7 +12,7 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 02 Jul 2026 12:55:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 07:59:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
@@ -104,6 +104,17 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-trump-bitcoin_7287020.jpg?20260701034719"/>
     </item>
     <item>
+      <title>Evri suing BBC for £1.2m over Panorama programme</title>
+      <link>https://news.sky.com/story/evri-suing-bbc-for-12m-over-panorama-programme-13560313</link>
+      <description>Delivery company Evri is suing the BBC for about £1.2m over a Panorama programme featuring complaints by drivers and customers.</description>
+      <pubDate>Sat, 04 Jul 2026 07:59:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/evri-suing-bbc-for-12m-over-panorama-programme-13560313</guid>
+      <enclosure url="https://e3.365dm.com/25/05/1920x1080/skynews-evri-delivery-depot_6916353.jpg?20250514161327" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: Evri</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/05/1920x1080/skynews-evri-delivery-depot_6916353.jpg?20250514161327" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/05/1920x1080/skynews-evri-delivery-depot_6916353.jpg?20250514161327"/>
+    </item>
+    <item>
       <title>UK 'minded' to intervene in Paramount and Warner Bros deal</title>
       <link>https://news.sky.com/story/uk-minded-to-intervene-in-historic-paramount-and-warner-bros-deal-over-media-plurality-fears-13559212</link>
       <description>The UK culture secretary could be about to put a spanner in the works for one of the biggest media deals in history.</description>
@@ -113,17 +124,6 @@
       <media:description type="html">FILE PHOTO: The Warner Bros. Water Tower is pictured at Warner Bros. Studios in Burbank, California, U.S. February 27, 2026. REUTERS/Daniel </media:description>
       <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-warner-bros-california_7286677.jpg?20260630154248" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-warner-bros-california_7286677.jpg?20260630154248"/>
-    </item>
-    <item>
-      <title>BBC staff face real-terms wage cut as 'bleak' pay proposal revealed</title>
-      <link>https://news.sky.com/story/bbc-staff-face-real-terms-wage-cut-as-bleak-pay-proposal-revealed-13559273</link>
-      <description>BBC staff could see a real-terms pay cut in the year ahead, a proposal shows, just weeks after the announcement that hundreds of roles are to be axed.</description>
-      <pubDate>Tue, 30 Jun 2026 15:36:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/bbc-staff-face-real-terms-wage-cut-as-bleak-pay-proposal-revealed-13559273</guid>
-      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-bbc-broadcasting-house_7286698.jpg?20260630155602" length="0" type="image/jpeg"/>
-      <media:description type="html">BBC Broadcasting House in central London. File pic</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-bbc-broadcasting-house_7286698.jpg?20260630155602" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-bbc-broadcasting-house_7286698.jpg?20260630155602"/>
     </item>
   </channel>
 </rss>
