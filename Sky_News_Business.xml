@@ -12,9 +12,31 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 08 Jul 2026 15:40:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 10:50:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Electricity operator issues historic summertime plea for power as temperatures to soar</title>
+      <link>https://news.sky.com/story/neso-issues-rare-summertime-plea-for-more-power-as-temperatures-to-soar-13561854</link>
+      <description>For only the third time in its history, the British electricity system operator has warned of tight supplies in the summer months.</description>
+      <pubDate>Thu, 09 Jul 2026 10:50:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/neso-issues-rare-summertime-plea-for-more-power-as-temperatures-to-soar-13561854</guid>
+      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-heatwave-handheld-fan_7293506.jpg?20260709094613" length="0" type="image/jpeg"/>
+      <media:description type="html">A woman uses a fan to cool down while walking near Tower Bridge. Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-heatwave-handheld-fan_7293506.jpg?20260709094613" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-heatwave-handheld-fan_7293506.jpg?20260709094613"/>
+    </item>
+    <item>
+      <title>Disability benefits 'not fit for purpose' and assessments 'dehumanising'</title>
+      <link>https://news.sky.com/story/disability-benefits-not-fit-for-purpose-and-assessments-dehumanising-new-report-finds-13561761</link>
+      <description>Personal Independence Payments (PIP) are &quot;not fit for purpose&quot; and can create barriers to work, while the assessment process can be &quot;dehumanising&quot;, a new report found.</description>
+      <pubDate>Wed, 08 Jul 2026 18:53:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/disability-benefits-not-fit-for-purpose-and-assessments-dehumanising-new-report-finds-13561761</guid>
+      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-gp-doctor-pip_7293320.jpg?20260708220557" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock / monkeybusinessimages</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-gp-doctor-pip_7293320.jpg?20260708220557" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-gp-doctor-pip_7293320.jpg?20260708220557"/>
+    </item>
     <item>
       <title>Energy costs rise and stocks fall sharply as US-Iran peace is shattered</title>
       <link>https://news.sky.com/story/energy-costs-rise-and-stocks-fall-sharply-as-us-iran-peace-is-shattered-13561710</link>
@@ -27,15 +49,15 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-tanker-strait-of-hormuz_7253693.jpg?20260520080035"/>
     </item>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Thames Water creditors pledge fresh support as audit deadline looms | Mark Kleinman blog&lt;/a&gt;</title>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Ex-civil service chief says government 'lacks ambition' on SME targets | Mark Kleinman blog&lt;/a&gt;</title>
       <link>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</link>
       <description></description>
       <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
       <guid>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</guid>
-      <enclosure url="https://e3.365dm.com/25/08/1920x1080/skynews-thames-water-uk_6988989.jpg?20250812141833" length="0" type="image/jpeg"/>
-      <media:description type="html">Ministers have lined up insolvency practitioners to prepare for the potential collapse of Thames Water, Britain&amp;#39;s biggest water utility.</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/08/1920x1080/skynews-thames-water-uk_6988989.jpg?20250812141833" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/08/1920x1080/skynews-thames-water-uk_6988989.jpg?20250812141833"/>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-darren-jones-downing-street_7246229.jpg?20260512091026" length="0" type="image/jpeg"/>
+      <media:description type="html">British Chancellor of the Duchy of Lancaster Darren Jones walks on Downing Street to attend a cabinet meeting, the day before the State Open</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-darren-jones-downing-street_7246229.jpg?20260512091026" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-darren-jones-downing-street_7246229.jpg?20260512091026"/>
     </item>
     <item>
       <title>Financial stability at risk from artificial intelligence, says Bank of England</title>
@@ -102,28 +124,6 @@
       <media:description type="html">Pic: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-money-xbox_7080947.jpg?20251113115133" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-money-xbox_7080947.jpg?20251113115133"/>
-    </item>
-    <item>
-      <title>Evri suing BBC for £1.2m over Panorama programme</title>
-      <link>https://news.sky.com/story/evri-suing-bbc-for-12m-over-panorama-programme-13560313</link>
-      <description>Delivery company Evri is suing the BBC for about £1.2m over a Panorama programme featuring complaints by drivers and customers.</description>
-      <pubDate>Sat, 04 Jul 2026 07:59:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/evri-suing-bbc-for-12m-over-panorama-programme-13560313</guid>
-      <enclosure url="https://e3.365dm.com/25/05/1920x1080/skynews-evri-delivery-depot_6916353.jpg?20250514161327" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: Evri</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/05/1920x1080/skynews-evri-delivery-depot_6916353.jpg?20250514161327" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/05/1920x1080/skynews-evri-delivery-depot_6916353.jpg?20250514161327"/>
-    </item>
-    <item>
-      <title>How UK state pension compares with other countries | Money newsletter</title>
-      <link>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</link>
-      <description>More than 200,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
-      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</guid>
-      <enclosure url="https://e3.365dm.com/24/09/1920x1080/skynews-money-blog-pensioner_6680742.jpg?20240910062417" length="0" type="image/jpeg"/>
-      <media:description type="html">iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/24/09/1920x1080/skynews-money-blog-pensioner_6680742.jpg?20240910062417" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/24/09/1920x1080/skynews-money-blog-pensioner_6680742.jpg?20240910062417"/>
     </item>
   </channel>
 </rss>
