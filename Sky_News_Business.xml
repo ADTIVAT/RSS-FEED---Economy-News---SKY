@@ -12,9 +12,31 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 09 Jul 2026 10:50:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 09:23:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Ex-Virgin Money chief to head UK audit watchdog | Mark Kleinman blog&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</link>
+      <description></description>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</guid>
+      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-gadhia-virgin-money_7295102.jpg?20260711100421" length="0" type="image/jpeg"/>
+      <media:description type="html">Jayne-Anne Gadhia, Chief Executive of Virgin Money </media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-gadhia-virgin-money_7295102.jpg?20260711100421" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-gadhia-virgin-money_7295102.jpg?20260711100421"/>
+    </item>
+    <item>
+      <title>Rival bid to take over easyJet beats previous offer</title>
+      <link>https://news.sky.com/story/rival-bid-to-take-over-easyjet-beats-previous-offer-13562171</link>
+      <description>A rival bid for budget airline easyJet has been accepted by the company, beating a previous offer that had only been approved by the carrier on Monday. </description>
+      <pubDate>Fri, 10 Jul 2026 07:07:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/rival-bid-to-take-over-easyjet-beats-previous-offer-13562171</guid>
+      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-easyjet-plane_7150237.jpg?20260130103427" length="0" type="image/jpeg"/>
+      <media:description type="html">Passengers board an easyJet plane. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-easyjet-plane_7150237.jpg?20260130103427" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-easyjet-plane_7150237.jpg?20260130103427"/>
+    </item>
     <item>
       <title>Electricity operator issues historic summertime plea for power as temperatures to soar</title>
       <link>https://news.sky.com/story/neso-issues-rare-summertime-plea-for-more-power-as-temperatures-to-soar-13561854</link>
@@ -25,6 +47,17 @@
       <media:description type="html">A woman uses a fan to cool down while walking near Tower Bridge. Pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-heatwave-handheld-fan_7293506.jpg?20260709094613" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-heatwave-handheld-fan_7293506.jpg?20260709094613"/>
+    </item>
+    <item>
+      <title>Top chef on £6.50 supermarket steak you should get in next shop - and why toxic kitchen behaviour hasn't really stopped</title>
+      <link>https://news.sky.com/story/top-chef-on-650-supermarket-steak-you-should-get-in-next-shop-and-why-toxic-kitchen-behaviour-hasnt-really-stopped-13562200</link>
+      <description>Each month our Money blog team interviews chefs from around the UK, hearing about their cheap food hacks and more. This week, we chat to Chris Archer, the head chef of the Michelin-starred restaurant The Pentonbridge Inn in Carlisle...</description>
+      <pubDate>Fri, 10 Jul 2026 09:23:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/top-chef-on-650-supermarket-steak-you-should-get-in-next-shop-and-why-toxic-kitchen-behaviour-hasnt-really-stopped-13562200</guid>
+      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-chris-archer-money-blog_7294361.jpg?20260710095203" length="0" type="image/jpeg"/>
+      <media:description type="html">Chris Archer, head chef of the Michelin-starred restaurant The Pentonbridge Inn in Carlisle.</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-chris-archer-money-blog_7294361.jpg?20260710095203" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-chris-archer-money-blog_7294361.jpg?20260710095203"/>
     </item>
     <item>
       <title>Disability benefits 'not fit for purpose' and assessments 'dehumanising'</title>
@@ -47,17 +80,6 @@
       <media:description type="html">An oil tanker docked in Fujairah. Pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-tanker-strait-of-hormuz_7253693.jpg?20260520080035" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-tanker-strait-of-hormuz_7253693.jpg?20260520080035"/>
-    </item>
-    <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Ex-civil service chief says government 'lacks ambition' on SME targets | Mark Kleinman blog&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</link>
-      <description></description>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-darren-jones-downing-street_7246229.jpg?20260512091026" length="0" type="image/jpeg"/>
-      <media:description type="html">British Chancellor of the Duchy of Lancaster Darren Jones walks on Downing Street to attend a cabinet meeting, the day before the State Open</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-darren-jones-downing-street_7246229.jpg?20260512091026" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-darren-jones-downing-street_7246229.jpg?20260512091026"/>
     </item>
     <item>
       <title>Financial stability at risk from artificial intelligence, says Bank of England</title>
@@ -102,28 +124,6 @@
       <media:description type="html">Pics: Sky/ITV/Shutterstock</media:description>
       <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-sky-itv-logos-campus_7074511.jpg?20251107081729" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-sky-itv-logos-campus_7074511.jpg?20251107081729"/>
-    </item>
-    <item>
-      <title>What does Sky's £1.6bn deal with ITV mean for viewers?</title>
-      <link>https://news.sky.com/story/so-what-does-skys-16bn-deal-with-itv-mean-for-viewers-for-now-not-much-13560942</link>
-      <description>The residents of Coronation Street might have survived serial killers and tram crashes, but the biggest ITV plot twist has been unfolding in the boardroom.</description>
-      <pubDate>Mon, 06 Jul 2026 11:31:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/so-what-does-skys-16bn-deal-with-itv-mean-for-viewers-for-now-not-much-13560942</guid>
-      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-maya-jama-love-island_7291285.jpg?20260706153928" length="0" type="image/jpeg"/>
-      <media:description type="html">Maya Jama hosts Love Island. Pic: ITV                            </media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-maya-jama-love-island_7291285.jpg?20260706153928" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-maya-jama-love-island_7291285.jpg?20260706153928"/>
-    </item>
-    <item>
-      <title>Xbox 'reset' as Microsoft cuts 4,800 jobs</title>
-      <link>https://news.sky.com/story/xbox-reset-as-microsoft-cuts-4800-jobs-13561020</link>
-      <description>Microsoft has revealed 4,800 job losses globally, with the bulk of the pain to be felt at its struggling Xbox gaming unit where a fifth of its workforce is facing the axe.</description>
-      <pubDate>Mon, 06 Jul 2026 15:02:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/xbox-reset-as-microsoft-cuts-4800-jobs-13561020</guid>
-      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-money-xbox_7080947.jpg?20251113115133" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-money-xbox_7080947.jpg?20251113115133" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-money-xbox_7080947.jpg?20251113115133"/>
     </item>
   </channel>
 </rss>
