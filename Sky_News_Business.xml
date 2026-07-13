@@ -16,17 +16,6 @@
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Ex-Virgin Money chief to head UK audit watchdog | Mark Kleinman blog&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</link>
-      <description></description>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-gadhia-virgin-money_7295102.jpg?20260711100421" length="0" type="image/jpeg"/>
-      <media:description type="html">Jayne-Anne Gadhia, Chief Executive of Virgin Money </media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-gadhia-virgin-money_7295102.jpg?20260711100421" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-gadhia-virgin-money_7295102.jpg?20260711100421"/>
-    </item>
-    <item>
       <title>Rival bid to take over easyJet beats previous offer</title>
       <link>https://news.sky.com/story/rival-bid-to-take-over-easyjet-beats-previous-offer-13562171</link>
       <description>A rival bid for budget airline easyJet has been accepted by the company, beating a previous offer that had only been approved by the carrier on Monday. </description>
@@ -36,6 +25,17 @@
       <media:description type="html">Passengers board an easyJet plane. Pic: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-easyjet-plane_7150237.jpg?20260130103427" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-easyjet-plane_7150237.jpg?20260130103427"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Ex-Virgin Money chief to head UK audit watchdog | Mark Kleinman blog&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</link>
+      <description></description>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</guid>
+      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-gadhia-virgin-money_7295102.jpg?20260711100421" length="0" type="image/jpeg"/>
+      <media:description type="html">Jayne-Anne Gadhia, Chief Executive of Virgin Money </media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-gadhia-virgin-money_7295102.jpg?20260711100421" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-gadhia-virgin-money_7295102.jpg?20260711100421"/>
     </item>
     <item>
       <title>Electricity operator issues historic summertime plea for power as temperatures to soar</title>
