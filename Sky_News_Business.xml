@@ -12,9 +12,75 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 10 Jul 2026 09:23:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 10:03:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Thames Water lenders reassure on fresh financial support | Mark Kleinman blog&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</link>
+      <description></description>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</guid>
+      <enclosure url="https://e3.365dm.com/25/08/1920x1080/skynews-thames-water-uk_6988989.jpg?20250812141833" length="0" type="image/jpeg"/>
+      <media:description type="html">Ministers have lined up insolvency practitioners to prepare for the potential collapse of Thames Water, Britain&amp;#39;s biggest water utility.</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/08/1920x1080/skynews-thames-water-uk_6988989.jpg?20250812141833" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/08/1920x1080/skynews-thames-water-uk_6988989.jpg?20250812141833"/>
+    </item>
+    <item>
+      <title>Firm that left 70,000 homes without water gets £30.5m penalty</title>
+      <link>https://news.sky.com/story/south-east-water-facing-new-305m-penalty-for-multiple-failures-13563232</link>
+      <description>Troubled South East Water (SEW) is facing a £30.5m redress package for multiple customer service failures, the industry watchdog has announced. </description>
+      <pubDate>Tue, 14 Jul 2026 07:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/south-east-water-facing-new-305m-penalty-for-multiple-failures-13563232</guid>
+      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-south-east-water-maidstone_7139618.jpg?20260119114623" length="0" type="image/jpeg"/>
+      <media:description type="html">South East Water staff hand out bottled water at a water station in Maidstone on 13 January. Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-south-east-water-maidstone_7139618.jpg?20260119114623" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-south-east-water-maidstone_7139618.jpg?20260119114623"/>
+    </item>
+    <item>
+      <title>Next PM urged to pave way for bigger council tax rises</title>
+      <link>https://news.sky.com/story/allow-councils-to-put-up-council-tax-by-as-much-as-they-want-mps-tell-burnham-13563208</link>
+      <description>A cross-party group of MPs has told prime minister-in-waiting Andy Burnham he should allow councils to increase council tax by as much as they want.</description>
+      <pubDate>Mon, 13 Jul 2026 22:25:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/allow-councils-to-put-up-council-tax-by-as-much-as-they-want-mps-tell-burnham-13563208</guid>
+      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-andy-burnham-devolution_7297004.jpg?20260713225800" length="0" type="image/jpeg"/>
+      <media:description type="html">Andy Burnham promised mass devolution as part of the &quot;biggest rebalancing of power our country has seen&quot; at a speech in Manchester in June. </media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-andy-burnham-devolution_7297004.jpg?20260713225800" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-andy-burnham-devolution_7297004.jpg?20260713225800"/>
+    </item>
+    <item>
+      <title>US returns $81bn after Trump tariffs ruled illegal</title>
+      <link>https://news.sky.com/story/us-returns-81bn-after-trump-tariffs-ruled-illegal-13563237</link>
+      <description>The US has returned tens of billions of dollars raised through tariffs after they were ruled illegal by the Supreme Court.</description>
+      <pubDate>Tue, 14 Jul 2026 07:27:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/us-returns-81bn-after-trump-tariffs-ruled-illegal-13563237</guid>
+      <enclosure url="https://e3.365dm.com/26/02/1920x1080/skynews-donald-trump-tariffs_7170229.jpg?20260220152207" length="0" type="image/jpeg"/>
+      <media:description type="html">President Donald Trump speaks during an event to announce new tariffs in the Rose Garden at the White House, Wednesday, April 2, 2025, in Washington. (AP Photo/Mark Schiefelbein)</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-donald-trump-tariffs_7170229.jpg?20260220152207" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-donald-trump-tariffs_7170229.jpg?20260220152207"/>
+    </item>
+    <item>
+      <title>World-class UK medical research not delivering enough benefits for British people</title>
+      <link>https://news.sky.com/story/world-class-uk-medical-research-not-delivering-enough-benefits-for-british-people-13563016</link>
+      <description>World-leading medical research in the UK is not yet delivering better health outcomes for enough people in the country, according to a new report.</description>
+      <pubDate>Mon, 13 Jul 2026 12:42:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/world-class-uk-medical-research-not-delivering-enough-benefits-for-british-people-13563016</guid>
+      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-woman-university-medical_7296564.jpg?20260713134958" length="0" type="image/jpeg"/>
+      <media:description type="html">File pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-woman-university-medical_7296564.jpg?20260713134958" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-woman-university-medical_7296564.jpg?20260713134958"/>
+    </item>
+    <item>
+      <title>US states sue to block Paramount's $110bn merger with Warner</title>
+      <link>https://news.sky.com/story/us-states-sue-to-block-paramounts-110bn-merger-with-warner-13563188</link>
+      <description>Twelve US states have sued to block Paramount from acquiring Warner Bros. Discovery in a $110bn deal. </description>
+      <pubDate>Mon, 13 Jul 2026 20:47:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/us-states-sue-to-block-paramounts-110bn-merger-with-warner-13563188</guid>
+      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-warner-bros-paramount_7286686.jpg?20260630154430" length="0" type="image/jpeg"/>
+      <media:description type="html">File pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-warner-bros-paramount_7286686.jpg?20260630154430" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-warner-bros-paramount_7286686.jpg?20260630154430"/>
+    </item>
     <item>
       <title>Rival bid to take over easyJet beats previous offer</title>
       <link>https://news.sky.com/story/rival-bid-to-take-over-easyjet-beats-previous-offer-13562171</link>
@@ -27,15 +93,15 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-easyjet-plane_7150237.jpg?20260130103427"/>
     </item>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Ex-Virgin Money chief to head UK audit watchdog | Mark Kleinman blog&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</link>
-      <description></description>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-gadhia-virgin-money_7295102.jpg?20260711100421" length="0" type="image/jpeg"/>
-      <media:description type="html">Jayne-Anne Gadhia, Chief Executive of Virgin Money </media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-gadhia-virgin-money_7295102.jpg?20260711100421" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-gadhia-virgin-money_7295102.jpg?20260711100421"/>
+      <title>'Biggest pension reforms in a generation': Timing of key changes revealed</title>
+      <link>https://news.sky.com/story/biggest-pension-reforms-in-a-generation-timing-of-key-changes-revealed-13563288</link>
+      <description>Savers will be able to see how well their pension scheme is performing and compare it to others under changes the government has described as the &quot;biggest pension reforms in a generation&quot;.</description>
+      <pubDate>Tue, 14 Jul 2026 10:03:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/biggest-pension-reforms-in-a-generation-timing-of-key-changes-revealed-13563288</guid>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-pension-stock_7216690.jpg?20260411062001" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStocl</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-pension-stock_7216690.jpg?20260411062001" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-pension-stock_7216690.jpg?20260411062001"/>
     </item>
     <item>
       <title>Electricity operator issues historic summertime plea for power as temperatures to soar</title>
@@ -49,17 +115,6 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-heatwave-handheld-fan_7293506.jpg?20260709094613"/>
     </item>
     <item>
-      <title>Top chef on £6.50 supermarket steak you should get in next shop - and why toxic kitchen behaviour hasn't really stopped</title>
-      <link>https://news.sky.com/story/top-chef-on-650-supermarket-steak-you-should-get-in-next-shop-and-why-toxic-kitchen-behaviour-hasnt-really-stopped-13562200</link>
-      <description>Each month our Money blog team interviews chefs from around the UK, hearing about their cheap food hacks and more. This week, we chat to Chris Archer, the head chef of the Michelin-starred restaurant The Pentonbridge Inn in Carlisle...</description>
-      <pubDate>Fri, 10 Jul 2026 09:23:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/top-chef-on-650-supermarket-steak-you-should-get-in-next-shop-and-why-toxic-kitchen-behaviour-hasnt-really-stopped-13562200</guid>
-      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-chris-archer-money-blog_7294361.jpg?20260710095203" length="0" type="image/jpeg"/>
-      <media:description type="html">Chris Archer, head chef of the Michelin-starred restaurant The Pentonbridge Inn in Carlisle.</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-chris-archer-money-blog_7294361.jpg?20260710095203" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-chris-archer-money-blog_7294361.jpg?20260710095203"/>
-    </item>
-    <item>
       <title>Disability benefits 'not fit for purpose' and assessments 'dehumanising'</title>
       <link>https://news.sky.com/story/disability-benefits-not-fit-for-purpose-and-assessments-dehumanising-new-report-finds-13561761</link>
       <description>Personal Independence Payments (PIP) are &quot;not fit for purpose&quot; and can create barriers to work, while the assessment process can be &quot;dehumanising&quot;, a new report found.</description>
@@ -69,61 +124,6 @@
       <media:description type="html">Pic: iStock / monkeybusinessimages</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-gp-doctor-pip_7293320.jpg?20260708220557" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-gp-doctor-pip_7293320.jpg?20260708220557"/>
-    </item>
-    <item>
-      <title>Energy costs rise and stocks fall sharply as US-Iran peace is shattered</title>
-      <link>https://news.sky.com/story/energy-costs-rise-and-stocks-fall-sharply-as-us-iran-peace-is-shattered-13561710</link>
-      <description>There has been a marked increase in global energy prices amid fears of a prolonged resumption to hostilities between the US and Iran.</description>
-      <pubDate>Wed, 08 Jul 2026 15:40:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/energy-costs-rise-and-stocks-fall-sharply-as-us-iran-peace-is-shattered-13561710</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-tanker-strait-of-hormuz_7253693.jpg?20260520080035" length="0" type="image/jpeg"/>
-      <media:description type="html">An oil tanker docked in Fujairah. Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-tanker-strait-of-hormuz_7253693.jpg?20260520080035" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-tanker-strait-of-hormuz_7253693.jpg?20260520080035"/>
-    </item>
-    <item>
-      <title>Financial stability at risk from artificial intelligence, says Bank of England</title>
-      <link>https://news.sky.com/story/financial-stability-at-risk-from-artificial-intelligence-bank-of-england-says-13561255</link>
-      <description>The UK financial system is at increased risk from artificial intelligence (AI), the Bank of England has said. </description>
-      <pubDate>Tue, 07 Jul 2026 11:52:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/financial-stability-at-risk-from-artificial-intelligence-bank-of-england-says-13561255</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-bank-of-england-london_7253072.jpg?20260519124458" length="0" type="image/jpeg"/>
-      <media:description type="html">Foliage grows outside the Bank of England building in London, Britain, May 19, 2026. REUTERS/Corey Rudy</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-bank-of-england-london_7253072.jpg?20260519124458" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-bank-of-england-london_7253072.jpg?20260519124458"/>
-    </item>
-    <item>
-      <title>Qatari tanker hit as it travelled through Strait of Hormuz</title>
-      <link>https://news.sky.com/story/qatari-tanker-hit-as-it-travelled-through-strait-of-hormuz-13561225</link>
-      <description>A Qatari tanker has been hit as it travelled through the Strait of Hormuz, suffering significant damage, Qatar's foreign ministry has said.</description>
-      <pubDate>Tue, 07 Jul 2026 10:37:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/qatari-tanker-hit-as-it-travelled-through-strait-of-hormuz-13561225</guid>
-      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-iran-hormuz_7291918.jpg?20260707113258" length="0" type="image/jpeg"/>
-      <media:description type="html">Tankers and cargo vessels are seen in the Gulf of Oman, along shipping routes linking the Strait of Hormuz and the Arabian Sea, Tuesday, June 16, 2026. (AP Photo)</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-iran-hormuz_7291918.jpg?20260707113258" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-iran-hormuz_7291918.jpg?20260707113258"/>
-    </item>
-    <item>
-      <title>The capital gains tax changes Burnham could make - and the consequences experts are warning about</title>
-      <link>https://news.sky.com/story/the-capital-gains-tax-changes-burnham-could-make-and-the-consequences-experts-are-warning-about-13561193</link>
-      <description>With Andy Burnham seemingly heading unchallenged to Number 10, the spotlight is on him and his closest allies for clues about their policy agenda.  </description>
-      <pubDate>Tue, 07 Jul 2026 08:44:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/the-capital-gains-tax-changes-burnham-could-make-and-the-consequences-experts-are-warning-about-13561193</guid>
-      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-andy-burnham-uk-prime-minister_7291755.jpg?20260707085111" length="0" type="image/jpeg"/>
-      <media:description type="html">Andy Burnham. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-andy-burnham-uk-prime-minister_7291755.jpg?20260707085111" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-andy-burnham-uk-prime-minister_7291755.jpg?20260707085111"/>
-    </item>
-    <item>
-      <title>Sky to pay £1.6bn for ITV's broadcast and streaming division</title>
-      <link>https://news.sky.com/story/sky-to-pay-16bn-for-itvs-broadcast-and-streaming-division-13531722</link>
-      <description>ITV has agreed a £1.6bn deal with Sky, the owner of Sky News, for its media and entertainment arm following months of talks.</description>
-      <pubDate>Tue, 14 Apr 2026 15:11:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/sky-to-pay-16bn-for-itvs-broadcast-and-streaming-division-13531722</guid>
-      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-sky-itv-logos-campus_7074511.jpg?20251107081729" length="0" type="image/jpeg"/>
-      <media:description type="html">Pics: Sky/ITV/Shutterstock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-sky-itv-logos-campus_7074511.jpg?20251107081729" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-sky-itv-logos-campus_7074511.jpg?20251107081729"/>
     </item>
   </channel>
 </rss>
