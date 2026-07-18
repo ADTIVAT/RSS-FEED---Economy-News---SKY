@@ -12,19 +12,52 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 16 Jul 2026 07:40:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 06:53:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
-      <title>British Steel taken into public ownership</title>
+      <title>Thames Water lenders plot legal fight with Burnham over nationalisation</title>
+      <link>https://news.sky.com/story/thames-water-lenders-plot-legal-fight-with-burnham-over-nationalisation-13564564</link>
+      <description>The group of investors engaged in a rescue bid for Thames Water are plotting a multibillion pound legal battle with Andy Burnham's new government if it forcibly nationalises Britain's biggest water company.</description>
+      <pubDate>Sat, 18 Jul 2026 06:53:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/thames-water-lenders-plot-legal-fight-with-burnham-over-nationalisation-13564564</guid>
+      <enclosure url="https://e3.365dm.com/25/08/1920x1080/skynews-thames-water-uk_6988989.jpg?20250812141833" length="0" type="image/jpeg"/>
+      <media:description type="html">Ministers have lined up insolvency practitioners to prepare for the potential collapse of Thames Water, Britain&amp;#39;s biggest water utility.</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/08/1920x1080/skynews-thames-water-uk_6988989.jpg?20250812141833" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/08/1920x1080/skynews-thames-water-uk_6988989.jpg?20250812141833"/>
+    </item>
+    <item>
+      <title>China backlash as British Steel taken into public ownership</title>
       <link>https://news.sky.com/story/british-steel-taken-into-public-ownership-13563871</link>
-      <description>British Steel has been taken into public ownership in the &quot;national interest&quot;, the government has announced.</description>
+      <description>The Chinese government has criticised British Steel being taken into UK public ownership on &quot;national interest&quot; grounds.</description>
       <pubDate>Thu, 16 Jul 2026 06:20:00 +0100</pubDate>
       <guid>https://news.sky.com/story/british-steel-taken-into-public-ownership-13563871</guid>
       <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-british-steel-scunthorpe_7246426.jpg?20260512115647" length="0" type="image/jpeg"/>
       <media:description type="html">General view of the British Steel works in Scunthorpe. British Steel is set to return to public ownership as Sir Keir Starmer announced new laws he said will give the Government &quot;options&quot; to protect the industry and Scunthorpe workers. New powers could be used to nationalise British Steel, 38 years since the firm was first sold off. Picture date: Tuesday May 12, 2026. PA Photo. Photo credit should read: Joe Giddens/PA Wire</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-british-steel-scunthorpe_7246426.jpg?20260512115647" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-british-steel-scunthorpe_7246426.jpg?20260512115647"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;PwC to leapfrog rival KPMG as partner pay surpasses £900,000 again | Mark Kleinman blog&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</link>
+      <description></description>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</guid>
+      <enclosure url="https://e3.365dm.com/22/03/1920x1080/skynews-pricewaterhousecoopers_5696786.jpg?20220306204533" length="0" type="image/jpeg"/>
+      <media:description type="html">PwC is cutting its Russian firm adrift from its global network. Pic: AP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/22/03/1920x1080/skynews-pricewaterhousecoopers_5696786.jpg?20220306204533" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/22/03/1920x1080/skynews-pricewaterhousecoopers_5696786.jpg?20220306204533"/>
+    </item>
+    <item>
+      <title>Delivery trick Tesco wouldn't tell us about - but their drivers did | Money newsletter</title>
+      <link>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</link>
+      <description>More than 200,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
+      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</guid>
+      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-tesco-istock-stock_7270619.jpg?20260611102736" length="0" type="image/jpeg"/>
+      <media:description type="html">A Tesco delivery van. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-tesco-istock-stock_7270619.jpg?20260611102736" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-tesco-istock-stock_7270619.jpg?20260611102736"/>
     </item>
     <item>
       <title>Economy flatlining as Reeves nears Number 11 exit</title>
@@ -36,17 +69,6 @@
       <media:description type="html">Chancellor of the Exchequer, Rachel Reeves arrives to deliver a speech at the AI Adoption Summit, in the Smith Centre at the Science Museum,</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-rachel-reeves-speech_7268392.jpg?20260608143401" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-rachel-reeves-speech_7268392.jpg?20260608143401"/>
-    </item>
-    <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Top Starmer business aide to stay on under Burnham | Mark Kleinman blog&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</link>
-      <description></description>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</guid>
-      <enclosure url="https://e3.365dm.com/25/12/1920x1080/skynews-varun-chandra-chandra_7114557.jpg?20251218214405" length="0" type="image/jpeg"/>
-      <media:description type="html">Varun Chandra. File pic: AP</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/12/1920x1080/skynews-varun-chandra-chandra_7114557.jpg?20251218214405" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/12/1920x1080/skynews-varun-chandra-chandra_7114557.jpg?20251218214405"/>
     </item>
     <item>
       <title>TikTok under investigation in UK over child safety measures</title>
@@ -102,28 +124,6 @@
       <media:description type="html">Palestinian students gather near a fence installed by Israeli settlers in their way to school, near Umm al-Khair village in Masafer Yatta, i</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-west-bank-palestinians_7219587.jpg?20260414095125" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-west-bank-palestinians_7219587.jpg?20260414095125"/>
-    </item>
-    <item>
-      <title>Firm that left 70,000 homes without water gets £30.5m penalty</title>
-      <link>https://news.sky.com/story/south-east-water-facing-new-305m-penalty-for-multiple-failures-13563232</link>
-      <description>Troubled South East Water (SEW) is facing a £30.5m redress package for multiple customer service failures, the industry watchdog has announced. </description>
-      <pubDate>Tue, 14 Jul 2026 07:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/south-east-water-facing-new-305m-penalty-for-multiple-failures-13563232</guid>
-      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-south-east-water-maidstone_7139618.jpg?20260119114623" length="0" type="image/jpeg"/>
-      <media:description type="html">South East Water staff hand out bottled water at a water station in Maidstone on 13 January. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-south-east-water-maidstone_7139618.jpg?20260119114623" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-south-east-water-maidstone_7139618.jpg?20260119114623"/>
-    </item>
-    <item>
-      <title>Next PM urged to pave way for bigger council tax rises</title>
-      <link>https://news.sky.com/story/allow-councils-to-put-up-council-tax-by-as-much-as-they-want-mps-tell-burnham-13563208</link>
-      <description>A cross-party group of MPs has told prime minister-in-waiting Andy Burnham he should allow councils to increase council tax by as much as they want.</description>
-      <pubDate>Mon, 13 Jul 2026 22:25:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/allow-councils-to-put-up-council-tax-by-as-much-as-they-want-mps-tell-burnham-13563208</guid>
-      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-andy-burnham-devolution_7297004.jpg?20260713225800" length="0" type="image/jpeg"/>
-      <media:description type="html">Andy Burnham promised mass devolution as part of the &quot;biggest rebalancing of power our country has seen&quot; at a speech in Manchester in June. </media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-andy-burnham-devolution_7297004.jpg?20260713225800" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-andy-burnham-devolution_7297004.jpg?20260713225800"/>
     </item>
   </channel>
 </rss>
