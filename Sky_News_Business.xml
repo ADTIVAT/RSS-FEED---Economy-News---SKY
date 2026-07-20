@@ -12,9 +12,31 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 06:53:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 12:14:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Under-fire pollster YouGov eyes Levings as next boss</title>
+      <link>https://news.sky.com/story/under-fire-pollster-yougov-eyes-levings-as-next-boss-13564917</link>
+      <description>A former boss of the market research firm Kantar's operations in the Americas has been shortlisted to become the next chief executive of YouGov, the under-fire London-listed polling firm.</description>
+      <pubDate>Sun, 19 Jul 2026 12:14:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/under-fire-pollster-yougov-eyes-levings-as-next-boss-13564917</guid>
+      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-yougov-website_7301360.jpg?20260719111945" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: YouGov</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-yougov-website_7301360.jpg?20260719111945" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-yougov-website_7301360.jpg?20260719111945"/>
+    </item>
+    <item>
+      <title>Queues close to an hour at Dover ahead of one of the busiest weekends for drivers</title>
+      <link>https://news.sky.com/story/queues-close-to-an-hour-at-port-of-dover-ahead-of-one-of-the-busiest-weekends-for-drivers-13564562</link>
+      <description>Queues close to an hour formed at the Port of Dover on Friday night, ahead of what's expected to be one of the busiest weekends in years for drivers.</description>
+      <pubDate>Sat, 18 Jul 2026 01:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/queues-close-to-an-hour-at-port-of-dover-ahead-of-one-of-the-busiest-weekends-for-drivers-13564562</guid>
+      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-port-of-dover-traffic-queues_7300467.jpg?20260718003803" length="0" type="image/jpeg"/>
+      <media:description type="html">There have been reports of queues up to 45 minutes long at the port of Dover</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-port-of-dover-traffic-queues_7300467.jpg?20260718003803" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-port-of-dover-traffic-queues_7300467.jpg?20260718003803"/>
+    </item>
     <item>
       <title>Thames Water lenders plot legal fight with Burnham over nationalisation</title>
       <link>https://news.sky.com/story/thames-water-lenders-plot-legal-fight-with-burnham-over-nationalisation-13564564</link>
@@ -25,6 +47,17 @@
       <media:description type="html">Ministers have lined up insolvency practitioners to prepare for the potential collapse of Thames Water, Britain&amp;#39;s biggest water utility.</media:description>
       <media:thumbnail url="https://e3.365dm.com/25/08/1920x1080/skynews-thames-water-uk_6988989.jpg?20250812141833" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/08/1920x1080/skynews-thames-water-uk_6988989.jpg?20250812141833"/>
+    </item>
+    <item>
+      <title>Delivery trick Tesco wouldn't tell us about - but their drivers did | Money newsletter</title>
+      <link>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</link>
+      <description>More than 200,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
+      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</guid>
+      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-tesco-istock-stock_7270619.jpg?20260611102736" length="0" type="image/jpeg"/>
+      <media:description type="html">A Tesco delivery van. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-tesco-istock-stock_7270619.jpg?20260611102736" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-tesco-istock-stock_7270619.jpg?20260611102736"/>
     </item>
     <item>
       <title>China backlash as British Steel taken into public ownership</title>
@@ -47,17 +80,6 @@
       <media:description type="html">PwC is cutting its Russian firm adrift from its global network. Pic: AP</media:description>
       <media:thumbnail url="https://e3.365dm.com/22/03/1920x1080/skynews-pricewaterhousecoopers_5696786.jpg?20220306204533" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/22/03/1920x1080/skynews-pricewaterhousecoopers_5696786.jpg?20220306204533"/>
-    </item>
-    <item>
-      <title>Delivery trick Tesco wouldn't tell us about - but their drivers did | Money newsletter</title>
-      <link>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</link>
-      <description>More than 200,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
-      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</guid>
-      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-tesco-istock-stock_7270619.jpg?20260611102736" length="0" type="image/jpeg"/>
-      <media:description type="html">A Tesco delivery van. Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-tesco-istock-stock_7270619.jpg?20260611102736" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-tesco-istock-stock_7270619.jpg?20260611102736"/>
     </item>
     <item>
       <title>Economy flatlining as Reeves nears Number 11 exit</title>
@@ -102,28 +124,6 @@
       <media:description type="html">London, UK-June 8, 2021: Real estate agent &quot;To let &quot; signs in front of terrace house in London.</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-rent-property_7298697.jpg?20260716004132" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-rent-property_7298697.jpg?20260716004132"/>
-    </item>
-    <item>
-      <title>Thames Water boss sees Burnham 'risk' as customer complaints surge 101%</title>
-      <link>https://news.sky.com/story/thames-water-warns-on-burnham-factor-as-customer-complaints-surge-101-13563362</link>
-      <description>Thames Water has warned funding is due to dry up by November and further money will be dependent on the views of incoming PM Andy Burnham, as its major lenders seek to shore up its financial future. </description>
-      <pubDate>Tue, 14 Jul 2026 12:58:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/thames-water-warns-on-burnham-factor-as-customer-complaints-surge-101-13563362</guid>
-      <enclosure url="https://e3.365dm.com/24/04/1920x1080/skynews-thames-water-repairs_6509865.jpg?20240601092709" length="0" type="image/jpeg"/>
-      <media:description type="html">Thames Water vans are parked on a road as repair and maintenance work takes place, in London, Britain, April 3, 2024. REUTERS/Toby Melville</media:description>
-      <media:thumbnail url="https://e3.365dm.com/24/04/1920x1080/skynews-thames-water-repairs_6509865.jpg?20240601092709" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/24/04/1920x1080/skynews-thames-water-repairs_6509865.jpg?20240601092709"/>
-    </item>
-    <item>
-      <title>UK working to ban goods and services exports to and imports from Israeli settlements</title>
-      <link>https://news.sky.com/story/uk-working-to-ban-goods-and-services-exports-to-and-imports-from-israeli-settlements-13563617</link>
-      <description>The UK government is working on a ban on imports and exports to illegal Israeli settlements, the trade minister confirmed on Wednesday morning. </description>
-      <pubDate>Wed, 15 Jul 2026 10:02:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/uk-working-to-ban-goods-and-services-exports-to-and-imports-from-israeli-settlements-13563617</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-west-bank-palestinians_7219587.jpg?20260414095125" length="0" type="image/jpeg"/>
-      <media:description type="html">Palestinian students gather near a fence installed by Israeli settlers in their way to school, near Umm al-Khair village in Masafer Yatta, i</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-west-bank-palestinians_7219587.jpg?20260414095125" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-west-bank-palestinians_7219587.jpg?20260414095125"/>
     </item>
   </channel>
 </rss>
