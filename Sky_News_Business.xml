@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 19 Jul 2026 12:14:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 11:49:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>TG Jones owner Modella weighs tilt at Harvey Nichols</title>
+      <link>https://news.sky.com/story/tg-jones-owner-modella-weighs-tilt-at-harvey-nichols-13565211</link>
+      <description>The prolific retail investor, which last month won approval for a deal to avert the collapse of WHSmith's former high street arm, is weighing a bid for Harvey Nichols, the upmarket department store chain.</description>
+      <pubDate>Mon, 20 Jul 2026 11:47:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/tg-jones-owner-modella-weighs-tilt-at-harvey-nichols-13565211</guid>
+      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-harvey-nichols-london_7289318.jpg?20260704081440" length="0" type="image/jpeg"/>
+      <media:description type="html">Harvey Nichols department store in Knightsbridge, London. PRESS ASSOCIATION PhotoWednesday August 14, 2013. Nick Ansell/PA Wire.</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-harvey-nichols-london_7289318.jpg?20260704081440" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-harvey-nichols-london_7289318.jpg?20260704081440"/>
+    </item>
     <item>
       <title>Under-fire pollster YouGov eyes Levings as next boss</title>
       <link>https://news.sky.com/story/under-fire-pollster-yougov-eyes-levings-as-next-boss-13564917</link>
@@ -25,6 +36,17 @@
       <media:description type="html">Pic: YouGov</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-yougov-website_7301360.jpg?20260719111945" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-yougov-website_7301360.jpg?20260719111945"/>
+    </item>
+    <item>
+      <title>Hosepipe ban brought in for millions more people</title>
+      <link>https://news.sky.com/story/hosepipe-ban-brought-in-for-more-people-amid-decline-in-river-levels-13565213</link>
+      <description>More than two million people will face a hosepipe ban after South East Water said it was extending water restrictions.</description>
+      <pubDate>Mon, 20 Jul 2026 11:49:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/hosepipe-ban-brought-in-for-more-people-amid-decline-in-river-levels-13565213</guid>
+      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-hosepipe-water-restrictions_7302245.jpg?20260720120120" length="0" type="image/jpeg"/>
+      <media:description type="html">A garden hosepipe. File pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-hosepipe-water-restrictions_7302245.jpg?20260720120120" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-hosepipe-water-restrictions_7302245.jpg?20260720120120"/>
     </item>
     <item>
       <title>Queues close to an hour at Dover ahead of one of the busiest weekends for drivers</title>
@@ -71,6 +93,17 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-british-steel-scunthorpe_7246426.jpg?20260512115647"/>
     </item>
     <item>
+      <title>The 'huge' mistake warring couples are making with pensions</title>
+      <link>https://news.sky.com/story/the-huge-mistake-warring-couples-are-making-with-pensions-13565149</link>
+      <description>Couples could be giving away cash to their soon-to-be ex by overlooking pensions in divorce settlements, experts have told the Money blog. </description>
+      <pubDate>Mon, 20 Jul 2026 09:21:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/the-huge-mistake-warring-couples-are-making-with-pensions-13565149</guid>
+      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-istock-stock-file-generic_7299623.jpg?20260717055647" length="0" type="image/jpeg"/>
+      <media:description type="html">Paperwork and rings on the table between two people, perhaps a negotiating couple. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-istock-stock-file-generic_7299623.jpg?20260717055647" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-istock-stock-file-generic_7299623.jpg?20260717055647"/>
+    </item>
+    <item>
       <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;PwC to leapfrog rival KPMG as partner pay surpasses £900,000 again | Mark Kleinman blog&lt;/a&gt;</title>
       <link>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</link>
       <description></description>
@@ -91,39 +124,6 @@
       <media:description type="html">Chancellor of the Exchequer, Rachel Reeves arrives to deliver a speech at the AI Adoption Summit, in the Smith Centre at the Science Museum,</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-rachel-reeves-speech_7268392.jpg?20260608143401" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-rachel-reeves-speech_7268392.jpg?20260608143401"/>
-    </item>
-    <item>
-      <title>TikTok under investigation in UK over child safety measures</title>
-      <link>https://news.sky.com/story/tiktok-being-investigated-by-ofcom-over-child-safety-measures-13563884</link>
-      <description>Ofcom has launched an investigation into whether TikTok is failing to protect children from harmful content.</description>
-      <pubDate>Thu, 16 Jul 2026 06:41:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/tiktok-being-investigated-by-ofcom-over-child-safety-measures-13563884</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-tiktok-social-media_7243311.jpg?20260509110220" length="0" type="image/jpeg"/>
-      <media:description type="html">TikTok&amp;#39;s logo</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-tiktok-social-media_7243311.jpg?20260509110220" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-tiktok-social-media_7243311.jpg?20260509110220"/>
-    </item>
-    <item>
-      <title>Parents face £1,100 bill for summer holiday childcare</title>
-      <link>https://news.sky.com/story/parents-face-1100-bill-for-summer-holiday-childcare-13563859</link>
-      <description>Families face spending more than £1,100 per child for summer holiday childcare, new research suggests.</description>
-      <pubDate>Thu, 16 Jul 2026 00:15:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/parents-face-1100-bill-for-summer-holiday-childcare-13563859</guid>
-      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-childcare-mother-daughter_7298701.jpg?20260716011100" length="0" type="image/jpeg"/>
-      <media:description type="html">Medium low-angle shot of a mother and daughter playing with toys together on the floor in a community library in Newcastle-upon-Tyne, North </media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-childcare-mother-daughter_7298701.jpg?20260716011100" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-childcare-mother-daughter_7298701.jpg?20260716011100"/>
-    </item>
-    <item>
-      <title>Average asking rent reaches record high</title>
-      <link>https://news.sky.com/story/average-asking-rent-reaches-record-high-13563858</link>
-      <description>The average advertised private rent on a home in Britain has reached a record £1,397 per month, according to Rightmove.</description>
-      <pubDate>Thu, 16 Jul 2026 00:14:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/average-asking-rent-reaches-record-high-13563858</guid>
-      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-rent-property_7298697.jpg?20260716004132" length="0" type="image/jpeg"/>
-      <media:description type="html">London, UK-June 8, 2021: Real estate agent &quot;To let &quot; signs in front of terrace house in London.</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-rent-property_7298697.jpg?20260716004132" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-rent-property_7298697.jpg?20260716004132"/>
     </item>
   </channel>
 </rss>
