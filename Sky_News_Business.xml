@@ -12,9 +12,53 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 22 Jul 2026 14:03:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 13:14:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>EU risks Trump backlash with $1bn fine on Google</title>
+      <link>https://news.sky.com/story/eu-steers-trump-collision-course-with-1bn-google-fine-13566292</link>
+      <description>The European Union (EU) has imposed another big fine on a US tech giant in defiance of warnings of reprisals from Donald Trump.</description>
+      <pubDate>Thu, 23 Jul 2026 13:14:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/eu-steers-trump-collision-course-with-1bn-google-fine-13566292</guid>
+      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-google-logi_7288073.jpg?20260702125749" length="0" type="image/jpeg"/>
+      <media:description type="html">File pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-google-logi_7288073.jpg?20260702125749" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-google-logi_7288073.jpg?20260702125749"/>
+    </item>
+    <item>
+      <title>What Burnham means for your money - from income tax to pensions</title>
+      <link>https://news.sky.com/story/what-burnham-means-for-your-money-from-income-tax-to-pensions-13566020</link>
+      <description>Andy Burnham has made a third policy announcement to help bring down costs - after dropping hints there would be more to come. </description>
+      <pubDate>Wed, 22 Jul 2026 15:47:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/what-burnham-means-for-your-money-from-income-tax-to-pensions-13566020</guid>
+      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-andy-burnham_7304347.jpg?20260722161540" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-andy-burnham_7304347.jpg?20260722161540" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-andy-burnham_7304347.jpg?20260722161540"/>
+    </item>
+    <item>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Former BBC Dragon in talks about multimillion pound fundraising for latest Nightcap deal | Mark Kleinman blog&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</link>
+      <description></description>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</guid>
+      <enclosure url="https://e3.365dm.com/16/02/1920x1080/cegrab-20150710-090612-674-1-2048x1536_3414006.jpg?20160211031014" length="0" type="image/jpeg"/>
+      <media:description type="html">Sarah Willingham</media:description>
+      <media:thumbnail url="https://e3.365dm.com/16/02/1920x1080/cegrab-20150710-090612-674-1-2048x1536_3414006.jpg?20160211031014" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/16/02/1920x1080/cegrab-20150710-090612-674-1-2048x1536_3414006.jpg?20160211031014"/>
+    </item>
+    <item>
+      <title> West Ham women's team sale talks stall amid Sullivan crisis</title>
+      <link>https://news.sky.com/story/west-ham-womens-team-sale-talks-stall-amid-sullivan-crisis-13566241</link>
+      <description>Talks about the sale of a stake in West Ham United's women's team have stalled amid a move by the buyer to acquire it outright, amid allegations of sexual misconduct involving the club's biggest shareholder.</description>
+      <pubDate>Thu, 23 Jul 2026 10:55:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/west-ham-womens-team-sale-talks-stall-amid-sullivan-crisis-13566241</guid>
+      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-west-ham-united-womens-super-league_7304867.jpg?20260723112749" length="0" type="image/jpeg"/>
+      <media:description type="html"> Manchester City&amp;#39;s Khadija Shaw in action with West Ham United&amp;#39;s Eva Nystrom . Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-west-ham-united-womens-super-league_7304867.jpg?20260723112749" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-west-ham-united-womens-super-league_7304867.jpg?20260723112749"/>
+    </item>
     <item>
       <title>UK considered suspending trade agreement with Israel</title>
       <link>https://news.sky.com/story/uk-considered-suspending-trade-agreement-with-israel-over-gaza-and-west-bank-actions-13565141</link>
@@ -81,51 +125,6 @@
       <media:description type="html">File pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-openai-logo_7252650.jpg?20260722202548" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-openai-logo_7252650.jpg?20260722202548"/>
-    </item>
-    <item>
-      <title>Small business lender Iwoca finds Qatalyst for £1bn sale</title>
-      <link>https://news.sky.com/story/small-business-lender-iwoca-finds-qatalyst-for-1bn-sale-13565964</link>
-      <description>One of Britain's fastest-growing small business lenders has hired bankers to launch a sale which is expected to value it at well over £1bn.</description>
-      <pubDate>Wed, 22 Jul 2026 14:03:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/small-business-lender-iwoca-finds-qatalyst-for-1bn-sale-13565964</guid>
-      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-money-cash-money-blog_7264501.jpg?20260603132306" length="0" type="image/jpeg"/>
-      <media:description type="html">A man&amp;#39;s hands holding £50 notes.
-Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-money-cash-money-blog_7264501.jpg?20260603132306" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-money-cash-money-blog_7264501.jpg?20260603132306"/>
-    </item>
-    <item>
-      <title>Why are people suddenly saying the state pension age is rising to 68?</title>
-      <link>https://news.sky.com/story/why-are-people-suddenly-saying-the-state-pension-age-is-rising-to-68-13565927</link>
-      <description>You may have read over the past week that the state pension age will rise to 68 seven years earlier than planned.</description>
-      <pubDate>Wed, 22 Jul 2026 12:26:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/why-are-people-suddenly-saying-the-state-pension-age-is-rising-to-68-13565927</guid>
-      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-money-pensions_7304117.jpg?20260722123448" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock </media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-money-pensions_7304117.jpg?20260722123448" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-money-pensions_7304117.jpg?20260722123448"/>
-    </item>
-    <item>
-      <title>Reform deputy leader urges Burnham to seize control of Thames Water</title>
-      <link>https://news.sky.com/story/reform-deputy-leader-tice-urges-burnham-to-seize-control-of-thames-water-13565503</link>
-      <description>Richard Tice, the deputy leader of Reform, has repeated a demand for Thames Water to be placed into a temporary form of public ownership and said he feels &quot;gut-wrenching fury&quot; over the seven-figure remuneration packages handed to the company's top executives as it teeters on the brink of collapse.</description>
-      <pubDate>Tue, 21 Jul 2026 09:01:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/reform-deputy-leader-tice-urges-burnham-to-seize-control-of-thames-water-13565503</guid>
-      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-richard-tice-pmqs_7298168.jpg?20260715123051" length="0" type="image/jpeg"/>
-      <media:description type="html">Richard Tice </media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-richard-tice-pmqs_7298168.jpg?20260715123051" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-richard-tice-pmqs_7298168.jpg?20260715123051"/>
-    </item>
-    <item>
-      <title>Private sector wage growth hits six year low </title>
-      <link>https://news.sky.com/story/private-sector-wage-growth-hits-six-year-low-falling-below-3-13565466</link>
-      <description>Private sector wage growth has fallen below 3% for the first time since 2020, official figures show. </description>
-      <pubDate>Tue, 21 Jul 2026 06:10:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/private-sector-wage-growth-hits-six-year-low-falling-below-3-13565466</guid>
-      <enclosure url="https://e3.365dm.com/26/02/1920x1080/skynews-job-centre-unemployment_7168407.jpg?20260218161905" length="0" type="image/jpeg"/>
-      <media:description type="html">File pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-job-centre-unemployment_7168407.jpg?20260218161905" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-job-centre-unemployment_7168407.jpg?20260218161905"/>
     </item>
   </channel>
 </rss>
