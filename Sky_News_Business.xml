@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 29 Jul 2026 13:59:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 05:35:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Prices cut and production drops as Chinese cars flood UK market</title>
+      <link>https://news.sky.com/story/a-lot-of-discounting-as-chinese-cars-flood-uk-market-13568292</link>
+      <description>Established car manufacturers are being forced to discount heavily in the face of cheap competition from China, the head of the UK's industry lobby group has admitted.</description>
+      <pubDate>Thu, 30 Jul 2026 05:35:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/a-lot-of-discounting-as-chinese-cars-flood-uk-market-13568292</guid>
+      <enclosure url="https://e3.365dm.com/25/04/1920x1080/skynews-factory-car-china-hefei_6879517.jpg?20250408074839" length="0" type="image/jpeg"/>
+      <media:description type="html">Employees work on the production line at a factory of Chinese electric vehicle (EV) maker Nio in Hefei, Anhui province, China April 2, 2025. REUTERS/Florence Lo</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/04/1920x1080/skynews-factory-car-china-hefei_6879517.jpg?20250408074839" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/04/1920x1080/skynews-factory-car-china-hefei_6879517.jpg?20250408074839"/>
+    </item>
     <item>
       <title>Czech FA president backs Infantino's $20bn World Cup sale plan</title>
       <link>https://news.sky.com/story/czech-fa-president-backs-infantinos-20bn-world-cup-sale-plan-13568016</link>
@@ -114,17 +125,6 @@
       <media:description type="html">Chickens gather near water feeders at a poultry farm in Nashik, India, July 28, 2025. REUTERS/Francis Mascarenhas</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-chicken-farm-poultry_7308123.jpg?20260727215630" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-chicken-farm-poultry_7308123.jpg?20260727215630"/>
-    </item>
-    <item>
-      <title>Next and Frasers to lodge Harvey Nichols takeover bids</title>
-      <link>https://news.sky.com/story/next-and-frasers-to-lodge-harvey-nichols-takeover-bids-tomorrow-13567517</link>
-      <description>British-based suitors for Harvey Nichols have been told to submit offers on Tuesday as one of Britain's best-known department store chains prepares to pick a new owner.</description>
-      <pubDate>Mon, 27 Jul 2026 17:47:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/next-and-frasers-to-lodge-harvey-nichols-takeover-bids-tomorrow-13567517</guid>
-      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-harvey-nichols-london_7289317.jpg?20260704081351" length="0" type="image/jpeg"/>
-      <media:description type="html">Harvey Nichols department store in Knightsbridge, London. PRESS ASSOCIATION Photo. Wednesday August 14, 2013. Nick Ansell/PA Wire.</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-harvey-nichols-london_7289317.jpg?20260704081351" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-harvey-nichols-london_7289317.jpg?20260704081351"/>
     </item>
   </channel>
 </rss>
