@@ -12,7 +12,7 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 03 Aug 2026 10:18:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 10:25:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
@@ -27,15 +27,26 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-petrol-pump-station_7312553.jpg?20260803072726"/>
     </item>
     <item>
+      <title>Premier League to table £1.5bn new deal offer to EFL on Tuesday</title>
+      <link>https://news.sky.com/story/premier-league-to-table-15bn-new-deal-offer-to-efl-on-tuesday-13569364</link>
+      <description>The Premier League will on Tuesday formally table a £1.5bn blueprint for the finances of English professional football over the next decade.</description>
+      <pubDate>Mon, 03 Aug 2026 10:25:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/premier-league-to-table-15bn-new-deal-offer-to-efl-on-tuesday-13569364</guid>
+      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-arsenal-champions_7306290.jpg?20260725065749" length="0" type="image/jpeg"/>
+      <media:description type="html">Arsenal with the Premier League trophy. Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-arsenal-champions_7306290.jpg?20260725065749" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-arsenal-champions_7306290.jpg?20260725065749"/>
+    </item>
+    <item>
       <title>Guinness-owner Diageo poaches P&amp;G exec as City awaits turnaround plan</title>
       <link>https://news.sky.com/story/guinness-owner-diageo-poaches-pg-exec-as-city-awaits-turnaround-plan-13569360</link>
       <description>The newly installed boss of Diageo has poached a senior Procter &amp; Gamble (P&amp;G) executive to join his leadership team, days before he unveils a revival plan for the maker of Guinness and Johnnie Walker.</description>
       <pubDate>Mon, 03 Aug 2026 10:18:00 +0100</pubDate>
       <guid>https://news.sky.com/story/guinness-owner-diageo-poaches-pg-exec-as-city-awaits-turnaround-plan-13569360</guid>
-      <enclosure url="https://e3.365dm.com/24/02/1920x1080/skynews-smirnoff-diageo_6441684.jpg?20240202114150" length="0" type="image/jpeg"/>
+      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-guinness-money_7136028.jpg?20260115102836" length="0" type="image/jpeg"/>
       <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/24/02/1920x1080/skynews-smirnoff-diageo_6441684.jpg?20240202114150" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/24/02/1920x1080/skynews-smirnoff-diageo_6441684.jpg?20240202114150"/>
+      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-guinness-money_7136028.jpg?20260115102836" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-guinness-money_7136028.jpg?20260115102836"/>
     </item>
     <item>
       <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Belgian-based Sereni clinches £200m takeover of UK's third-biggest funeral services group | Mark Kleinman blog&lt;/a&gt;</title>
@@ -114,17 +125,6 @@
       <media:description type="html">HS2 staff walk through the Chilterns tunnel at West Hyde, Hertfordshire, as the HS2 project continues. Pic: PA</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-hs2-staff-rail-line_7253295.jpg?20260519171836" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-hs2-staff-rail-line_7253295.jpg?20260519171836"/>
-    </item>
-    <item>
-      <title>The Maradona effect: Bank of England's banking on markets to prevent rate hikes</title>
-      <link>https://news.sky.com/story/the-maradona-effect-the-bank-of-englands-banking-on-markets-to-prevent-rate-hikes-13568319</link>
-      <description>I realise the World Cup is over and, more to the point, no-one particularly wants to hear any more about the Argentinian football team, but indulge me for a moment</description>
-      <pubDate>Thu, 30 Jul 2026 08:26:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/the-maradona-effect-the-bank-of-englands-banking-on-markets-to-prevent-rate-hikes-13568319</guid>
-      <enclosure url="https://e3.365dm.com/24/05/1920x1080/skynews-diego-maradona-world-cup_6547002.png?20240508082036" length="0" type="image/png"/>
-      <media:description type="html">Maradona&amp;#39;s infamous &amp;#39;hand of god&amp;#39; goal. Pic: Aguttes Auction House</media:description>
-      <media:thumbnail url="https://e3.365dm.com/24/05/1920x1080/skynews-diego-maradona-world-cup_6547002.png?20240508082036" width="1920" height="1080"/>
-      <media:content type="image/png" url="https://e3.365dm.com/24/05/1920x1080/skynews-diego-maradona-world-cup_6547002.png?20240508082036"/>
     </item>
   </channel>
 </rss>
