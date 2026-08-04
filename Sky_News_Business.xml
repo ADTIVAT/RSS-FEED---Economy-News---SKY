@@ -12,7 +12,7 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 04 Aug 2026 06:34:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 17:46:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
@@ -27,6 +27,17 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-bp-wilfred-frost_7233189.jpg?20260428140900"/>
     </item>
     <item>
+      <title>Ashley leads race to Worship £75m City real estate deal</title>
+      <link>https://news.sky.com/story/ashley-leads-race-to-worship-75m-city-real-estate-deal-13569811</link>
+      <description>The high street billionaire Mike Ashley is leading a race to acquire a collection of London buildings in what would represent a further expansion of his burgeoning property empire.</description>
+      <pubDate>Tue, 04 Aug 2026 17:46:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/ashley-leads-race-to-worship-75m-city-real-estate-deal-13569811</guid>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-mike-ashley_7234711.jpg?20260429224843" length="0" type="image/jpeg"/>
+      <media:description type="html">Newcastle United owner Mike Ashley before a match at the Kassam Stadium. Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-mike-ashley_7234711.jpg?20260429224843" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-mike-ashley_7234711.jpg?20260429224843"/>
+    </item>
+    <item>
       <title>The retail giants joining police to take on shoplifters</title>
       <link>https://news.sky.com/story/greggs-boots-and-ms-team-up-with-met-police-to-tackle-shoplifters-13569577</link>
       <description>Major retailers on London's high streets are using new technology from the Metropolitan Police to catch shoplifters.</description>
@@ -36,6 +47,17 @@
       <media:description type="html">A male shoplifter stealing some expensive gourmet cheese in a supermarket stock photo</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-crime-shoplifting_7313330.jpg?20260804012350" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-crime-shoplifting_7313330.jpg?20260804012350"/>
+    </item>
+    <item>
+      <title>Permira plots £700m bid for upmarket gyms operator Third Space</title>
+      <link>https://news.sky.com/story/permira-plots-700m-bid-for-upmarket-gyms-operator-third-space-13569712</link>
+      <description>The buyout firm Permira is among a pack of bidders pursuing a possible £700m takeover of Third Space, the upmarket London-based health clubs operator.</description>
+      <pubDate>Tue, 04 Aug 2026 13:22:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/permira-plots-700m-bid-for-upmarket-gyms-operator-third-space-13569712</guid>
+      <enclosure url="https://e3.365dm.com/22/08/1920x1080/skynews-1315221985-gym-arm-curls_5865397.jpg?20230602103245" length="0" type="image/jpeg"/>
+      <media:description type="html">Woman in Gym</media:description>
+      <media:thumbnail url="https://e3.365dm.com/22/08/1920x1080/skynews-1315221985-gym-arm-curls_5865397.jpg?20230602103245" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/22/08/1920x1080/skynews-1315221985-gym-arm-curls_5865397.jpg?20230602103245"/>
     </item>
     <item>
       <title>Former Barclays chief Jenkins raises £40m for tech platform 10x Banking</title>
@@ -103,28 +125,6 @@
       <media:description type="html">San Antonio Spurs forward Victor Wembanyama shoots over Oklahoma City Thunder guard Ajay Mitchell (25) and Isaiah Hartenstein, center, during Game 2 of the Western Conference finals of the NBA basketball playoffs Wednesday, May 20, 2026, in Oklahoma City. (AP Photo/Tony Gutierrez)</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-nba-basketball_7311697.jpg?20260801092307" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-nba-basketball_7311697.jpg?20260801092307"/>
-    </item>
-    <item>
-      <title>BP hangs for sale sign over North Sea operations</title>
-      <link>https://news.sky.com/story/bp-hangs-for-sale-sign-over-north-sea-operations-13568673</link>
-      <description>BP has placed its North Sea oil and gas business up for sale.</description>
-      <pubDate>Fri, 31 Jul 2026 07:35:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/bp-hangs-for-sale-sign-over-north-sea-operations-13568673</guid>
-      <enclosure url="https://e3.365dm.com/21/08/1920x1080/skynews-north-sea-oil-drilling_5496902.jpg?20210831232556" length="0" type="image/jpeg"/>
-      <media:description type="html">The UK government is being sued after it granted BP a new drilling licence in the North Sea</media:description>
-      <media:thumbnail url="https://e3.365dm.com/21/08/1920x1080/skynews-north-sea-oil-drilling_5496902.jpg?20210831232556" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/21/08/1920x1080/skynews-north-sea-oil-drilling_5496902.jpg?20210831232556"/>
-    </item>
-    <item>
-      <title>Betfred to cut 600 jobs as 132 shops close amid industry tax raid</title>
-      <link>https://news.sky.com/story/betfred-to-cut-600-jobs-as-132-shops-close-amid-industry-tax-raid-13568679</link>
-      <description>One of Britain's biggest high street bookmakers is to axe hundreds of jobs as it prepares to close more than 130 shops amid a deepening tax raid on the industry.</description>
-      <pubDate>Fri, 31 Jul 2026 08:11:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/betfred-to-cut-600-jobs-as-132-shops-close-amid-industry-tax-raid-13568679</guid>
-      <enclosure url="https://e3.365dm.com/21/04/1920x1080/skynews-betfred-online-casino_5333407.jpg?20210407161226" length="0" type="image/jpeg"/>
-      <media:description type="html">Betfred bookmakers sign on their shop in Chinatown in London. (Photo by Dave Rushen / SOPA Images/Sipa USA)</media:description>
-      <media:thumbnail url="https://e3.365dm.com/21/04/1920x1080/skynews-betfred-online-casino_5333407.jpg?20210407161226" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/21/04/1920x1080/skynews-betfred-online-casino_5333407.jpg?20210407161226"/>
     </item>
   </channel>
 </rss>
