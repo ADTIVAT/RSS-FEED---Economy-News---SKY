@@ -12,7 +12,7 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 05 Aug 2026 01:57:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 09:47:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
@@ -47,6 +47,17 @@
       <media:description type="html">Wilfred Frost explains BP&amp;#39;s profit surge</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-bp-wilfred-frost_7233189.jpg?20260428140900" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-bp-wilfred-frost_7233189.jpg?20260428140900"/>
+    </item>
+    <item>
+      <title>Food hall company founded by husband and wife set for stock market listing</title>
+      <link>https://news.sky.com/story/husband-and-wifes-food-halls-seek-blend-with-london-stock-market-13569965</link>
+      <description>An operator of food halls run by a husband-and-wife team is plotting a flotation on London's junior stock market that will value it at tens of millions of pounds.</description>
+      <pubDate>Wed, 05 Aug 2026 09:47:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/husband-and-wifes-food-halls-seek-blend-with-london-stock-market-13569965</guid>
+      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-blend-cambridge-street_7314310.jpg?20260805095427" length="0" type="image/jpeg"/>
+      <media:description type="html">Cambridge Street. Pic: Blend Family</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-blend-cambridge-street_7314310.jpg?20260805095427" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-blend-cambridge-street_7314310.jpg?20260805095427"/>
     </item>
     <item>
       <title>America's biggest food distributor cuts suppliers as 'explosive diarrhoea' cases rise</title>
@@ -113,17 +124,6 @@
       <media:description type="html">Pic: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-petrol-pump-station_7312553.jpg?20260803072726" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-petrol-pump-station_7312553.jpg?20260803072726"/>
-    </item>
-    <item>
-      <title>Premier League to table £1.5bn new deal offer to EFL on Tuesday</title>
-      <link>https://news.sky.com/story/premier-league-to-table-15bn-new-deal-offer-to-efl-on-tuesday-13569364</link>
-      <description>The Premier League will on Tuesday formally table a £1.5bn blueprint for the finances of English professional football over the next decade.</description>
-      <pubDate>Mon, 03 Aug 2026 10:25:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/premier-league-to-table-15bn-new-deal-offer-to-efl-on-tuesday-13569364</guid>
-      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-arsenal-champions_7306290.jpg?20260725065749" length="0" type="image/jpeg"/>
-      <media:description type="html">Arsenal with the Premier League trophy. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-arsenal-champions_7306290.jpg?20260725065749" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-arsenal-champions_7306290.jpg?20260725065749"/>
     </item>
   </channel>
 </rss>
