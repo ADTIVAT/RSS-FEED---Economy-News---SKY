@@ -12,9 +12,21 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 06 Aug 2026 07:55:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 13:21:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>UK gives effective green light to Paramount Warner Bros mega deal after assurances provided</title>
+      <link>https://news.sky.com/story/uk-gives-effective-green-light-to-paramount-warner-bros-mega-deal-after-assurances-provided-13570373</link>
+      <description>The UK will now not intervene in one of the biggest media deals in history after assurances were provided to the government.</description>
+      <pubDate>Thu, 06 Aug 2026 13:21:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/uk-gives-effective-green-light-to-paramount-warner-bros-mega-deal-after-assurances-provided-13570373</guid>
+      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-lisa-nandy-downing-street_7303275.jpg?20260721124421" length="0" type="image/jpeg"/>
+      <media:description type="html">Lisa Nandy arriving in Downing Street.
+Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-lisa-nandy-downing-street_7303275.jpg?20260721124421" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-lisa-nandy-downing-street_7303275.jpg?20260721124421"/>
+    </item>
     <item>
       <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Investment firm Aurelius snaps up food group behind Linda McCartney's | Mark Kleinman blog&lt;/a&gt;</title>
       <link>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</link>
@@ -104,26 +116,15 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-iceberg-lettuce-food_7314149.jpg?20260805022038"/>
     </item>
     <item>
-      <title>Ashley leads race to Worship £75m City real estate deal</title>
-      <link>https://news.sky.com/story/ashley-leads-race-to-worship-75m-city-real-estate-deal-13569811</link>
-      <description>The high street billionaire Mike Ashley is leading a race to acquire a collection of London buildings in what would represent a further expansion of his burgeoning property empire.</description>
-      <pubDate>Tue, 04 Aug 2026 17:46:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/ashley-leads-race-to-worship-75m-city-real-estate-deal-13569811</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-mike-ashley_7234711.jpg?20260429224843" length="0" type="image/jpeg"/>
-      <media:description type="html">Newcastle United owner Mike Ashley before a match at the Kassam Stadium. Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-mike-ashley_7234711.jpg?20260429224843" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-mike-ashley_7234711.jpg?20260429224843"/>
-    </item>
-    <item>
-      <title>The retail giants joining police to take on shoplifters</title>
-      <link>https://news.sky.com/story/greggs-boots-and-ms-team-up-with-met-police-to-tackle-shoplifters-13569577</link>
-      <description>Major retailers on London's high streets are using new technology from the Metropolitan Police to catch shoplifters.</description>
-      <pubDate>Tue, 04 Aug 2026 00:55:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/greggs-boots-and-ms-team-up-with-met-police-to-tackle-shoplifters-13569577</guid>
-      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-crime-shoplifting_7313330.jpg?20260804012350" length="0" type="image/jpeg"/>
-      <media:description type="html">A male shoplifter stealing some expensive gourmet cheese in a supermarket stock photo</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-crime-shoplifting_7313330.jpg?20260804012350" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-crime-shoplifting_7313330.jpg?20260804012350"/>
+      <title>HMRC repays £50m to thousands of pension savers - how to see if you've overpaid tax</title>
+      <link>https://news.sky.com/story/hmrc-repays-50m-to-thousands-of-pension-savers-how-to-see-if-youve-overpaid-tax-13570347</link>
+      <description>HMRC has returned overpaid tax to more than 12,500 pension savers, latest figures show. </description>
+      <pubDate>Thu, 06 Aug 2026 12:10:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/hmrc-repays-50m-to-thousands-of-pension-savers-how-to-see-if-youve-overpaid-tax-13570347</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-istock-stock-file-generic_7249166.jpg?20260515054202" length="0" type="image/jpeg"/>
+      <media:description type="html">A woman with a calculator and paperwork. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-istock-stock-file-generic_7249166.jpg?20260515054202" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-istock-stock-file-generic_7249166.jpg?20260515054202"/>
     </item>
   </channel>
 </rss>
