@@ -12,19 +12,30 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 05 Aug 2026 09:47:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 15:41:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
-      <title>Starlink could deliver majority of world's internet within 10 years, says Elon Musk</title>
-      <link>https://news.sky.com/story/starlink-could-deliver-majority-of-worlds-internet-within-10-years-says-elon-musk-13569854</link>
-      <description>Elon Musk has predicted that his Starlink system could deliver a majority of the world's internet within 10 years.</description>
-      <pubDate>Tue, 04 Aug 2026 20:29:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/starlink-could-deliver-majority-of-worlds-internet-within-10-years-says-elon-musk-13569854</guid>
-      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-starlink-spacex-falcon-9-rocket_7314120.jpg?20260804224048" length="0" type="image/jpeg"/>
-      <media:description type="html">A SpaceX Falcon 9 rocket with a payload of Starlink V2 Mini internet satellites lifts off from Cape Canaveral, Florida. Pic: AP</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-starlink-spacex-falcon-9-rocket_7314120.jpg?20260804224048" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-starlink-spacex-falcon-9-rocket_7314120.jpg?20260804224048"/>
+      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Investment firm Aurelius snaps up food group behind Linda McCartney's | Mark Kleinman blog&lt;/a&gt;</title>
+      <link>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</link>
+      <description></description>
+      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/ocado-shops-for-successor-to-co-founder-steiner-mark-kleinman-blog-13505671</guid>
+      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-footasylum-business_7314888.jpg?20260805195416" length="0" type="image/jpeg"/>
+      <media:description type="html">Footasylum. Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-footasylum-business_7314888.jpg?20260805195416" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-footasylum-business_7314888.jpg?20260805195416"/>
+    </item>
+    <item>
+      <title>Uber robotaxis set for debut in UK</title>
+      <link>https://news.sky.com/story/uber-robotaxis-set-for-london-debut-after-getting-minicab-licences-13570109</link>
+      <description>Robotaxis are set to debut on the streets of London after Wayve was granted minicab licences by Transport for London (TfL).</description>
+      <pubDate>Wed, 05 Aug 2026 15:41:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/uber-robotaxis-set-for-london-debut-after-getting-minicab-licences-13570109</guid>
+      <enclosure url="https://e3.365dm.com/23/04/1920x1080/skynews-ford-driverless-car_6120886.jpg?20230414093643" length="0" type="image/jpeg"/>
+      <media:description type="html">Visitors check on a Ford Mustang Mach-E electric vehicle displayed at a launch event in Shanghai, China April 13, 2021. REUTERS/Yilei Sun</media:description>
+      <media:thumbnail url="https://e3.365dm.com/23/04/1920x1080/skynews-ford-driverless-car_6120886.jpg?20230414093643" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/23/04/1920x1080/skynews-ford-driverless-car_6120886.jpg?20230414093643"/>
     </item>
     <item>
       <title>'Brutal' harvest hits food production as Britain warned national security under threat</title>
@@ -36,6 +47,17 @@
       <media:description type="html">Drought in southern England</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-drought-farming_7314015.jpg?20260804190249" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-drought-farming_7314015.jpg?20260804190249"/>
+    </item>
+    <item>
+      <title>Starlink could deliver majority of world's internet within 10 years, says Elon Musk</title>
+      <link>https://news.sky.com/story/starlink-could-deliver-majority-of-worlds-internet-within-10-years-says-elon-musk-13569854</link>
+      <description>Elon Musk has predicted that his Starlink system could deliver a majority of the world's internet within 10 years.</description>
+      <pubDate>Tue, 04 Aug 2026 20:29:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/starlink-could-deliver-majority-of-worlds-internet-within-10-years-says-elon-musk-13569854</guid>
+      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-starlink-spacex-falcon-9-rocket_7314120.jpg?20260804224048" length="0" type="image/jpeg"/>
+      <media:description type="html">A SpaceX Falcon 9 rocket with a payload of Starlink V2 Mini internet satellites lifts off from Cape Canaveral, Florida. Pic: AP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-starlink-spacex-falcon-9-rocket_7314120.jpg?20260804224048" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-starlink-spacex-falcon-9-rocket_7314120.jpg?20260804224048"/>
     </item>
     <item>
       <title>Oil giant BP profits more than double due to Iran war - again</title>
@@ -102,28 +124,6 @@
       <media:description type="html">Woman in Gym</media:description>
       <media:thumbnail url="https://e3.365dm.com/22/08/1920x1080/skynews-1315221985-gym-arm-curls_5865397.jpg?20230602103245" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/22/08/1920x1080/skynews-1315221985-gym-arm-curls_5865397.jpg?20230602103245"/>
-    </item>
-    <item>
-      <title>Former Barclays chief Jenkins raises £40m for tech platform 10x Banking</title>
-      <link>https://news.sky.com/story/former-barclays-chief-jenkins-raises-40m-for-tech-platform-10x-banking-13569457</link>
-      <description>A former chief executive of Barclays has secured a £40m capital injection for the banking technology platform he launched a decade ago.</description>
-      <pubDate>Mon, 03 Aug 2026 16:15:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/former-barclays-chief-jenkins-raises-40m-for-tech-platform-10x-banking-13569457</guid>
-      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-antony-jenkins-barclays_7313151.jpg?20260803180952" length="0" type="image/jpeg"/>
-      <media:description type="html">Antony Jenkins in 2015. Pic: Andrew Matthews/PA Wire</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-antony-jenkins-barclays_7313151.jpg?20260803180952" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-antony-jenkins-barclays_7313151.jpg?20260803180952"/>
-    </item>
-    <item>
-      <title>Almost £200,000 of fuel stolen from UK forecourts every day since start of Iran war</title>
-      <link>https://news.sky.com/story/almost-200000-of-fuel-stolen-from-uk-forecourts-every-day-since-start-of-iran-war-13569296</link>
-      <description>Drivers have stolen an average of almost £200,000 worth of fuel from UK forecourts every day since the start of the Iran oil crisis, analysis shows.</description>
-      <pubDate>Mon, 03 Aug 2026 05:54:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/almost-200000-of-fuel-stolen-from-uk-forecourts-every-day-since-start-of-iran-war-13569296</guid>
-      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-petrol-pump-station_7312553.jpg?20260803072726" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-petrol-pump-station_7312553.jpg?20260803072726" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-petrol-pump-station_7312553.jpg?20260803072726"/>
     </item>
   </channel>
 </rss>
