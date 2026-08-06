@@ -12,7 +12,7 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 05 Aug 2026 15:41:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 07:55:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
@@ -36,6 +36,17 @@
       <media:description type="html">Visitors check on a Ford Mustang Mach-E electric vehicle displayed at a launch event in Shanghai, China April 13, 2021. REUTERS/Yilei Sun</media:description>
       <media:thumbnail url="https://e3.365dm.com/23/04/1920x1080/skynews-ford-driverless-car_6120886.jpg?20230414093643" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/23/04/1920x1080/skynews-ford-driverless-car_6120886.jpg?20230414093643"/>
+    </item>
+    <item>
+      <title>Half of parents don't know about school uniform rule change this September</title>
+      <link>https://news.sky.com/story/half-of-parents-dont-know-about-school-uniform-rule-change-this-september-13570257</link>
+      <description>Schools have to follow new uniform rules in September, but almost half of parents don't know about the changes.</description>
+      <pubDate>Thu, 06 Aug 2026 07:55:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/half-of-parents-dont-know-about-school-uniform-rule-change-this-september-13570257</guid>
+      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-money-school-uniform_7315060.jpg?20260806080938" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock </media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-money-school-uniform_7315060.jpg?20260806080938" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-money-school-uniform_7315060.jpg?20260806080938"/>
     </item>
     <item>
       <title>'Brutal' harvest hits food production as Britain warned national security under threat</title>
@@ -113,17 +124,6 @@
       <media:description type="html">A male shoplifter stealing some expensive gourmet cheese in a supermarket stock photo</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-crime-shoplifting_7313330.jpg?20260804012350" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-crime-shoplifting_7313330.jpg?20260804012350"/>
-    </item>
-    <item>
-      <title>Permira plots £700m bid for upmarket gyms operator Third Space</title>
-      <link>https://news.sky.com/story/permira-plots-700m-bid-for-upmarket-gyms-operator-third-space-13569712</link>
-      <description>The buyout firm Permira is among a pack of bidders pursuing a possible £700m takeover of Third Space, the upmarket London-based health clubs operator.</description>
-      <pubDate>Tue, 04 Aug 2026 13:22:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/permira-plots-700m-bid-for-upmarket-gyms-operator-third-space-13569712</guid>
-      <enclosure url="https://e3.365dm.com/22/08/1920x1080/skynews-1315221985-gym-arm-curls_5865397.jpg?20230602103245" length="0" type="image/jpeg"/>
-      <media:description type="html">Woman in Gym</media:description>
-      <media:thumbnail url="https://e3.365dm.com/22/08/1920x1080/skynews-1315221985-gym-arm-curls_5865397.jpg?20230602103245" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/22/08/1920x1080/skynews-1315221985-gym-arm-curls_5865397.jpg?20230602103245"/>
     </item>
   </channel>
 </rss>
