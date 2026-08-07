@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 07 Aug 2026 02:57:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 15:27:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Billionaire Ashley leads race to clinch takeover of Harvey Nichols</title>
+      <link>https://news.sky.com/story/billionaire-ashley-leads-race-to-clinch-takeover-of-harvey-nichols-13570710</link>
+      <description>The billionaire retail tycoon Mike Ashley is closing in on a takeover of Harvey Nichols, one of Britain's best-known department store chains, in a deal which is expected to see the business briefly placed into administration.</description>
+      <pubDate>Fri, 07 Aug 2026 15:27:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/billionaire-ashley-leads-race-to-clinch-takeover-of-harvey-nichols-13570710</guid>
+      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-harvey-nichols-london_7289317.jpg?20260704081351" length="0" type="image/jpeg"/>
+      <media:description type="html">Harvey Nichols department store in Knightsbridge, London. PRESS ASSOCIATION Photo. Wednesday August 14, 2013. Nick Ansell/PA Wire.</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-harvey-nichols-london_7289317.jpg?20260704081351" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-harvey-nichols-london_7289317.jpg?20260704081351"/>
+    </item>
     <item>
       <title>EasyJet agrees to £5.7bn takeover</title>
       <link>https://news.sky.com/story/easyjet-agrees-to-57bn-takeover-13570486</link>
@@ -47,6 +58,17 @@
       <media:description type="html">Mark Zuckerberg testifies during a Senate judiciary committee hearing on online child sexual exploitation at the Capitol. Pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-mark-zuckerberg-social-media_7167883.jpg?20260218080451" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-mark-zuckerberg-social-media_7167883.jpg?20260218080451"/>
+    </item>
+    <item>
+      <title>Pension lump sum myths busted amid rule change speculation | Money newsletter</title>
+      <link>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</link>
+      <description>If you're accessing your pension for the first time, you might be finding the rules around tax-free lump sums confusing.</description>
+      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-pensions-uk_7246515.jpg?20260512153038" length="0" type="image/jpeg"/>
+      <media:description type="html">pensions</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-pensions-uk_7246515.jpg?20260512153038" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-pensions-uk_7246515.jpg?20260512153038"/>
     </item>
     <item>
       <title>Japanese owner weighs options for British fashion brand Joseph </title>
@@ -102,28 +124,6 @@
       <media:description type="html">Drought in southern England</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-drought-farming_7314015.jpg?20260804190249" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-drought-farming_7314015.jpg?20260804190249"/>
-    </item>
-    <item>
-      <title>Starlink could deliver majority of world's internet within 10 years, says Elon Musk</title>
-      <link>https://news.sky.com/story/starlink-could-deliver-majority-of-worlds-internet-within-10-years-says-elon-musk-13569854</link>
-      <description>Elon Musk has predicted that his Starlink system could deliver a majority of the world's internet within 10 years.</description>
-      <pubDate>Tue, 04 Aug 2026 20:29:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/starlink-could-deliver-majority-of-worlds-internet-within-10-years-says-elon-musk-13569854</guid>
-      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-starlink-spacex-falcon-9-rocket_7314120.jpg?20260804224048" length="0" type="image/jpeg"/>
-      <media:description type="html">A SpaceX Falcon 9 rocket with a payload of Starlink V2 Mini internet satellites lifts off from Cape Canaveral, Florida. Pic: AP</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-starlink-spacex-falcon-9-rocket_7314120.jpg?20260804224048" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-starlink-spacex-falcon-9-rocket_7314120.jpg?20260804224048"/>
-    </item>
-    <item>
-      <title>Oil giant BP profits more than double due to Iran war - again</title>
-      <link>https://news.sky.com/story/oil-giant-bp-profits-more-than-double-due-to-iran-war-again-13569593</link>
-      <description>Profit has again more than doubled at oil and gas giant BP as the war in Iran boosted fossil fuel prices.</description>
-      <pubDate>Tue, 04 Aug 2026 06:34:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/oil-giant-bp-profits-more-than-double-due-to-iran-war-again-13569593</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-bp-wilfred-frost_7233189.jpg?20260428140900" length="0" type="image/jpeg"/>
-      <media:description type="html">Wilfred Frost explains BP&amp;#39;s profit surge</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-bp-wilfred-frost_7233189.jpg?20260428140900" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-bp-wilfred-frost_7233189.jpg?20260428140900"/>
     </item>
   </channel>
 </rss>
