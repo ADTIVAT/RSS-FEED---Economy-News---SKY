@@ -12,9 +12,31 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 10 Aug 2026 05:34:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 16:49:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Amazon founder Bezos nears deal to buy stake in Liverpool Football Club</title>
+      <link>https://news.sky.com/story/amazon-founder-bezos-nears-deal-to-buy-stake-in-liverpool-football-club-13571586</link>
+      <description>A consortium including the Amazon founder Jeff Bezos is closing in on a deal to buy a roughly one-third stake in Liverpool Football Club.</description>
+      <pubDate>Mon, 10 Aug 2026 10:34:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/amazon-founder-bezos-nears-deal-to-buy-stake-in-liverpool-football-club-13571586</guid>
+      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-anfield-liverpool-fc_7307167.jpg?20260726160004" length="0" type="image/jpeg"/>
+      <media:description type="html">Anfield. Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-anfield-liverpool-fc_7307167.jpg?20260726160004" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-anfield-liverpool-fc_7307167.jpg?20260726160004"/>
+    </item>
+    <item>
+      <title>Harrods returns to profit after 2024 loss triggered by Al Fayed abuse provision </title>
+      <link>https://news.sky.com/story/harrods-returns-to-profit-after-2024-loss-triggered-by-al-fayed-abuse-provision-13571719</link>
+      <description>Britain's most famous department store has returned to the black a year after the cost of compensating hundreds of sexual abuse victims of its former owner pushed it into an annual loss.</description>
+      <pubDate>Mon, 10 Aug 2026 16:49:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/harrods-returns-to-profit-after-2024-loss-triggered-by-al-fayed-abuse-provision-13571719</guid>
+      <enclosure url="https://e3.365dm.com/24/10/1920x1080/skynews-harrods-london_6727506.jpg?20250926225504" length="0" type="image/jpeg"/>
+      <media:description type="html">File pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/24/10/1920x1080/skynews-harrods-london_6727506.jpg?20250926225504" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/24/10/1920x1080/skynews-harrods-london_6727506.jpg?20250926225504"/>
+    </item>
     <item>
       <title>UK's biggest water company risks fresh storm over £1m payment to finance chief</title>
       <link>https://news.sky.com/story/thames-water-risks-fresh-storm-over-1m-payment-to-finance-chief-13571530</link>
@@ -36,6 +58,17 @@
       <media:description type="html">Mayor of London Sadiq Khan during a visit to The Royal Botanic Gardens, Kew, for the launch of the Transport for London hopper fare, a single fare for unlimited bus and tram journeys which will be offered on Saturdays and Sundays across the capital this summer. Picture date: Monday May 11, 2026. PA Photo. Photo credit should read: Jonathan Brady/PA Wire</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-sadiq-khan-kew-gardens_7245462.jpg?20260511114144" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-sadiq-khan-kew-gardens_7245462.jpg?20260511114144"/>
+    </item>
+    <item>
+      <title>Check how war is hitting your finances</title>
+      <link>https://news.sky.com/story/stress-testing-the-uk-find-out-how-the-iran-war-is-hitting-finances-at-home-13557075</link>
+      <description></description>
+      <pubDate>Tue, 23 Jun 2026 14:29:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/stress-testing-the-uk-find-out-how-the-iran-war-is-hitting-finances-at-home-13557075</guid>
+      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-economic-pressure-tracker_7303578.jpg?20260721172844" length="0" type="image/jpeg"/>
+      <media:description type="html">Economic pressure tracker</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-economic-pressure-tracker_7303578.jpg?20260721172844" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-economic-pressure-tracker_7303578.jpg?20260721172844"/>
     </item>
     <item>
       <title>Andy Burnham to start national tour to hear cost of living concerns</title>
@@ -91,39 +124,6 @@
       <media:description type="html">Harvey Nichols department store in Knightsbridge, London. PRESS ASSOCIATION Photo. Wednesday August 14, 2013. Nick Ansell/PA Wire.</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-harvey-nichols-london_7289317.jpg?20260704081351" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-harvey-nichols-london_7289317.jpg?20260704081351"/>
-    </item>
-    <item>
-      <title>EasyJet agrees to £5.7bn takeover</title>
-      <link>https://news.sky.com/story/easyjet-agrees-to-57bn-takeover-13570486</link>
-      <description>EasyJet has agreed to a deal to sell the airline for around £5.7bn ($7.7bn) to a US-based investment firm.</description>
-      <pubDate>Thu, 06 Aug 2026 19:11:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/easyjet-agrees-to-57bn-takeover-13570486</guid>
-      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-easyjet-plane_7304160.jpg?20260722130833" length="0" type="image/jpeg"/>
-      <media:description type="html">An easyJet plane takes off</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-easyjet-plane_7304160.jpg?20260722130833" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-easyjet-plane_7304160.jpg?20260722130833"/>
-    </item>
-    <item>
-      <title>UK gives effective green light to Paramount Warner Bros deal</title>
-      <link>https://news.sky.com/story/uk-gives-effective-green-light-to-paramount-warner-bros-mega-deal-after-assurances-provided-13570373</link>
-      <description>The UK will now not intervene in one of the biggest media deals in history after assurances were provided to the government.</description>
-      <pubDate>Thu, 06 Aug 2026 13:21:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/uk-gives-effective-green-light-to-paramount-warner-bros-mega-deal-after-assurances-provided-13570373</guid>
-      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-warner-bros-paramount_7286686.jpg?20260630154430" length="0" type="image/jpeg"/>
-      <media:description type="html">File pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-warner-bros-paramount_7286686.jpg?20260630154430" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-warner-bros-paramount_7286686.jpg?20260630154430"/>
-    </item>
-    <item>
-      <title>Facebook owner condemned as 'public nuisance' and ordered to pay $942m over harm to children</title>
-      <link>https://news.sky.com/story/meta-ordered-to-pay-almost-1bn-over-child-safety-failings-13570556</link>
-      <description>Meta, the owner of Facebook, Instagram and WhatsApp, has been ordered to pay $567m (£421m) to address the harm caused to children on its platforms. </description>
-      <pubDate>Fri, 07 Aug 2026 02:57:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/meta-ordered-to-pay-almost-1bn-over-child-safety-failings-13570556</guid>
-      <enclosure url="https://e3.365dm.com/26/02/1920x1080/skynews-mark-zuckerberg-social-media_7167883.jpg?20260218080451" length="0" type="image/jpeg"/>
-      <media:description type="html">Mark Zuckerberg testifies during a Senate judiciary committee hearing on online child sexual exploitation at the Capitol. Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-mark-zuckerberg-social-media_7167883.jpg?20260218080451" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-mark-zuckerberg-social-media_7167883.jpg?20260218080451"/>
     </item>
   </channel>
 </rss>
