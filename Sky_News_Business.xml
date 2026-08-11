@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 10 Aug 2026 16:49:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 11:30:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Family behind Spurs vies with club's former boss Levy for NBA Europe's $1bn London team</title>
+      <link>https://news.sky.com/story/family-behind-tottenham-hotspur-vies-with-clubs-former-chairman-daniel-levy-for-nba-europes-1bn-london-team-13571905</link>
+      <description>The family which controls Tottenham Hotspur Football Club is vying with the Premier League side's former chairman to win control of a new European basketball league's $1bn (£741m) London franchise.</description>
+      <pubDate>Tue, 11 Aug 2026 11:30:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/family-behind-tottenham-hotspur-vies-with-clubs-former-chairman-daniel-levy-for-nba-europes-1bn-london-team-13571905</guid>
+      <enclosure url="https://e3.365dm.com/23/07/1920x1080/skynews-joe-lewis-tottenham_6230450.jpg?20230726084331" length="0" type="image/jpeg"/>
+      <media:description type="html">Joe Lewis in the stands with Tottenham chairman Daniel Levy in 2011</media:description>
+      <media:thumbnail url="https://e3.365dm.com/23/07/1920x1080/skynews-joe-lewis-tottenham_6230450.jpg?20230726084331" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/23/07/1920x1080/skynews-joe-lewis-tottenham_6230450.jpg?20230726084331"/>
+    </item>
     <item>
       <title>Amazon founder Bezos nears deal to buy stake in Liverpool Football Club</title>
       <link>https://news.sky.com/story/amazon-founder-bezos-nears-deal-to-buy-stake-in-liverpool-football-club-13571586</link>
@@ -113,17 +124,6 @@
       <media:description type="html">File photo dated 23/10/2015 of TalkTalk offices in west London</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-talktalk-london-logo_7143546.jpg?20260123125808" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-talktalk-london-logo_7143546.jpg?20260123125808"/>
-    </item>
-    <item>
-      <title>Billionaire Ashley leads race to clinch takeover of Harvey Nichols</title>
-      <link>https://news.sky.com/story/billionaire-ashley-leads-race-to-clinch-takeover-of-harvey-nichols-13570710</link>
-      <description>The billionaire retail tycoon Mike Ashley is closing in on a takeover of Harvey Nichols, one of Britain's best-known department store chains, in a deal which is expected to see the business briefly placed into administration.</description>
-      <pubDate>Fri, 07 Aug 2026 15:27:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/billionaire-ashley-leads-race-to-clinch-takeover-of-harvey-nichols-13570710</guid>
-      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-harvey-nichols-london_7289317.jpg?20260704081351" length="0" type="image/jpeg"/>
-      <media:description type="html">Harvey Nichols department store in Knightsbridge, London. PRESS ASSOCIATION Photo. Wednesday August 14, 2013. Nick Ansell/PA Wire.</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-harvey-nichols-london_7289317.jpg?20260704081351" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-harvey-nichols-london_7289317.jpg?20260704081351"/>
     </item>
   </channel>
 </rss>
