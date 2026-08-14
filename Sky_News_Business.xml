@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 14:28:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 11:56:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Harvey Nichols moves to reassure luxury brands after Frasers swoop</title>
+      <link>https://news.sky.com/story/harvey-nichols-moves-to-reassure-luxury-brands-after-frasers-swoop-13572934</link>
+      <description>Bosses at Harvey Nichols are trying to reassure the department store chain's hundreds of luxury brand partners about its future stewardship under the retail tycoon Mike Ashley.</description>
+      <pubDate>Fri, 14 Aug 2026 11:56:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/harvey-nichols-moves-to-reassure-luxury-brands-after-frasers-swoop-13572934</guid>
+      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-harvey-nichols-london_7289317.jpg?20260704081351" length="0" type="image/jpeg"/>
+      <media:description type="html">Harvey Nichols department store in Knightsbridge, London. PRESS ASSOCIATION Photo. Wednesday August 14, 2013. Nick Ansell/PA Wire.</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-harvey-nichols-london_7289317.jpg?20260704081351" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-harvey-nichols-london_7289317.jpg?20260704081351"/>
+    </item>
     <item>
       <title>UK growth slows but economy resilient despite Iran war</title>
       <link>https://news.sky.com/story/gdp-uk-growth-slows-but-economy-resilient-despite-iran-war-latest-data-says-13572451</link>
@@ -114,17 +125,6 @@
 File pic: PA</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-pylons-electricity_7319742.jpg?20260812144149" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-pylons-electricity_7319742.jpg?20260812144149"/>
-    </item>
-    <item>
-      <title>Family behind Spurs vies with club's former boss Levy for NBA Europe's $1bn London team</title>
-      <link>https://news.sky.com/story/family-behind-tottenham-hotspur-vies-with-clubs-former-chairman-daniel-levy-for-nba-europes-1bn-london-team-13571905</link>
-      <description>The family which controls Tottenham Hotspur Football Club is vying with the Premier League side's former chairman to win control of a new European basketball league's $1bn (£741m) London franchise.</description>
-      <pubDate>Tue, 11 Aug 2026 11:30:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/family-behind-tottenham-hotspur-vies-with-clubs-former-chairman-daniel-levy-for-nba-europes-1bn-london-team-13571905</guid>
-      <enclosure url="https://e3.365dm.com/23/07/1920x1080/skynews-joe-lewis-tottenham_6230450.jpg?20230726084331" length="0" type="image/jpeg"/>
-      <media:description type="html">Joe Lewis in the stands with Tottenham chairman Daniel Levy in 2011</media:description>
-      <media:thumbnail url="https://e3.365dm.com/23/07/1920x1080/skynews-joe-lewis-tottenham_6230450.jpg?20230726084331" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/23/07/1920x1080/skynews-joe-lewis-tottenham_6230450.jpg?20230726084331"/>
     </item>
   </channel>
 </rss>
