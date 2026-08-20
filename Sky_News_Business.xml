@@ -12,9 +12,31 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 19 Aug 2026 17:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 16:25:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>British banking giants deliver tax rise warning to new chancellor</title>
+      <link>https://news.sky.com/story/british-banking-giants-deliver-tax-rise-warning-to-new-chancellor-13575110</link>
+      <description>Britain's biggest banks have fired a renewed warning to the government against hiking taxes on the industry as John Healey, the new chancellor, prepares to deliver his inaugural Budget in October.</description>
+      <pubDate>Thu, 20 Aug 2026 16:25:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/british-banking-giants-deliver-tax-rise-warning-to-new-chancellor-13575110</guid>
+      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-healey-john_7326807.jpg?20260820183506" length="0" type="image/jpeg"/>
+      <media:description type="html">Britain&amp;#39;s Chancellor of the Exchequer John Healey, center, attends the first cabinet meeting held by Prime Minister Andy Burnham at 10 Downing Street, London, Tuesday July 21, 2026. (Eddie Mulholland/Pool Photo via AP)</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-healey-john_7326807.jpg?20260820183506" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-healey-john_7326807.jpg?20260820183506"/>
+    </item>
+    <item>
+      <title>Travelodge boss quits amid guest sex assault row</title>
+      <link>https://news.sky.com/story/travelodge-boss-jo-boydell-quits-amid-guest-sex-assault-row-13574911</link>
+      <description>The boss of Travelodge has quit amid a backlash over the chain's handling of a sexual assault at one of its hotels.</description>
+      <pubDate>Thu, 20 Aug 2026 08:04:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/travelodge-boss-jo-boydell-quits-amid-guest-sex-assault-row-13574911</guid>
+      <enclosure url="https://e3.365dm.com/26/02/1920x1080/skynews-travelodge-hotel_7167357.jpg?20260217142837" length="0" type="image/jpeg"/>
+      <media:description type="html">A Travelodge sign</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-travelodge-hotel_7167357.jpg?20260217142837" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-travelodge-hotel_7167357.jpg?20260217142837"/>
+    </item>
     <item>
       <title>UK cinemas consider ban on Meta glasses</title>
       <link>https://news.sky.com/story/uk-cinemas-consider-ban-on-meta-glasses-13574686</link>
@@ -36,6 +58,28 @@
       <media:description type="html">Pic: Shutterstock</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-dollar-pound-sterling_7325729.jpg?20260819150135" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-dollar-pound-sterling_7325729.jpg?20260819150135"/>
+    </item>
+    <item>
+      <title>Aldermore battle heats up as private equity giant CVC motors into auction</title>
+      <link>https://news.sky.com/story/aldermore-battle-heats-up-as-private-equity-giant-cvc-motors-into-auction-13574959</link>
+      <description>The race to buy Aldermore, the South African-owned challenger bank ensnared by the scandal over motor finance mis-selling, will intensify next month when private equity firms including CVC Capital Partners lodge offers for the company.</description>
+      <pubDate>Thu, 20 Aug 2026 10:53:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/aldermore-battle-heats-up-as-private-equity-giant-cvc-motors-into-auction-13574959</guid>
+      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-aldermore-bank-logo_7326341.png?20260820112134" length="0" type="image/png"/>
+      <media:description type="html">Aldermore bank</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-aldermore-bank-logo_7326341.png?20260820112134" width="1920" height="1080"/>
+      <media:content type="image/png" url="https://e3.365dm.com/26/08/1920x1080/skynews-aldermore-bank-logo_7326341.png?20260820112134"/>
+    </item>
+    <item>
+      <title>Poundland owner picks A&amp;M to advise on auction of discount chain</title>
+      <link>https://news.sky.com/story/poundland-owner-picks-am-to-advise-on-auction-of-discount-chain-13574891</link>
+      <description>Poundland's owner has picked advisers to handle a sale of the discount chain just over a year after it last changed hands.</description>
+      <pubDate>Thu, 20 Aug 2026 06:49:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/poundland-owner-picks-am-to-advise-on-auction-of-discount-chain-13574891</guid>
+      <enclosure url="https://e3.365dm.com/25/06/1920x1080/skynews-money-poundland_6944222.jpg?20250617113739" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/06/1920x1080/skynews-money-poundland_6944222.jpg?20250617113739" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/06/1920x1080/skynews-money-poundland_6944222.jpg?20250617113739"/>
     </item>
     <item>
       <title>Moderna's share price nearly doubles on hopes of cancer treatment breakthrough</title>
@@ -81,50 +125,6 @@ File pic: Reuters</media:description>
       <media:description type="html">Economic pressure tracker</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-economic-pressure-tracker_7303578.jpg?20260721172844" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-economic-pressure-tracker_7303578.jpg?20260721172844"/>
-    </item>
-    <item>
-      <title>&lt;a href='https://news.sky.com/story/money-live-consumer-personal-finance-tips-sky-news-latest-13040934?postid=12247916#liveblog-body'&gt;Trainline, Virgin Atlantic and RED Driving School investigated on pricing tactics&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/clampdown-on-drip-pricing-as-trainline-virgin-atlantic-and-red-driving-school-investigated-13574572</link>
-      <description></description>
-      <pubDate>Wed, 19 Aug 2026 07:24:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/clampdown-on-drip-pricing-as-trainline-virgin-atlantic-and-red-driving-school-investigated-13574572</guid>
-      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-trainline-virgin-atlantic_7325295.png?20260819073343" length="0" type="image/png"/>
-      <media:description type="html">The Competition and Markets Authority has launched three new investigations into firms. Images: iStock, AP, RED Driving School. </media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-trainline-virgin-atlantic_7325295.png?20260819073343" width="1920" height="1080"/>
-      <media:content type="image/png" url="https://e3.365dm.com/26/08/1920x1080/skynews-trainline-virgin-atlantic_7325295.png?20260819073343"/>
-    </item>
-    <item>
-      <title>The pension contribution trick every couple should know | Money newsletter</title>
-      <link>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</link>
-      <description>More than 210,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
-      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-istock-stock-file-generic_7234771.jpg?20260430062404" length="0" type="image/jpeg"/>
-      <media:description type="html">A hand with a pen and a house. Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-istock-stock-file-generic_7234771.jpg?20260430062404" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-istock-stock-file-generic_7234771.jpg?20260430062404"/>
-    </item>
-    <item>
-      <title>The products that rose in price most - and that (surprisingly) got cheaper - since 2021</title>
-      <link>https://news.sky.com/story/the-products-that-increased-in-price-most-since-2021-and-the-surprising-ones-now-a-lot-cheaper-13574703</link>
-      <description>Inflation has risen by 28% cumulatively since the cost-of-living crisis began, according to new figures.</description>
-      <pubDate>Wed, 19 Aug 2026 13:09:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/the-products-that-increased-in-price-most-since-2021-and-the-surprising-ones-now-a-lot-cheaper-13574703</guid>
-      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-bill-price-tag-receipt_7325543.jpg?20260819113711" length="0" type="image/jpeg"/>
-      <media:description type="html">A woman surprised by a receipt outside of a supermarket. Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-bill-price-tag-receipt_7325543.jpg?20260819113711" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-bill-price-tag-receipt_7325543.jpg?20260819113711"/>
-    </item>
-    <item>
-      <title>Greek gaming tycoon in talks to buy stake in Championship football club Bristol City</title>
-      <link>https://news.sky.com/story/greek-gaming-tycoon-in-talks-to-buy-stake-in-championship-football-club-bristol-city-13574648</link>
-      <description>A Greek gambling tycoon is in talks to buy a large stake in the Championship football club Bristol City, part of an ongoing frenzy of dealmaking involving clubs in the top two tiers of the English game.</description>
-      <pubDate>Wed, 19 Aug 2026 10:50:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/greek-gaming-tycoon-in-talks-to-buy-stake-in-championship-football-club-bristol-city-13574648</guid>
-      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-bristol-city-fc-ashton-gate_7325499.jpg?20260819110435" length="0" type="image/jpeg"/>
-      <media:description type="html">The main stand at Ashton Gate, home of Bristol City Football Club in Bristol, UK</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-bristol-city-fc-ashton-gate_7325499.jpg?20260819110435" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-bristol-city-fc-ashton-gate_7325499.jpg?20260819110435"/>
     </item>
   </channel>
 </rss>
