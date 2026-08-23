@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 22 Aug 2026 07:45:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 16:26:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Temporary power supplier Aggreko to file for US listing</title>
+      <link>https://news.sky.com/story/temporary-power-supplier-aggreko-to-file-for-us-listing-13576336</link>
+      <description>Aggreko, the company which supplies power to events including Formula One motor racing and the Glastonbury music festival, will this week take a major step towards a US public market debut that could see it valued at around $20bn (£14.7bn).</description>
+      <pubDate>Sun, 23 Aug 2026 16:26:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/temporary-power-supplier-aggreko-to-file-for-us-listing-13576336</guid>
+      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-dutch-grand-prix-lando-norris_7329247.jpg?20260823161356" length="0" type="image/jpeg"/>
+      <media:description type="html">The start of the Dutch Grand Prix in Zandvoort. Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-dutch-grand-prix-lando-norris_7329247.jpg?20260823161356" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-dutch-grand-prix-lando-norris_7329247.jpg?20260823161356"/>
+    </item>
     <item>
       <title>AC Milan-owner RedBird Capital pitches PREM Rugby investment</title>
       <link>https://news.sky.com/story/ac-milan-owner-redbird-capital-pitches-prem-rugby-deal-13575696</link>
@@ -114,17 +125,6 @@
       <media:description type="html">Pic: Shutterstock</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-dollar-pound-sterling_7325729.jpg?20260819150135" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-dollar-pound-sterling_7325729.jpg?20260819150135"/>
-    </item>
-    <item>
-      <title>Aldermore battle heats up as private equity giant CVC motors into auction</title>
-      <link>https://news.sky.com/story/aldermore-battle-heats-up-as-private-equity-giant-cvc-motors-into-auction-13574959</link>
-      <description>The race to buy Aldermore, the South African-owned challenger bank ensnared by the scandal over motor finance mis-selling, will intensify next month when private equity firms including CVC Capital Partners lodge offers for the company.</description>
-      <pubDate>Thu, 20 Aug 2026 10:53:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/aldermore-battle-heats-up-as-private-equity-giant-cvc-motors-into-auction-13574959</guid>
-      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-aldermore-bank-logo_7326341.png?20260820112134" length="0" type="image/png"/>
-      <media:description type="html">Aldermore bank</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-aldermore-bank-logo_7326341.png?20260820112134" width="1920" height="1080"/>
-      <media:content type="image/png" url="https://e3.365dm.com/26/08/1920x1080/skynews-aldermore-bank-logo_7326341.png?20260820112134"/>
     </item>
   </channel>
 </rss>
