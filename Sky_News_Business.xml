@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 22 Aug 2026 03:18:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 07:45:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>AC Milan-owner RedBird Capital pitches PREM Rugby investment</title>
+      <link>https://news.sky.com/story/ac-milan-owner-redbird-capital-pitches-prem-rugby-deal-13575696</link>
+      <description>The sports and media investment group which owns the Italian football giants AC Milan has begun exploring a deal to become a major backer of English domestic professional rugby.</description>
+      <pubDate>Sat, 22 Aug 2026 07:45:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/ac-milan-owner-redbird-capital-pitches-prem-rugby-deal-13575696</guid>
+      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-rugby-prem_7327857.jpg?20260822075421" length="0" type="image/jpeg"/>
+      <media:description type="html">The Gallagher PREM Final between Exeter Chiefs and Northampton Saints at the Allianz Stadium in London last year</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-rugby-prem_7327857.jpg?20260822075421" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-rugby-prem_7327857.jpg?20260822075421"/>
+    </item>
     <item>
       <title>NHS patient data groups Arcturis and Akrivia agree £140m merger</title>
       <link>https://news.sky.com/story/nhs-patient-data-groups-arcturis-and-akrivia-agree-140m-merger-13575267</link>
@@ -114,17 +125,6 @@
       <media:description type="html">Aldermore bank</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-aldermore-bank-logo_7326341.png?20260820112134" width="1920" height="1080"/>
       <media:content type="image/png" url="https://e3.365dm.com/26/08/1920x1080/skynews-aldermore-bank-logo_7326341.png?20260820112134"/>
-    </item>
-    <item>
-      <title>Poundland owner picks A&amp;M to advise on auction of discount chain</title>
-      <link>https://news.sky.com/story/poundland-owner-picks-am-to-advise-on-auction-of-discount-chain-13574891</link>
-      <description>Poundland's owner has picked advisers to handle a sale of the discount chain just over a year after it last changed hands.</description>
-      <pubDate>Thu, 20 Aug 2026 06:49:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/poundland-owner-picks-am-to-advise-on-auction-of-discount-chain-13574891</guid>
-      <enclosure url="https://e3.365dm.com/25/06/1920x1080/skynews-money-poundland_6944222.jpg?20250617113739" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/06/1920x1080/skynews-money-poundland_6944222.jpg?20250617113739" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/06/1920x1080/skynews-money-poundland_6944222.jpg?20250617113739"/>
     </item>
   </channel>
 </rss>
