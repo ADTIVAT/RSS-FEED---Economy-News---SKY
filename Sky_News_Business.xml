@@ -12,7 +12,7 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 24 Aug 2026 05:47:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 15:46:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
@@ -25,6 +25,50 @@
       <media:description type="html">Shein</media:description>
       <media:thumbnail url="https://e3.365dm.com/24/06/1920x1080/skynews-shein-chinese-company_6572211.jpg?20240603135518" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/24/06/1920x1080/skynews-shein-chinese-company_6572211.jpg?20240603135518"/>
+    </item>
+    <item>
+      <title>Princess of Wales's favourite handbag maker close to stake sale</title>
+      <link>https://news.sky.com/story/princess-of-waless-favourite-handbag-maker-close-to-stake-sale-13576676</link>
+      <description>A Scottish luxury handbag brand which counts the Princess of Wales among its high-profile customers is closing in on a private equity stake sale after seeing a sustained surge in sales.</description>
+      <pubDate>Mon, 24 Aug 2026 15:46:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/princess-of-waless-favourite-handbag-maker-close-to-stake-sale-13576676</guid>
+      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-strathberry-london_7328905.jpg?20260823083730" length="0" type="image/jpeg"/>
+      <media:description type="html">A Strathberry store in London. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-strathberry-london_7328905.jpg?20260823083730" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-strathberry-london_7328905.jpg?20260823083730"/>
+    </item>
+    <item>
+      <title>Thames Water creditors build board for bailout bid</title>
+      <link>https://news.sky.com/story/thames-water-creditors-build-board-for-bailout-bid-13576550</link>
+      <description>The consortium attempting to take control of Thames Water has named three proposed directors with water, infrastructure and Whitehall experience as it tries to win government approval for a deal to bail out the troubled utility.</description>
+      <pubDate>Mon, 24 Aug 2026 09:34:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/thames-water-creditors-build-board-for-bailout-bid-13576550</guid>
+      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-thames-water_7301860.jpg?20260719204052" length="0" type="image/jpeg"/>
+      <media:description type="html">Thames Water</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-thames-water_7301860.jpg?20260719204052" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-thames-water_7301860.jpg?20260719204052"/>
+    </item>
+    <item>
+      <title>Canadian politician threatens to cut off electricity to the US</title>
+      <link>https://news.sky.com/story/canadian-politician-threatens-to-cut-off-electricity-to-the-us-in-response-to-donald-trumps-50-tariffs-13576665</link>
+      <description>A Canadian politician has threatened to cut off electricity and mineral supplies to the US after President Trump said tariffs would rise to 50% on some goods. </description>
+      <pubDate>Mon, 24 Aug 2026 14:59:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/canadian-politician-threatens-to-cut-off-electricity-to-the-us-in-response-to-donald-trumps-50-tariffs-13576665</guid>
+      <enclosure url="https://e3.365dm.com/25/10/1920x1080/skynews-trump-tariffs-canada_7060975.jpg?20251024211416" length="0" type="image/jpeg"/>
+      <media:description type="html">President Donald Trump and Canadian Prime Minister Mark Carney meet in the Oval Office on 7 October 2025.</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/10/1920x1080/skynews-trump-tariffs-canada_7060975.jpg?20251024211416" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/10/1920x1080/skynews-trump-tariffs-canada_7060975.jpg?20251024211416"/>
+    </item>
+    <item>
+      <title>Alter Ego founders seek £20m amid rush to open premium Mayfair members' clubs</title>
+      <link>https://news.sky.com/story/alter-ego-founders-seek-20m-amid-rush-to-open-premium-mayfair-members-clubs-13576551</link>
+      <description>A group of businessmen are seeking tens of millions of pounds to finance another addition to the ranks of Mayfair private members' clubs catering to London's wealthiest people.</description>
+      <pubDate>Mon, 24 Aug 2026 09:33:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/alter-ego-founders-seek-20m-amid-rush-to-open-premium-mayfair-members-clubs-13576551</guid>
+      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-crockfords-casino-2014_7329837.jpg?20260824094600" length="0" type="image/jpeg"/>
+      <media:description type="html">File pic: Shutterstock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-crockfords-casino-2014_7329837.jpg?20260824094600" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-crockfords-casino-2014_7329837.jpg?20260824094600"/>
     </item>
     <item>
       <title>Temporary power supplier Aggreko to file for US listing</title>
@@ -80,51 +124,6 @@
       <media:description type="html">The Gallagher PREM Final between Exeter Chiefs and Northampton Saints at the Allianz Stadium in London last year</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-rugby-prem_7327857.jpg?20260822075421" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-rugby-prem_7327857.jpg?20260822075421"/>
-    </item>
-    <item>
-      <title>NHS patient data groups Arcturis and Akrivia agree £140m merger</title>
-      <link>https://news.sky.com/story/nhs-patient-data-groups-arcturis-and-akrivia-agree-140m-merger-13575267</link>
-      <description>Two major providers of NHS patient data to the pharmaceuticals industry are to merge in a £140m deal to give them greater scale in their battle with the American giant Palantir Technologies.</description>
-      <pubDate>Fri, 21 Aug 2026 10:18:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/nhs-patient-data-groups-arcturis-and-akrivia-agree-140m-merger-13575267</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-nhs-sign_7220406.jpg?20260415000356" length="0" type="image/jpeg"/>
-      <media:description type="html">A sign showing the NHS logo</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-nhs-sign_7220406.jpg?20260415000356" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-nhs-sign_7220406.jpg?20260415000356"/>
-    </item>
-    <item>
-      <title>TikTok reaches $400m US children's privacy settlement</title>
-      <link>https://news.sky.com/story/tiktok-reaches-400m-us-childrens-privacy-settlement-13575677</link>
-      <description>TikTok has reached a $400m (£293.2m) settlement with the US Department of Justice (DoJ), ending a 2024 lawsuit alleging the company violated federal children's privacy laws.</description>
-      <pubDate>Sat, 22 Aug 2026 03:18:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/tiktok-reaches-400m-us-childrens-privacy-settlement-13575677</guid>
-      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-tiktok-european-union_7305707.jpg?20260724115223" length="0" type="image/jpeg"/>
-      <media:description type="html">A child preparing to open the TikTok app. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-tiktok-european-union_7305707.jpg?20260724115223" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-tiktok-european-union_7305707.jpg?20260724115223"/>
-    </item>
-    <item>
-      <title>Waterland and Giacom plot £1bn carve-up of London-listed telecoms firm Gamma</title>
-      <link>https://news.sky.com/story/waterland-and-giacom-plot-1bn-carve-up-of-london-listed-telecoms-firm-gamma-13575313</link>
-      <description></description>
-      <pubDate>Fri, 21 Aug 2026 10:37:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/waterland-and-giacom-plot-1bn-carve-up-of-london-listed-telecoms-firm-gamma-13575313</guid>
-      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-london-stock-exchange_7327104.jpg?20260821105632" length="0" type="image/jpeg"/>
-      <media:description type="html">A general view of the London Stock Exchange in the City of London. Picture date: Friday April 25, 2025.
-</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-london-stock-exchange_7327104.jpg?20260821105632" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-london-stock-exchange_7327104.jpg?20260821105632"/>
-    </item>
-    <item>
-      <title>British banking giants deliver tax rise warning to new chancellor</title>
-      <link>https://news.sky.com/story/british-banking-giants-deliver-tax-rise-warning-to-new-chancellor-13575110</link>
-      <description>Britain's biggest banks have fired a renewed warning to the government against hiking taxes on the industry as John Healey, the new chancellor, prepares to deliver his inaugural Budget in October.</description>
-      <pubDate>Thu, 20 Aug 2026 16:25:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/british-banking-giants-deliver-tax-rise-warning-to-new-chancellor-13575110</guid>
-      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-healey-john_7326807.jpg?20260820183506" length="0" type="image/jpeg"/>
-      <media:description type="html">Britain&amp;#39;s Chancellor of the Exchequer John Healey, center, attends the first cabinet meeting held by Prime Minister Andy Burnham at 10 Downing Street, London, Tuesday July 21, 2026. (Eddie Mulholland/Pool Photo via AP)</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-healey-john_7326807.jpg?20260820183506" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-healey-john_7326807.jpg?20260820183506"/>
     </item>
   </channel>
 </rss>
