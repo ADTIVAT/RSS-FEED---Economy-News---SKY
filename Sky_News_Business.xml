@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <atom:link href="https://news-api.cf.sky.com/feeds/rss/business.xml" rel="self" type="application/rss+xml"/>
     <title>Business News - Markets reports and financial news from Sky</title>
@@ -12,9 +12,31 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 26 Aug 2026 23:21:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 09:34:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Historic mustard brand Colman's spreads wings after £48bn Unilever deal</title>
+      <link>https://news.sky.com/story/historic-mustard-brand-colmans-spreads-wings-after-48bn-unilever-deal-13577673</link>
+      <description>Colman's, the quintessentially English mustard brand founded more than 200 years ago, is being put up for sale following owner Unilever's landmark decision to offload its food operations for $15.7bn (£11.6bn).</description>
+      <pubDate>Thu, 27 Aug 2026 09:34:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/historic-mustard-brand-colmans-spreads-wings-after-48bn-unilever-deal-13577673</guid>
+      <enclosure url="https://e3.365dm.com/18/01/1920x1080/skynews-colmans-mustard-unilever_4198503.jpg?20180104170524" length="0" type="image/jpeg"/>
+      <media:description type="html">File pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/18/01/1920x1080/skynews-colmans-mustard-unilever_4198503.jpg?20180104170524" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/18/01/1920x1080/skynews-colmans-mustard-unilever_4198503.jpg?20180104170524"/>
+    </item>
+    <item>
+      <title>Atom Bank to replace veteran chief who advocated four-day working week</title>
+      <link>https://news.sky.com/story/atom-bank-to-replace-veteran-chief-who-advocated-four-day-working-week-13577672</link>
+      <description>The veteran who has run Atom Bank, Britain's first digital-only lender, is to step down just two months after an auction of the business failed to attract offers at an adequate level.</description>
+      <pubDate>Thu, 27 Aug 2026 09:30:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/atom-bank-to-replace-veteran-chief-who-advocated-four-day-working-week-13577672</guid>
+      <enclosure url="https://e3.365dm.com/16/07/1920x1080/atom-offices-1-1_3517639.jpg?20230316113610" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: Atom Bank</media:description>
+      <media:thumbnail url="https://e3.365dm.com/16/07/1920x1080/atom-offices-1-1_3517639.jpg?20230316113610" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/16/07/1920x1080/atom-offices-1-1_3517639.jpg?20230316113610"/>
+    </item>
     <item>
       <title>World's most valuable company beats expectations</title>
       <link>https://news.sky.com/story/ai-boom-continues-apace-as-worlds-most-valuable-company-nvidia-beats-expectations-13577580</link>
@@ -23,7 +45,7 @@
       <guid>https://news.sky.com/story/ai-boom-continues-apace-as-worlds-most-valuable-company-nvidia-beats-expectations-13577580</guid>
       <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-vera-rubin-architecture_7262659.jpg?20260601075813" length="0" type="image/jpeg"/>
       <media:description type="html">NVIDIA CEO Jensen Huang introduces the Vera Rubin architecture during a keynote speech.
-Pic: reuters</media:description>
+Pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-vera-rubin-architecture_7262659.jpg?20260601075813" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-vera-rubin-architecture_7262659.jpg?20260601075813"/>
     </item>
@@ -34,7 +56,7 @@ Pic: reuters</media:description>
       <pubDate>Wed, 26 Aug 2026 12:41:00 +0100</pubDate>
       <guid>https://news.sky.com/story/meta-agrees-to-pay-up-to-166bn-to-settle-social-media-addiction-trial-13577349</guid>
       <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-meta-california_7331889.jpg?20260826144821" length="0" type="image/jpeg"/>
-      <media:description type="html">The headquarters of Facebook parent company Meta Platforms Inc in Mountain View, California</media:description>
+      <media:description type="html">The headquarters of Meta Platforms Inc in Mountain View, California. Pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-meta-california_7331889.jpg?20260826144821" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-meta-california_7331889.jpg?20260826144821"/>
     </item>
@@ -45,7 +67,7 @@ Pic: reuters</media:description>
       <pubDate>Wed, 26 Aug 2026 18:52:00 +0100</pubDate>
       <guid>https://news.sky.com/story/one-in-two-britons-back-israeli-settlement-trade-ban-regardless-of-who-they-vote-for-13577527</guid>
       <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-west-bank-palestinians_7219587.jpg?20260414095125" length="0" type="image/jpeg"/>
-      <media:description type="html">Palestinian students gather near a fence installed by Israeli settlers in their way to school, near Umm al-Khair village in Masafer Yatta, i</media:description>
+      <media:description type="html">Palestinian students at a fence installed by Israeli settlers on their way to school in the Israeli-occupied West Bank in 2026. Pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-west-bank-palestinians_7219587.jpg?20260414095125" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-west-bank-palestinians_7219587.jpg?20260414095125"/>
     </item>
@@ -56,7 +78,7 @@ Pic: reuters</media:description>
       <pubDate>Wed, 26 Aug 2026 10:52:00 +0100</pubDate>
       <guid>https://news.sky.com/story/british-fund-management-giants-vie-to-run-1bn-scale-up-fund-13577318</guid>
       <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-andy-burnham-prime-minister_7328857.jpg?20260823063744" length="0" type="image/jpeg"/>
-      <media:description type="html">Andy Burnham. Pic: AP</media:description>
+      <media:description type="html">Andy Burnham is a driving force behind the Scale Up Fund. Pic: AP</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-andy-burnham-prime-minister_7328857.jpg?20260823063744" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-andy-burnham-prime-minister_7328857.jpg?20260823063744"/>
     </item>
@@ -67,7 +89,7 @@ Pic: reuters</media:description>
       <pubDate>Tue, 25 Aug 2026 15:29:00 +0100</pubDate>
       <guid>https://news.sky.com/story/canada-announces-retaliatory-tariffs-as-trade-war-with-us-heats-up-13577017</guid>
       <enclosure url="https://e3.365dm.com/25/02/1920x1080/skynews-canada-stocks_6818670.jpg?20250203150849" length="0" type="image/jpeg"/>
-      <media:description type="html">A customer holds a bottle as a sign that reads &amp;#39;&amp;#39;Buy Canadian Instead&amp;#39;&amp;#39; is displayed after the top five U.S. liquor brands were removed from sale at B.C. Liquor Stores, as part of a response to U.S. President Donald Trump&amp;#39;s 25% tariffs on Canadian goods, in Vancouver, British Columbia, Canada, February 2, 2025. REUTERS/Chris Helgren/File Photo</media:description>
+      <media:description type="html">''Buy Canadian Instead'' sign seen in 2025. Pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/25/02/1920x1080/skynews-canada-stocks_6818670.jpg?20250203150849" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/02/1920x1080/skynews-canada-stocks_6818670.jpg?20250203150849"/>
     </item>
@@ -78,7 +100,7 @@ Pic: reuters</media:description>
       <pubDate>Wed, 26 Aug 2026 13:21:00 +0100</pubDate>
       <guid>https://news.sky.com/story/income-tax-blow-for-retirees-who-delayed-state-pension-13577369</guid>
       <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-pension-pensioner_7318933.jpg?20260811134114" length="0" type="image/jpeg"/>
-      <media:description type="html">A pensioner looks at his accounts, hands clasped in despair. Pic: iStock</media:description>
+      <media:description type="html">Pic: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-pension-pensioner_7318933.jpg?20260811134114" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-pension-pensioner_7318933.jpg?20260811134114"/>
     </item>
@@ -89,7 +111,7 @@ Pic: reuters</media:description>
       <pubDate>Tue, 25 Aug 2026 07:04:00 +0100</pubDate>
       <guid>https://news.sky.com/story/melrose-agrees-100m-compensation-pot-over-chemicals-scare-13576851</guid>
       <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-garden-grove-california_7256366.jpg?20260523123827" length="0" type="image/jpeg"/>
-      <media:description type="html">Water is sprayed on a tank that overheated at an aerospace plant in Garden Grove, California. Pic: AP</media:description>
+      <media:description type="html">Water is sprayed on the tank that overheated at Garden Grove in May. Pic: AP</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-garden-grove-california_7256366.jpg?20260523123827" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-garden-grove-california_7256366.jpg?20260523123827"/>
     </item>
@@ -100,31 +122,9 @@ Pic: reuters</media:description>
       <pubDate>Tue, 25 Aug 2026 11:50:00 +0100</pubDate>
       <guid>https://news.sky.com/story/tgjones-owner-modella-among-potential-suitors-for-poundland-13576938</guid>
       <enclosure url="https://e3.365dm.com/25/01/1920x1080/skynews-poundland-pound_6802760.jpg?20250118095137" length="0" type="image/jpeg"/>
-      <media:description type="html">istock </media:description>
+      <media:description type="html">Poundland has 600 shops and employs about 12,000 people across Britain. Pic: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/25/01/1920x1080/skynews-poundland-pound_6802760.jpg?20250118095137" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/01/1920x1080/skynews-poundland-pound_6802760.jpg?20250118095137"/>
-    </item>
-    <item>
-      <title>Luton Airport 'sale' process being readied for take-off</title>
-      <link>https://news.sky.com/story/luton-airport-sale-process-being-readied-for-take-off-13576907</link>
-      <description>The local authority-owned company behind Luton Airport is preparing to sell the rights to operate Britain's fifth-busiest aviation hub when its current deal expires in six years' time.</description>
-      <pubDate>Tue, 25 Aug 2026 10:07:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/luton-airport-sale-process-being-readied-for-take-off-13576907</guid>
-      <enclosure url="https://e3.365dm.com/23/10/1920x1080/skynews-passengers-luton-airport_6317929.jpg?20231011124529" length="0" type="image/jpeg"/>
-      <media:description type="html">Passengers wait at Luton Airport, which has been closed with flights suspended until at least 3pm on Wednesday, after a fire ripped through a multi-storey car park causing it to collapse. The fire was declared a major incident, with firefighters working through the night and into the early hours of Wednesday to extinguish the blaze. Picture date: Wednesday October 11, 2023.</media:description>
-      <media:thumbnail url="https://e3.365dm.com/23/10/1920x1080/skynews-passengers-luton-airport_6317929.jpg?20231011124529" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/23/10/1920x1080/skynews-passengers-luton-airport_6317929.jpg?20231011124529"/>
-    </item>
-    <item>
-      <title>Target apologises for 'racist' Halloween costume as golf brand axes 'offensive' ad</title>
-      <link>https://news.sky.com/story/target-apologises-for-racist-halloween-costume-as-golf-brand-good-good-axes-offensive-ad-13576897</link>
-      <description>US retail giant Target has been forced to apologise and pull a Halloween costume from sale after the outfit drew criticism for evoking blackface and minstrel shows.</description>
-      <pubDate>Tue, 25 Aug 2026 09:41:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/target-apologises-for-racist-halloween-costume-as-golf-brand-good-good-axes-offensive-ad-13576897</guid>
-      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-target-shop_7330673.jpg?20260825105047" length="0" type="image/jpeg"/>
-      <media:description type="html">eople exit and arrive at a Target store on Black Friday in Brooklyn, New York, U.S., November 29, 2024. REUTERS/Brendan McDermid</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-target-shop_7330673.jpg?20260825105047" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-target-shop_7330673.jpg?20260825105047"/>
     </item>
   </channel>
 </rss>
