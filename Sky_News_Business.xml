@@ -12,9 +12,54 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 25 Aug 2026 15:29:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 23:21:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>World's most valuable company beats expectations</title>
+      <link>https://news.sky.com/story/ai-boom-continues-apace-as-worlds-most-valuable-company-nvidia-beats-expectations-13577580</link>
+      <description>The world's most valuable company has again defied eye-watering forecasts, delivering a bumper set of financial results. </description>
+      <pubDate>Wed, 26 Aug 2026 23:21:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/ai-boom-continues-apace-as-worlds-most-valuable-company-nvidia-beats-expectations-13577580</guid>
+      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-vera-rubin-architecture_7262659.jpg?20260601075813" length="0" type="image/jpeg"/>
+      <media:description type="html">NVIDIA CEO Jensen Huang introduces the Vera Rubin architecture during a keynote speech.
+Pic: reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-vera-rubin-architecture_7262659.jpg?20260601075813" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-vera-rubin-architecture_7262659.jpg?20260601075813"/>
+    </item>
+    <item>
+      <title>Meta to pay billions to settle 'tobacco moment' trial</title>
+      <link>https://news.sky.com/story/meta-agrees-to-pay-up-to-166bn-to-settle-social-media-addiction-trial-13577349</link>
+      <description>Meta has agreed to pay up to $18bn (£13.2bn) to dozens of US states to settle claims that its social media platforms harmed children.</description>
+      <pubDate>Wed, 26 Aug 2026 12:41:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/meta-agrees-to-pay-up-to-166bn-to-settle-social-media-addiction-trial-13577349</guid>
+      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-meta-california_7331889.jpg?20260826144821" length="0" type="image/jpeg"/>
+      <media:description type="html">The headquarters of Facebook parent company Meta Platforms Inc in Mountain View, California</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-meta-california_7331889.jpg?20260826144821" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-meta-california_7331889.jpg?20260826144821"/>
+    </item>
+    <item>
+      <title>One in two Britons back anticipated Israeli settlement trade ban</title>
+      <link>https://news.sky.com/story/one-in-two-britons-back-israeli-settlement-trade-ban-regardless-of-who-they-vote-for-13577527</link>
+      <description>One in two Britons backs a ban on trade with Israeli West Bank settlements, polling suggests.</description>
+      <pubDate>Wed, 26 Aug 2026 18:52:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/one-in-two-britons-back-israeli-settlement-trade-ban-regardless-of-who-they-vote-for-13577527</guid>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-west-bank-palestinians_7219587.jpg?20260414095125" length="0" type="image/jpeg"/>
+      <media:description type="html">Palestinian students gather near a fence installed by Israeli settlers in their way to school, near Umm al-Khair village in Masafer Yatta, i</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-west-bank-palestinians_7219587.jpg?20260414095125" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-west-bank-palestinians_7219587.jpg?20260414095125"/>
+    </item>
+    <item>
+      <title>British fund management giants vie to run £1bn Scale-Up Fund</title>
+      <link>https://news.sky.com/story/british-fund-management-giants-vie-to-run-1bn-scale-up-fund-13577318</link>
+      <description>Some of Britain's biggest fund managers are angling to run a new £1bn fund that will hold stakes in some of the country's most promising science and technology companies.</description>
+      <pubDate>Wed, 26 Aug 2026 10:52:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/british-fund-management-giants-vie-to-run-1bn-scale-up-fund-13577318</guid>
+      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-andy-burnham-prime-minister_7328857.jpg?20260823063744" length="0" type="image/jpeg"/>
+      <media:description type="html">Andy Burnham. Pic: AP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-andy-burnham-prime-minister_7328857.jpg?20260823063744" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-andy-burnham-prime-minister_7328857.jpg?20260823063744"/>
+    </item>
     <item>
       <title>Canada announces tariffs on $20bn worth of US goods</title>
       <link>https://news.sky.com/story/canada-announces-retaliatory-tariffs-as-trade-war-with-us-heats-up-13577017</link>
@@ -25,6 +70,17 @@
       <media:description type="html">A customer holds a bottle as a sign that reads &amp;#39;&amp;#39;Buy Canadian Instead&amp;#39;&amp;#39; is displayed after the top five U.S. liquor brands were removed from sale at B.C. Liquor Stores, as part of a response to U.S. President Donald Trump&amp;#39;s 25% tariffs on Canadian goods, in Vancouver, British Columbia, Canada, February 2, 2025. REUTERS/Chris Helgren/File Photo</media:description>
       <media:thumbnail url="https://e3.365dm.com/25/02/1920x1080/skynews-canada-stocks_6818670.jpg?20250203150849" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/02/1920x1080/skynews-canada-stocks_6818670.jpg?20250203150849"/>
+    </item>
+    <item>
+      <title>Income tax blow for retirees who delayed state pension</title>
+      <link>https://news.sky.com/story/income-tax-blow-for-retirees-who-delayed-state-pension-13577369</link>
+      <description>People putting off their state pension to earn a little extra are likely to see it taxed under new rules, according to analysis.</description>
+      <pubDate>Wed, 26 Aug 2026 13:21:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/income-tax-blow-for-retirees-who-delayed-state-pension-13577369</guid>
+      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-pension-pensioner_7318933.jpg?20260811134114" length="0" type="image/jpeg"/>
+      <media:description type="html">A pensioner looks at his accounts, hands clasped in despair. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-pension-pensioner_7318933.jpg?20260811134114" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-pension-pensioner_7318933.jpg?20260811134114"/>
     </item>
     <item>
       <title>UK firm agrees $100m compensation pot over chemical scare</title>
@@ -69,61 +125,6 @@
       <media:description type="html">eople exit and arrive at a Target store on Black Friday in Brooklyn, New York, U.S., November 29, 2024. REUTERS/Brendan McDermid</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-target-shop_7330673.jpg?20260825105047" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-target-shop_7330673.jpg?20260825105047"/>
-    </item>
-    <item>
-      <title>The 'abandon' trick to get money off online purchases | Money newsletter</title>
-      <link>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</link>
-      <description>More than 210,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
-      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</guid>
-      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-online-shop-internet_7330682.jpg?20260825110415" length="0" type="image/jpeg"/>
-      <media:description type="html">An iStock photo of someone buying a jacket online</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-online-shop-internet_7330682.jpg?20260825110415" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-online-shop-internet_7330682.jpg?20260825110415"/>
-    </item>
-    <item>
-      <title>Canadian politician threatens to cut off electricity to the US - as Trump issues 'fall in line' warning</title>
-      <link>https://news.sky.com/story/canadian-politician-threatens-to-cut-off-electricity-to-the-us-in-response-to-donald-trumps-50-tariffs-13576665</link>
-      <description>A Canadian politician has threatened to cut off electricity and mineral supplies to the US after President Trump raised tariffs on some goods to 50%.</description>
-      <pubDate>Mon, 24 Aug 2026 14:59:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/canadian-politician-threatens-to-cut-off-electricity-to-the-us-in-response-to-donald-trumps-50-tariffs-13576665</guid>
-      <enclosure url="https://e3.365dm.com/25/10/1920x1080/skynews-trump-tariffs-canada_7060975.jpg?20251024211416" length="0" type="image/jpeg"/>
-      <media:description type="html">President Donald Trump and Canadian Prime Minister Mark Carney meet in the Oval Office on 7 October 2025.</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/10/1920x1080/skynews-trump-tariffs-canada_7060975.jpg?20251024211416" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/10/1920x1080/skynews-trump-tariffs-canada_7060975.jpg?20251024211416"/>
-    </item>
-    <item>
-      <title>Shein targets $27bn valuation in stock market debut</title>
-      <link>https://news.sky.com/story/shein-targets-valuation-of-just-27bn-in-stock-market-flotation-13576490</link>
-      <description>Online fast-fashion retailer Shein is to make its stock market debut targeting a valuation almost a quarter of the $100bn it was worth four years ago.</description>
-      <pubDate>Mon, 24 Aug 2026 05:47:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/shein-targets-valuation-of-just-27bn-in-stock-market-flotation-13576490</guid>
-      <enclosure url="https://e3.365dm.com/24/06/1920x1080/skynews-shein-chinese-company_6572211.jpg?20240603135518" length="0" type="image/jpeg"/>
-      <media:description type="html">Shein</media:description>
-      <media:thumbnail url="https://e3.365dm.com/24/06/1920x1080/skynews-shein-chinese-company_6572211.jpg?20240603135518" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/24/06/1920x1080/skynews-shein-chinese-company_6572211.jpg?20240603135518"/>
-    </item>
-    <item>
-      <title>Princess of Wales's favourite handbag maker close to stake sale</title>
-      <link>https://news.sky.com/story/princess-of-waless-favourite-handbag-maker-close-to-stake-sale-13576676</link>
-      <description>A Scottish luxury handbag brand which counts the Princess of Wales among its high-profile customers is closing in on a private equity stake sale after seeing a sustained surge in sales.</description>
-      <pubDate>Mon, 24 Aug 2026 15:46:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/princess-of-waless-favourite-handbag-maker-close-to-stake-sale-13576676</guid>
-      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-strathberry-london_7328905.jpg?20260823083730" length="0" type="image/jpeg"/>
-      <media:description type="html">A Strathberry store in London. Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-strathberry-london_7328905.jpg?20260823083730" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-strathberry-london_7328905.jpg?20260823083730"/>
-    </item>
-    <item>
-      <title>Thames Water creditors build board for bailout bid</title>
-      <link>https://news.sky.com/story/thames-water-creditors-build-board-for-bailout-bid-13576550</link>
-      <description>The consortium attempting to take control of Thames Water has named three proposed directors with water, infrastructure and Whitehall experience as it tries to win government approval for a deal to bail out the troubled utility.</description>
-      <pubDate>Mon, 24 Aug 2026 09:34:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/thames-water-creditors-build-board-for-bailout-bid-13576550</guid>
-      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-thames-water_7301860.jpg?20260719204052" length="0" type="image/jpeg"/>
-      <media:description type="html">Thames Water</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-thames-water_7301860.jpg?20260719204052" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-thames-water_7301860.jpg?20260719204052"/>
     </item>
   </channel>
 </rss>
