@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 27 Aug 2026 22:52:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 12:29:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Fed chair gives clear signal of US rate rise amid inflation threat</title>
+      <link>https://news.sky.com/story/jackson-hole-warsh-gives-clear-us-rate-rise-signal-amid-inflation-threat-13578046</link>
+      <description>The US central bank "will have work to do" unless inflationary pressures recede, according to its Trump-appointed chair who was under pressure to signal if interest rates would rise in response. </description>
+      <pubDate>Fri, 28 Aug 2026 09:51:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/jackson-hole-warsh-gives-clear-us-rate-rise-signal-amid-inflation-threat-13578046</guid>
+      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-kevin-warsh-federal-reserve_7333743.jpg?20260828163810" length="0" type="image/jpeg"/>
+      <media:description type="html">Federal Reserve board chair Kevin Warsh. File pic: AP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-kevin-warsh-federal-reserve_7333743.jpg?20260828163810" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-kevin-warsh-federal-reserve_7333743.jpg?20260828163810"/>
+    </item>
     <item>
       <title>Tech companies call for collective action against AI-enabled cyber attacks</title>
       <link>https://news.sky.com/story/tech-companies-write-open-letter-calling-for-collective-action-against-ai-enabled-cyber-attacks-13577985</link>
@@ -25,6 +36,28 @@
       <media:description type="html">Pic: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-artificial-intelligence_7333218.jpg?20260827230854" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-artificial-intelligence_7333218.jpg?20260827230854"/>
+    </item>
+    <item>
+      <title>Medicinal cannabis producer Grow Group tries to weed out buyer</title>
+      <link>https://news.sky.com/story/medicinal-cannabis-producer-grow-group-tries-to-weed-out-buyer-13578103</link>
+      <description>A medicinal cannabis producer which distributes products in the UK and two other countries has appointed City advisers to find new owners.</description>
+      <pubDate>Fri, 28 Aug 2026 12:29:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/medicinal-cannabis-producer-grow-group-tries-to-weed-out-buyer-13578103</guid>
+      <enclosure url="https://e3.365dm.com/21/11/1920x1080/skynews-medicinal-cannabis_5568260.jpg?20211102013822" length="0" type="image/jpeg"/>
+      <media:description type="html">File pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/21/11/1920x1080/skynews-medicinal-cannabis_5568260.jpg?20211102013822" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/21/11/1920x1080/skynews-medicinal-cannabis_5568260.jpg?20211102013822"/>
+    </item>
+    <item>
+      <title>Nestle-backed pizza producer bakes bid for Crosta Mollica</title>
+      <link>https://news.sky.com/story/nestle-backed-pizza-producer-bakes-bid-for-crosta-mollica-13578091</link>
+      <description>A joint venture part-owned by Nestle, the global food and consumer goods giant, is closing in on a deal to buy Crosta Mollica, the premium pizza brand.</description>
+      <pubDate>Fri, 28 Aug 2026 11:57:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/nestle-backed-pizza-producer-bakes-bid-for-crosta-mollica-13578091</guid>
+      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-crosta-mollica-pizza_7333606.jpg?20260828132849" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: Shutterstock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-crosta-mollica-pizza_7333606.jpg?20260828132849" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-crosta-mollica-pizza_7333606.jpg?20260828132849"/>
     </item>
     <item>
       <title>Trump signs order renaming Lake Ontario as 'Lake America' in the US</title>
@@ -92,39 +125,6 @@ Pic: Reuters</media:description>
       <media:description type="html">Palestinian students at a fence installed by Israeli settlers on their way to school in the Israeli-occupied West Bank in 2026. Pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-west-bank-palestinians_7219587.jpg?20260414095125" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-west-bank-palestinians_7219587.jpg?20260414095125"/>
-    </item>
-    <item>
-      <title>British fund management giants vie to run £1bn Scale-Up Fund</title>
-      <link>https://news.sky.com/story/british-fund-management-giants-vie-to-run-1bn-scale-up-fund-13577318</link>
-      <description>Some of Britain's biggest fund managers are angling to run a new £1bn fund that will hold stakes in some of the country's most promising science and technology companies.</description>
-      <pubDate>Wed, 26 Aug 2026 10:52:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/british-fund-management-giants-vie-to-run-1bn-scale-up-fund-13577318</guid>
-      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-andy-burnham-prime-minister_7328857.jpg?20260823063744" length="0" type="image/jpeg"/>
-      <media:description type="html">Andy Burnham is a driving force behind the Scale Up Fund. Pic: AP</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-andy-burnham-prime-minister_7328857.jpg?20260823063744" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-andy-burnham-prime-minister_7328857.jpg?20260823063744"/>
-    </item>
-    <item>
-      <title>Canada announces tariffs on $20bn worth of US goods</title>
-      <link>https://news.sky.com/story/canada-announces-retaliatory-tariffs-as-trade-war-with-us-heats-up-13577017</link>
-      <description>Canada has said it will impose new tariffs on US imports as a trade war between the neighbours heats up. </description>
-      <pubDate>Tue, 25 Aug 2026 15:29:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/canada-announces-retaliatory-tariffs-as-trade-war-with-us-heats-up-13577017</guid>
-      <enclosure url="https://e3.365dm.com/25/02/1920x1080/skynews-canada-stocks_6818670.jpg?20250203150849" length="0" type="image/jpeg"/>
-      <media:description type="html">''Buy Canadian Instead'' sign seen in 2025. Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/02/1920x1080/skynews-canada-stocks_6818670.jpg?20250203150849" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/02/1920x1080/skynews-canada-stocks_6818670.jpg?20250203150849"/>
-    </item>
-    <item>
-      <title>Income tax blow for retirees who delayed state pension</title>
-      <link>https://news.sky.com/story/income-tax-blow-for-retirees-who-delayed-state-pension-13577369</link>
-      <description>People putting off their state pension to earn a little extra are likely to see it taxed under new rules, according to analysis.</description>
-      <pubDate>Wed, 26 Aug 2026 13:21:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/income-tax-blow-for-retirees-who-delayed-state-pension-13577369</guid>
-      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-pension-pensioner_7318933.jpg?20260811134114" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-pension-pensioner_7318933.jpg?20260811134114" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-pension-pensioner_7318933.jpg?20260811134114"/>
     </item>
   </channel>
 </rss>
