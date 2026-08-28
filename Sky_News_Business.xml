@@ -12,9 +12,31 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 27 Aug 2026 09:34:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 22:52:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Tech companies call for collective action against AI-enabled cyber attacks</title>
+      <link>https://news.sky.com/story/tech-companies-write-open-letter-calling-for-collective-action-against-ai-enabled-cyber-attacks-13577985</link>
+      <description>More than 100 companies have written an open letter calling for collective action to strengthen cyber defences amid a rise in AI-enabled cyber attacks.</description>
+      <pubDate>Thu, 27 Aug 2026 22:52:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/tech-companies-write-open-letter-calling-for-collective-action-against-ai-enabled-cyber-attacks-13577985</guid>
+      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-artificial-intelligence_7333218.jpg?20260827230854" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-artificial-intelligence_7333218.jpg?20260827230854" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-artificial-intelligence_7333218.jpg?20260827230854"/>
+    </item>
+    <item>
+      <title>Trump signs order renaming Lake Ontario as 'Lake America' in the US</title>
+      <link>https://news.sky.com/story/trump-signs-order-renaming-lake-ontario-as-lake-america-in-the-us-13577819</link>
+      <description>Donald Trump has said he will rename Lake Ontario as ⁠Lake America in the US following the escalating trade war with Canada.</description>
+      <pubDate>Thu, 27 Aug 2026 18:29:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/trump-signs-order-renaming-lake-ontario-as-lake-america-in-the-us-13577819</guid>
+      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-donald-trump_7332983.jpg?20260827185330" length="0" type="image/jpeg"/>
+      <media:description type="html">Trump holds up the executive order. Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-donald-trump_7332983.jpg?20260827185330" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-donald-trump_7332983.jpg?20260827185330"/>
+    </item>
     <item>
       <title>Historic mustard brand Colman's spreads wings after £48bn Unilever deal</title>
       <link>https://news.sky.com/story/historic-mustard-brand-colmans-spreads-wings-after-48bn-unilever-deal-13577673</link>
@@ -103,28 +125,6 @@ Pic: Reuters</media:description>
       <media:description type="html">Pic: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-pension-pensioner_7318933.jpg?20260811134114" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-pension-pensioner_7318933.jpg?20260811134114"/>
-    </item>
-    <item>
-      <title>UK firm agrees $100m compensation pot over chemical scare</title>
-      <link>https://news.sky.com/story/melrose-agrees-100m-compensation-pot-over-chemicals-scare-13576851</link>
-      <description>A UK-owned aerospace firm has agreed a compensation programme of up to $100m (£73.4m) for 50,000 California residents forced to evacuate their homes in response to a chemical incident.</description>
-      <pubDate>Tue, 25 Aug 2026 07:04:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/melrose-agrees-100m-compensation-pot-over-chemicals-scare-13576851</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-garden-grove-california_7256366.jpg?20260523123827" length="0" type="image/jpeg"/>
-      <media:description type="html">Water is sprayed on the tank that overheated at Garden Grove in May. Pic: AP</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-garden-grove-california_7256366.jpg?20260523123827" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-garden-grove-california_7256366.jpg?20260523123827"/>
-    </item>
-    <item>
-      <title>TGJones-owner Modella among potential suitors for Poundland</title>
-      <link>https://news.sky.com/story/tgjones-owner-modella-among-potential-suitors-for-poundland-13576938</link>
-      <description>The retail investor which has cut a swathe through Britain's high streets over the last two years is among the possible suitors for Poundland, the discount chain.</description>
-      <pubDate>Tue, 25 Aug 2026 11:50:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/tgjones-owner-modella-among-potential-suitors-for-poundland-13576938</guid>
-      <enclosure url="https://e3.365dm.com/25/01/1920x1080/skynews-poundland-pound_6802760.jpg?20250118095137" length="0" type="image/jpeg"/>
-      <media:description type="html">Poundland has 600 shops and employs about 12,000 people across Britain. Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/01/1920x1080/skynews-poundland-pound_6802760.jpg?20250118095137" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/01/1920x1080/skynews-poundland-pound_6802760.jpg?20250118095137"/>
     </item>
   </channel>
 </rss>
