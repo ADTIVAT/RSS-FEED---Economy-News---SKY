@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 28 Aug 2026 12:29:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 09:08:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>German insurer Allianz weighs £5bn takeover of AA roadside rescue giant</title>
+      <link>https://news.sky.com/story/german-insurer-allianz-weighs-5bn-takeover-of-aa-roadside-rescue-giant-13578449</link>
+      <description>Allianz, the German insurance behemoth, is considering a £5bn takeover swoop for the AA, the breakdown recovery group which ranks among Britain’s biggest membership organisations.</description>
+      <pubDate>Sat, 29 Aug 2026 09:08:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/german-insurer-allianz-weighs-5bn-takeover-of-aa-roadside-rescue-giant-13578449</guid>
+      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-aa-van_7334325.jpg?20260829092520" length="0" type="image/jpeg"/>
+      <media:description type="html">AA van. File pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-aa-van_7334325.jpg?20260829092520" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-aa-van_7334325.jpg?20260829092520"/>
+    </item>
     <item>
       <title>Fed chair hints at US rate rise amid inflation threat</title>
       <link>https://news.sky.com/story/jackson-hole-warsh-gives-clear-us-rate-rise-signal-amid-inflation-threat-13578046</link>
@@ -114,17 +125,6 @@ Pic: Reuters</media:description>
       <media:description type="html">The headquarters of Meta Platforms Inc in Mountain View, California. Pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-meta-california_7331889.jpg?20260826144821" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-meta-california_7331889.jpg?20260826144821"/>
-    </item>
-    <item>
-      <title>One in two Britons back anticipated Israeli settlement trade ban</title>
-      <link>https://news.sky.com/story/one-in-two-britons-back-israeli-settlement-trade-ban-regardless-of-who-they-vote-for-13577527</link>
-      <description>One in two Britons backs a ban on trade with Israeli West Bank settlements, polling suggests.</description>
-      <pubDate>Wed, 26 Aug 2026 18:52:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/one-in-two-britons-back-israeli-settlement-trade-ban-regardless-of-who-they-vote-for-13577527</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-west-bank-palestinians_7219587.jpg?20260414095125" length="0" type="image/jpeg"/>
-      <media:description type="html">Palestinian students at a fence installed by Israeli settlers on their way to school in the Israeli-occupied West Bank in 2026. Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-west-bank-palestinians_7219587.jpg?20260414095125" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-west-bank-palestinians_7219587.jpg?20260414095125"/>
     </item>
   </channel>
 </rss>
