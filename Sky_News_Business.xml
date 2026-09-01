@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 30 Aug 2026 13:03:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 14:36:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>AI could cause global economic downturn, Bank of England head warns</title>
+      <link>https://news.sky.com/story/artificial-intelligence-could-cause-global-economic-downturn-bank-of-england-governor-warns-13579423</link>
+      <description>Artificial intelligence could cause a worldwide economic downturn, the governor of the Bank of England has warned.</description>
+      <pubDate>Mon, 31 Aug 2026 14:36:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/artificial-intelligence-could-cause-global-economic-downturn-bank-of-england-governor-warns-13579423</guid>
+      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-istock-data-centre_7336678.jpg?20260831155822" length="0" type="image/jpeg"/>
+      <media:description type="html">Andrew Bailey wrote that a 'future market correction' in AI firms' valuations could have global effects. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-istock-data-centre_7336678.jpg?20260831155822" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-istock-data-centre_7336678.jpg?20260831155822"/>
+    </item>
     <item>
       <title>Norwegian steel group Blastr lines up new funding for SSUK bid</title>
       <link>https://news.sky.com/story/norwegian-steel-group-blastr-lines-up-new-funding-for-ssuk-bid-13578998</link>
@@ -113,18 +124,6 @@
       <media:description type="html">Pic: Atom Bank</media:description>
       <media:thumbnail url="https://e3.365dm.com/16/07/1920x1080/atom-offices-1-1_3517639.jpg?20230316113610" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/16/07/1920x1080/atom-offices-1-1_3517639.jpg?20230316113610"/>
-    </item>
-    <item>
-      <title>World's most valuable company beats expectations</title>
-      <link>https://news.sky.com/story/ai-boom-continues-apace-as-worlds-most-valuable-company-nvidia-beats-expectations-13577580</link>
-      <description>The world's most valuable company has again defied eye-watering forecasts, delivering a bumper set of financial results. </description>
-      <pubDate>Wed, 26 Aug 2026 23:21:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/ai-boom-continues-apace-as-worlds-most-valuable-company-nvidia-beats-expectations-13577580</guid>
-      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-vera-rubin-architecture_7262659.jpg?20260601075813" length="0" type="image/jpeg"/>
-      <media:description type="html">NVIDIA CEO Jensen Huang introduces the Vera Rubin architecture during a keynote speech.
-Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-vera-rubin-architecture_7262659.jpg?20260601075813" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-vera-rubin-architecture_7262659.jpg?20260601075813"/>
     </item>
   </channel>
 </rss>
