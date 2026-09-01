@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 31 Aug 2026 14:36:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:36:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Retail giants including M&amp;S and Tesco warn PM over budget tax raid</title>
+      <link>https://news.sky.com/story/retail-giants-including-ms-and-tesco-warn-pm-over-budget-tax-raid-13579753</link>
+      <description>Some of Britain's biggest retailers, including Asda, Marks &amp; Spencer (M&amp;S) and Tesco, have warned Andy Burnham that a renewed budget tax raid could threaten his cost of living campaign as well as the viability of some of their biggest stores across the country.</description>
+      <pubDate>Tue, 01 Sep 2026 10:36:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/retail-giants-including-ms-and-tesco-warn-pm-over-budget-tax-raid-13579753</guid>
+      <enclosure url="https://e3.365dm.com/20/06/1920x1080/skynews-marks-spencer-store_5009565.jpg?20200609143922" length="0" type="image/jpeg"/>
+      <media:description type="html">M&amp;S store</media:description>
+      <media:thumbnail url="https://e3.365dm.com/20/06/1920x1080/skynews-marks-spencer-store_5009565.jpg?20200609143922" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/20/06/1920x1080/skynews-marks-spencer-store_5009565.jpg?20200609143922"/>
+    </item>
     <item>
       <title>AI could cause global economic downturn, Bank of England head warns</title>
       <link>https://news.sky.com/story/artificial-intelligence-could-cause-global-economic-downturn-bank-of-england-governor-warns-13579423</link>
@@ -113,17 +124,6 @@
       <media:description type="html">File pic: PA</media:description>
       <media:thumbnail url="https://e3.365dm.com/18/01/1920x1080/skynews-colmans-mustard-unilever_4198503.jpg?20180104170524" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/18/01/1920x1080/skynews-colmans-mustard-unilever_4198503.jpg?20180104170524"/>
-    </item>
-    <item>
-      <title>Atom Bank to replace veteran chief who advocated four-day working week</title>
-      <link>https://news.sky.com/story/atom-bank-to-replace-veteran-chief-who-advocated-four-day-working-week-13577672</link>
-      <description>The veteran who has run Atom Bank, Britain's first digital-only lender, is to step down just two months after an auction of the business failed to attract offers at an adequate level.</description>
-      <pubDate>Thu, 27 Aug 2026 09:30:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/atom-bank-to-replace-veteran-chief-who-advocated-four-day-working-week-13577672</guid>
-      <enclosure url="https://e3.365dm.com/16/07/1920x1080/atom-offices-1-1_3517639.jpg?20230316113610" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: Atom Bank</media:description>
-      <media:thumbnail url="https://e3.365dm.com/16/07/1920x1080/atom-offices-1-1_3517639.jpg?20230316113610" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/16/07/1920x1080/atom-offices-1-1_3517639.jpg?20230316113610"/>
     </item>
   </channel>
 </rss>
