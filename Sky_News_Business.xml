@@ -12,9 +12,31 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 03 Sep 2026 08:31:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 19:48:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>HMRC threatened with legal action over settlement trade</title>
+      <link>https://news.sky.com/story/hmrc-threatened-with-legal-action-over-israeli-settlement-trade-13580778</link>
+      <description>A non-profit legal group has threatened to sue HM Revenue and Customs (HMRC) for allegedly allowing Israeli settlement trade to enter the UK tariff-free.</description>
+      <pubDate>Thu, 03 Sep 2026 11:24:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/hmrc-threatened-with-legal-action-over-israeli-settlement-trade-13580778</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-west-bank-settlement_7338772.jpg?20260902134724" length="0" type="image/jpeg"/>
+      <media:description type="html">Palestinian boys in a West Bank Bedouin village look toward a young Israeli settler after their soccer ball was taken away. Pic: AP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-west-bank-settlement_7338772.jpg?20260902134724" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-west-bank-settlement_7338772.jpg?20260902134724"/>
+    </item>
+    <item>
+      <title>London-listed Molten Ventures joins race to run Burnham-backed £1bn tech fund</title>
+      <link>https://news.sky.com/story/london-listed-molten-ventures-joins-race-to-run-burnham-backed-1bn-tech-fund-13581004</link>
+      <description>Molten Ventures, the London-listed investor in early-stage technology companies, has joined the race to manage a £1bn government-backed fund focused on Britain’s most promising scale-ups.</description>
+      <pubDate>Thu, 03 Sep 2026 19:48:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/london-listed-molten-ventures-joins-race-to-run-burnham-backed-1bn-tech-fund-13581004</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-city-london_7340283.jpg?20260903195133" length="0" type="image/jpeg"/>
+      <media:description type="html">iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-city-london_7340283.jpg?20260903195133" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-city-london_7340283.jpg?20260903195133"/>
+    </item>
     <item>
       <title>'Deeply uncomfortable' fiscal position facing UK ahead of crucial budget</title>
       <link>https://news.sky.com/story/britain-warned-its-in-deeply-uncomfortable-fiscal-position-ahead-of-challenging-budget-13580664</link>
@@ -25,6 +47,19 @@
       <media:description type="html">Andy Burnham and Chancellor John Healey. File pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-andy-burnham-john-healey_7326772.jpg?20260820173917" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-andy-burnham-john-healey_7326772.jpg?20260820173917"/>
+    </item>
+    <item>
+      <title>Fraudsters jailed after buying supercars and yacht in £70m tree-planting scam</title>
+      <link>https://news.sky.com/story/three-fraudsters-jailed-after-buying-supercars-and-yacht-in-70m-tree-planting-scam-13580841</link>
+      <description>Three directors of a tree-planting company have been jailed after running a £70m investment scam that duped thousands of people, including many pensioners, out of their savings.</description>
+      <pubDate>Thu, 03 Sep 2026 13:48:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/three-fraudsters-jailed-after-buying-supercars-and-yacht-in-70m-tree-planting-scam-13580841</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-matthew-pickard-paul-laver_7339889.jpg?20260903141122" length="0" type="image/jpeg"/>
+      <media:description type="html">(L-R) Matthew Pickard, Paul Laver and Stephen Greenaway.
+Pic: SFO/PA
+</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-matthew-pickard-paul-laver_7339889.jpg?20260903141122" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-matthew-pickard-paul-laver_7339889.jpg?20260903141122"/>
     </item>
     <item>
       <title>Online retailer Very Group scraps auction as bidders fail to hit £2bn asking price</title>
@@ -91,39 +126,6 @@
       <media:description type="html">Poundland. Pic: iStock </media:description>
       <media:thumbnail url="https://e3.365dm.com/25/01/1920x1080/skynews-poundland-pound_6802760.jpg?20250118095137" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/01/1920x1080/skynews-poundland-pound_6802760.jpg?20250118095137"/>
-    </item>
-    <item>
-      <title>Fake 10 Downing Street listing 'exposes security failures' on Booking.com</title>
-      <link>https://news.sky.com/story/fake-10-downing-street-listing-exposes-security-failureson-bookingcom-13580279</link>
-      <description>A bogus listing for 10 Downing Street was able to be set up on Booking.com in an investigation by a consumer watchdog.</description>
-      <pubDate>Wed, 02 Sep 2026 11:18:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/fake-10-downing-street-listing-exposes-security-failureson-bookingcom-13580279</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-larry-cat-downing-street_7337223.jpg?20260901092829" length="0" type="image/jpeg"/>
-      <media:description type="html">A fake review on the bogus Booking.com listing noted 'hanging out with Larry the cat' as a highlight</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-larry-cat-downing-street_7337223.jpg?20260901092829" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-larry-cat-downing-street_7337223.jpg?20260901092829"/>
-    </item>
-    <item>
-      <title>One million people set to get £50 payments - but there's a 'real risk' of missing out</title>
-      <link>https://news.sky.com/story/one-million-people-set-to-get-50-payments-but-theres-a-real-risk-of-missing-out-13580292</link>
-      <description>Roughly one million people are set to receive letters from HMRC entitling them to £53 on average.</description>
-      <pubDate>Wed, 02 Sep 2026 10:01:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/one-million-people-set-to-get-50-payments-but-theres-a-real-risk-of-missing-out-13580292</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-hmrc-money_7338540.jpg?20260902100621" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-hmrc-money_7338540.jpg?20260902100621" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-hmrc-money_7338540.jpg?20260902100621"/>
-    </item>
-    <item>
-      <title>Pensions trick to increase your Universal Credit | Money newsletter</title>
-      <link>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</link>
-      <description>More than 210,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
-      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</guid>
-      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-pension-stock_7327125.jpg?20260821111846" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-pension-stock_7327125.jpg?20260821111846" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-pension-stock_7327125.jpg?20260821111846"/>
     </item>
   </channel>
 </rss>
