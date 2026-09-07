@@ -12,9 +12,42 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 06 Sep 2026 08:09:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:23:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Jaguar Land Rover to cut 4,000 jobs</title>
+      <link>https://news.sky.com/story/jaguar-land-rover-to-cut-4000-jobs-13582660</link>
+      <description>Jaguar Land Rover (JLR) has confirmed plans to cut 4,000 jobs.</description>
+      <pubDate>Mon, 07 Sep 2026 09:12:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/jaguar-land-rover-to-cut-4000-jobs-13582660</guid>
+      <enclosure url="https://e3.365dm.com/25/04/1920x1080/skynews-jaguar-land-rover-jaguar-land-rover_6876730.jpg?20250405140117" length="0" type="image/jpeg"/>
+      <media:description type="html">File pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/04/1920x1080/skynews-jaguar-land-rover-jaguar-land-rover_6876730.jpg?20250405140117" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/04/1920x1080/skynews-jaguar-land-rover-jaguar-land-rover_6876730.jpg?20250405140117"/>
+    </item>
+    <item>
+      <title>Luxury home decor stalwart Designers Guild on brink of collapse</title>
+      <link>https://news.sky.com/story/luxury-home-decor-stalwart-designers-guild-on-brink-of-collapse-13582711</link>
+      <description>A luxury home decor company which features homewares designs inspired by the interiors of Britain's royal residences is on the brink of collapse.</description>
+      <pubDate>Mon, 07 Sep 2026 10:35:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/luxury-home-decor-stalwart-designers-guild-on-brink-of-collapse-13582711</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-designers-guild-shop_7344104.jpg?20260907110552" length="0" type="image/jpeg"/>
+      <media:description type="html">Designers Guild shop on King's Road, London. Pic: Ilpo Musto/Shutterstock </media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-designers-guild-shop_7344104.jpg?20260907110552" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-designers-guild-shop_7344104.jpg?20260907110552"/>
+    </item>
+    <item>
+      <title>Business lender Portman Finance Group in talks about £300m sale </title>
+      <link>https://news.sky.com/story/business-lender-portman-finance-group-in-talks-about-300m-sale-13582744</link>
+      <description>A business lender which ranks among Britain's fastest-growing companies is in talks with private equity firms about a sale valuing it at in excess of £300m.</description>
+      <pubDate>Mon, 07 Sep 2026 11:23:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/business-lender-portman-finance-group-in-talks-about-300m-sale-13582744</guid>
+      <enclosure url="https://e3.365dm.com/22/10/1920x1080/skynews-pounds-sterling-notes_5944712.jpg?20221026212435" length="0" type="image/jpeg"/>
+      <media:description type="html">File pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/22/10/1920x1080/skynews-pounds-sterling-notes_5944712.jpg?20221026212435" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/22/10/1920x1080/skynews-pounds-sterling-notes_5944712.jpg?20221026212435"/>
+    </item>
     <item>
       <title>French-owned EDF Energy in talks to acquire smaller rival So Energy</title>
       <link>https://news.sky.com/story/french-owned-edf-energy-in-talks-to-acquire-smaller-rival-so-energy-13582202</link>
@@ -25,17 +58,6 @@
       <media:description type="html">File pic: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/23/02/1920x1080/skynews-edf-energy_6044755.jpg?20230202172630" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/23/02/1920x1080/skynews-edf-energy_6044755.jpg?20230202172630"/>
-    </item>
-    <item>
-      <title>The £35 'fine' landing on drivers' doorsteps after a trip to the petrol station</title>
-      <link>https://news.sky.com/story/money-problem-im-falsely-accused-of-stealing-fuel-and-im-not-the-only-one-13580418</link>
-      <description>This week, two drivers asked for help with two very similar disputes against a forecourt firm. It had tried to fine them after petrol stations failed to take their payments... </description>
-      <pubDate>Wed, 02 Sep 2026 15:34:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/money-problem-im-falsely-accused-of-stealing-fuel-and-im-not-the-only-one-13580418</guid>
-      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-petrol-pump-station_7312553.jpg?20260803072726" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-petrol-pump-station_7312553.jpg?20260803072726" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-petrol-pump-station_7312553.jpg?20260803072726"/>
     </item>
     <item>
       <title>England cricket kit supplier Castore eyes blockbuster sale</title>
@@ -102,30 +124,6 @@
       <media:description type="html">Andy Burnham and Chancellor John Healey. File pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-andy-burnham-john-healey_7326772.jpg?20260820173917" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-andy-burnham-john-healey_7326772.jpg?20260820173917"/>
-    </item>
-    <item>
-      <title>The advice that will change how you think about - and buy - your pillows for good</title>
-      <link>https://news.sky.com/story/the-advice-that-will-change-how-you-think-about-and-buy-your-pillows-for-good-13580811</link>
-      <description>Your pillow is one of the most powerful tools to help you fall asleep, remain in your slumber and improve your posture.</description>
-      <pubDate>Thu, 03 Sep 2026 13:01:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/the-advice-that-will-change-how-you-think-about-and-buy-your-pillows-for-good-13580811</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-pillow-istock_7339809.jpg?20260903130617" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-pillow-istock_7339809.jpg?20260903130617" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-pillow-istock_7339809.jpg?20260903130617"/>
-    </item>
-    <item>
-      <title>Fraudsters jailed after buying supercars and yacht in £70m tree-planting scam</title>
-      <link>https://news.sky.com/story/three-fraudsters-jailed-after-buying-supercars-and-yacht-in-70m-tree-planting-scam-13580841</link>
-      <description>Three directors of a tree-planting company have been jailed after running a £70m investment scam that duped thousands of people, including many pensioners, out of their savings.</description>
-      <pubDate>Thu, 03 Sep 2026 13:48:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/three-fraudsters-jailed-after-buying-supercars-and-yacht-in-70m-tree-planting-scam-13580841</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-matthew-pickard-paul-laver_7339889.jpg?20260903141122" length="0" type="image/jpeg"/>
-      <media:description type="html">(L-R) Matthew Pickard, Paul Laver and Stephen Greenaway.
-Pic: SFO/PA
-</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-matthew-pickard-paul-laver_7339889.jpg?20260903141122" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-matthew-pickard-paul-laver_7339889.jpg?20260903141122"/>
     </item>
   </channel>
 </rss>
