@@ -16,6 +16,17 @@
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
+      <title>The UK's trade ban with Israeli settlements explained</title>
+      <link>https://news.sky.com/story/the-uks-trade-ban-with-israeli-settlements-explained-13580355</link>
+      <description>The government has announced a trade ban between the UK and Israeli settlements: here's what you need to know.</description>
+      <pubDate>Wed, 02 Sep 2026 13:01:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/the-uks-trade-ban-with-israeli-settlements-explained-13580355</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-tel-aviv-israel-settlement_7338764.jpg?20260902134403" length="0" type="image/jpeg"/>
+      <media:description type="html">A protester in Tel Aviv at a demo calling for an end to Israel's attacks on Gaza and Israeli settlement policy. Pic: AP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-tel-aviv-israel-settlement_7338764.jpg?20260902134403" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-tel-aviv-israel-settlement_7338764.jpg?20260902134403"/>
+    </item>
+    <item>
       <title>Spotify-backed coalition urges CMA to speed up curbs on app store fees</title>
       <link>https://news.sky.com/story/spotify-backed-coalition-urges-cma-to-speed-up-curbs-on-app-store-fees-13583060</link>
       <description>A group of consumer technology companies including Spotify and Epic Games is urging UK competition watchdogs to accelerate curbs on commission that Apple and Google levy on third-party app developers.</description>
@@ -113,17 +124,6 @@
       <media:description type="html">File pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/22/10/1920x1080/skynews-pounds-sterling-notes_5944712.jpg?20221026212435" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/22/10/1920x1080/skynews-pounds-sterling-notes_5944712.jpg?20221026212435"/>
-    </item>
-    <item>
-      <title>French-owned EDF Energy in talks to acquire smaller rival So Energy</title>
-      <link>https://news.sky.com/story/french-owned-edf-energy-in-talks-to-acquire-smaller-rival-so-energy-13582202</link>
-      <description>The French-owned utility EDF Energy is in talks to acquire smaller rival So Energy in a deal that would underline the renewed wave of consolidation taking place in the domestic gas and electricity supply market.</description>
-      <pubDate>Sun, 06 Sep 2026 08:09:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/french-owned-edf-energy-in-talks-to-acquire-smaller-rival-so-energy-13582202</guid>
-      <enclosure url="https://e3.365dm.com/23/02/1920x1080/skynews-edf-energy_6044755.jpg?20230202172630" length="0" type="image/jpeg"/>
-      <media:description type="html">File pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/23/02/1920x1080/skynews-edf-energy_6044755.jpg?20230202172630" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/23/02/1920x1080/skynews-edf-energy_6044755.jpg?20230202172630"/>
     </item>
   </channel>
 </rss>
