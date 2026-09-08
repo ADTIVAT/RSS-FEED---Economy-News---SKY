@@ -12,9 +12,53 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 07 Sep 2026 11:23:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 08:49:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Spotify-backed coalition urges CMA to speed up curbs on app store fees</title>
+      <link>https://news.sky.com/story/spotify-backed-coalition-urges-cma-to-speed-up-curbs-on-app-store-fees-13583060</link>
+      <description>A group of consumer technology companies including Spotify and Epic Games is urging UK competition watchdogs to accelerate curbs on commission that Apple and Google levy on third-party app developers.</description>
+      <pubDate>Tue, 08 Sep 2026 08:46:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/spotify-backed-coalition-urges-cma-to-speed-up-curbs-on-app-store-fees-13583060</guid>
+      <enclosure url="https://e3.365dm.com/25/10/1920x1080/skynews-app-spotify-money_7060121.jpg?20251024073949" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/10/1920x1080/skynews-app-spotify-money_7060121.jpg?20251024073949" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/10/1920x1080/skynews-app-spotify-money_7060121.jpg?20251024073949"/>
+    </item>
+    <item>
+      <title>Trump threatens to halt sale of Canadian Bombardier jets in US - as trade war intensifies</title>
+      <link>https://news.sky.com/story/trump-threatens-to-halt-sale-of-canadian-bombardier-jets-in-us-as-trade-war-intensifies-13582998</link>
+      <description>Donald Trump has warned Canadian aircraft company Bombardier that it will be no longer be permitted to sell its planes in the US unless it moves its manufacturing to the country. </description>
+      <pubDate>Tue, 08 Sep 2026 03:14:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/trump-threatens-to-halt-sale-of-canadian-bombardier-jets-in-us-as-trade-war-intensifies-13582998</guid>
+      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-trump-carney_7302900.jpg?20260721003217" length="0" type="image/jpeg"/>
+      <media:description type="html">US President Donald Trump and Canadian Prime Minister Mark Carney</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-trump-carney_7302900.jpg?20260721003217" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-trump-carney_7302900.jpg?20260721003217"/>
+    </item>
+    <item>
+      <title>London Dungeon-owner Merlin wizards up £650m refinancing deal</title>
+      <link>https://news.sky.com/story/london-dungeon-owner-merlin-wizards-up-650m-refinancing-deal-13583061</link>
+      <description>The world’s biggest theme park operator is nearing a £650m refinancing that will involve some of its best-known British attractions.</description>
+      <pubDate>Tue, 08 Sep 2026 08:49:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/london-dungeon-owner-merlin-wizards-up-650m-refinancing-deal-13583061</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-london-dungeon-riverside_7344813.jpg?20260908085632" length="0" type="image/jpeg"/>
+      <media:description type="html">The entrance to the London Dungeon. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-london-dungeon-riverside_7344813.jpg?20260908085632" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-london-dungeon-riverside_7344813.jpg?20260908085632"/>
+    </item>
+    <item>
+      <title>A misunderstanding at the heart of the seven-year gifting rule... | Money newsletter</title>
+      <link>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</link>
+      <description>More than 210,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
+      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</guid>
+      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-inheritance-tax-money_7330521.jpg?20260825065628" length="0" type="image/jpeg"/>
+      <media:description type="html">An iStock photo showing a tablet with information about inheritance tax</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-inheritance-tax-money_7330521.jpg?20260825065628" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-inheritance-tax-money_7330521.jpg?20260825065628"/>
+    </item>
     <item>
       <title>Jaguar Land Rover to cut 4,000 jobs</title>
       <link>https://news.sky.com/story/jaguar-land-rover-to-cut-4000-jobs-13582660</link>
@@ -25,6 +69,28 @@
       <media:description type="html">File pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/25/04/1920x1080/skynews-jaguar-land-rover-jaguar-land-rover_6876730.jpg?20250405140117" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/04/1920x1080/skynews-jaguar-land-rover-jaguar-land-rover_6876730.jpg?20250405140117"/>
+    </item>
+    <item>
+      <title>Next wins appeal to overturn equal pay ruling</title>
+      <link>https://news.sky.com/story/next-wins-appeal-to-overturn-landmark-equal-pay-ruling-13582955</link>
+      <description>British retailer Next has won an appeal allowing it to pay its warehouse staff more than shop workers in a long running dispute over equal pay. </description>
+      <pubDate>Mon, 07 Sep 2026 22:12:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/next-wins-appeal-to-overturn-landmark-equal-pay-ruling-13582955</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-next-retail_7344593.jpg?20260907221547" length="0" type="image/jpeg"/>
+      <media:description type="html">File pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-next-retail_7344593.jpg?20260907221547" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-next-retail_7344593.jpg?20260907221547"/>
+    </item>
+    <item>
+      <title>Burnham set to meet bosses to reassure over growth agenda</title>
+      <link>https://news.sky.com/story/burnham-set-to-meet-bosses-to-reassure-over-growth-agenda-13582878</link>
+      <description>Andy Burnham will next week meet scores of leading company bosses for the first time as the government seeks to reassure the private sector about its growth agenda ahead of a budget which executives believe could trigger further rises in the corporate tax burden.</description>
+      <pubDate>Mon, 07 Sep 2026 17:23:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/burnham-set-to-meet-bosses-to-reassure-over-growth-agenda-13582878</guid>
+      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-andy-burnham-ukraine_7330143.jpg?20260824152952" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-andy-burnham-ukraine_7330143.jpg?20260824152952" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-andy-burnham-ukraine_7330143.jpg?20260824152952"/>
     </item>
     <item>
       <title>Luxury home decor stalwart Designers Guild on brink of collapse</title>
@@ -58,72 +124,6 @@
       <media:description type="html">File pic: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/23/02/1920x1080/skynews-edf-energy_6044755.jpg?20230202172630" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/23/02/1920x1080/skynews-edf-energy_6044755.jpg?20230202172630"/>
-    </item>
-    <item>
-      <title>England cricket kit supplier Castore eyes blockbuster sale</title>
-      <link>https://news.sky.com/story/england-cricket-kit-supplier-castore-eyes-blockbuster-sale-13581601</link>
-      <description>Castore, the sportswear manufacturer backed by Sir Andy Murray, is exploring a sale after receiving takeover approaches from a string of industry rivals.</description>
-      <pubDate>Sat, 05 Sep 2026 06:15:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/england-cricket-kit-supplier-castore-eyes-blockbuster-sale-13581601</guid>
-      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-england-cricket-joe-root_7275713.jpg?20260617110308" length="0" type="image/jpeg"/>
-      <media:description type="html">England captain Joe Root during the second test against New Zealand in June. Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-england-cricket-joe-root_7275713.jpg?20260617110308" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-england-cricket-joe-root_7275713.jpg?20260617110308"/>
-    </item>
-    <item>
-      <title>HMRC threatened with legal action over settlement trade</title>
-      <link>https://news.sky.com/story/hmrc-threatened-with-legal-action-over-israeli-settlement-trade-13580778</link>
-      <description>A non-profit legal group has threatened to sue HM Revenue and Customs (HMRC) for allegedly allowing Israeli settlement trade to enter the UK tariff-free.</description>
-      <pubDate>Thu, 03 Sep 2026 11:24:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/hmrc-threatened-with-legal-action-over-israeli-settlement-trade-13580778</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-west-bank-settlement_7338772.jpg?20260902134724" length="0" type="image/jpeg"/>
-      <media:description type="html">Palestinian boys in a West Bank Bedouin village look toward a young Israeli settler after their soccer ball was taken away. Pic: AP</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-west-bank-settlement_7338772.jpg?20260902134724" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-west-bank-settlement_7338772.jpg?20260902134724"/>
-    </item>
-    <item>
-      <title>NCP administrators in talks to sell scores of car park sites</title>
-      <link>https://news.sky.com/story/ncp-administrators-in-talks-to-sell-scores-of-car-park-sites-13581213</link>
-      <description>A privately owned real estate group is in talks to buy scores of NCP car parks months after the historic operator collapsed into administration.</description>
-      <pubDate>Fri, 04 Sep 2026 11:19:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/ncp-administrators-in-talks-to-sell-scores-of-car-park-sites-13581213</guid>
-      <enclosure url="https://e3.365dm.com/21/04/1920x1080/skynews-ncp-car-park_5337075.jpg?20210410135718" length="0" type="image/jpeg"/>
-      <media:description type="html">An NCP car park sign in London. PIc: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/21/04/1920x1080/skynews-ncp-car-park_5337075.jpg?20210410135718" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/21/04/1920x1080/skynews-ncp-car-park_5337075.jpg?20210410135718"/>
-    </item>
-    <item>
-      <title>A misunderstanding at the heart of the seven-year gifting rule... | Money newsletter</title>
-      <link>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</link>
-      <description>More than 210,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
-      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</guid>
-      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-inheritance-tax-money_7330521.jpg?20260825065628" length="0" type="image/jpeg"/>
-      <media:description type="html">An iStock photo showing a tablet with information about inheritance tax</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-inheritance-tax-money_7330521.jpg?20260825065628" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-inheritance-tax-money_7330521.jpg?20260825065628"/>
-    </item>
-    <item>
-      <title>London-listed Molten Ventures joins race to run Burnham-backed £1bn tech fund</title>
-      <link>https://news.sky.com/story/london-listed-molten-ventures-joins-race-to-run-burnham-backed-1bn-tech-fund-13581004</link>
-      <description>Molten Ventures, the London-listed investor in early-stage technology companies, has joined the race to manage a £1bn government-backed fund focused on Britain’s most promising scale-ups.</description>
-      <pubDate>Thu, 03 Sep 2026 19:48:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/london-listed-molten-ventures-joins-race-to-run-burnham-backed-1bn-tech-fund-13581004</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-city-london_7340283.jpg?20260903195133" length="0" type="image/jpeg"/>
-      <media:description type="html">iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-city-london_7340283.jpg?20260903195133" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-city-london_7340283.jpg?20260903195133"/>
-    </item>
-    <item>
-      <title>'Deeply uncomfortable' fiscal position facing UK ahead of crucial budget</title>
-      <link>https://news.sky.com/story/britain-warned-its-in-deeply-uncomfortable-fiscal-position-ahead-of-challenging-budget-13580664</link>
-      <description>The UK is in a "deeply uncomfortable" fiscal position ahead of next month's budget, experts have warned, after government borrowing costs soared to a near 30-year high amid growing pressure on global bond yields.</description>
-      <pubDate>Thu, 03 Sep 2026 00:14:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/britain-warned-its-in-deeply-uncomfortable-fiscal-position-ahead-of-challenging-budget-13580664</guid>
-      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-andy-burnham-john-healey_7326772.jpg?20260820173917" length="0" type="image/jpeg"/>
-      <media:description type="html">Andy Burnham and Chancellor John Healey. File pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-andy-burnham-john-healey_7326772.jpg?20260820173917" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-andy-burnham-john-healey_7326772.jpg?20260820173917"/>
     </item>
   </channel>
 </rss>
