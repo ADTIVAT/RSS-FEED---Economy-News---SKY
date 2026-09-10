@@ -12,9 +12,42 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 09 Sep 2026 21:08:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 09:46:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Embattled South East Water abandons bond issue as investors flee sector</title>
+      <link>https://news.sky.com/story/embattled-south-east-water-abandons-bond-issue-as-investors-flee-sector-13583898</link>
+      <description>One of Britain's most troubled water suppliers has called off plans to raise hundreds of millions of pounds from investors amid the ongoing regulatory and political uncertainty engulfing the industry.</description>
+      <pubDate>Thu, 10 Sep 2026 09:46:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/embattled-south-east-water-abandons-bond-issue-as-investors-flee-sector-13583898</guid>
+      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-south-east-water-bottles_7134132.jpg?20260113123408" length="0" type="image/jpeg"/>
+      <media:description type="html">South East Water staff hand out bottled water during a supply disruption incident. Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-south-east-water-bottles_7134132.jpg?20260113123408" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-south-east-water-bottles_7134132.jpg?20260113123408"/>
+    </item>
+    <item>
+      <title>Waitrose and John Lewis customers feeling the pinch as partnership records losses of £124m</title>
+      <link>https://news.sky.com/story/john-lewis-partnership-cautious-on-outlook-as-losses-more-than-double-13583828</link>
+      <description>The John Lewis Partnership (JLP) has sounded a note of caution over its outlook after surging costs and weaker consumer confidence contributed to deeper half-year losses.</description>
+      <pubDate>Thu, 10 Sep 2026 06:07:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/john-lewis-partnership-cautious-on-outlook-as-losses-more-than-double-13583828</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-jlp-john-lewis-waitrose_7346718.jpg?20260910062213" length="0" type="image/jpeg"/>
+      <media:description type="html">The partnership comprises the John Lewis and Waitrose retail brands. Pic: JLP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-jlp-john-lewis-waitrose_7346718.jpg?20260910062213" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-jlp-john-lewis-waitrose_7346718.jpg?20260910062213"/>
+    </item>
+    <item>
+      <title>Airbnb faces potential new restrictions as EU proposes clampdown on holiday rentals</title>
+      <link>https://news.sky.com/story/airbnb-faces-potential-new-restrictions-as-eu-proposes-clampdown-on-holiday-rentals-13583874</link>
+      <description>The EU has drafted new rules which could lead to more restrictions for Airbnb and other short-term home rental companies.</description>
+      <pubDate>Thu, 10 Sep 2026 08:51:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/airbnb-faces-potential-new-restrictions-as-eu-proposes-clampdown-on-holiday-rentals-13583874</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-airbnb-housing_7346826.jpg?20260910085626" length="0" type="image/jpeg"/>
+      <media:description type="html">Authorities across Europe have introduced measures to restrict Airbnb. Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-airbnb-housing_7346826.jpg?20260910085626" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-airbnb-housing_7346826.jpg?20260910085626"/>
+    </item>
     <item>
       <title>Oil rises above $100 a barrel as Middle East conflict escalates - use our tracker to see impact on prices</title>
       <link>https://news.sky.com/story/oil-rises-above-100-a-barrel-as-middle-east-conflict-escalates-use-our-tracker-to-see-impact-on-prices-13583070</link>
@@ -82,49 +115,15 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-heathrow-airport-nats_7345755.jpg?20260909084506"/>
     </item>
     <item>
-      <title>Who is air traffic control boss earning £1.5m facing backlash after chaos?</title>
-      <link>https://news.sky.com/story/nats-crisis-what-the-company-does-and-whos-in-charge-13583486</link>
-      <description>The latest IT glitch to hit the UK air traffic control provider NATS has raised further searching questions over its systems and leadership.</description>
-      <pubDate>Wed, 09 Sep 2026 10:10:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/nats-crisis-what-the-company-does-and-whos-in-charge-13583486</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-aberdeen-airport-nats_7345947.jpg?20260909114044" length="0" type="image/jpeg"/>
-      <media:description type="html">The control tower at Aberdeen Airport. Pic: NATS</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-aberdeen-airport-nats_7345947.jpg?20260909114044" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-aberdeen-airport-nats_7345947.jpg?20260909114044"/>
-    </item>
-    <item>
-      <title>Trump bans Canadian booze in trade war escalation</title>
-      <link>https://news.sky.com/story/trump-bans-canadian-booze-in-trade-war-escalation-13583396</link>
-      <description>The US has revealed plans to outlaw imports of Canadian alcoholic drinks as part of an escalation of their trade war.</description>
-      <pubDate>Wed, 09 Sep 2026 05:44:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/trump-bans-canadian-booze-in-trade-war-escalation-13583396</guid>
-      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-donald-trump-canada_7302896.jpg?20260720234727" length="0" type="image/jpeg"/>
-      <media:description type="html">Donald Trump is threatening further escalation. Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-donald-trump-canada_7302896.jpg?20260720234727" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-donald-trump-canada_7302896.jpg?20260720234727"/>
-    </item>
-    <item>
-      <title>Bridgepoint eyes sale of stake in Japanese restaurant chain Itsu</title>
-      <link>https://news.sky.com/story/bridgepoint-eyes-sale-of-stake-in-japanese-restaurant-chain-itsu-13583511</link>
-      <description>The private equity backer of Itsu, the Japanese casual dining chain and grocery supplier, is preparing to sell its stake as the company's founder plots an ambitious plan to grow annual sales to over £500m.</description>
-      <pubDate>Wed, 09 Sep 2026 11:32:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/bridgepoint-eyes-sale-of-stake-in-japanese-restaurant-chain-itsu-13583511</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-itsu-restaurant_7345932.jpg?20260909113052" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock
-</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-itsu-restaurant_7345932.jpg?20260909113052" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-itsu-restaurant_7345932.jpg?20260909113052"/>
-    </item>
-    <item>
-      <title>Breakaway league LIV Golf files for bankruptcy protection</title>
-      <link>https://news.sky.com/story/breakaway-league-liv-golf-files-for-bankruptcy-protection-13583339</link>
-      <description>Professional men's golf league LIV Golf has filed for bankruptcy protection in the US.</description>
-      <pubDate>Tue, 08 Sep 2026 21:58:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/breakaway-league-liv-golf-files-for-bankruptcy-protection-13583339</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-liv-golf-john-rahm_7345604.jpg?20260908234307" length="0" type="image/jpeg"/>
-      <media:description type="html">Jon Rahm, one of LIV Golf's most high-profile recruits. File pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-liv-golf-john-rahm_7345604.jpg?20260908234307" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-liv-golf-john-rahm_7345604.jpg?20260908234307"/>
+      <title>Primark announces UK home delivery for first time</title>
+      <link>https://news.sky.com/story/primark-announces-uk-home-delivery-for-first-time-13583894</link>
+      <description>Primark has just announced it will be offering home delivery in the UK for the first time.</description>
+      <pubDate>Thu, 10 Sep 2026 09:41:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/primark-announces-uk-home-delivery-for-first-time-13583894</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-primark-home-delivery_7346829.jpg?20260910085820" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-primark-home-delivery_7346829.jpg?20260910085820" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-primark-home-delivery_7346829.jpg?20260910085820"/>
     </item>
   </channel>
 </rss>
