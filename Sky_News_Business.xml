@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 10 Sep 2026 09:46:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 06:09:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Economy shows surprise AI-led growth but energy squeeze looms</title>
+      <link>https://news.sky.com/story/economy-shows-surprise-ai-led-growth-but-energy-squeeze-looms-13584214</link>
+      <description>The UK economy recorded 0.4% growth in July, partly on the back of artificial intelligence (AI) investment according to early official figures that outperformed expectations.</description>
+      <pubDate>Fri, 11 Sep 2026 06:09:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/economy-shows-surprise-ai-led-growth-but-energy-squeeze-looms-13584214</guid>
+      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-istock-data-centre_7336678.jpg?20260831155822" length="0" type="image/jpeg"/>
+      <media:description type="html">Rows of columns in a data centre. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-istock-data-centre_7336678.jpg?20260831155822" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-istock-data-centre_7336678.jpg?20260831155822"/>
+    </item>
     <item>
       <title>Embattled South East Water abandons bond issue as investors flee sector</title>
       <link>https://news.sky.com/story/embattled-south-east-water-abandons-bond-issue-as-investors-flee-sector-13583898</link>
@@ -113,17 +124,6 @@
       <media:description type="html">Passengers at Heathrow wait for information during the disruption. Pic: PA</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-heathrow-airport-nats_7345755.jpg?20260909084506" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-heathrow-airport-nats_7345755.jpg?20260909084506"/>
-    </item>
-    <item>
-      <title>Primark announces UK home delivery for first time</title>
-      <link>https://news.sky.com/story/primark-announces-uk-home-delivery-for-first-time-13583894</link>
-      <description>Primark has just announced it will be offering home delivery in the UK for the first time.</description>
-      <pubDate>Thu, 10 Sep 2026 09:41:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/primark-announces-uk-home-delivery-for-first-time-13583894</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-primark-home-delivery_7346829.jpg?20260910085820" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-primark-home-delivery_7346829.jpg?20260910085820" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-primark-home-delivery_7346829.jpg?20260910085820"/>
     </item>
   </channel>
 </rss>
