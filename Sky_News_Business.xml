@@ -12,9 +12,31 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 12 Sep 2026 06:35:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 20:56:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Threat of AI 'catastrophe any day now' - as tech giants pledge to act</title>
+      <link>https://news.sky.com/story/threat-of-ai-catastrophe-any-day-now-as-tech-giants-pledge-to-act-13585603</link>
+      <description>A scientist has warned that artificial intelligence could "any day now create a catastrophe" and "needs to be tackled more urgently" than climate change. </description>
+      <pubDate>Sun, 13 Sep 2026 20:56:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/threat-of-ai-catastrophe-any-day-now-as-tech-giants-pledge-to-act-13585603</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-elon-musk-ai-sam-altman_7349938.jpg?20260913084715" length="0" type="image/jpeg"/>
+      <media:description type="html">Sam Altman, Elon Musk and Dario Amodei. Pics: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-elon-musk-ai-sam-altman_7349938.jpg?20260913084715" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-elon-musk-ai-sam-altman_7349938.jpg?20260913084715"/>
+    </item>
+    <item>
+      <title>€5bn EU venture fund backs AI medical assistant Tandem Health</title>
+      <link>https://news.sky.com/story/5bn-eu-venture-fund-backs-ai-medical-assistant-tandem-health-13585284</link>
+      <description>A €5bn (£4.3bn) EU fund which invests in some of the continent's most promising scale-up technology companies is leading a $100m (£73.9m) funding round for Tandem Health, an AI medical assistant which has built a presence at the epicentre of Britain's private healthcare industry.</description>
+      <pubDate>Sun, 13 Sep 2026 10:03:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/5bn-eu-venture-fund-backs-ai-medical-assistant-tandem-health-13585284</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-tandem-health_7349999.png?20260913100351" length="0" type="image/png"/>
+      <media:description type="html">Pic: Tandem Health</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-tandem-health_7349999.png?20260913100351" width="1920" height="1080"/>
+      <media:content type="image/png" url="https://e3.365dm.com/26/09/1920x1080/skynews-tandem-health_7349999.png?20260913100351"/>
+    </item>
     <item>
       <title>Eagle holds first talks with Thames Water chiefs amid bailout crisis</title>
       <link>https://news.sky.com/story/eagle-holds-first-talks-with-thames-water-chiefs-amid-bailout-crisis-13584695</link>
@@ -102,28 +124,6 @@
       <media:description type="html">The partnership comprises the John Lewis and Waitrose retail brands. Pic: JLP</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-jlp-john-lewis-waitrose_7346718.jpg?20260910062213" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-jlp-john-lewis-waitrose_7346718.jpg?20260910062213"/>
-    </item>
-    <item>
-      <title>Airbnb faces potential new restrictions as EU proposes clampdown on holiday rentals</title>
-      <link>https://news.sky.com/story/airbnb-faces-potential-new-restrictions-as-eu-proposes-clampdown-on-holiday-rentals-13583874</link>
-      <description>The EU has drafted new rules which could lead to more restrictions for Airbnb and other short-term home rental companies.</description>
-      <pubDate>Thu, 10 Sep 2026 08:51:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/airbnb-faces-potential-new-restrictions-as-eu-proposes-clampdown-on-holiday-rentals-13583874</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-airbnb-housing_7346826.jpg?20260910085626" length="0" type="image/jpeg"/>
-      <media:description type="html">Authorities across Europe have introduced measures to restrict Airbnb. Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-airbnb-housing_7346826.jpg?20260910085626" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-airbnb-housing_7346826.jpg?20260910085626"/>
-    </item>
-    <item>
-      <title>TransUnion launching credit score overhaul - here's what's changing</title>
-      <link>https://news.sky.com/story/transunion-launching-credit-score-overhaul-heres-whats-changing-13584376</link>
-      <description>TransUnion is overhauling its credit rating system in a bid to make it "clearer, more transparent and informative".</description>
-      <pubDate>Fri, 11 Sep 2026 11:54:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/transunion-launching-credit-score-overhaul-heres-whats-changing-13584376</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-credit-score_7347891.jpg?20260911114649" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-credit-score_7347891.jpg?20260911114649" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-credit-score_7347891.jpg?20260911114649"/>
     </item>
   </channel>
 </rss>
