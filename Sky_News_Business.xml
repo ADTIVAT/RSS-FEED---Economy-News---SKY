@@ -12,9 +12,31 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 14 Sep 2026 19:05:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:11:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Shoppers hunting value as grocery price inflation ticks up</title>
+      <link>https://news.sky.com/story/shoppers-hunting-value-as-grocery-price-inflation-ticks-up-13586019</link>
+      <description>Grocery price inflation has ticked up from 2024 lows amid fears rising energy prices and poor harvests will place further upwards pressure on the cost of living this winter.</description>
+      <pubDate>Tue, 15 Sep 2026 07:11:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/shoppers-hunting-value-as-grocery-price-inflation-ticks-up-13586019</guid>
+      <enclosure url="https://e3.365dm.com/24/07/1920x1080/skynews-trolley-supermarket_6628587.jpg?20240716225425" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/24/07/1920x1080/skynews-trolley-supermarket_6628587.jpg?20240716225425" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/24/07/1920x1080/skynews-trolley-supermarket_6628587.jpg?20240716225425"/>
+    </item>
+    <item>
+      <title>Pubs and shops can now accept digital ID to buy alcohol</title>
+      <link>https://news.sky.com/story/pubs-and-shops-can-now-accept-digital-id-for-alcohol-purchases-in-england-and-wales-13585845</link>
+      <description>Pubs and shops can now accept digital ID as proof of age when selling alcohol.</description>
+      <pubDate>Mon, 14 Sep 2026 15:00:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/pubs-and-shops-can-now-accept-digital-id-for-alcohol-purchases-in-england-and-wales-13585845</guid>
+      <enclosure url="https://e3.365dm.com/24/03/1920x1080/skynews-alcoholic-beer-low-alcohol_6495903.jpg?20240320140221" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/24/03/1920x1080/skynews-alcoholic-beer-low-alcohol_6495903.jpg?20240320140221" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/24/03/1920x1080/skynews-alcoholic-beer-low-alcohol_6495903.jpg?20240320140221"/>
+    </item>
     <item>
       <title>UK banks kick off fundraising in bid to create new payments giant</title>
       <link>https://news.sky.com/story/uk-banks-kick-off-fundraising-in-bid-to-create-new-payments-giant-13585850</link>
@@ -104,28 +126,6 @@
       <media:description type="html">Rows of columns in a data centre. Pic: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-istock-data-centre_7336678.jpg?20260831155822" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-istock-data-centre_7336678.jpg?20260831155822"/>
-    </item>
-    <item>
-      <title>Veteran industrialist Lovell to chair publicly owned British Steel</title>
-      <link>https://news.sky.com/story/veteran-industrialist-lovell-to-chair-publicly-owned-british-steel-13584287</link>
-      <description>The government has recruited Alan Lovell, the industrial veteran, to chair British Steel months after it was formally taken into public ownership.</description>
-      <pubDate>Fri, 11 Sep 2026 09:51:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/veteran-industrialist-lovell-to-chair-publicly-owned-british-steel-13584287</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-british-steel-scunthorpe_7246424.jpg?20260512115407" length="0" type="image/jpeg"/>
-      <media:description type="html">File pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-british-steel-scunthorpe_7246424.jpg?20260512115407" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-british-steel-scunthorpe_7246424.jpg?20260512115407"/>
-    </item>
-    <item>
-      <title>Embattled South East Water abandons bond issue as investors flee sector</title>
-      <link>https://news.sky.com/story/embattled-south-east-water-abandons-bond-issue-as-investors-flee-sector-13583898</link>
-      <description>One of Britain's most troubled water suppliers has called off plans to raise hundreds of millions of pounds from investors amid the ongoing regulatory and political uncertainty engulfing the industry.</description>
-      <pubDate>Thu, 10 Sep 2026 09:46:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/embattled-south-east-water-abandons-bond-issue-as-investors-flee-sector-13583898</guid>
-      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-south-east-water-bottles_7134132.jpg?20260113123408" length="0" type="image/jpeg"/>
-      <media:description type="html">South East Water staff hand out bottled water during a supply disruption incident. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-south-east-water-bottles_7134132.jpg?20260113123408" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-south-east-water-bottles_7134132.jpg?20260113123408"/>
     </item>
   </channel>
 </rss>
