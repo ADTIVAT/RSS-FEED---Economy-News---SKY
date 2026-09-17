@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 17 Sep 2026 10:54:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 17:49:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Microsoft fund backs British AI predictions start-up Mantic</title>
+      <link>https://news.sky.com/story/microsoft-fund-backs-british-ai-predictions-start-up-mantic-13589071</link>
+      <description>A London-based start-up which claims to have built an AI system capable of predicting global events has raised funds from a group of investors including Microsoft's ventures arm.</description>
+      <pubDate>Thu, 17 Sep 2026 17:49:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/microsoft-fund-backs-british-ai-predictions-start-up-mantic-13589071</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-donald-trump-us-president_7354791.jpg?20260917173758" length="0" type="image/jpeg"/>
+      <media:description type="html">Donald Trump. Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-donald-trump-us-president_7354791.jpg?20260917173758" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-donald-trump-us-president_7354791.jpg?20260917173758"/>
+    </item>
     <item>
       <title>Bank of England issues stark warning on energy price hike ahead</title>
       <link>https://news.sky.com/story/bank-of-england-issues-stark-warning-on-energy-hit-ahead-13588828</link>
@@ -113,17 +124,6 @@
       <media:description type="html">Ursula von der Leyen and Mark Carney in Strasbourg. Pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-ursula-von-der-leyen_7353463.jpg?20260916094326" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-ursula-von-der-leyen_7353463.jpg?20260916094326"/>
-    </item>
-    <item>
-      <title>Early Deliveroo backer invests in tooth enamel regeneration startup</title>
-      <link>https://news.sky.com/story/early-deliveroo-backer-invests-in-tooth-enamel-regeneration-startup-13588463</link>
-      <description>An early investor in British technology unicorns including Deliveroo and Darktrace has agreed to fund a London-based startup pioneering a process to regenerate human tooth enamel and bone.</description>
-      <pubDate>Wed, 16 Sep 2026 08:24:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/early-deliveroo-backer-invests-in-tooth-enamel-regeneration-startup-13588463</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-eterna-regeneratives_7353345.jpg?20260916075439" length="0" type="image/jpeg"/>
-      <media:description type="html">The startup was co-founded by Sherif Elsharkawy (l) and Khaled Eissa. Pic: Eterna Regeneratives</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-eterna-regeneratives_7353345.jpg?20260916075439" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-eterna-regeneratives_7353345.jpg?20260916075439"/>
     </item>
   </channel>
 </rss>
