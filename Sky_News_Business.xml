@@ -12,7 +12,7 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 18 Sep 2026 06:21:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:47:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
@@ -27,6 +27,28 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-british-steel_7354706.jpg?20260917154024"/>
     </item>
     <item>
+      <title>Sovereign AI fund in talks to back drug discovery start-up Potential Sciences</title>
+      <link>https://news.sky.com/story/sovereign-ai-fund-in-talks-to-back-drug-discovery-start-up-potential-sciences-13589227</link>
+      <description>The government's £500m fund to back a wave of promising AI companies is close to taking a stake in Potential Sciences, a drug discovery start-up.</description>
+      <pubDate>Fri, 18 Sep 2026 10:47:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/sovereign-ai-fund-in-talks-to-back-drug-discovery-start-up-potential-sciences-13589227</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-kanishka-narayan-mp_7355236.jpg?20260918110045" length="0" type="image/jpeg"/>
+      <media:description type="html">The government's artificial intelligence minister Kanishka Narayan. Pic: Alecsandra Dragoi/DSIT</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-kanishka-narayan-mp_7355236.jpg?20260918110045" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-kanishka-narayan-mp_7355236.jpg?20260918110045"/>
+    </item>
+    <item>
+      <title>TalkTalk founder and Ares eye consumer arm as Opus deal stalls</title>
+      <link>https://news.sky.com/story/talktalk-founder-and-ares-eye-consumer-arm-as-opus-deal-stalls-13589226</link>
+      <description>The founder of TalkTalk and the broadband group's biggest lender are exploring a move to take control of its consumer-facing operations after discussions with an external bidder faltered.</description>
+      <pubDate>Fri, 18 Sep 2026 10:44:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/talktalk-founder-and-ares-eye-consumer-arm-as-opus-deal-stalls-13589226</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-talktalk-sign_7355226.jpg?20260918104536" length="0" type="image/jpeg"/>
+      <media:description type="html">File pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-talktalk-sign_7355226.jpg?20260918104536" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-talktalk-sign_7355226.jpg?20260918104536"/>
+    </item>
+    <item>
       <title>Microsoft fund backs British AI predictions start-up Mantic</title>
       <link>https://news.sky.com/story/microsoft-fund-backs-british-ai-predictions-start-up-mantic-13589071</link>
       <description>A London-based start-up which claims to have built an AI system capable of predicting global events has raised funds from a group of investors including Microsoft's ventures arm.</description>
@@ -36,6 +58,17 @@
       <media:description type="html">Donald Trump. Pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-donald-trump-us-president_7354791.jpg?20260917173758" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-donald-trump-us-president_7354791.jpg?20260917173758"/>
+    </item>
+    <item>
+      <title>The number you need to protect your phone from thieves | Money newsletter</title>
+      <link>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</link>
+      <description>More than 210,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
+      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</guid>
+      <enclosure url="https://e3.365dm.com/26/01/1920x1080/skynews-mobile-phone-file-pic_7146442.jpg?20260318091325" length="0" type="image/jpeg"/>
+      <media:description type="html">File pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/01/1920x1080/skynews-mobile-phone-file-pic_7146442.jpg?20260318091325" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/01/1920x1080/skynews-mobile-phone-file-pic_7146442.jpg?20260318091325"/>
     </item>
     <item>
       <title>Bank of England issues stark warning on energy price hike ahead</title>
@@ -91,39 +124,6 @@
       <media:description type="html">Trump. Pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-donald-trump-us_7354114.jpg?20260916225035" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-donald-trump-us_7354114.jpg?20260916225035"/>
-    </item>
-    <item>
-      <title>Data centre quartet make switch to Astor with €5bn pipeline</title>
-      <link>https://news.sky.com/story/data-centre-quartet-make-switch-to-astor-with-5bn-pipeline-13588650</link>
-      <description>A quartet of executives will this week unveil a multibillion-pound European data centre venture amid urgent demand to address capacity shortfalls in AI infrastructure development.</description>
-      <pubDate>Wed, 16 Sep 2026 17:14:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/data-centre-quartet-make-switch-to-astor-with-5bn-pipeline-13588650</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-data-centre-technology_7353780.jpg?20260916154801" length="0" type="image/jpeg"/>
-      <media:description type="html">Data centre. File pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-data-centre-technology_7353780.jpg?20260916154801" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-data-centre-technology_7353780.jpg?20260916154801"/>
-    </item>
-    <item>
-      <title>No need for new laws on AI, says Nvidia boss</title>
-      <link>https://news.sky.com/story/no-need-for-new-laws-on-ai-says-nvidia-boss-13586322</link>
-      <description>The CEO of Nvidia has said there is no need to introduce regulations in the AI sector, following widespread concerns over safety. </description>
-      <pubDate>Tue, 15 Sep 2026 21:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/no-need-for-new-laws-on-ai-says-nvidia-boss-13586322</guid>
-      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-nvidia-jensen-huang_7262658.jpg?20260601075424" length="0" type="image/jpeg"/>
-      <media:description type="html">Nvidia CEO Jensen Huang. File Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-nvidia-jensen-huang_7262658.jpg?20260601075424" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-nvidia-jensen-huang_7262658.jpg?20260601075424"/>
-    </item>
-    <item>
-      <title>Burnham to delay flagship investment summit until next year</title>
-      <link>https://news.sky.com/story/burnham-to-delay-flagship-investment-summit-until-next-year-13588543</link>
-      <description>Andy Burnham has shelved Sir Keir Starmer's plan to hold a flagship investment event later this year, with the next summit expected to take place outside London as part of the prime minister's effort to shift economic power into Britain's regions.</description>
-      <pubDate>Wed, 16 Sep 2026 11:27:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/burnham-to-delay-flagship-investment-summit-until-next-year-13588543</guid>
-      <enclosure url="https://e3.365dm.com/24/10/1920x1080/skynews-keir-starmer-investment_6715447.jpg?20241014092350" length="0" type="image/jpeg"/>
-      <media:description type="html">Then-PM Sir Keir Starmer is seen at the International Investment Summit in 2024. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/24/10/1920x1080/skynews-keir-starmer-investment_6715447.jpg?20241014092350" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/24/10/1920x1080/skynews-keir-starmer-investment_6715447.jpg?20241014092350"/>
     </item>
   </channel>
 </rss>
