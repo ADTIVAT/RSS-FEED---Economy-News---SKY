@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 17 Sep 2026 17:49:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:21:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>British Steel losing £1.3m a day - and there is no 'credible' survival plan, MPs warn</title>
+      <link>https://news.sky.com/story/british-steel-losing-13m-a-day-and-there-is-no-credible-survival-plan-yet-mps-warn-13589024</link>
+      <description>The government must publish a "credible" plan for the future of British Steel, MPs have warned.</description>
+      <pubDate>Thu, 17 Sep 2026 15:13:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/british-steel-losing-13m-a-day-and-there-is-no-credible-survival-plan-yet-mps-warn-13589024</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-british-steel_7354706.jpg?20260917154024" length="0" type="image/jpeg"/>
+      <media:description type="html">The British Steel works in Scunthorpe. Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-british-steel_7354706.jpg?20260917154024" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-british-steel_7354706.jpg?20260917154024"/>
+    </item>
     <item>
       <title>Microsoft fund backs British AI predictions start-up Mantic</title>
       <link>https://news.sky.com/story/microsoft-fund-backs-british-ai-predictions-start-up-mantic-13589071</link>
@@ -36,6 +47,17 @@
       <media:description type="html"/>
       <media:thumbnail url="https://e3.365dm.com/25/07/1920x1080/skynews-living-money-bailey_6965893.png?20250716092313" width="1920" height="1080"/>
       <media:content type="image/png" url="https://e3.365dm.com/25/07/1920x1080/skynews-living-money-bailey_6965893.png?20250716092313"/>
+    </item>
+    <item>
+      <title>Top chef recommends kitchen tool - and ingredient which works with 'almost anything'</title>
+      <link>https://news.sky.com/story/top-chef-recommends-kitchen-tool-and-ingredient-which-works-with-almost-anything-13589176</link>
+      <description>Every month, our Money team interviews top chefs from around the UK, hearing about their cheap food hacks, views on the industry and more. Today, we speak to Tom Earnshaw, head chef at Bohemia in Jersey.</description>
+      <pubDate>Fri, 18 Sep 2026 06:21:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/top-chef-recommends-kitchen-tool-and-ingredient-which-works-with-almost-anything-13589176</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-tom-earnshaw-earnshaw_7355041.jpg?20260918060215" length="0" type="image/jpeg"/>
+      <media:description type="html">Tom Earnshaw, head chef at Bohemia in Jersey</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-tom-earnshaw-earnshaw_7355041.jpg?20260918060215" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-tom-earnshaw-earnshaw_7355041.jpg?20260918060215"/>
     </item>
     <item>
       <title>Controversial ex-Post Office chief resurfaces at Flying Tiger-owner</title>
@@ -102,28 +124,6 @@
       <media:description type="html">Then-PM Sir Keir Starmer is seen at the International Investment Summit in 2024. Pic: PA</media:description>
       <media:thumbnail url="https://e3.365dm.com/24/10/1920x1080/skynews-keir-starmer-investment_6715447.jpg?20241014092350" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/24/10/1920x1080/skynews-keir-starmer-investment_6715447.jpg?20241014092350"/>
-    </item>
-    <item>
-      <title>Flora Food Group owner KKR to kick off €7bn auction</title>
-      <link>https://news.sky.com/story/flora-food-group-owner-kkr-to-kick-off-7bn-auction-13588524</link>
-      <description>Private equity firms have begun circling the maker of I Can't Believe It's Not Butter as its long-standing owner kicks off an auction which could value it at about €7bn (£6bn).</description>
-      <pubDate>Wed, 16 Sep 2026 10:42:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/flora-food-group-owner-kkr-to-kick-off-7bn-auction-13588524</guid>
-      <enclosure url="https://e3.365dm.com/17/04/1920x1080/afe65292dfaba6601a373808fc1e175664f4c1ad054fe7e8c84b096bb68d7a67_3924722.jpg?20170406102130" length="0" type="image/jpeg"/>
-      <media:description type="html">File pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/17/04/1920x1080/afe65292dfaba6601a373808fc1e175664f4c1ad054fe7e8c84b096bb68d7a67_3924722.jpg?20170406102130" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/17/04/1920x1080/afe65292dfaba6601a373808fc1e175664f4c1ad054fe7e8c84b096bb68d7a67_3924722.jpg?20170406102130"/>
-    </item>
-    <item>
-      <title>EU offers Canada chance to become first 'associate member' in wake of Trump's trade war</title>
-      <link>https://news.sky.com/story/eu-offers-canada-chance-to-become-first-associate-member-in-wake-of-trumps-trade-war-13585798</link>
-      <description>The European Union wants Canada to become the block's first "associate member", as the country's trade war with Donald Trump escalates.</description>
-      <pubDate>Mon, 14 Sep 2026 12:07:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/eu-offers-canada-chance-to-become-first-associate-member-in-wake-of-trumps-trade-war-13585798</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-ursula-von-der-leyen_7353463.jpg?20260916094326" length="0" type="image/jpeg"/>
-      <media:description type="html">Ursula von der Leyen and Mark Carney in Strasbourg. Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-ursula-von-der-leyen_7353463.jpg?20260916094326" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-ursula-von-der-leyen_7353463.jpg?20260916094326"/>
     </item>
   </channel>
 </rss>
