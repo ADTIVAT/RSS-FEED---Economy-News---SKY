@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 18 Sep 2026 10:47:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 08:10:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Tata Steel seeks new government funding as industry crisis deepens</title>
+      <link>https://news.sky.com/story/tata-steel-seeks-new-government-funding-as-industry-crisis-deepens-13589548</link>
+      <description>The UK's biggest steel company is seeking fresh government funding amid delays to the transformation of its plant in Port Talbot - a request which threatens to cast a deeper shadow over Britain's crisis-hit manufacturing sector.</description>
+      <pubDate>Sat, 19 Sep 2026 08:10:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/tata-steel-seeks-new-government-funding-as-industry-crisis-deepens-13589548</guid>
+      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-port-talbot-andy-burnham_7332585.jpg?20260919080934" length="0" type="image/jpeg"/>
+      <media:description type="html">Andy Burnham (R) during a visit to Tata Steel in Port Talbot in August. Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-port-talbot-andy-burnham_7332585.jpg?20260919080934" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-port-talbot-andy-burnham_7332585.jpg?20260919080934"/>
+    </item>
     <item>
       <title>British Steel losing £1.3m a day - and there is no 'credible' survival plan, MPs warn</title>
       <link>https://news.sky.com/story/british-steel-losing-13m-a-day-and-there-is-no-credible-survival-plan-yet-mps-warn-13589024</link>
@@ -113,17 +124,6 @@
       <media:description type="html">Ryft founders Richard Kirby, Sadra Hosseini and Alex Mackenzie. Pic: Ryft </media:description>
       <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-ryft-founders_7354377.jpg?20260917101742" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-ryft-founders_7354377.jpg?20260917101742"/>
-    </item>
-    <item>
-      <title>Trump demands interest rate be lowered 'fast' after Fed announces hike</title>
-      <link>https://news.sky.com/story/trump-demands-interest-rates-be-lowered-fast-after-fed-announces-first-hike-in-three-years-13588775</link>
-      <description>The US Federal Reserve has hiked the interest rate for the first time in three years, prompting Donald Trump to furiously demand they be lowered.  </description>
-      <pubDate>Wed, 16 Sep 2026 22:37:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/trump-demands-interest-rates-be-lowered-fast-after-fed-announces-first-hike-in-three-years-13588775</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-donald-trump-us_7354114.jpg?20260916225035" length="0" type="image/jpeg"/>
-      <media:description type="html">Trump. Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-donald-trump-us_7354114.jpg?20260916225035" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-donald-trump-us_7354114.jpg?20260916225035"/>
     </item>
   </channel>
 </rss>
