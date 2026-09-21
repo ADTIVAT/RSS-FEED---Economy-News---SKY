@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 19 Sep 2026 08:10:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 11:53:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Struggling Mirror publisher Reach lures turnaround veteran Whiley to board</title>
+      <link>https://news.sky.com/story/struggling-mirror-publisher-reach-lures-turnaround-veteran-whiley-to-board-13590030</link>
+      <description>The struggling publisher of the Daily Mirror is turning to the boardroom veteran who oversaw the recovery and sale of banknote printer De La Rue as the media group battles to revive its fortunes</description>
+      <pubDate>Sun, 20 Sep 2026 11:53:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/struggling-mirror-publisher-reach-lures-turnaround-veteran-whiley-to-board-13590030</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-sunday-mirror-sunday-express_7356883.jpg?20260920115634" length="0" type="image/jpeg"/>
+      <media:description type="html"/>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-sunday-mirror-sunday-express_7356883.jpg?20260920115634" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-sunday-mirror-sunday-express_7356883.jpg?20260920115634"/>
+    </item>
     <item>
       <title>Tata Steel seeks new government funding as industry crisis deepens</title>
       <link>https://news.sky.com/story/tata-steel-seeks-new-government-funding-as-industry-crisis-deepens-13589548</link>
@@ -36,6 +47,17 @@
       <media:description type="html">The British Steel works in Scunthorpe. Pic: PA</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-british-steel_7354706.jpg?20260917154024" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-british-steel_7354706.jpg?20260917154024"/>
+    </item>
+    <item>
+      <title>'My ex-boyfriend says he has equity in the home I own - does he have any rights?'</title>
+      <link>https://news.sky.com/story/money-problem-my-ex-boyfriend-says-he-has-equity-in-the-home-i-own-does-he-have-any-rights-13585827</link>
+      <description>Every Saturday, we help a reader with their consumer issue or personal finance dilemma in our Money Problem series. You can send yours to moneyblog@sky.uk. Today, we answer this question from Alice...</description>
+      <pubDate>Mon, 14 Sep 2026 13:33:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/money-problem-my-ex-boyfriend-says-he-has-equity-in-the-home-i-own-does-he-have-any-rights-13585827</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-couple-argument_7351425.jpg?20260914134043" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-couple-argument_7351425.jpg?20260914134043" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-couple-argument_7351425.jpg?20260914134043"/>
     </item>
     <item>
       <title>Sovereign AI fund in talks to back drug discovery start-up Potential Sciences</title>
@@ -102,28 +124,6 @@
       <media:description type="html">Tom Earnshaw, head chef at Bohemia in Jersey</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-tom-earnshaw-earnshaw_7355041.jpg?20260918060215" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-tom-earnshaw-earnshaw_7355041.jpg?20260918060215"/>
-    </item>
-    <item>
-      <title>Controversial ex-Post Office chief resurfaces at Flying Tiger-owner</title>
-      <link>https://news.sky.com/story/controversial-ex-post-office-chief-resurfaces-at-flying-tiger-owner-13588905</link>
-      <description>Nick Read, the controversial former Post Office chief who was lambasted by MPs over his pay demands, has resurfaced at Modella Capital, the investment firm which has snapped up swathes of the British high street.</description>
-      <pubDate>Thu, 17 Sep 2026 10:54:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/controversial-ex-post-office-chief-resurfaces-at-flying-tiger-owner-13588905</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-flying-tiger-copenhagen_7354441.jpg?20260917111716" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: Flying Tiger</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-flying-tiger-copenhagen_7354441.jpg?20260917111716" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-flying-tiger-copenhagen_7354441.jpg?20260917111716"/>
-    </item>
-    <item>
-      <title>Payments company Ryft lands £20m funding for expansion push</title>
-      <link>https://news.sky.com/story/payments-company-ryft-lands-20m-funding-for-expansion-push-13588827</link>
-      <description>A Manchester-based payments company which counts the Disasters Emergency Committee among its users has landed a £20m funding round anchored by Gresham House, the privately held asset manager.</description>
-      <pubDate>Thu, 17 Sep 2026 07:51:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/payments-company-ryft-lands-20m-funding-for-expansion-push-13588827</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-ryft-founders_7354377.jpg?20260917101742" length="0" type="image/jpeg"/>
-      <media:description type="html">Ryft founders Richard Kirby, Sadra Hosseini and Alex Mackenzie. Pic: Ryft </media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-ryft-founders_7354377.jpg?20260917101742" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-ryft-founders_7354377.jpg?20260917101742"/>
     </item>
   </channel>
 </rss>
