@@ -12,11 +12,11 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 22 Sep 2026 10:08:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 15:03:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
-      <title>Football financier Staveley joins board of tokenization start-up Ctrl Alt</title>
+      <title>Football financier Staveley joins board of tokenisation start-up Ctrl Alt</title>
       <link>https://news.sky.com/story/football-financier-staveley-joins-board-of-tokenization-start-up-ctrl-alt-13590609</link>
       <description>Amanda Staveley, the Mayfair financier best-known for her roles in takeovers of Premier League football clubs Manchester City and Newcastle United, is joining the board of Ctrl Alt, a financial infrastructure start-up. </description>
       <pubDate>Tue, 22 Sep 2026 10:08:00 +0100</pubDate>
@@ -25,6 +25,28 @@
       <media:description type="html">Amanda Staveley is seen at Newcastle United stadium St James' Park in 2021. Pic: PA</media:description>
       <media:thumbnail url="https://e3.365dm.com/21/11/1920x1080/skynews-newcastle-united-football_5585085.jpg?20211116163651" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/21/11/1920x1080/skynews-newcastle-united-football_5585085.jpg?20211116163651"/>
+    </item>
+    <item>
+      <title>RAC shelves London float as owners opt for continuation vehicle</title>
+      <link>https://news.sky.com/story/rac-shelves-london-float-as-owners-opt-for-continuation-vehicle-13590718</link>
+      <description>The RAC, Britain's oldest breakdown recovery service, is shelving plans for a multibillion pound London stock market listing in favour of a deal that will see two of its three shareholders offloading their stakes in a private transaction.</description>
+      <pubDate>Tue, 22 Sep 2026 15:03:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/rac-shelves-london-float-as-owners-opt-for-continuation-vehicle-13590718</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-rac-patrol_7358646.jpg?20260922152347" length="0" type="image/jpeg"/>
+      <media:description type="html">RAC patrol attending rural breakdown </media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-rac-patrol_7358646.jpg?20260922152347" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-rac-patrol_7358646.jpg?20260922152347"/>
+    </item>
+    <item>
+      <title>Southern Water hit with second multi-million-pound sewage fine</title>
+      <link>https://news.sky.com/story/southern-water-hit-with-another-multi-million-pound-fine-over-sewage-discharge-in-kent-13590638</link>
+      <description>Southern Water has received another fine just two months after being told to pay £7m over illegal sewage dumping.</description>
+      <pubDate>Tue, 22 Sep 2026 13:18:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/southern-water-hit-with-another-multi-million-pound-fine-over-sewage-discharge-in-kent-13590638</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-whitstable-fishing_7358429.jpg?20260922113715" length="0" type="image/jpeg"/>
+      <media:description type="html">The water near Whitstable Harbour was affected by one of the incidents. File pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-whitstable-fishing_7358429.jpg?20260922113715" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-whitstable-fishing_7358429.jpg?20260922113715"/>
     </item>
     <item>
       <title>Paramount clears hurdle to $110bn Warner Bros merger after settlement </title>
@@ -102,28 +124,6 @@
       <media:description type="html">Pic: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-couple-argument_7351425.jpg?20260914134043" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-couple-argument_7351425.jpg?20260914134043"/>
-    </item>
-    <item>
-      <title>Sovereign AI fund in talks to back drug discovery start-up Potential Sciences</title>
-      <link>https://news.sky.com/story/sovereign-ai-fund-in-talks-to-back-drug-discovery-start-up-potential-sciences-13589227</link>
-      <description>The government's £500m fund to back a wave of promising AI companies is close to taking a stake in Potential Sciences, a drug discovery start-up.</description>
-      <pubDate>Fri, 18 Sep 2026 10:47:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/sovereign-ai-fund-in-talks-to-back-drug-discovery-start-up-potential-sciences-13589227</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-kanishka-narayan-mp_7355236.jpg?20260918110045" length="0" type="image/jpeg"/>
-      <media:description type="html">The government's artificial intelligence minister Kanishka Narayan. Pic: Alecsandra Dragoi/DSIT</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-kanishka-narayan-mp_7355236.jpg?20260918110045" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-kanishka-narayan-mp_7355236.jpg?20260918110045"/>
-    </item>
-    <item>
-      <title>TalkTalk founder and Ares eye consumer arm as Opus deal stalls</title>
-      <link>https://news.sky.com/story/talktalk-founder-and-ares-eye-consumer-arm-as-opus-deal-stalls-13589226</link>
-      <description>The founder of TalkTalk and the broadband group's biggest lender are exploring a move to take control of its consumer-facing operations after discussions with an external bidder faltered.</description>
-      <pubDate>Fri, 18 Sep 2026 10:44:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/talktalk-founder-and-ares-eye-consumer-arm-as-opus-deal-stalls-13589226</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-talktalk-sign_7355226.jpg?20260918104536" length="0" type="image/jpeg"/>
-      <media:description type="html">File pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-talktalk-sign_7355226.jpg?20260918104536" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-talktalk-sign_7355226.jpg?20260918104536"/>
     </item>
   </channel>
 </rss>
