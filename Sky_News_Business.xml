@@ -12,7 +12,7 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 22 Sep 2026 21:11:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 09:45:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
@@ -25,6 +25,28 @@
       <media:description type="html">Pic: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/24/02/1920x1080/skynews-johnnie-walker-whisky_6441683.jpg?20240202114132" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/24/02/1920x1080/skynews-johnnie-walker-whisky_6441683.jpg?20240202114132"/>
+    </item>
+    <item>
+      <title>Labour donor Vince rescues London newspapers two years after Observer bid</title>
+      <link>https://news.sky.com/story/labour-donor-vince-rescues-london-newspapers-two-years-after-observer-bid-13590952</link>
+      <description>The multimillionaire entrepreneur and Labour donor Dale Vince is providing a "rescue" funding package to a trio of central London newspapers, nearly two years after he was thwarted in a bid to buy The Observer.</description>
+      <pubDate>Wed, 23 Sep 2026 09:45:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/labour-donor-vince-rescues-london-newspapers-two-years-after-observer-bid-13590952</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-dale-vance-camden-new_7359457.jpg?20260923141251" length="0" type="image/jpeg"/>
+      <media:description type="html">Dale Vince</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-dale-vance-camden-new_7359457.jpg?20260923141251" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-dale-vance-camden-new_7359457.jpg?20260923141251"/>
+    </item>
+    <item>
+      <title>Brookfield in talks to buy financial crime specialist Actimize for $2bn</title>
+      <link>https://news.sky.com/story/brookfield-in-talks-to-buy-financial-crime-specialist-actimize-for-2bn-13590951</link>
+      <description>The Canadian investment giant Brookfield is closing in on a $2bn deal to buy Actimize, a financial crime and compliance specialist.</description>
+      <pubDate>Wed, 23 Sep 2026 09:42:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/brookfield-in-talks-to-buy-financial-crime-specialist-actimize-for-2bn-13590951</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-brookfield-corporation_7246701.jpg?20260512164438" length="0" type="image/jpeg"/>
+      <media:description type="html">Headquarters of the Brookfield Corporation. Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-brookfield-corporation_7246701.jpg?20260512164438" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-brookfield-corporation_7246701.jpg?20260512164438"/>
     </item>
     <item>
       <title>Southern Water hit with second multi-million-pound sewage fine</title>
@@ -49,7 +71,7 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/21/11/1920x1080/skynews-newcastle-united-football_5585085.jpg?20211116163651"/>
     </item>
     <item>
-      <title>Rumour swirls that stagnant personal allowance could get boost worth thousands - and save state pensions from tax </title>
+      <title>Budget speculation: Personal allowance to rise - and capital gains pain on way?</title>
       <link>https://news.sky.com/story/rumour-swirls-that-stagnant-personal-allowance-could-get-boost-worth-thousands-and-save-state-pensions-from-tax-13590719</link>
       <description>The personal allowance could get its first boost in five years.</description>
       <pubDate>Tue, 22 Sep 2026 15:01:00 +0100</pubDate>
@@ -102,28 +124,6 @@
       <media:description type="html">Pic: Converse </media:description>
       <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-converse-ad-chuck-70-x_7357603.jpg?20260921071839" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-converse-ad-chuck-70-x_7357603.jpg?20260921071839"/>
-    </item>
-    <item>
-      <title>Struggling Mirror publisher Reach lures turnaround veteran Whiley to board</title>
-      <link>https://news.sky.com/story/struggling-mirror-publisher-reach-lures-turnaround-veteran-whiley-to-board-13590030</link>
-      <description>The struggling publisher of the Daily Mirror is turning to the boardroom veteran who oversaw the recovery and sale of banknote printer De La Rue as the media group battles to revive its fortunes.</description>
-      <pubDate>Sun, 20 Sep 2026 11:53:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/struggling-mirror-publisher-reach-lures-turnaround-veteran-whiley-to-board-13590030</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-sunday-mirror-sunday-express_7356883.jpg?20260920115634" length="0" type="image/jpeg"/>
-      <media:description type="html"/>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-sunday-mirror-sunday-express_7356883.jpg?20260920115634" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-sunday-mirror-sunday-express_7356883.jpg?20260920115634"/>
-    </item>
-    <item>
-      <title>Tata Steel seeks new government funding as industry crisis deepens</title>
-      <link>https://news.sky.com/story/tata-steel-seeks-new-government-funding-as-industry-crisis-deepens-13589548</link>
-      <description>The UK's biggest steel company is seeking fresh government funding amid delays to the transformation of its plant in Port Talbot - a request which threatens to cast a deeper shadow over Britain's crisis-hit manufacturing sector.</description>
-      <pubDate>Sat, 19 Sep 2026 08:10:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/tata-steel-seeks-new-government-funding-as-industry-crisis-deepens-13589548</guid>
-      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-port-talbot-andy-burnham_7332585.jpg?20260919080934" length="0" type="image/jpeg"/>
-      <media:description type="html">Andy Burnham (R) during a visit to Tata Steel in Port Talbot in August. Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-port-talbot-andy-burnham_7332585.jpg?20260919080934" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-port-talbot-andy-burnham_7332585.jpg?20260919080934"/>
     </item>
   </channel>
 </rss>
