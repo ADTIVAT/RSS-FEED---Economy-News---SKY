@@ -12,9 +12,31 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 22 Sep 2026 15:03:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 21:11:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Tesco duo reunited as Guinness-maker raids WPP for CFO</title>
+      <link>https://news.sky.com/story/tesco-duo-reunited-as-guinness-maker-raids-wpp-for-cfo-13590846</link>
+      <description>The finance chief of London-listed marketing services group WPP is quitting in the middle of its turnaround to be reunited with her former Tesco colleague, the Diageo chief executive Sir Dave Lewis.</description>
+      <pubDate>Tue, 22 Sep 2026 21:11:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/tesco-duo-reunited-as-guinness-maker-raids-wpp-for-cfo-13590846</guid>
+      <enclosure url="https://e3.365dm.com/24/02/1920x1080/skynews-johnnie-walker-whisky_6441683.jpg?20240202114132" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/24/02/1920x1080/skynews-johnnie-walker-whisky_6441683.jpg?20240202114132" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/24/02/1920x1080/skynews-johnnie-walker-whisky_6441683.jpg?20240202114132"/>
+    </item>
+    <item>
+      <title>Southern Water hit with second multi-million-pound sewage fine</title>
+      <link>https://news.sky.com/story/southern-water-hit-with-another-multi-million-pound-fine-over-sewage-discharge-in-kent-13590638</link>
+      <description>Southern Water has received another fine just two months after being told to pay £7m over illegal sewage dumping.</description>
+      <pubDate>Tue, 22 Sep 2026 13:18:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/southern-water-hit-with-another-multi-million-pound-fine-over-sewage-discharge-in-kent-13590638</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-whitstable-fishing_7358429.jpg?20260922113715" length="0" type="image/jpeg"/>
+      <media:description type="html">The water near Whitstable Harbour was affected by one of the incidents. File pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-whitstable-fishing_7358429.jpg?20260922113715" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-whitstable-fishing_7358429.jpg?20260922113715"/>
+    </item>
     <item>
       <title>Football financier Staveley joins board of tokenisation start-up Ctrl Alt</title>
       <link>https://news.sky.com/story/football-financier-staveley-joins-board-of-tokenization-start-up-ctrl-alt-13590609</link>
@@ -27,6 +49,17 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/21/11/1920x1080/skynews-newcastle-united-football_5585085.jpg?20211116163651"/>
     </item>
     <item>
+      <title>Rumour swirls that stagnant personal allowance could get boost worth thousands - and save state pensions from tax </title>
+      <link>https://news.sky.com/story/rumour-swirls-that-stagnant-personal-allowance-could-get-boost-worth-thousands-and-save-state-pensions-from-tax-13590719</link>
+      <description>The personal allowance could get its first boost in five years.</description>
+      <pubDate>Tue, 22 Sep 2026 15:01:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/rumour-swirls-that-stagnant-personal-allowance-could-get-boost-worth-thousands-and-save-state-pensions-from-tax-13590719</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-money-news_7358628.jpg?20260922151458" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: Sky News</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-money-news_7358628.jpg?20260922151458" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-money-news_7358628.jpg?20260922151458"/>
+    </item>
+    <item>
       <title>RAC shelves London float as owners opt for continuation vehicle</title>
       <link>https://news.sky.com/story/rac-shelves-london-float-as-owners-opt-for-continuation-vehicle-13590718</link>
       <description>The RAC, Britain's oldest breakdown recovery service, is shelving plans for a multibillion pound London stock market listing in favour of a deal that will see two of its three shareholders offloading their stakes in a private transaction.</description>
@@ -36,17 +69,6 @@
       <media:description type="html">RAC patrol attending rural breakdown </media:description>
       <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-rac-patrol_7358646.jpg?20260922152347" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-rac-patrol_7358646.jpg?20260922152347"/>
-    </item>
-    <item>
-      <title>Southern Water hit with second multi-million-pound sewage fine</title>
-      <link>https://news.sky.com/story/southern-water-hit-with-another-multi-million-pound-fine-over-sewage-discharge-in-kent-13590638</link>
-      <description>Southern Water has received another fine just two months after being told to pay £7m over illegal sewage dumping.</description>
-      <pubDate>Tue, 22 Sep 2026 13:18:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/southern-water-hit-with-another-multi-million-pound-fine-over-sewage-discharge-in-kent-13590638</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-whitstable-fishing_7358429.jpg?20260922113715" length="0" type="image/jpeg"/>
-      <media:description type="html">The water near Whitstable Harbour was affected by one of the incidents. File pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-whitstable-fishing_7358429.jpg?20260922113715" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-whitstable-fishing_7358429.jpg?20260922113715"/>
     </item>
     <item>
       <title>Paramount clears hurdle to $110bn Warner Bros merger after settlement </title>
@@ -102,28 +124,6 @@
       <media:description type="html">Andy Burnham (R) during a visit to Tata Steel in Port Talbot in August. Pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-port-talbot-andy-burnham_7332585.jpg?20260919080934" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-port-talbot-andy-burnham_7332585.jpg?20260919080934"/>
-    </item>
-    <item>
-      <title>British Steel losing £1.3m a day - and there is no 'credible' survival plan, MPs warn</title>
-      <link>https://news.sky.com/story/british-steel-losing-13m-a-day-and-there-is-no-credible-survival-plan-yet-mps-warn-13589024</link>
-      <description>The government must publish a "credible" plan for the future of British Steel, MPs have warned.</description>
-      <pubDate>Thu, 17 Sep 2026 15:13:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/british-steel-losing-13m-a-day-and-there-is-no-credible-survival-plan-yet-mps-warn-13589024</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-british-steel_7354706.jpg?20260917154024" length="0" type="image/jpeg"/>
-      <media:description type="html">The British Steel works in Scunthorpe. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-british-steel_7354706.jpg?20260917154024" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-british-steel_7354706.jpg?20260917154024"/>
-    </item>
-    <item>
-      <title>'My ex-boyfriend says he has equity in the home I own - does he have any rights?'</title>
-      <link>https://news.sky.com/story/money-problem-my-ex-boyfriend-says-he-has-equity-in-the-home-i-own-does-he-have-any-rights-13585827</link>
-      <description>Every Saturday, we help a reader with their consumer issue or personal finance dilemma in our Money Problem series. You can send yours to moneyblog@sky.uk. Today, we answer this question from Alice...</description>
-      <pubDate>Mon, 14 Sep 2026 13:33:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/money-problem-my-ex-boyfriend-says-he-has-equity-in-the-home-i-own-does-he-have-any-rights-13585827</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-couple-argument_7351425.jpg?20260914134043" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-couple-argument_7351425.jpg?20260914134043" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-couple-argument_7351425.jpg?20260914134043"/>
     </item>
   </channel>
 </rss>
