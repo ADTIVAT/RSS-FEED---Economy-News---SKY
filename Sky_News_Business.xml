@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 25 Sep 2026 08:10:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 10:54:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Revealed: EFL seeks £1bn five-year transfer from Premier League</title>
+      <link>https://news.sky.com/story/revealed-efl-seeks-1bn-five-year-transfer-from-premier-league-13591726</link>
+      <description>The English Football League wants top flight clubs to hand over more than £1bn during the next five years in order to end the long-running impasse over a financial redistribution deal.</description>
+      <pubDate>Fri, 25 Sep 2026 10:54:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/revealed-efl-seeks-1bn-five-year-transfer-from-premier-league-13591726</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-martin-odegaard-premier_7348179.jpg?20260911154852" length="0" type="image/jpeg"/>
+      <media:description type="html">Arsenal celebrate winning the 2025/6 Premier League. Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-martin-odegaard-premier_7348179.jpg?20260911154852" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-martin-odegaard-premier_7348179.jpg?20260911154852"/>
+    </item>
     <item>
       <title>Scrapping windfall tax early 'could cost UK £8.6bn by 2030'</title>
       <link>https://news.sky.com/story/scrapping-windfall-tax-early-could-cost-uk-86bn-by-2030-campaigners-warn-13591390</link>
@@ -27,15 +38,37 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-bp-etap-oil-oil-platform_7360207.jpg?20260924131559"/>
     </item>
     <item>
-      <title>More than 20,000 council staff to be fired and rehired</title>
-      <link>https://news.sky.com/story/more-than-20000-glasgow-city-council-staff-to-be-fired-and-rehired-after-union-talks-break-down-13591590</link>
-      <description>More than 20,000 Glasgow City Council staff will be fired then rehired under new contracts after talks to resolve a long-running equal pay dispute between the local body and trade unions broke down.</description>
-      <pubDate>Thu, 24 Sep 2026 20:52:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/more-than-20000-glasgow-city-council-staff-to-be-fired-and-rehired-after-union-talks-break-down-13591590</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-glasgow-city-council_7360896.jpg?20260925092159" length="0" type="image/jpeg"/>
-      <media:description type="html">Glasgow City Council has faced previous demonstrations in a row over equal pay. File pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-glasgow-city-council_7360896.jpg?20260925092159" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-glasgow-city-council_7360896.jpg?20260925092159"/>
+      <title>Gamma suitor Epiris in talks to buy TalkTalk wholesale arm PXC for £200m</title>
+      <link>https://news.sky.com/story/gamma-suitor-epiris-in-talks-to-buy-talktalk-wholesale-arm-pxc-for-200m-13591705</link>
+      <description>The buyout firm stalking London-listed Gamma Communications has entered formal talks to buy PXC, the wholesale arm of struggling TalkTalk Telecom Group.</description>
+      <pubDate>Fri, 25 Sep 2026 10:03:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/gamma-suitor-epiris-in-talks-to-buy-talktalk-wholesale-arm-pxc-for-200m-13591705</guid>
+      <enclosure url="https://e3.365dm.com/24/07/1920x1080/skynews-talktalk-talk_6639687.jpg?20240726105456" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: TalkTalk</media:description>
+      <media:thumbnail url="https://e3.365dm.com/24/07/1920x1080/skynews-talktalk-talk_6639687.jpg?20240726105456" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/24/07/1920x1080/skynews-talktalk-talk_6639687.jpg?20240726105456"/>
+    </item>
+    <item>
+      <title>'I'm a builder - here's how to add £10,000 to your home's value with just £1,000 of work'</title>
+      <link>https://news.sky.com/story/im-a-builder-heres-how-to-add-10000-to-your-homes-value-with-just-1000-of-work-13591693</link>
+      <description>It's a competitive market out there, so the Sky News Money blog team asked Luke Burford, co-founder of comparebuilders.co.uk, for his top tips on increasing the value of your property.</description>
+      <pubDate>Fri, 25 Sep 2026 09:31:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/im-a-builder-heres-how-to-add-10000-to-your-homes-value-with-just-1000-of-work-13591693</guid>
+      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-builder-money-blog_7321654.jpg?20260814153053" length="0" type="image/jpeg"/>
+      <media:description type="html">Luke Burford</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-builder-money-blog_7321654.jpg?20260814153053" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-builder-money-blog_7321654.jpg?20260814153053"/>
+    </item>
+    <item>
+      <title>Tax fears drive 70% surge in pension withdrawals</title>
+      <link>https://news.sky.com/story/tax-fears-drive-70-surge-in-pension-withdrawals-13591695</link>
+      <description>A surge in pension withdrawals is being driven by uncertainty over government tax changes, according to experts.</description>
+      <pubDate>Fri, 25 Sep 2026 09:44:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/tax-fears-drive-70-surge-in-pension-withdrawals-13591695</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-istock-stock-file-generic_7338360.jpg?20260902060435" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-istock-stock-file-generic_7338360.jpg?20260902060435" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-istock-stock-file-generic_7338360.jpg?20260902060435"/>
     </item>
     <item>
       <title>Premier League in joint call for FIFA reform amid Infantino crisis</title>
@@ -91,39 +124,6 @@
       <media:description type="html">Dale Vince</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-dale-vance-camden-new_7359457.jpg?20260923141251" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-dale-vance-camden-new_7359457.jpg?20260923141251"/>
-    </item>
-    <item>
-      <title>&lt;a href='https://news.sky.com/video/britain-is-running-low-on-diesel-how-worried-should-we-be-13591501'&gt;Britain is running low on diesel - how worried should we be?&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/britain-is-running-low-on-diesel-how-worried-should-we-be-13591677</link>
-      <description/>
-      <pubDate>Fri, 25 Sep 2026 08:10:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/britain-is-running-low-on-diesel-how-worried-should-we-be-13591677</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-diesel-conway-ed_7360857.png?20260925075616" length="0" type="image/png"/>
-      <media:description type="html">Ed Conway diesel screen</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-diesel-conway-ed_7360857.png?20260925075616" width="1920" height="1080"/>
-      <media:content type="image/png" url="https://e3.365dm.com/26/09/1920x1080/skynews-diesel-conway-ed_7360857.png?20260925075616"/>
-    </item>
-    <item>
-      <title>Brookfield in talks to buy financial crime specialist Actimize for $2bn</title>
-      <link>https://news.sky.com/story/brookfield-in-talks-to-buy-financial-crime-specialist-actimize-for-2bn-13590951</link>
-      <description>The Canadian investment giant Brookfield is closing in on a $2bn deal to buy Actimize, a financial crime and compliance specialist.</description>
-      <pubDate>Wed, 23 Sep 2026 09:42:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/brookfield-in-talks-to-buy-financial-crime-specialist-actimize-for-2bn-13590951</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-brookfield-corporation_7246701.jpg?20260512164438" length="0" type="image/jpeg"/>
-      <media:description type="html">Headquarters of the Brookfield Corporation. Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-brookfield-corporation_7246701.jpg?20260512164438" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-brookfield-corporation_7246701.jpg?20260512164438"/>
-    </item>
-    <item>
-      <title>Southern Water hit with second multi-million-pound sewage fine</title>
-      <link>https://news.sky.com/story/southern-water-hit-with-another-multi-million-pound-fine-over-sewage-discharge-in-kent-13590638</link>
-      <description>Southern Water has received another fine just two months after being told to pay £7m over illegal sewage dumping.</description>
-      <pubDate>Tue, 22 Sep 2026 13:18:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/southern-water-hit-with-another-multi-million-pound-fine-over-sewage-discharge-in-kent-13590638</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-whitstable-fishing_7358429.jpg?20260922113715" length="0" type="image/jpeg"/>
-      <media:description type="html">The water near Whitstable Harbour was affected by one of the incidents. File pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-whitstable-fishing_7358429.jpg?20260922113715" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-whitstable-fishing_7358429.jpg?20260922113715"/>
     </item>
   </channel>
 </rss>
