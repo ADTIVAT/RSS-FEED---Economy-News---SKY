@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 25 Sep 2026 10:54:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 13:11:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Monzo in talks about multibillion pound sale to Brazil's Nubank</title>
+      <link>https://news.sky.com/story/digital-bank-monzo-in-talks-about-10bn-tie-up-with-brazils-nubank-13591770</link>
+      <description>Monzo, the digital lender whose rapid growth has turned it into one of Britain's biggest consumer banks, is in talks about a sale to Brazil's Nubank which could value it at between £8bn and £10bn.</description>
+      <pubDate>Fri, 25 Sep 2026 13:11:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/digital-bank-monzo-in-talks-about-10bn-tie-up-with-brazils-nubank-13591770</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-monzo-manchester-cricket_7361105.jpg?20260925134143" length="0" type="image/jpeg"/>
+      <media:description type="html"> Pic: SPP/Shutterstock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-monzo-manchester-cricket_7361105.jpg?20260925134143" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-monzo-manchester-cricket_7361105.jpg?20260925134143"/>
+    </item>
     <item>
       <title>Revealed: EFL seeks £1bn five-year transfer from Premier League</title>
       <link>https://news.sky.com/story/revealed-efl-seeks-1bn-five-year-transfer-from-premier-league-13591726</link>
@@ -113,17 +124,6 @@
       <media:description type="html">Pic: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/24/02/1920x1080/skynews-johnnie-walker-whisky_6441683.jpg?20240202114132" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/24/02/1920x1080/skynews-johnnie-walker-whisky_6441683.jpg?20240202114132"/>
-    </item>
-    <item>
-      <title>Labour donor Vince rescues London newspapers two years after Observer bid</title>
-      <link>https://news.sky.com/story/labour-donor-vince-rescues-london-newspapers-two-years-after-observer-bid-13590952</link>
-      <description>The multimillionaire entrepreneur and Labour donor Dale Vince is providing a "rescue" funding package to a trio of central London newspapers, nearly two years after he was thwarted in a bid to buy The Observer.</description>
-      <pubDate>Wed, 23 Sep 2026 09:45:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/labour-donor-vince-rescues-london-newspapers-two-years-after-observer-bid-13590952</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-dale-vance-camden-new_7359457.jpg?20260923141251" length="0" type="image/jpeg"/>
-      <media:description type="html">Dale Vince</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-dale-vance-camden-new_7359457.jpg?20260923141251" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-dale-vance-camden-new_7359457.jpg?20260923141251"/>
     </item>
   </channel>
 </rss>
