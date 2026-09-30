@@ -12,7 +12,7 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 29 Sep 2026 09:36:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 17:29:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
@@ -27,6 +27,17 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/24/10/1920x1080/skynews-volkswagen-vw-car_6731200.jpg?20241028143546"/>
     </item>
     <item>
+      <title>Pensions firm Just axes quarter of workforce months after takeover</title>
+      <link>https://news.sky.com/story/pensions-firm-just-axes-quarter-of-workforce-months-after-takeover-13593374</link>
+      <description>A retirement specialist taken over this year by Brookfield Corporation, the Canadian investment giant, is axing a quarter of its workforce less than six months after the completion of the £2.4bn deal.</description>
+      <pubDate>Tue, 29 Sep 2026 17:29:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/pensions-firm-just-axes-quarter-of-workforce-months-after-takeover-13593374</guid>
+      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-city-of-london-skyline_7230803.jpg?20260425223818" length="0" type="image/jpeg"/>
+      <media:description type="html">The City of London. File pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-city-of-london-skyline_7230803.jpg?20260425223818" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-city-of-london-skyline_7230803.jpg?20260425223818"/>
+    </item>
+    <item>
       <title>TalkTalk gets engaged tone as buyers close in on £200m break-up</title>
       <link>https://news.sky.com/story/talktalk-gets-engaged-tone-as-buyers-close-in-on-200m-break-up-13593135</link>
       <description>TalkTalk Telecom Group is closing in on a £200m deal to break itself up as its biggest lender again emerges as the leading contender to take control of one of Britain's biggest broadband suppliers.</description>
@@ -36,17 +47,6 @@
       <media:description type="html">File pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/25/09/1920x1080/skynews-talktalk-money-business_7026016.jpg?20250920120535" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/09/1920x1080/skynews-talktalk-money-business_7026016.jpg?20250920120535"/>
-    </item>
-    <item>
-      <title>OpenAI model shelved after showing 'higher levels of deception'</title>
-      <link>https://news.sky.com/story/openai-scraps-release-of-new-ai-model-after-it-showed-higher-levels-of-deception-13593074</link>
-      <description>OpenAI has scrapped plans to release its new AI model amid safety concerns, after it showed "higher levels of deception" than its predecessor. </description>
-      <pubDate>Tue, 29 Sep 2026 00:17:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/openai-scraps-release-of-new-ai-model-after-it-showed-higher-levels-of-deception-13593074</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-openai-logo_7252650.jpg?20260722202548" length="0" type="image/jpeg"/>
-      <media:description type="html">File pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-openai-logo_7252650.jpg?20260722202548" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-openai-logo_7252650.jpg?20260722202548"/>
     </item>
     <item>
       <title>McLaren Racing on track to hit $1bn in revenue as chief's pay reaches record</title>
