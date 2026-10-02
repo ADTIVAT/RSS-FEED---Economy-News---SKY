@@ -12,19 +12,42 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 02 Oct 2026 06:23:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 16:25:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
-      <title>Trump warning on diesel forces EU emergency talks as prices hit record highs</title>
-      <link>https://news.sky.com/story/trump-warning-on-diesel-forces-eu-emergency-talks-as-prices-hit-record-highs-13594218</link>
-      <description>Donald Trump has said he may call on European countries to release diesel reserves as the UK joined crisis talks with Brussels to discuss emergency stocks.</description>
-      <pubDate>Fri, 02 Oct 2026 06:23:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/trump-warning-on-diesel-forces-eu-emergency-talks-as-prices-hit-record-highs-13594218</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-istock-stock-file-unleaded_7353286.jpg?20260916060605" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-istock-stock-file-unleaded_7353286.jpg?20260916060605" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-istock-stock-file-unleaded_7353286.jpg?20260916060605"/>
+      <title>City steps up opposition to Healey bank tax raid in budget</title>
+      <link>https://news.sky.com/story/city-steps-up-opposition-to-healey-bank-tax-raid-in-budget-13594449</link>
+      <description>Some of Britain's leading business groups are mobilising to intensify their opposition to a Treasury tax raid on the banking sector in this month's budget, days before sector chiefs meet the chancellor in person for the first time.</description>
+      <pubDate>Fri, 02 Oct 2026 16:25:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/city-steps-up-opposition-to-healey-bank-tax-raid-in-budget-13594449</guid>
+      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-john-healey-kiln_7333419.jpg?20261002172500" length="0" type="image/jpeg"/>
+      <media:description type="html">John Healey. Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-john-healey-kiln_7333419.jpg?20261002172500" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-john-healey-kiln_7333419.jpg?20261002172500"/>
+    </item>
+    <item>
+      <title>Kurt Geiger owner steps away from Harrods and Selfridges shoe departments</title>
+      <link>https://news.sky.com/story/kurt-geiger-owner-steps-away-from-harrods-and-selfridges-shoe-departments-13594278</link>
+      <description>The new owner of Kurt Geiger, the women's fashion brand, is considering stepping away from the business which manages the shoe departments in Harrods and Selfridges.</description>
+      <pubDate>Fri, 02 Oct 2026 10:08:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/kurt-geiger-owner-steps-away-from-harrods-and-selfridges-shoe-departments-13594278</guid>
+      <enclosure url="https://e3.365dm.com/24/09/1920x1080/skynews-kurt-geiger-missguided_6698936.jpg?20240928093251" length="0" type="image/jpeg"/>
+      <media:description type="html">Luxury shoe retailer Kurt Geiger.
+Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/24/09/1920x1080/skynews-kurt-geiger-missguided_6698936.jpg?20240928093251" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/24/09/1920x1080/skynews-kurt-geiger-missguided_6698936.jpg?20240928093251"/>
+    </item>
+    <item>
+      <title>Energy regulator Ofgem closes in on appointment of Jarvis as new chief</title>
+      <link>https://news.sky.com/story/energy-regulator-ofgem-closes-in-on-appointment-of-jarvis-as-new-chief-13594272</link>
+      <description>Britain's energy watchdog is closing in on the appointment of Tim Jarvis as its new chief executive, seven months after he was handed the role on an interim basis.</description>
+      <pubDate>Fri, 02 Oct 2026 10:02:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/energy-regulator-ofgem-closes-in-on-appointment-of-jarvis-as-new-chief-13594272</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-tim-jarvis-ofgem-chief-executive_7259362.jpg?20260527091624" length="0" type="image/jpeg"/>
+      <media:description type="html">Ofgem's Jim Jarvis</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-tim-jarvis-ofgem-chief-executive_7259362.jpg?20260527091624" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-tim-jarvis-ofgem-chief-executive_7259362.jpg?20260527091624"/>
     </item>
     <item>
       <title>Healey summons UK bank chiefs to pre-budget summit next week</title>
@@ -47,6 +70,17 @@
       <media:description type="html">Pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-travelodge-hotel_7167357.jpg?20260217142837" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-travelodge-hotel_7167357.jpg?20260217142837"/>
+    </item>
+    <item>
+      <title>Gigantic £16.5bn data centre planned for former nuclear plant site</title>
+      <link>https://news.sky.com/story/gigantic-165bn-data-centre-planned-for-former-nuclear-plant-site-in-scotland-13593921</link>
+      <description>Plans to build a gigantic £16.5bn data centre on the site of the former Chapelcross nuclear plant in Scotland have been submitted. </description>
+      <pubDate>Thu, 01 Oct 2026 10:29:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/gigantic-165bn-data-centre-planned-for-former-nuclear-plant-site-in-scotland-13593921</guid>
+      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-cx-tech-ltd-data-centre_7365602.png?20261001104653" length="0" type="image/png"/>
+      <media:description type="html">The proposed data centre on the site of the former Chapelcross nuclear plant. Pic: CX Tech Ltd</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-cx-tech-ltd-data-centre_7365602.png?20261001104653" width="1920" height="1080"/>
+      <media:content type="image/png" url="https://e3.365dm.com/26/10/1920x1080/skynews-cx-tech-ltd-data-centre_7365602.png?20261001104653"/>
     </item>
     <item>
       <title>TalkTalk bidder Epiris seeks £300m BT waiver to dial up rescue</title>
@@ -91,39 +125,6 @@
       <media:description type="html">Pic: Ted Baker</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-ted-baker_7364950.jpg?20260930140754" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-ted-baker_7364950.jpg?20260930140754"/>
-    </item>
-    <item>
-      <title>Data centre would have 'horrendous' impact, protesters warn</title>
-      <link>https://news.sky.com/story/hunterston-data-centre-would-have-horrendous-impact-in-north-ayrshire-protesters-warn-13593621</link>
-      <description>A planned data centre in North Ayrshire would have a "horrendous" impact on heritage and biodiversity, protesters have warned.</description>
-      <pubDate>Wed, 30 Sep 2026 12:19:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/hunterston-data-centre-would-have-horrendous-impact-in-north-ayrshire-protesters-warn-13593621</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-hunterston-data-centre_7364875.jpg?20260930122656" length="0" type="image/jpeg"/>
-      <media:description type="html">Campaigners protesting in Kilmarnock against the planned Hunterston Data Centre. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-hunterston-data-centre_7364875.jpg?20260930122656" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-hunterston-data-centre_7364875.jpg?20260930122656"/>
-    </item>
-    <item>
-      <title>BT asked for payment waiver as TalkTalk rescue negotiations intensify</title>
-      <link>https://news.sky.com/story/bt-asked-for-payment-waiver-as-talktalk-rescue-negotiations-intensify-13593725</link>
-      <description>The private equity firm which wants to buy the wholesale arm of struggling TalkTalk Telecom Group has approached BT Group to seek relief from payments worth over £100m in order to push a rescue deal through.</description>
-      <pubDate>Wed, 30 Sep 2026 17:51:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/bt-asked-for-payment-waiver-as-talktalk-rescue-negotiations-intensify-13593725</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-talktalk-sign_7355226.jpg?20260918104536" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-talktalk-sign_7355226.jpg?20260918104536" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-talktalk-sign_7355226.jpg?20260918104536"/>
-    </item>
-    <item>
-      <title>Tax fears drive 70% surge in pension withdrawals</title>
-      <link>https://news.sky.com/story/tax-fears-drive-70-surge-in-pension-withdrawals-13593654</link>
-      <description>A surge in pension withdrawals is being driven by uncertainty over government tax changes, according to experts.</description>
-      <pubDate>Wed, 30 Sep 2026 14:19:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/tax-fears-drive-70-surge-in-pension-withdrawals-13593654</guid>
-      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-money-blog-widow-pension_7091158.jpg?20251125061949" length="0" type="image/jpeg"/>
-      <media:description type="html">File pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-money-blog-widow-pension_7091158.jpg?20251125061949" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-money-blog-widow-pension_7091158.jpg?20251125061949"/>
     </item>
   </channel>
 </rss>
