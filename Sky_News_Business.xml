@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Oct 2026 17:09:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 06:23:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Trump warning on diesel forces EU emergency talks as prices hit record highs</title>
+      <link>https://news.sky.com/story/trump-warning-on-diesel-forces-eu-emergency-talks-as-prices-hit-record-highs-13594218</link>
+      <description>Donald Trump has said he may call on European countries to release diesel reserves as the UK joined crisis talks with Brussels to discuss emergency stocks.</description>
+      <pubDate>Fri, 02 Oct 2026 06:23:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/trump-warning-on-diesel-forces-eu-emergency-talks-as-prices-hit-record-highs-13594218</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-istock-stock-file-unleaded_7353286.jpg?20260916060605" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-istock-stock-file-unleaded_7353286.jpg?20260916060605" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-istock-stock-file-unleaded_7353286.jpg?20260916060605"/>
+    </item>
     <item>
       <title>Healey summons UK bank chiefs to pre-budget summit next week</title>
       <link>https://news.sky.com/story/healey-summons-uk-bank-chiefs-to-pre-budget-summit-next-week-13594013</link>
@@ -113,17 +124,6 @@
       <media:description type="html">File pic: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-money-blog-widow-pension_7091158.jpg?20251125061949" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-money-blog-widow-pension_7091158.jpg?20251125061949"/>
-    </item>
-    <item>
-      <title>Volkswagen braces for huge financial hit from FCA motor finance scheme</title>
-      <link>https://news.sky.com/story/volkswagen-braces-for-huge-financial-hit-from-fca-motor-finance-scheme-13593133</link>
-      <description>The German car giant Volkswagen is preparing to disclose a massive hit from the City watchdog's £9bn motor finance redress scheme, months after it joined a group of rivals in mounting a legal challenge to its implementation.</description>
-      <pubDate>Tue, 29 Sep 2026 09:29:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/volkswagen-braces-for-huge-financial-hit-from-fca-motor-finance-scheme-13593133</guid>
-      <enclosure url="https://e3.365dm.com/24/10/1920x1080/skynews-volkswagen-vw-car_6731200.jpg?20241028143546" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/24/10/1920x1080/skynews-volkswagen-vw-car_6731200.jpg?20241028143546" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/24/10/1920x1080/skynews-volkswagen-vw-car_6731200.jpg?20241028143546"/>
     </item>
   </channel>
 </rss>
