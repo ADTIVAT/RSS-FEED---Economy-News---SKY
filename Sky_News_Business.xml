@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 02 Oct 2026 16:25:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 08:20:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Supermarket giant Tesco weighs shock takeover bid for Majestic Wine</title>
+      <link>https://news.sky.com/story/supermarket-giant-tesco-weighs-shock-takeover-bid-for-majestic-wine-13594582</link>
+      <description>Tesco is exploring a surprise move to buy Majestic Wine Group, Britain's biggest specialist wine chain - a deal which would further expand the supermarket giant's retail footprint.</description>
+      <pubDate>Sat, 03 Oct 2026 08:20:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/supermarket-giant-tesco-weighs-shock-takeover-bid-for-majestic-wine-13594582</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-majestic-wine-london_7198881.jpg?20260321075327" length="0" type="image/jpeg"/>
+      <media:description type="html"/>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-majestic-wine-london_7198881.jpg?20260321075327" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-majestic-wine-london_7198881.jpg?20260321075327"/>
+    </item>
     <item>
       <title>City steps up opposition to Healey bank tax raid in budget</title>
       <link>https://news.sky.com/story/city-steps-up-opposition-to-healey-bank-tax-raid-in-budget-13594449</link>
@@ -25,6 +36,17 @@
       <media:description type="html">John Healey. Pic: PA</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-john-healey-kiln_7333419.jpg?20261002172500" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-john-healey-kiln_7333419.jpg?20261002172500"/>
+    </item>
+    <item>
+      <title>TPG joins race for Monzo stake after end of £10bn bid talks</title>
+      <link>https://news.sky.com/story/tpg-joins-race-for-monzo-stake-after-end-of-10bn-bid-talks-13594501</link>
+      <description>The American private equity giant TPG is among a pack of investors which want to buy a stake in Monzo, the British-based digital bank.</description>
+      <pubDate>Fri, 02 Oct 2026 19:26:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/tpg-joins-race-for-monzo-stake-after-end-of-10bn-bid-talks-13594501</guid>
+      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-coventry-city-jay-dasilva_7366825.jpg?20261002190301" length="0" type="image/jpeg"/>
+      <media:description type="html">Coventry City player Jay Dasilva. Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-coventry-city-jay-dasilva_7366825.jpg?20261002190301" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-coventry-city-jay-dasilva_7366825.jpg?20261002190301"/>
     </item>
     <item>
       <title>Kurt Geiger owner steps away from Harrods and Selfridges shoe departments</title>
@@ -103,28 +125,6 @@ Pic: iStock</media:description>
       <media:description type="html">File pic: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/25/05/1920x1080/skynews-building-site-housebuilding_6929221.jpg?20250527224348" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/05/1920x1080/skynews-building-site-housebuilding_6929221.jpg?20250527224348"/>
-    </item>
-    <item>
-      <title>Ministers hand EY contract to scrutinise Tata Steel funding request</title>
-      <link>https://news.sky.com/story/ministers-hand-ey-contract-to-scrutinise-tata-steel-funding-request-13593946</link>
-      <description>Ministers have awarded a seven-figure contract to scrutinise Tata Steel's request for hundreds of millions of pounds of extra taxpayer funding amid doubts over the timetable for constructing a new electric arc furnace (EAF) in South Wales.</description>
-      <pubDate>Thu, 01 Oct 2026 11:16:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/ministers-hand-ey-contract-to-scrutinise-tata-steel-funding-request-13593946</guid>
-      <enclosure url="https://e3.365dm.com/24/05/1920x1080/skynews-wales-port-talbot-tata-steel_6570313.jpg?20240531110648" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/24/05/1920x1080/skynews-wales-port-talbot-tata-steel_6570313.jpg?20240531110648" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/24/05/1920x1080/skynews-wales-port-talbot-tata-steel_6570313.jpg?20240531110648"/>
-    </item>
-    <item>
-      <title>Ted Baker fashions high street comeback two years after closure</title>
-      <link>https://news.sky.com/story/ted-baker-fashions-high-street-comeback-two-years-after-closure-13593648</link>
-      <description>Ted Baker, one of Britain’s best-known fashion brands, is staging a high street comeback more than two years after its remaining standalone stores shut their doors for the last time.</description>
-      <pubDate>Wed, 30 Sep 2026 14:03:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/ted-baker-fashions-high-street-comeback-two-years-after-closure-13593648</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-ted-baker_7364950.jpg?20260930140754" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: Ted Baker</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-ted-baker_7364950.jpg?20260930140754" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-ted-baker_7364950.jpg?20260930140754"/>
     </item>
   </channel>
 </rss>
