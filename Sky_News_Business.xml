@@ -12,9 +12,31 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 06 Oct 2026 11:57:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 03:00:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Jaguar unveils new electric car - two years after rebrand backfired</title>
+      <link>https://news.sky.com/story/jaguar-unveils-new-electric-car-two-years-after-rebrand-backfired-13595969</link>
+      <description>Jaguar has unveiled its new electric car - two years after the company's controversial rebrand, and 12 months on from a major cyber attack that halted production. </description>
+      <pubDate>Wed, 07 Oct 2026 03:00:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/jaguar-unveils-new-electric-car-two-years-after-rebrand-backfired-13595969</guid>
+      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-jaguar-ev_7370149.jpg?20261007064103" length="0" type="image/jpeg"/>
+      <media:description type="html">The Jaguar Type 01. Pic: Evan Agostini/Invision/AP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-jaguar-ev_7370149.jpg?20261007064103" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-jaguar-ev_7370149.jpg?20261007064103"/>
+    </item>
+    <item>
+      <title>Paramount completes $81bn takeover of Warner Bros Discovery</title>
+      <link>https://news.sky.com/story/paramount-completes-81bn-takeover-of-warner-bros-discovery-13595899</link>
+      <description>Skydance-owned Paramount has completed its $81bn (£61bn) takeover of Warner Bros Discovery - bringing together the two media giants under a combined company.</description>
+      <pubDate>Tue, 06 Oct 2026 18:56:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/paramount-completes-81bn-takeover-of-warner-bros-discovery-13595899</guid>
+      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-warner-bros-paramount_7370172.jpg?20261007072527" length="0" type="image/jpeg"/>
+      <media:description type="html">The words "A Skydance Corporation" appear beneath the WB logo on the Warner Bros Water Tower following the merger</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-warner-bros-paramount_7370172.jpg?20261007072527" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-warner-bros-paramount_7370172.jpg?20261007072527"/>
+    </item>
     <item>
       <title>Ofwat lines up independent monitor for troubled South East Water</title>
       <link>https://news.sky.com/story/ofwat-lines-up-independent-monitor-for-troubled-south-east-water-13595737</link>
@@ -102,28 +124,6 @@
       <media:description type="html">First Minister John Swinney in Crieff on Monday. Pic: PA</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-first-minister-john-swinney_7368909.jpg?20261005150623" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-first-minister-john-swinney_7368909.jpg?20261005150623"/>
-    </item>
-    <item>
-      <title>UK unprepared for food emergencies and threats to supplies, experts warn</title>
-      <link>https://news.sky.com/story/uk-unprepared-for-food-emergencies-and-threats-to-supplies-experts-warn-13595286</link>
-      <description>The government is unprepared for disruptions to food supplies which are exposed to "shocks and threats", experts have warned.</description>
-      <pubDate>Mon, 05 Oct 2026 10:14:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/uk-unprepared-for-food-emergencies-and-threats-to-supplies-experts-warn-13595286</guid>
-      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-empty-shelves-supermarket_7368668.jpg?20261005113052" length="0" type="image/jpeg"/>
-      <media:description type="html">Experts say the UK has been 'complacent about food as a national security matter' for too long. Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-empty-shelves-supermarket_7368668.jpg?20261005113052" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-empty-shelves-supermarket_7368668.jpg?20261005113052"/>
-    </item>
-    <item>
-      <title>Gulf lender BBK in talks to buy 20% stake in City broker Panmure Liberum</title>
-      <link>https://news.sky.com/story/gulf-lender-bbk-in-talks-to-buy-20-stake-in-city-broker-panmure-liberum-13595299</link>
-      <description>A major Middle East-based financial institution is in talks to buy a stake in Panmure Liberum, one of the City's most prolific brokers to London-listed companies.</description>
-      <pubDate>Mon, 05 Oct 2026 10:53:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/gulf-lender-bbk-in-talks-to-buy-20-stake-in-city-broker-panmure-liberum-13595299</guid>
-      <enclosure url="https://e3.365dm.com/22/10/1920x1080/skynews-bob-diamond-barclays_5934314.jpg?20221017195318" length="0" type="image/jpeg"/>
-      <media:description type="html">Former Barclays boss Bob Diamond part-owns Panmure Liberum. File pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/22/10/1920x1080/skynews-bob-diamond-barclays_5934314.jpg?20221017195318" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/22/10/1920x1080/skynews-bob-diamond-barclays_5934314.jpg?20221017195318"/>
     </item>
   </channel>
 </rss>
