@@ -12,9 +12,22 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 08 Oct 2026 11:49:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 16:29:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Great Wines Direct owner challenges Tesco in Majestic auction</title>
+      <link>https://news.sky.com/story/great-wines-direct-owner-challenges-tesco-in-majestic-auction-13596582</link>
+      <description>The owner of Great Wines Direct has waded into the auction of Majestic Wine Group, amid rival interest from Britain's biggest supermarket chain.</description>
+      <pubDate>Thu, 08 Oct 2026 16:29:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/great-wines-direct-owner-challenges-tesco-in-majestic-auction-13596582</guid>
+      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-majestic-wine-london_7198881.jpg?20260321075327" length="0" type="image/jpeg"/>
+      <media:description type="html">A Majestic Wine Warehouse in London. Pic: PA
+
+</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-majestic-wine-london_7198881.jpg?20260321075327" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-majestic-wine-london_7198881.jpg?20260321075327"/>
+    </item>
     <item>
       <title>Healey calls in retail and hospitality chiefs for pre-budget talks</title>
       <link>https://news.sky.com/story/healey-calls-in-retail-and-hospitality-chiefs-for-pre-budget-talks-13596350</link>
@@ -113,17 +126,6 @@
       <media:description type="html">The Grosvenor casino on London's Gloucester Rd. Pic: Rank Group</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-grosvenor-casino_7370225.jpg?20261007090338" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-grosvenor-casino_7370225.jpg?20261007090338"/>
-    </item>
-    <item>
-      <title>Is new £370 bank switch offer all it seems?</title>
-      <link>https://news.sky.com/story/is-new-370-bank-switch-offer-all-it-seems-13596378</link>
-      <description>You can get £370 if you switch your bank account to Nationwide - but it's not as straightforward as it sounds.</description>
-      <pubDate>Thu, 08 Oct 2026 08:02:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/is-new-370-bank-switch-offer-all-it-seems-13596378</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills-cash_7196305.jpg?20260318111529" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock </media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills-cash_7196305.jpg?20260318111529" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills-cash_7196305.jpg?20260318111529"/>
     </item>
   </channel>
 </rss>
