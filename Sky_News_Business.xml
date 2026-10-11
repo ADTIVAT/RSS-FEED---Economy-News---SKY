@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 10 Oct 2026 12:10:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 09:33:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Numbers up for Buzz Bingo as owner explores sale</title>
+      <link>https://news.sky.com/story/numbers-up-for-buzz-bingo-as-owner-explores-sale-13597686</link>
+      <description>The owner of one of Britain's biggest bingo chains is exploring a sale even as its boss warns that a further budget tax raid could threaten the future of the industry.</description>
+      <pubDate>Sun, 11 Oct 2026 09:33:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/numbers-up-for-buzz-bingo-as-owner-explores-sale-13597686</guid>
+      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-buzz-bingo-website_7373799.jpg?20261011081320" length="0" type="image/jpeg"/>
+      <media:description type="html">Buzz Bingo trades from more than 75 clubs across the country</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-buzz-bingo-website_7373799.jpg?20261011081320" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-buzz-bingo-website_7373799.jpg?20261011081320"/>
+    </item>
     <item>
       <title>Irish property group in talks about rescue deal for Poundland</title>
       <link>https://news.sky.com/story/irish-property-group-in-talks-about-rescue-deal-for-poundland-13597114</link>
@@ -116,17 +127,6 @@ Pic: Reuters</media:description>
       <media:description type="html">Jonathan Reynolds (r) holds talks with a trade delegation from India in 2025.</media:description>
       <media:thumbnail url="https://e3.365dm.com/25/05/1920x1080/skynews-piyush-goyal-jonathan-reynolds_6907929.jpg?20250506121152" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/05/1920x1080/skynews-piyush-goyal-jonathan-reynolds_6907929.jpg?20250506121152"/>
-    </item>
-    <item>
-      <title>Water companies failed to report more than 50,000 sewage spills in time, charity claims</title>
-      <link>https://news.sky.com/story/englands-water-companies-failed-to-report-more-than-50000-sewage-spills-in-time-charity-claims-13596212</link>
-      <description>Water companies in England failed to report more than 50,000 sewage spills within the time required by law in the first half of the year, an environmental charity has claimed.</description>
-      <pubDate>Thu, 08 Oct 2026 11:49:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/englands-water-companies-failed-to-report-more-than-50000-sewage-spills-in-time-charity-claims-13596212</guid>
-      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-sea-sewage_7370700.jpg?20261007161621" length="0" type="image/jpeg"/>
-      <media:description type="html">Sewage was discharged for at least 70,400 hours on dry days in the first six months of the year, according to Surfers Against Sewage's report. File pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-sea-sewage_7370700.jpg?20261007161621" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-sea-sewage_7370700.jpg?20261007161621"/>
     </item>
   </channel>
 </rss>
