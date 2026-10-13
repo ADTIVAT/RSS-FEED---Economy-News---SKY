@@ -12,9 +12,42 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 08:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 17:30:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Poundstretcher owner withdraws rescue bid for rival Poundland</title>
+      <link>https://news.sky.com/story/poundstretcher-owner-withdraws-rescue-bid-for-rival-poundland-13598786</link>
+      <description>The owner of Poundstretcher has withdrawn its takeover bid for rival Poundland and is instead targeting an offer for hundreds of its stores – a move which will fuel fears of an imminent insolvency filing.</description>
+      <pubDate>Tue, 13 Oct 2026 11:36:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/poundstretcher-owner-withdraws-rescue-bid-for-rival-poundland-13598786</guid>
+      <enclosure url="https://e3.365dm.com/25/06/1920x1080/skynews-money-poundland_6944222.jpg?20250617113739" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/06/1920x1080/skynews-money-poundland_6944222.jpg?20250617113739" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/06/1920x1080/skynews-money-poundland_6944222.jpg?20250617113739"/>
+    </item>
+    <item>
+      <title>Tech firms promise to take down AI platforms if British secret services show they are unsafe</title>
+      <link>https://news.sky.com/story/tech-firms-promise-to-take-down-ai-platforms-if-british-secret-services-show-they-are-unsafe-13598926</link>
+      <description>OpenAI and Anthropic have promised to take down their AIs if the British secret services show them they are unsafe - activating what some describe as a "kill switch".</description>
+      <pubDate>Tue, 13 Oct 2026 17:30:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/tech-firms-promise-to-take-down-ai-platforms-if-british-secret-services-show-they-are-unsafe-13598926</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-anthropic-ai-openai_7349937.jpg?20260913083842" length="0" type="image/jpeg"/>
+      <media:description type="html">OpenAI and Anthropic logos. Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-anthropic-ai-openai_7349937.jpg?20260913083842" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-anthropic-ai-openai_7349937.jpg?20260913083842"/>
+    </item>
+    <item>
+      <title>F1 champion Norris revs up with stake in premium tickets platform Seat Unique</title>
+      <link>https://news.sky.com/story/f1-champion-norris-revs-up-with-stake-in-premium-tickets-platform-seat-unique-13598789</link>
+      <description>Lando Norris, the reigning Formula One world champion, has become the latest sports star to join the illustrious share register of Seat Unique, the premium ticketing and hospitality platform.</description>
+      <pubDate>Tue, 13 Oct 2026 11:40:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/f1-champion-norris-revs-up-with-stake-in-premium-tickets-platform-seat-unique-13598789</guid>
+      <enclosure url="https://e3.365dm.com/25/12/1920x1080/skynews-lando-norris-f1_7103785.jpg?20251207153327" length="0" type="image/jpeg"/>
+      <media:description type="html">Lando Norris. Pic: AP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/12/1920x1080/skynews-lando-norris-f1_7103785.jpg?20251207153327" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/12/1920x1080/skynews-lando-norris-f1_7103785.jpg?20251207153327"/>
+    </item>
     <item>
       <title>Grocery inflation ticks up again - as energy costs weigh on shoppers</title>
       <link>https://news.sky.com/story/grocery-inflation-ticks-up-again-as-energy-costs-weigh-on-shoppers-13598268</link>
@@ -32,21 +65,32 @@
       <description>The UK economy is set to grow faster than expected this year, though households are expected to face higher rates of inflation, according to forecasts from the International Monetary Fund (IMF).</description>
       <pubDate>Tue, 13 Oct 2026 01:16:00 +0100</pubDate>
       <guid>https://news.sky.com/story/uk-economy-to-grow-more-than-expected-but-households-face-sharper-rise-in-inflation-imf-says-13598675</guid>
-      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-john-healey-healey_7302773.jpg?20260720192803" length="0" type="image/jpeg"/>
-      <media:description type="html">Chancellor John Healey</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-john-healey-healey_7302773.jpg?20260720192803" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-john-healey-healey_7302773.jpg?20260720192803"/>
+      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-bank-of-england-economy_7375655.jpg?20261013085753" length="0" type="image/jpeg"/>
+      <media:description type="html">The Bank of England building in London. Pic: Reuters/Corey Rudy</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-bank-of-england-economy_7375655.jpg?20261013085753" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-bank-of-england-economy_7375655.jpg?20261013085753"/>
     </item>
     <item>
-      <title>Struggling Leicester City owners seek takeover bids this week</title>
-      <link>https://news.sky.com/story/struggling-leicester-city-owners-seek-takeover-bids-this-week-13598178</link>
-      <description>The Thai owners of Leicester City Football Club have asked potential bidders to submit offers this week as they seek an exit a decade after winning English football's biggest prize.</description>
-      <pubDate>Mon, 12 Oct 2026 13:38:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/struggling-leicester-city-owners-seek-takeover-bids-this-week-13598178</guid>
-      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-king-power-stadium_7375115.jpg?20261012140722" length="0" type="image/jpeg"/>
-      <media:description type="html">The King Power Stadium, home to Leicester City Football Club. Pic: iStock, Rob Atherton.</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-king-power-stadium_7375115.jpg?20261012140722" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-king-power-stadium_7375115.jpg?20261012140722"/>
+      <title>'Money-saving hack' for school photos is illegal, photographer warns</title>
+      <link>https://news.sky.com/story/money-saving-hack-for-school-photos-is-illegal-photographer-warns-13598769</link>
+      <description>A photographer has warned against a "money-saving" tip for school photos that parents are sharing on social media.</description>
+      <pubDate>Tue, 13 Oct 2026 10:35:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/money-saving-hack-for-school-photos-is-illegal-photographer-warns-13598769</guid>
+      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-victoria-welton-money-blog_7375568.jpg?20261013060829" length="0" type="image/jpeg"/>
+      <media:description type="html">Victoria Welton</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-victoria-welton-money-blog_7375568.jpg?20261013060829" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-victoria-welton-money-blog_7375568.jpg?20261013060829"/>
+    </item>
+    <item>
+      <title>Former CBI chair Soames handed lobby group £750,000 loan</title>
+      <link>https://news.sky.com/story/former-cbi-chair-soames-handed-lobby-group-750000-loan-13598749</link>
+      <description>The former head of the CBI has handed the business lobby group a six-figure loan as it continues to cut its cost base following the scandal which brought it to the brink of collapse in 2023.</description>
+      <pubDate>Tue, 13 Oct 2026 09:56:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/former-cbi-chair-soames-handed-lobby-group-750000-loan-13598749</guid>
+      <enclosure url="https://e3.365dm.com/24/10/1920x1080/skynews-cbi-building-cannon-street_6716387.jpg?20241015100414" length="0" type="image/jpeg"/>
+      <media:description type="html">CBI Cannon Street</media:description>
+      <media:thumbnail url="https://e3.365dm.com/24/10/1920x1080/skynews-cbi-building-cannon-street_6716387.jpg?20241015100414" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/24/10/1920x1080/skynews-cbi-building-cannon-street_6716387.jpg?20241015100414"/>
     </item>
     <item>
       <title>How HMRC knows you owe tax on your savings | Money newsletter</title>
@@ -60,6 +104,17 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-hmrc-money_7338540.jpg?20260902100621"/>
     </item>
     <item>
+      <title>Struggling Leicester City owners seek takeover bids this week</title>
+      <link>https://news.sky.com/story/struggling-leicester-city-owners-seek-takeover-bids-this-week-13598178</link>
+      <description>The Thai owners of Leicester City Football Club have asked potential bidders to submit offers this week as they seek an exit a decade after winning English football's biggest prize.</description>
+      <pubDate>Mon, 12 Oct 2026 13:38:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/struggling-leicester-city-owners-seek-takeover-bids-this-week-13598178</guid>
+      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-king-power-stadium_7375115.jpg?20261012140722" length="0" type="image/jpeg"/>
+      <media:description type="html">The King Power Stadium, home to Leicester City Football Club. Pic: iStock, Rob Atherton.</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-king-power-stadium_7375115.jpg?20261012140722" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-king-power-stadium_7375115.jpg?20261012140722"/>
+    </item>
+    <item>
       <title>'Frankly shocking' risk-taking by motorists uncovered by AI-powered cameras</title>
       <link>https://news.sky.com/story/trial-of-ai-technology-uncovers-frankly-shocking-number-of-road-rule-breaches-13598008</link>
       <description>Motorists have been caught driving with children on their lap and both hands on their phone rather than the wheel in a trial of AI-powered cameras.</description>
@@ -69,62 +124,6 @@
       <media:description type="html">The road safety trial captured images of 19,000 breaches. Pic: West Midlands Combined Authority/PA</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-road-safety_7374711.jpg?20261012103152" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-road-safety_7374711.jpg?20261012103152"/>
-    </item>
-    <item>
-      <title>Motor finance scandal pushes auction towards Startline</title>
-      <link>https://news.sky.com/story/motor-finance-scandal-pushes-auction-towards-startline-13598137</link>
-      <description>One of Britain's biggest independent car finance providers is being put up for sale as the industry awaits the outcome of appeals against the City watchdog's £9bn compensation scheme.</description>
-      <pubDate>Mon, 12 Oct 2026 13:53:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/motor-finance-scandal-pushes-auction-towards-startline-13598137</guid>
-      <enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-istock-stock-file-generic_7283412.jpg?20260626113917" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/06/1920x1080/skynews-istock-stock-file-generic_7283412.jpg?20260626113917" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/06/1920x1080/skynews-istock-stock-file-generic_7283412.jpg?20260626113917"/>
-    </item>
-    <item>
-      <title>Numbers up for Buzz Bingo as owner explores sale</title>
-      <link>https://news.sky.com/story/numbers-up-for-buzz-bingo-as-owner-explores-sale-13597686</link>
-      <description>The owner of one of Britain's biggest bingo chains is exploring a sale even as its boss warns that a further budget tax raid could threaten the future of the industry.</description>
-      <pubDate>Sun, 11 Oct 2026 09:33:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/numbers-up-for-buzz-bingo-as-owner-explores-sale-13597686</guid>
-      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-buzz-bingo-website_7373799.jpg?20261011081320" length="0" type="image/jpeg"/>
-      <media:description type="html">Buzz Bingo trades from more than 75 clubs across the country</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-buzz-bingo-website_7373799.jpg?20261011081320" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-buzz-bingo-website_7373799.jpg?20261011081320"/>
-    </item>
-    <item>
-      <title>Irish property group in talks about rescue deal for Poundland</title>
-      <link>https://news.sky.com/story/irish-property-group-in-talks-about-rescue-deal-for-poundland-13597114</link>
-      <description>The privately owned Irish company which this week finalised the purchase of NCP, the car parks giant, has emerged as the mystery party backing Poundland's bosses as they race to agree a takeover of the discount retailer.</description>
-      <pubDate>Sat, 10 Oct 2026 07:26:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/irish-property-group-in-talks-about-rescue-deal-for-poundland-13597114</guid>
-      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-poundland-sheffield_7372627.jpg?20261010073001" length="0" type="image/jpeg"/>
-      <media:description type="html">File pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-poundland-sheffield_7372627.jpg?20261010073001" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-poundland-sheffield_7372627.jpg?20261010073001"/>
-    </item>
-    <item>
-      <title>Further taxes on warehouses ruled out ahead of budget after M&amp;S and John Lewis issue warnings</title>
-      <link>https://news.sky.com/story/ms-and-john-lewis-bosses-warn-chancellor-over-business-rates-ahead-of-budget-13597209</link>
-      <description>Further taxes on warehouses have been ruled out by the chancellor ahead of the budget, Sky News understands, after a warning was issued the boss of a high street giant.</description>
-      <pubDate>Sat, 10 Oct 2026 12:10:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/ms-and-john-lewis-bosses-warn-chancellor-over-business-rates-ahead-of-budget-13597209</guid>
-      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-mands-marks-and-spencer_7372960.jpg?20261010140306" length="0" type="image/jpeg"/>
-      <media:description type="html">John Lewis and Marks and Spencer. Pics: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-mands-marks-and-spencer_7372960.jpg?20261010140306" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-mands-marks-and-spencer_7372960.jpg?20261010140306"/>
-    </item>
-    <item>
-      <title>London-listed Gamma joins chorus of opposition to BT's TalkTalk rescue</title>
-      <link>https://news.sky.com/story/london-listed-gamma-joins-chorus-of-opposition-to-bts-talktalk-rescue-13596977</link>
-      <description>The London-listed company in takeover talks with one of TalkTalk's spurned suitors has joined the chorus of opposition to BT Group's £400m rescue of TalkTalk Telecom Group.</description>
-      <pubDate>Fri, 09 Oct 2026 16:01:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/london-listed-gamma-joins-chorus-of-opposition-to-bts-talktalk-rescue-13596977</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-talktalk-sign_7355226.jpg?20261009160644" length="0" type="image/jpeg"/>
-      <media:description type="html">A man passes a branded logo outside the Talktalk headquarters.
-Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-talktalk-sign_7355226.jpg?20261009160644" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-talktalk-sign_7355226.jpg?20261009160644"/>
     </item>
   </channel>
 </rss>
