@@ -12,9 +12,31 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 06:06:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 11:54:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Poundland owners parachute in directors amid crunch sale talks</title>
+      <link>https://news.sky.com/story/poundland-owners-parachute-in-directors-amid-crunch-sale-talks-13599519</link>
+      <description>The owners of ailing Poundland are parachuting in a trio of restructuring experts to its board ahead of a sale or filing for administration which is expected within days.</description>
+      <pubDate>Thu, 15 Oct 2026 10:42:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/poundland-owners-parachute-in-directors-amid-crunch-sale-talks-13599519</guid>
+      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-poundland-sheffield_7372627.jpg?20261010073001" length="0" type="image/jpeg"/>
+      <media:description type="html">File pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-poundland-sheffield_7372627.jpg?20261010073001" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-poundland-sheffield_7372627.jpg?20261010073001"/>
+    </item>
+    <item>
+      <title>Nandy 'minded to intervene' in Sky-ITV deal </title>
+      <link>https://news.sky.com/story/sky-itv-deal-culture-secretary-minded-to-intervene-13599540</link>
+      <description>The culture secretary has warned she is "minded" to intervene in Sky's £1.6bn deal to buy ITV's broadcast and streaming operations.</description>
+      <pubDate>Thu, 15 Oct 2026 11:54:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/sky-itv-deal-culture-secretary-minded-to-intervene-13599540</guid>
+      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-sky-itv-logos-campus_7074511.jpg?20251107081729" length="0" type="image/jpeg"/>
+      <media:description type="html">Pics: Sky/ITV/Shutterstock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-sky-itv-logos-campus_7074511.jpg?20251107081729" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-sky-itv-logos-campus_7074511.jpg?20251107081729"/>
+    </item>
     <item>
       <title>Surprise GDP growth as UK economy stronger than first thought</title>
       <link>https://news.sky.com/story/surprise-gdp-growth-as-uk-economy-stronger-than-first-thought-13599446</link>
@@ -25,6 +47,17 @@
       <media:description type="html">File pic: PA</media:description>
       <media:thumbnail url="https://e3.365dm.com/25/07/1920x1080/skynews-primark-oxford-street_6973127.jpg?20250725065151" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/07/1920x1080/skynews-primark-oxford-street_6973127.jpg?20250725065151"/>
+    </item>
+    <item>
+      <title>Government to publish Telegraph probes amid Burnham Abu Dhabi row</title>
+      <link>https://news.sky.com/story/government-to-publish-telegraph-probes-amid-burnham-abu-dhabi-row-13599517</link>
+      <description>The government is to publish the long-delayed results of probes into Abu Dhabi's failed attempt to buy The Daily Telegraph - a move which risks stoking tensions with the United Arab Emirates (UAE) amid a row over Andy Burnham's links to the owners of Manchester City.</description>
+      <pubDate>Thu, 15 Oct 2026 10:30:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/government-to-publish-telegraph-probes-amid-burnham-abu-dhabi-row-13599517</guid>
+      <enclosure url="https://e3.365dm.com/25/11/1920x1080/95d05ccd17ddf532718449f9fe5f80b4c1a96320612fcdbc48a80c1386b561b8_7081975.jpg?20251114130414" length="0" type="image/jpeg"/>
+      <media:description type="html">The Daily Telegraph was sold to German publisher Axel Springer</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/95d05ccd17ddf532718449f9fe5f80b4c1a96320612fcdbc48a80c1386b561b8_7081975.jpg?20251114130414" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/95d05ccd17ddf532718449f9fe5f80b4c1a96320612fcdbc48a80c1386b561b8_7081975.jpg?20251114130414"/>
     </item>
     <item>
       <title>Hospitality companies to create 100,000 new roles for NEETs </title>
@@ -91,39 +124,6 @@
       <media:description type="html">OpenAI and Anthropic logos. Pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-anthropic-ai-openai_7349937.jpg?20260913083842" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-anthropic-ai-openai_7349937.jpg?20260913083842"/>
-    </item>
-    <item>
-      <title>How much triple lock change will impact current - and future - pensioners</title>
-      <link>https://news.sky.com/story/how-much-triple-lock-change-will-impact-current-and-future-pensioners-13599191</link>
-      <description>People approaching retirement are likely to be among the least affected by Andy Burnham's proposed overhaul of the state pension triple lock, according to new analysis from investment platform AJ Bell.</description>
-      <pubDate>Wed, 14 Oct 2026 11:41:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/how-much-triple-lock-change-will-impact-current-and-future-pensioners-13599191</guid>
-      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-pension-money_7376696.jpg?20261014114432" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-pension-money_7376696.jpg?20261014114432" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-pension-money_7376696.jpg?20261014114432"/>
-    </item>
-    <item>
-      <title>Raye says Royal Albert Hall gig sign-up was 'overwhelmed' by ticket touts using AI bots</title>
-      <link>https://news.sky.com/story/raye-says-royal-albert-hall-gig-sign-up-was-overwhelmed-by-ticket-touts-using-ai-bots-13599002</link>
-      <description>Singer Raye has said the sign-up list for her one-off gig at the Royal Albert Hall later this month will be checked "manually" after ticket touts using artificial intelligence bots "overwhelmed" the process.</description>
-      <pubDate>Tue, 13 Oct 2026 21:34:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/raye-says-royal-albert-hall-gig-sign-up-was-overwhelmed-by-ticket-touts-using-ai-bots-13599002</guid>
-      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-raye-reading-festival_7376290.jpg?20261013214705" length="0" type="image/jpeg"/>
-      <media:description type="html">Raye performing at the Reading Festival in August. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-raye-reading-festival_7376290.jpg?20261013214705" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-raye-reading-festival_7376290.jpg?20261013214705"/>
-    </item>
-    <item>
-      <title>F1 champion Norris revs up with stake in premium tickets platform Seat Unique</title>
-      <link>https://news.sky.com/story/f1-champion-norris-revs-up-with-stake-in-premium-tickets-platform-seat-unique-13598789</link>
-      <description>Lando Norris, the reigning Formula One world champion, has become the latest sports star to join the illustrious share register of Seat Unique, the premium ticketing and hospitality platform.</description>
-      <pubDate>Tue, 13 Oct 2026 11:40:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/f1-champion-norris-revs-up-with-stake-in-premium-tickets-platform-seat-unique-13598789</guid>
-      <enclosure url="https://e3.365dm.com/25/12/1920x1080/skynews-lando-norris-f1_7103785.jpg?20251207153327" length="0" type="image/jpeg"/>
-      <media:description type="html">Lando Norris. Pic: AP</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/12/1920x1080/skynews-lando-norris-f1_7103785.jpg?20251207153327" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/12/1920x1080/skynews-lando-norris-f1_7103785.jpg?20251207153327"/>
     </item>
   </channel>
 </rss>
