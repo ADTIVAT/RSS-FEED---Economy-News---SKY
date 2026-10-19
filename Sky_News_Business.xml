@@ -12,7 +12,7 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 17 Oct 2026 08:13:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 11:21:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
@@ -25,6 +25,39 @@
       <media:description type="html">Vistry has seen its shares slump by close to 70%</media:description>
       <media:thumbnail url="https://e3.365dm.com/21/09/1920x1080/skynews-vistry-construction_5503762.jpg?20210907123049" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/21/09/1920x1080/skynews-vistry-construction_5503762.jpg?20210907123049"/>
+    </item>
+    <item>
+      <title>Water bills face £40 hike if sector is downgraded, industry chief warns</title>
+      <link>https://news.sky.com/story/water-bills-face-40-hike-if-sector-is-downgraded-industry-chief-warns-13600137</link>
+      <description>Water customers face having to pay an extra £40 a year to suppliers if the industry is hit by a fresh ratings downgrade, the head of the industry's main lobbying group has warned.</description>
+      <pubDate>Sat, 17 Oct 2026 11:21:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/water-bills-face-40-hike-if-sector-is-downgraded-industry-chief-warns-13600137</guid>
+      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-thames-water-water_7319384.jpg?20260812070626" length="0" type="image/jpeg"/>
+      <media:description type="html">Thames Water personnel handing out bottled water to residents at Roding Sports Centre in Chigwell, Essex, following a water main burst on Chigwell Road in South Woodford. The disruption in east London and Essex has been caused by two water mains that</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-thames-water-water_7319384.jpg?20260812070626" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-thames-water-water_7319384.jpg?20260812070626"/>
+    </item>
+    <item>
+      <title>The little known 'income' rule to avoid inheritance tax | Money newsletter</title>
+      <link>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</link>
+      <description>More than 210,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
+      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-hmrc-money_7338540.jpg?20260902100621" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-hmrc-money_7338540.jpg?20260902100621" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-hmrc-money_7338540.jpg?20260902100621"/>
+    </item>
+    <item>
+      <title>Heathrow expansion would boost growth, chancellor says</title>
+      <link>https://news.sky.com/story/heathrow-expansion-would-boost-growth-chancellor-says-13600118</link>
+      <description>Chancellor John Healey has shown support for expanding Heathrow Airport after Prime Minister Andy Burnham refused to back plans for a third runway. </description>
+      <pubDate>Sat, 17 Oct 2026 09:24:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/heathrow-expansion-would-boost-growth-chancellor-says-13600118</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-heathrow-passenger_7345890.jpg?20260909110801" length="0" type="image/jpeg"/>
+      <media:description type="html">A passenger plane makes its landing approach to Heathrow Airport. Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-heathrow-passenger_7345890.jpg?20260909110801" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-heathrow-passenger_7345890.jpg?20260909110801"/>
     </item>
     <item>
       <title>Bank shares fall as tax on lenders expected in budget</title>
@@ -91,39 +124,6 @@
       <media:description type="html">File pic: PA</media:description>
       <media:thumbnail url="https://e3.365dm.com/25/07/1920x1080/skynews-primark-oxford-street_6973127.jpg?20250725065151" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/07/1920x1080/skynews-primark-oxford-street_6973127.jpg?20250725065151"/>
-    </item>
-    <item>
-      <title>Hospitality companies to create 100,000 new roles for NEETs </title>
-      <link>https://news.sky.com/story/hospitality-companies-to-create-100000-new-roles-for-neets-13599436</link>
-      <description>The UK's leading hospitality businesses have committed to hiring 100,000 young people not in education, employment or training (NEET), it has been announced.</description>
-      <pubDate>Thu, 15 Oct 2026 02:01:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/hospitality-companies-to-create-100000-new-roles-for-neets-13599436</guid>
-      <enclosure url="https://e3.365dm.com/21/04/1920x1080/skynews-pubs-beer-drinking_5329643.jpg?20210404112545" length="0" type="image/jpeg"/>
-      <media:description type="html">iStock file pic </media:description>
-      <media:thumbnail url="https://e3.365dm.com/21/04/1920x1080/skynews-pubs-beer-drinking_5329643.jpg?20210404112545" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/21/04/1920x1080/skynews-pubs-beer-drinking_5329643.jpg?20210404112545"/>
-    </item>
-    <item>
-      <title>Bookies in last-ditch plea to Healey to avert budget tax bombshell</title>
-      <link>https://news.sky.com/story/bookies-in-last-ditch-plea-to-healey-to-avert-budget-tax-bombshell-13599154</link>
-      <description>Britain's biggest bookmakers are stepping up their efforts to avert a budget tax bombshell in a last-ditch letter warning that half of the betting shops in the prime minister's constituency would be at risk from a further raid.</description>
-      <pubDate>Wed, 14 Oct 2026 09:50:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/bookies-in-last-ditch-plea-to-healey-to-avert-budget-tax-bombshell-13599154</guid>
-      <enclosure url="https://e3.365dm.com/15/05/1920x1080/newmarket-racecourse-guineas-bookmakers-generic_3298014.jpg?20150502142836" length="0" type="image/jpeg"/>
-      <media:description type="html">Bookmakers at Newmarket racecourse. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/15/05/1920x1080/newmarket-racecourse-guineas-bookmakers-generic_3298014.jpg?20150502142836" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/15/05/1920x1080/newmarket-racecourse-guineas-bookmakers-generic_3298014.jpg?20150502142836"/>
-    </item>
-    <item>
-      <title>Tech firms promise to take down AI platforms if British secret services show they are unsafe</title>
-      <link>https://news.sky.com/story/tech-firms-promise-to-take-down-ai-platforms-if-british-secret-services-show-they-are-unsafe-13598926</link>
-      <description>OpenAI and Anthropic have promised to take down their AIs if the British secret services show them they are unsafe - activating what some describe as a "kill switch".</description>
-      <pubDate>Tue, 13 Oct 2026 17:30:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/tech-firms-promise-to-take-down-ai-platforms-if-british-secret-services-show-they-are-unsafe-13598926</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-anthropic-ai-openai_7349937.jpg?20260913083842" length="0" type="image/jpeg"/>
-      <media:description type="html">OpenAI and Anthropic logos. Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-anthropic-ai-openai_7349937.jpg?20260913083842" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-anthropic-ai-openai_7349937.jpg?20260913083842"/>
     </item>
   </channel>
 </rss>
