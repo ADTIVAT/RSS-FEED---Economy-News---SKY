@@ -12,9 +12,20 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 13:36:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 03:00:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Football regulator to address EFL clubs as quest for deal goes on</title>
+      <link>https://news.sky.com/story/football-regulator-to-address-efl-clubs-as-quest-for-deal-goes-on-13602023</link>
+      <description>The head of English football's watchdog will address the 72 clubs below the top flight on Thursday as the quest for a financial redistribution deal with the Premier League continues.</description>
+      <pubDate>Wed, 21 Oct 2026 20:01:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/football-regulator-to-address-efl-clubs-as-quest-for-deal-goes-on-13602023</guid>
+      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-portsmouth-terry-devlin_7383144.jpg?20261021202855" length="0" type="image/jpeg"/>
+      <media:description type="html">Portsmouth's Terry Devlin celebrates scoring against Wolves. Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-portsmouth-terry-devlin_7383144.jpg?20261021202855" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-portsmouth-terry-devlin_7383144.jpg?20261021202855"/>
+    </item>
     <item>
       <title>Online gambling group BetGoodwin eyes punt on £80m London float</title>
       <link>https://news.sky.com/story/online-gambling-group-betgoodwin-eyes-punt-on-80m-london-float-13601905</link>
@@ -71,6 +82,17 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/22/11/1920x1080/skynews-virgin-atlantic-shai-weiss_5973685.jpg?20221121143956"/>
     </item>
     <item>
+      <title>'Millions' of exploitation attempts since security flaw affecting websites emerged</title>
+      <link>https://news.sky.com/story/disruption-from-critical-flaw-in-websites-could-spread-in-coming-days-experts-warn-13602102</link>
+      <description>There have been "millions" of exploitation attempts since a "critical" security flaw affecting websites around the world emerged, according to a major tech company.</description>
+      <pubDate>Thu, 22 Oct 2026 03:00:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/disruption-from-critical-flaw-in-websites-could-spread-in-coming-days-experts-warn-13602102</guid>
+      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-ha-hacker-computer_7382912.jpg?20261021145111" length="0" type="image/jpeg"/>
+      <media:description type="html">iStock file pic </media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-ha-hacker-computer_7382912.jpg?20261021145111" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-ha-hacker-computer_7382912.jpg?20261021145111"/>
+    </item>
+    <item>
       <title>Inflation comes in higher than expected - so what happens next?</title>
       <link>https://news.sky.com/story/inflation-rises-more-than-expected-to-35-can-upcoming-budget-help-13601798</link>
       <description>The rate of inflation is up to its highest level this year.</description>
@@ -102,28 +124,6 @@
       <media:description type="html">Pic: PA</media:description>
       <media:thumbnail url="https://e3.365dm.com/17/04/1920x1080/8a4155a42af1ece1b0285d8391875f3b6cda05a4fa4c4ea3cbd3dc16906652f3_3924721.jpg?20261019183921" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/17/04/1920x1080/8a4155a42af1ece1b0285d8391875f3b6cda05a4fa4c4ea3cbd3dc16906652f3_3924721.jpg?20261019183921"/>
-    </item>
-    <item>
-      <title>'I used a meet-and-greet parking service and then came back from my holiday to three fines - what can I do?'</title>
-      <link>https://news.sky.com/story/i-used-a-meet-and-greet-parking-service-and-then-came-back-from-my-holiday-to-three-fines-what-can-i-do-13601800</link>
-      <description>Every Saturday, we help a reader with their consumer issue or personal finance dilemma in our Money Problem series. You can send yours to moneyblog@sky.uk. Today we're taking a look at this one...</description>
-      <pubDate>Wed, 21 Oct 2026 08:50:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/i-used-a-meet-and-greet-parking-service-and-then-came-back-from-my-holiday-to-three-fines-what-can-i-do-13601800</guid>
-      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-heathrow-money_7382614.jpg?20261021091059" length="0" type="image/jpeg"/>
-      <media:description type="html">iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-heathrow-money_7382614.jpg?20261021091059" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-heathrow-money_7382614.jpg?20261021091059"/>
-    </item>
-    <item>
-      <title>Discount retailer B&amp;M plots offer to cherry-pick shops from rival Poundland</title>
-      <link>https://news.sky.com/story/discount-retailer-bm-plots-offer-to-cherry-pick-shops-from-rival-poundland-13600868</link>
-      <description>B&amp;M European Value Retail, the London-listed discounter, is looking to cherry-pick sites from troubled rival Poundland as it teeters on the brink of administration.</description>
-      <pubDate>Mon, 19 Oct 2026 09:14:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/discount-retailer-bm-plots-offer-to-cherry-pick-shops-from-rival-poundland-13600868</guid>
-      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-poundland-sheffield_7372627.jpg?20261010073001" length="0" type="image/jpeg"/>
-      <media:description type="html">File pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-poundland-sheffield_7372627.jpg?20261010073001" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-poundland-sheffield_7372627.jpg?20261010073001"/>
     </item>
   </channel>
 </rss>
