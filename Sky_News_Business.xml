@@ -12,9 +12,31 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 23 Oct 2026 07:39:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 07:40:00 +0100</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Former Goldman chief Sherwood leaves Britain amid tax hike fears</title>
+      <link>https://news.sky.com/story/former-goldman-chief-sherwood-leaves-britain-amid-tax-hike-fears-13602963</link>
+      <description>A former Goldman Sachs chief who sits on the board of Revolut, Europe's most valuable private technology company, has become the latest prominent financier to leave the country amid concerns about Britain’s rising tax burden.</description>
+      <pubDate>Sat, 24 Oct 2026 07:40:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/former-goldman-chief-sherwood-leaves-britain-amid-tax-hike-fears-13602963</guid>
+      <enclosure url="https://e3.365dm.com/24/04/1920x1080/skynews-treasury-spending_6530389.jpg?20240423071047" length="0" type="image/jpeg"/>
+      <media:description type="html">The Treasury building in London. Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/24/04/1920x1080/skynews-treasury-spending_6530389.jpg?20240423071047" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/24/04/1920x1080/skynews-treasury-spending_6530389.jpg?20240423071047"/>
+    </item>
+    <item>
+      <title>The £1,000 mistake people are making with new iPhone purchase</title>
+      <link>https://news.sky.com/story/the-1000-mistake-people-are-making-with-new-iphone-purchase-13602560</link>
+      <description>Apple's new iPhone Duo is the company's first foldable device - but at £1,999, it's not cheap.</description>
+      <pubDate>Fri, 23 Oct 2026 07:39:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/the-1000-mistake-people-are-making-with-new-iphone-purchase-13602560</guid>
+      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-iphone-duo-apple-iphone_7384320.jpg?20261023074732" length="0" type="image/jpeg"/>
+      <media:description type="html">The new foldable iPhone Duo. Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-iphone-duo-apple-iphone_7384320.jpg?20261023074732" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-iphone-duo-apple-iphone_7384320.jpg?20261023074732"/>
+    </item>
     <item>
       <title>Winter energy supply secure but possible 'tight days' for electricity - grid operators</title>
       <link>https://news.sky.com/story/winter-energy-supply-secure-despite-forecast-increase-in-peak-gas-and-possible-external-events-influence-grid-operators-13602351</link>
@@ -27,15 +49,48 @@
       <media:content type="image/jpeg" url="https://e3.365dm.com/24/09/1920x1080/skynews-pylon-scotland-uk-energy_6683164.jpg?20240912143105"/>
     </item>
     <item>
-      <title>The £1,000 mistake people are making with new iPhone purchase</title>
-      <link>https://news.sky.com/story/the-1000-mistake-people-are-making-with-new-iphone-purchase-13602560</link>
-      <description>Apple's new iPhone Duo is the company's first foldable device - but at £1,999, it's not cheap.</description>
-      <pubDate>Fri, 23 Oct 2026 07:39:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/the-1000-mistake-people-are-making-with-new-iphone-purchase-13602560</guid>
-      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-iphone-duo-apple-iphone_7384320.jpg?20261023074732" length="0" type="image/jpeg"/>
-      <media:description type="html">The new foldable iPhone Duo. Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-iphone-duo-apple-iphone_7384320.jpg?20261023074732" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-iphone-duo-apple-iphone_7384320.jpg?20261023074732"/>
+      <title>Volvo Cars in share price crash as 2,500 job cuts follow sales slump</title>
+      <link>https://news.sky.com/story/volvo-cars-in-share-price-crash-as-2500-job-cuts-follow-sales-slump-13602644</link>
+      <description>Volvo Cars has revealed a further 2,500 job cuts amid a slump in sales that has seen its share price crash to record lows.</description>
+      <pubDate>Fri, 23 Oct 2026 11:40:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/volvo-cars-in-share-price-crash-as-2500-job-cuts-follow-sales-slump-13602644</guid>
+      <enclosure url="https://e3.365dm.com/21/10/1920x1080/skynews-volvo-logo-car-vehicle_5535029.jpg?20211004162047" length="0" type="image/jpeg"/>
+      <media:description type="html">The Swedish brand, like many European rivals, has been struggling in the face of cheap Chinese competition. Pic: AP</media:description>
+      <media:thumbnail url="https://e3.365dm.com/21/10/1920x1080/skynews-volvo-logo-car-vehicle_5535029.jpg?20211004162047" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/21/10/1920x1080/skynews-volvo-logo-car-vehicle_5535029.jpg?20211004162047"/>
+    </item>
+    <item>
+      <title>Airbnb hosts can't ask guests to do 'chores' anymore in rule change</title>
+      <link>https://news.sky.com/story/airbnb-hosts-can-no-longer-ask-guests-to-do-dishes-or-strip-bed-under-new-rules-13602685</link>
+      <description>Airbnb hosts will no longer be able to ask guests to do the dishes or strip the beds under new rules announced by the platform.</description>
+      <pubDate>Fri, 23 Oct 2026 14:05:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/airbnb-hosts-can-no-longer-ask-guests-to-do-dishes-or-strip-bed-under-new-rules-13602685</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-airbnb-housing_7346826.jpg?20260910085626" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-airbnb-housing_7346826.jpg?20260910085626" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-airbnb-housing_7346826.jpg?20260910085626"/>
+    </item>
+    <item>
+      <title>European football giants to meet in London for NBA basketball talks</title>
+      <link>https://news.sky.com/story/european-football-giants-to-meet-in-london-for-nba-basketball-talks-13602607</link>
+      <description>A cluster of European football giants will convene in London next week for talks as they try to finalise a string of deals for European basketball teams worth billions of dollars.</description>
+      <pubDate>Fri, 23 Oct 2026 10:18:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/european-football-giants-to-meet-in-london-for-nba-basketball-talks-13602607</guid>
+      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-lucas-paris_7384441.jpg?20261023123659" length="0" type="image/jpeg"/>
+      <media:description type="html">PSG's Lucas Hernandez celebrates scoring against Barcelona in the UEFA Champions League this week. Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-lucas-paris_7384441.jpg?20261023123659" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-lucas-paris_7384441.jpg?20261023123659"/>
+    </item>
+    <item>
+      <title>You're probably answering this insurance question incorrectly - and it's costing you | Money newsletter</title>
+      <link>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</link>
+      <description>More than 210,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
+      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
+      <guid>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</guid>
+      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-insurance-laptop-money_7384508.jpg?20261023114638" length="0" type="image/jpeg"/>
+      <media:description type="html">A couple fill in their personal details on a laptop. Pic: iStock</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-insurance-laptop-money_7384508.jpg?20261023114638" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-insurance-laptop-money_7384508.jpg?20261023114638"/>
     </item>
     <item>
       <title>Barclays cutting 5,000 jobs in AI-led efficiency drive</title>
@@ -69,61 +124,6 @@
       <media:description type="html">Crystal Palace players celebrate their side's first goal of the game. Pic: PA</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-crystal-palace-football_7241951.jpg?20260508000816" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-crystal-palace-football_7241951.jpg?20260508000816"/>
-    </item>
-    <item>
-      <title>Oxford quantum computing spinout QuantrolOx lands £10m funding boost</title>
-      <link>https://news.sky.com/story/oxford-quantum-computing-spinout-quantrolox-lands-10m-funding-boost-13602169</link>
-      <description>A quantum computing technology company which was spun out of Oxford University and won backing from the Arm Holdings founder Hermann Hauser has landed £10m in a new fundraising.</description>
-      <pubDate>Thu, 22 Oct 2026 09:26:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/oxford-quantum-computing-spinout-quantrolox-lands-10m-funding-boost-13602169</guid>
-      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-quantrolox-kleinman_7383527.png?20261022101752" length="0" type="image/png"/>
-      <media:description type="html">Pic: QuantrolOx</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-quantrolox-kleinman_7383527.png?20261022101752" width="1920" height="1080"/>
-      <media:content type="image/png" url="https://e3.365dm.com/26/10/1920x1080/skynews-quantrolox-kleinman_7383527.png?20261022101752"/>
-    </item>
-    <item>
-      <title>Football regulator to address EFL clubs as quest for deal goes on</title>
-      <link>https://news.sky.com/story/football-regulator-to-address-efl-clubs-as-quest-for-deal-goes-on-13602023</link>
-      <description>The head of English football's watchdog will address the 72 clubs below the top flight on Thursday as the quest for a financial redistribution deal with the Premier League continues.</description>
-      <pubDate>Wed, 21 Oct 2026 20:01:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/football-regulator-to-address-efl-clubs-as-quest-for-deal-goes-on-13602023</guid>
-      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-portsmouth-terry-devlin_7383144.jpg?20261021202855" length="0" type="image/jpeg"/>
-      <media:description type="html">Portsmouth's Terry Devlin celebrates scoring against Wolves. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-portsmouth-terry-devlin_7383144.jpg?20261021202855" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-portsmouth-terry-devlin_7383144.jpg?20261021202855"/>
-    </item>
-    <item>
-      <title>Online gambling group BetGoodwin eyes punt on £80m London float</title>
-      <link>https://news.sky.com/story/online-gambling-group-betgoodwin-eyes-punt-on-80m-london-float-13601905</link>
-      <description>The father-and-son team who control BetGoodwin, an online sports betting and casino operator, have begun plotting a London stock market listing even as their peers intensify warnings over tax rises in next week's budget.</description>
-      <pubDate>Wed, 21 Oct 2026 13:36:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/online-gambling-group-betgoodwin-eyes-punt-on-80m-london-float-13601905</guid>
-      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-horseracing-jockey_7382864.jpg?20261021134728" length="0" type="image/jpeg"/>
-      <media:description type="html">Horseracing. Pic: iStock, ppart</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-horseracing-jockey_7382864.jpg?20261021134728" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-horseracing-jockey_7382864.jpg?20261021134728"/>
-    </item>
-    <item>
-      <title>UK unemployment rate falls to lowest level since July last year</title>
-      <link>https://news.sky.com/story/surprise-dip-in-jobless-rate-supports-interest-rate-hike-13601180</link>
-      <description>The UK's unemployment rate has fallen to 4.7%, in a set of official figures that will support the case for a Bank of England interest rate hike next month.</description>
-      <pubDate>Tue, 20 Oct 2026 05:31:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/surprise-dip-in-jobless-rate-supports-interest-rate-hike-13601180</guid>
-      <enclosure url="https://e3.365dm.com/26/02/1920x1080/skynews-job-centre-unemployment_7168407.jpg?20260218161905" length="0" type="image/jpeg"/>
-      <media:description type="html">File pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-job-centre-unemployment_7168407.jpg?20260218161905" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-job-centre-unemployment_7168407.jpg?20260218161905"/>
-    </item>
-    <item>
-      <title>Thames Water creditors secure Labour's Hutton to drive rescue deal</title>
-      <link>https://news.sky.com/story/thames-water-creditors-secure-labours-hutton-to-drive-rescue-deal-13601230</link>
-      <description>The consortium of Thames Water creditors looking to rescue Britain's largest supplier of its kind has appointed a former senior Labour minister in a bid to help get a deal past government opposition.</description>
-      <pubDate>Tue, 20 Oct 2026 08:12:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/thames-water-creditors-secure-labours-hutton-to-drive-rescue-deal-13601230</guid>
-      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-chessington-thames-water_7318261.jpg?20260810141130" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/08/1920x1080/skynews-chessington-thames-water_7318261.jpg?20260810141130" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/08/1920x1080/skynews-chessington-thames-water_7318261.jpg?20260810141130"/>
     </item>
   </channel>
 </rss>
