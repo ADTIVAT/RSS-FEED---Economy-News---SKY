@@ -16,6 +16,17 @@
     <category>Sky News</category>
     <ttl>1</ttl>
     <item>
+      <title>PM open to 'honest discussion' about return to EU free movement</title>
+      <link>https://news.sky.com/story/pm-open-to-honest-discussion-about-return-to-free-movement-with-eu-13603444</link>
+      <description>Andy Burnham says that an "honest discussion" is needed about readopting the EU's free movement rules.</description>
+      <pubDate>Sun, 25 Oct 2026 04:47:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/pm-open-to-honest-discussion-about-return-to-free-movement-with-eu-13603444</guid>
+      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-andy-burnham-summit_7384448.jpg?20261023103822" length="0" type="image/jpeg"/>
+      <media:description type="html">Andy Burnham. Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-andy-burnham-summit_7384448.jpg?20261023103822" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-andy-burnham-summit_7384448.jpg?20261023103822"/>
+    </item>
+    <item>
       <title>Struggling London-listed media group Future rebuffs interest in The Week</title>
       <link>https://news.sky.com/story/struggling-london-listed-media-group-future-rebuffs-interest-in-the-week-13603560</link>
       <description>The struggling London-listed company which owns Go Compare, the price comparison platform, has rebuffed indicative bid interest in The Week, the current affairs magazine.</description>
@@ -113,17 +124,6 @@
       <media:description type="html">Pic: iStock</media:description>
       <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-barclays-money-current-account_7079288.jpg?20251111151136" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-barclays-money-current-account_7079288.jpg?20251111151136"/>
-    </item>
-    <item>
-      <title>Post Office to launch first TV ads since Horizon scandal</title>
-      <link>https://news.sky.com/story/post-office-to-launch-first-tv-ads-since-horizon-scandal-13602318</link>
-      <description>The Post Office is to spend millions of pounds on its first television ads since the Horizon IT scandal, as it seeks to raise awareness of its range of bankjng services during a critical period for the state-owned company.</description>
-      <pubDate>Thu, 22 Oct 2026 15:23:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/post-office-to-launch-first-tv-ads-since-horizon-scandal-13602318</guid>
-      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-post-office-horizon_7259032.jpg?20260526162219" length="0" type="image/jpeg"/>
-      <media:description type="html">A Post Office sign. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-post-office-horizon_7259032.jpg?20260526162219" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-post-office-horizon_7259032.jpg?20260526162219"/>
     </item>
   </channel>
 </rss>
