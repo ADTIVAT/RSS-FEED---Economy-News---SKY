@@ -12,9 +12,42 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 25 Oct 2026 13:55:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 15:52:00 +0000</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Anthropic reveals plans for blockbuster IPO</title>
+      <link>https://news.sky.com/story/anthropic-reveals-loss-as-it-plans-to-sell-public-shares-for-first-time-13604009</link>
+      <description>Artificial intelligence giant Anthropic, the company behind the popular Claude chatbot, has filed papers to sell shares to the public for the first time.</description>
+      <pubDate>Mon, 26 Oct 2026 13:09:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/anthropic-reveals-loss-as-it-plans-to-sell-public-shares-for-first-time-13604009</guid>
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-claude-ai_7347723.jpg?20260911092015" length="0" type="image/jpeg"/>
+      <media:description type="html">The Claude app on a phone. Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-claude-ai_7347723.jpg?20260911092015" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-claude-ai_7347723.jpg?20260911092015"/>
+    </item>
+    <item>
+      <title>Microsoft offers 'buyouts' to 60,000 staff including UK workers</title>
+      <link>https://news.sky.com/story/microsoft-offers-buyouts-to-60000-staff-including-uk-workers-13604076</link>
+      <description>Microsoft is offering voluntary severance packages to 60,000 of its staff - more than a quarter of its workforce - including some in the UK. </description>
+      <pubDate>Mon, 26 Oct 2026 15:52:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/microsoft-offers-buyouts-to-60000-staff-including-uk-workers-13604076</guid>
+      <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-microsoft-oxford-circus_7248660.jpg?20260514153445" length="0" type="image/jpeg"/>
+      <media:description type="html">Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/05/1920x1080/skynews-microsoft-oxford-circus_7248660.jpg?20260514153445" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/05/1920x1080/skynews-microsoft-oxford-circus_7248660.jpg?20260514153445"/>
+    </item>
+    <item>
+      <title>Curzon Cinemas-owner Fortress screen-tests potential bidders</title>
+      <link>https://news.sky.com/story/curzon-cinemas-owner-fortress-screen-tests-potential-bidders-13604014</link>
+      <description>The owner of Curzon Cinemas is exploring a sale of the business following a number of unsolicited bid approaches.</description>
+      <pubDate>Mon, 26 Oct 2026 13:19:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/curzon-cinemas-owner-fortress-screen-tests-potential-bidders-13604014</guid>
+      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-curzon-cinema-hoxton_7387879.jpg?20261026132404" length="0" type="image/jpeg"/>
+      <media:description type="html">Curzon Hoxton Cinema. Pic: iStock, Sebastien Mercier</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-curzon-cinema-hoxton_7387879.jpg?20261026132404" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-curzon-cinema-hoxton_7387879.jpg?20261026132404"/>
+    </item>
     <item>
       <title>PM open to 'honest discussion' about return to EU free movement</title>
       <link>https://news.sky.com/story/pm-open-to-honest-discussion-about-return-to-free-movement-with-eu-13603444</link>
@@ -25,6 +58,17 @@
       <media:description type="html">Andy Burnham. Pic: Reuters</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-andy-burnham-summit_7384448.jpg?20261023103822" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-andy-burnham-summit_7384448.jpg?20261023103822"/>
+    </item>
+    <item>
+      <title>Lions sponsor Howden lines up ex-Goldman partner for board amid fundraising</title>
+      <link>https://news.sky.com/story/lions-sponsor-howden-lines-up-ex-goldman-partner-for-board-amid-fundraising-13604010</link>
+      <description>The insurance broker Howden Group is lining up a former Goldman Sachs partner to strengthen boardroom governance amid talks with investors about a multibillion-pound fundraising.</description>
+      <pubDate>Mon, 26 Oct 2026 13:15:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/lions-sponsor-howden-lines-up-ex-goldman-partner-for-board-amid-fundraising-13604010</guid>
+      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-british-and-irish-lions_7387970.jpg?20261026143740" length="0" type="image/jpeg"/>
+      <media:description type="html">British and Irish Lions' Bundee Aki celebrates scoring a try with teammates against Argentina in 2025. Pic: Reuters</media:description>
+      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-british-and-irish-lions_7387970.jpg?20261026143740" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-british-and-irish-lions_7387970.jpg?20261026143740"/>
     </item>
     <item>
       <title>Struggling London-listed media group Future rebuffs interest in The Week</title>
@@ -80,50 +124,6 @@
       <media:description type="html">The Swedish brand, like many European rivals, has been struggling in the face of cheap Chinese competition. Pic: AP</media:description>
       <media:thumbnail url="https://e3.365dm.com/21/10/1920x1080/skynews-volvo-logo-car-vehicle_5535029.jpg?20211004162047" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/21/10/1920x1080/skynews-volvo-logo-car-vehicle_5535029.jpg?20211004162047"/>
-    </item>
-    <item>
-      <title>Airbnb hosts can't ask guests to do 'chores' anymore in rule change</title>
-      <link>https://news.sky.com/story/airbnb-hosts-can-no-longer-ask-guests-to-do-dishes-or-strip-bed-under-new-rules-13602685</link>
-      <description>Airbnb hosts will no longer be able to ask guests to do the dishes or strip the beds under new rules announced by the platform.</description>
-      <pubDate>Fri, 23 Oct 2026 14:05:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/airbnb-hosts-can-no-longer-ask-guests-to-do-dishes-or-strip-bed-under-new-rules-13602685</guid>
-      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-airbnb-housing_7346826.jpg?20260910085626" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/09/1920x1080/skynews-airbnb-housing_7346826.jpg?20260910085626" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/09/1920x1080/skynews-airbnb-housing_7346826.jpg?20260910085626"/>
-    </item>
-    <item>
-      <title>European football giants to meet in London for NBA basketball talks</title>
-      <link>https://news.sky.com/story/european-football-giants-to-meet-in-london-for-nba-basketball-talks-13602607</link>
-      <description>A cluster of European football giants will convene in London next week for talks as they try to finalise a string of deals for European basketball teams worth billions of dollars.</description>
-      <pubDate>Fri, 23 Oct 2026 10:18:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/european-football-giants-to-meet-in-london-for-nba-basketball-talks-13602607</guid>
-      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-lucas-paris_7384441.jpg?20261023123659" length="0" type="image/jpeg"/>
-      <media:description type="html">PSG's Lucas Hernandez celebrates scoring against Barcelona in the UEFA Champions League this week. Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-lucas-paris_7384441.jpg?20261023123659" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-lucas-paris_7384441.jpg?20261023123659"/>
-    </item>
-    <item>
-      <title>You're probably answering this insurance question incorrectly - and it's costing you | Money newsletter</title>
-      <link>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</link>
-      <description>More than 210,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every week.</description>
-      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/money-newsletter-sky-news-personal-finance-13367142</guid>
-      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-insurance-laptop-money_7384508.jpg?20261023114638" length="0" type="image/jpeg"/>
-      <media:description type="html">A couple fill in their personal details on a laptop. Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-insurance-laptop-money_7384508.jpg?20261023114638" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-insurance-laptop-money_7384508.jpg?20261023114638"/>
-    </item>
-    <item>
-      <title>Barclays cutting 5,000 jobs in AI-led efficiency drive</title>
-      <link>https://news.sky.com/story/barclays-cutting-5000-jobs-in-ai-led-efficiency-drive-13602151</link>
-      <description>Barclays has revealed it is cutting 5,000 jobs - 5% of its workforce - as part of efforts to save costs and drive efficiency through investment in artificial intelligence (AI).</description>
-      <pubDate>Thu, 22 Oct 2026 08:32:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/barclays-cutting-5000-jobs-in-ai-led-efficiency-drive-13602151</guid>
-      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-barclays-money-current-account_7079288.jpg?20251111151136" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-barclays-money-current-account_7079288.jpg?20251111151136" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-barclays-money-current-account_7079288.jpg?20251111151136"/>
     </item>
   </channel>
 </rss>
