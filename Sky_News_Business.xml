@@ -12,9 +12,53 @@
     <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
     <language>en-GB</language>
     <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 27 Oct 2026 11:28:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 14:18:00 +0000</lastBuildDate>
     <category>Sky News</category>
     <ttl>1</ttl>
+    <item>
+      <title>Main budget announcements at a glance</title>
+      <link>https://news.sky.com/story/main-budget-announcements-at-a-glance-13604706</link>
+      <description>Chancellor John Healey has unveiled the long-anticipated budget, the first for Prime Minister Andy Burnham.</description>
+      <pubDate>Wed, 28 Oct 2026 09:32:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/main-budget-announcements-at-a-glance-13604706</guid>
+      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-budget-teaser-image_7389446.png?20261028094634" length="0" type="image/png"/>
+      <media:description type="html"/>
+      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-budget-teaser-image_7389446.png?20261028094634" width="1920" height="1080"/>
+      <media:content type="image/png" url="https://e3.365dm.com/26/10/1920x1080/skynews-budget-teaser-image_7389446.png?20261028094634"/>
+    </item>
+    <item>
+      <title>JPMorgan Chase faces £100m-plus tax bill from Healey raid</title>
+      <link>https://news.sky.com/story/jpmorgan-chase-faces-100m-plus-tax-bill-from-healey-raid-13604869</link>
+      <description>JPMorgan Chase will pay additional taxes of between £100m and £150m as a result of the corporation tax surcharge hike announced by John Healey in his budget on Wednesday - a bill which could renew doubts about the construction of its new London headquarters.</description>
+      <pubDate>Wed, 28 Oct 2026 14:18:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/jpmorgan-chase-faces-100m-plus-tax-bill-from-healey-raid-13604869</guid>
+      <enclosure url="https://e3.365dm.com/25/11/1920x1080/skynews-jpmorgan-tower-london_7094189.jpg?20251128074326" length="0" type="image/jpeg"/>
+      <media:description type="html">An artist's impression of plans for JPMorgan Chase tower in London. Pic: JPM</media:description>
+      <media:thumbnail url="https://e3.365dm.com/25/11/1920x1080/skynews-jpmorgan-tower-london_7094189.jpg?20251128074326" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/25/11/1920x1080/skynews-jpmorgan-tower-london_7094189.jpg?20251128074326"/>
+    </item>
+    <item>
+      <title>Ofwat hands EY £15m contract to monitor troubled Thames Water</title>
+      <link>https://news.sky.com/story/ofwat-hands-ey-15m-contract-to-monitor-troubled-thames-water-13604859</link>
+      <description>EY, the big four accountancy firm, has landed a £15m contract to supervise Thames Water, the troubled water utility which stands on the brink of collapse.</description>
+      <pubDate>Wed, 28 Oct 2026 13:57:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/ofwat-hands-ey-15m-contract-to-monitor-troubled-thames-water-13604859</guid>
+      <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-thames-water_7301860.jpg?20260719204052" length="0" type="image/jpeg"/>
+      <media:description type="html"/>
+      <media:thumbnail url="https://e3.365dm.com/26/07/1920x1080/skynews-thames-water_7301860.jpg?20260719204052" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/26/07/1920x1080/skynews-thames-water_7301860.jpg?20260719204052"/>
+    </item>
+    <item>
+      <title>Ex-City minister raises millions for insurance AI start-up i23</title>
+      <link>https://news.sky.com/story/ex-city-minister-raises-millions-for-ai-insurance-start-up-i23-13604753</link>
+      <description>A former City minister has raised millions of pounds in funding for an AI-driven start-up which will target the vast global insurance broking market.</description>
+      <pubDate>Wed, 28 Oct 2026 11:01:00 +0000</pubDate>
+      <guid>https://news.sky.com/story/ex-city-minister-raises-millions-for-ai-insurance-start-up-i23-13604753</guid>
+      <enclosure url="https://e3.365dm.com/24/01/1920x1080/skynews-bim-afolami-mp-conservative_6432111.jpg?20240124185914" length="0" type="image/jpeg"/>
+      <media:description type="html">Bim Afolami. Pic: PA</media:description>
+      <media:thumbnail url="https://e3.365dm.com/24/01/1920x1080/skynews-bim-afolami-mp-conservative_6432111.jpg?20240124185914" width="1920" height="1080"/>
+      <media:content type="image/jpeg" url="https://e3.365dm.com/24/01/1920x1080/skynews-bim-afolami-mp-conservative_6432111.jpg?20240124185914"/>
+    </item>
     <item>
       <title>Poundland close to collapse as new directors head for exit</title>
       <link>https://news.sky.com/story/poundland-close-to-collapse-as-new-directors-head-for-exit-13604265</link>
@@ -80,50 +124,6 @@
       <media:description type="html">Curzon Hoxton Cinema. Pic: iStock, Sebastien Mercier</media:description>
       <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-curzon-cinema-hoxton_7387879.jpg?20261026132404" width="1920" height="1080"/>
       <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-curzon-cinema-hoxton_7387879.jpg?20261026132404"/>
-    </item>
-    <item>
-      <title>PM open to 'honest discussion' about return to EU free movement</title>
-      <link>https://news.sky.com/story/pm-open-to-honest-discussion-about-return-to-free-movement-with-eu-13603444</link>
-      <description>Andy Burnham says that an "honest discussion" is needed about readopting the EU's free movement rules.</description>
-      <pubDate>Sun, 25 Oct 2026 04:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/pm-open-to-honest-discussion-about-return-to-free-movement-with-eu-13603444</guid>
-      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-andy-burnham-summit_7384448.jpg?20261023103822" length="0" type="image/jpeg"/>
-      <media:description type="html">Andy Burnham. Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-andy-burnham-summit_7384448.jpg?20261023103822" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-andy-burnham-summit_7384448.jpg?20261023103822"/>
-    </item>
-    <item>
-      <title>Lions sponsor Howden lines up ex-Goldman partner for board amid fundraising</title>
-      <link>https://news.sky.com/story/lions-sponsor-howden-lines-up-ex-goldman-partner-for-board-amid-fundraising-13604010</link>
-      <description>The insurance broker Howden Group is lining up a former Goldman Sachs partner to strengthen boardroom governance amid talks with investors about a multibillion-pound fundraising.</description>
-      <pubDate>Mon, 26 Oct 2026 13:15:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/lions-sponsor-howden-lines-up-ex-goldman-partner-for-board-amid-fundraising-13604010</guid>
-      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-british-and-irish-lions_7387970.jpg?20261026143740" length="0" type="image/jpeg"/>
-      <media:description type="html">British and Irish Lions' Bundee Aki celebrates scoring a try with teammates against Argentina in 2025. Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-british-and-irish-lions_7387970.jpg?20261026143740" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-british-and-irish-lions_7387970.jpg?20261026143740"/>
-    </item>
-    <item>
-      <title>Struggling London-listed media group Future rebuffs interest in The Week</title>
-      <link>https://news.sky.com/story/struggling-london-listed-media-group-future-rebuffs-interest-in-the-week-13603560</link>
-      <description>The struggling London-listed company which owns Go Compare, the price comparison platform, has rebuffed indicative bid interest in The Week, the current affairs magazine.</description>
-      <pubDate>Sun, 25 Oct 2026 13:55:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/struggling-london-listed-media-group-future-rebuffs-interest-in-the-week-13603560</guid>
-      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-the-week-magazine-website_7386631.jpg?20261025145118" length="0" type="image/jpeg"/>
-      <media:description type="html">The website of The Week magazine</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/10/1920x1080/skynews-the-week-magazine-website_7386631.jpg?20261025145118" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/10/1920x1080/skynews-the-week-magazine-website_7386631.jpg?20261025145118"/>
-    </item>
-    <item>
-      <title>Former Goldman Sachs chief leaves Britain amid tax hike fears</title>
-      <link>https://news.sky.com/story/former-goldman-chief-sherwood-leaves-britain-amid-tax-hike-fears-13602963</link>
-      <description>A former Goldman Sachs chief who sits on the board of Revolut, Europe's most valuable private technology company, has become the latest prominent financier to leave the country amid concerns about Britain’s rising tax burden.</description>
-      <pubDate>Sat, 24 Oct 2026 07:40:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/former-goldman-chief-sherwood-leaves-britain-amid-tax-hike-fears-13602963</guid>
-      <enclosure url="https://e3.365dm.com/24/04/1920x1080/skynews-treasury-spending_6530389.jpg?20240423071047" length="0" type="image/jpeg"/>
-      <media:description type="html">The Treasury building in London. Pic: Reuters</media:description>
-      <media:thumbnail url="https://e3.365dm.com/24/04/1920x1080/skynews-treasury-spending_6530389.jpg?20240423071047" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/24/04/1920x1080/skynews-treasury-spending_6530389.jpg?20240423071047"/>
     </item>
   </channel>
 </rss>
